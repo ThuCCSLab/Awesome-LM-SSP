@@ -78,7 +78,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 - [2020/12] Extracting Training Data from Large Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2012.07805) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/Security'21-f1b800)
 
 ### C2. Membership Inference
-- [2023/09] DP-Forward: Fine-tuning and Inference on Language Models with Differential Privacy in Forward Pass [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/pdf/2309.06746.pdf) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/CCS'23-f1b800)
+- [2023/09] DP-Forward: Fine-tuning and Inference on Language Models with Differential Privacy in Forward Pass [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2309.06746) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 
 
 ### C3. Property Inference

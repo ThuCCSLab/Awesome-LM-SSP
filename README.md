@@ -70,7 +70,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 - [2022/05] Diffusion Models for Adversarial Purification [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/pdf/2205.07460.pdf) ![img](https://img.shields.io/badge/diffusion-a99cf4) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/ICML'22-f1b800) 
 
 ### B2. Code Generation
-- [2023/02] Large Language Models for Code: Security Hardening and Adversarial Testing [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2302.05319) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23-f1b800)
+- [2023/02] Large Language Models for Code: Security Hardening and Adversarial Testing [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2302.05319) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23_(Distinguished_paper)-f1b800)
 - [2022/11] Do Users Write More Insecure Code with AI Assistants? [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2211.03622) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 
 ### B3. Backdoor/Poisoning
@@ -92,7 +92,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 - [2023/10] Beyond Memorization: Violating Privacy Via Inference with Large Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.07298) ![img](https://img.shields.io/badge/llm-c7688b)
 
 ### C4. Model Extraction
-- [2023/03] Stealing the Decoding Algorithms of Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2303.04729) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23-f1b800)
+- [2023/03] Stealing the Decoding Algorithms of Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2303.04729) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23_(Distinguished_paper)-f1b800)
 
 ### C5. Unlearning
 - [2023/10] Unlearn What You Want to Forget: Efficient Unlearning for LLMs [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.20150) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800) 

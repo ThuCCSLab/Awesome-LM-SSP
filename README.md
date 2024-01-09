@@ -41,6 +41,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 - [2023/07] MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2307.08715) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/NDSS'24-f1b800)
 - [2023/07] Jailbroken: How Does LLM Safety Training Fail? [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2307.02483) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/07] Universal and Transferable Adversarial Attacks on Aligned Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2307.15043) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/llm-attacks/llm-attacks) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2023/06] DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2306.11698) [![img](https://img.shields.io/badge/code-8B8989)](https://decodingtrust.github.io/) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/NeurIPS'23%20(Outstanding Paper)-f1b800)
 
 ### A2. Safety Alignment
 - [2024/01] A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/pdf/2401.01967.pdf) 

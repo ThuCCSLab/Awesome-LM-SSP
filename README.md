@@ -15,6 +15,9 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 ![img](https://img.shields.io/badge/vlm-589cf4)
 ![img](https://img.shields.io/badge/diffusion-a99cf4)
 
+# News
+- 🔥🔥🔥 [2024-01-09] Add 8 papers from [CCS'23](https://www.sigsac.org/ccs/CCS2023/program.html)
+
 # Books
 
 - [2024/01] NIST Trustworthy and Responsible AI Reports [![img](https://img.shields.io/badge/book-18a5ab)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) 
@@ -94,4 +97,4 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 
 ### C6. Copyright
 - [2024/01] Generative AI Has a Visual Plagiarism Problem [![img](https://img.shields.io/badge/blog-18a5ab)](https://spectrum.ieee.org/midjourney-copyright)
-- [2023/11] Protecting Intellectual Property of Large Language Model-Based Code Generation APIs via Watermarks [![img](https://img.shields.io/badge/paper-18a5ab)](https://dl.acm.org/doi/abs/10.1145/3576915.3623120) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23-f1b800) ![img](https://img.shields.io/badge/defense-87b800)
+- [2023/11] Protecting Intellectual Property of Large Language Model-Based Code Generation APIs via Watermarks [![img](https://img.shields.io/badge/paper-18a5ab)](https://dl.acm.org/doi/abs/10.1145/3576915.3623120) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800)  ![img](https://img.shields.io/badge/CCS'23-f1b800)

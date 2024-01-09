@@ -9,18 +9,17 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 
 - Tags:
 ![img](https://img.shields.io/badge/paper-f1b800)
-![img](https://img.shields.io/badge/code-f1b800)
 ![img](https://img.shields.io/badge/blog-18a5ab)
-![img](https://img.shields.io/badge/link-f1b800)
+![img](https://img.shields.io/badge/book-18a5ab)
+![img](https://img.shields.io/badge/code-f1b800)
 ![img](https://img.shields.io/badge/defense-87b800)
-![img](https://img.shields.io/badge/conference-f1b800)
 ![img](https://img.shields.io/badge/llm-c7688b)
 ![img](https://img.shields.io/badge/vlm-589cf4)
 ![img](https://img.shields.io/badge/diff-a99cf4)
 
 # Books
 
-- [2024/01] NIST Trustworthy and Responsible AI Reports [![img](https://img.shields.io/badge/link-f1b800)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) 
+- [2024/01] NIST Trustworthy and Responsible AI Reports [![img](https://img.shields.io/badge/book-18a5ab)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) 
 
 # Papers
 
@@ -35,7 +34,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 
 ### A2. Safety Alignment
 - [2023/12] Exploiting Novel GPT-4 APIs [![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2312.14302) ![img](https://img.shields.io/badge/llm-c7688b) 
-- [2023/10] Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To! [![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2310.03693)][![img](https://img.shields.io/badge/code-f1b800)](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety) ![img](https://img.shields.io/badge/llm-c7688b) 
+- [2023/10] Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To! [![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2310.03693)[![img](https://img.shields.io/badge/code-f1b800)](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/10] Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models [![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2310.02949v1) [![img](https://img.shields.io/badge/code-f1b800)](https://github.com/BeyonderXX/ShadowAlignment) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/10] UltraFeedback: Boosting Language Models with High-quality Feedback [![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2310.01377) [![img](https://img.shields.io/badge/code-f1b800)](https://github.com/OpenBMB/UltraFeedback) ![img](https://img.shields.io/badge/llm-c7688b) 
 

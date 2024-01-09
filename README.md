@@ -31,6 +31,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 - [2023/07] Jailbroken: How Does LLM Safety Training Fail? [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2307.02483) ![img](https://img.shields.io/badge/llm-c7688b)
 
 ### A2. Safety Alignment
+- [2024/01] A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/pdf/2401.01967.pdf) 
 - [2023/12] Exploiting Novel GPT-4 APIs [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.14302) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/10] Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To! [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.03693) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/10] Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.02949v1) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/BeyonderXX/ShadowAlignment) ![img](https://img.shields.io/badge/llm-c7688b) 

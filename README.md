@@ -57,7 +57,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 
 
 ### B3. Backdoor/Poisoning
-- [2022/11] LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors [![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/pdf/2308.13904.pdf) [![img](https://img.shields.io/badge/code-f1b800)](https://github.com/ThuCCSLab/lm-ssp) ![img](https://img.shields.io/badge/NDSS'24-f1b800)
+- [2022/11] LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors [![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/pdf/2308.13904.pdf) [![img](https://img.shields.io/badge/code-f1b800)](https://github.com/ThuCCSLab/lm-ssp) ![img](https://img.shields.io/badge/defense-87b800)  ![img](https://img.shields.io/badge/NDSS'24-f1b800)
 
 
 ### B4. Model Stealing

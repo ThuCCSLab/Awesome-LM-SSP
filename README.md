@@ -23,7 +23,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 
 ## A. Safety
 ### A1. Jailbreak
-- [2024/01] MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2401.02906) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/pipilurj/MLLM-protector) ![img](https://img.shields.io/badge/vlm-589cf4)  ![img](https://img.shields.io/badge/defense-87b800) 
+- [2024/01] MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2401.02906) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/pipilurj/MLLM-protector) ![img](https://img.shields.io/badge/vlm-589cf4) ![img](https://img.shields.io/badge/defense-87b800) 
 - [2023/12] Adversarial Attacks on GPT-4 via Simple Random Search [![img](https://img.shields.io/badge/paper-18a5ab)](https://www.andriushchenko.me/gpt4adv.pdf) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/11] FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.05608) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/ThuCCSLab/FigStep) ![img](https://img.shields.io/badge/vlm-589cf4) 
 - [2023/10] Adversarial Attacks on LLMs [![img](https://img.shields.io/badge/blog-18a5ab)](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/) ![img](https://img.shields.io/badge/llm-c7688b) 
@@ -67,7 +67,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 - [2022/11] Do Users Write More Insecure Code with AI Assistants? [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2211.03622) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 
 ### B3. Backdoor/Poisoning
-- [2022/11] LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/pdf/2308.13904.pdf) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/meng-wenlong/LMSanitator) ![img](https://img.shields.io/badge/defense-87b800)  ![img](https://img.shields.io/badge/NDSS'24-f1b800)
+- [2022/11] LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/pdf/2308.13904.pdf) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/meng-wenlong/LMSanitator) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/NDSS'24-f1b800)
 
 ## C. Privacy
 ### C1. Data Reconstruction

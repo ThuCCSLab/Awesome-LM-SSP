@@ -67,8 +67,9 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 ### B1. Adversarial Attacks
 - [2024/01] INSTRUCTTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/pdf/2312.01886.pdf) ![img](https://img.shields.io/badge/vlm-589cf4) 
 - [2023/08] Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2308.07847) ![img](https://img.shields.io/badge/llm-c7688b) 
-- [2023/06] PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2306.04528) ![img](https://img.shields.io/badge/llm-c7688b) 
-- [2022/05] Diffusion Models for Adversarial Purification [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/pdf/2205.07460.pdf) ![img](https://img.shields.io/badge/diffusion-a99cf4) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/ICML'22-f1b800) 
+- [2023/06] PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2306.04528) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2023/06] Are aligned neural networks adversarially aligned? [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2306.15447) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800) 
+- [2022/05] Diffusion Models for Adversarial Purification [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2205.07460) ![img](https://img.shields.io/badge/diffusion-a99cf4) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/ICML'22-f1b800) 
 
 ### B2. Code Generation
 - [2023/02] Large Language Models for Code: Security Hardening and Adversarial Testing [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2302.05319) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23_(Distinguished_paper)-f1b800)

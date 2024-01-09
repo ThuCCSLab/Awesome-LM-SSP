@@ -84,5 +84,5 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 - [2023/03] Erasing Concepts from Diffusion Models [![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2303.07345) ![img](https://img.shields.io/badge/diff-a99cf4) ![img](https://img.shields.io/badge/defense-87b800) 
 
 ### C6. Copyright
-- [2024/01] Generative AI Has a Visual Plagiarism Problem [link](https://spectrum.ieee.org/midjourney-copyright) ![img](https://img.shields.io/badge/blog-18a5ab)
+- [2024/01] Generative AI Has a Visual Plagiarism Problem [![img](https://img.shields.io/badge/blog-18a5ab)](https://spectrum.ieee.org/midjourney-copyright)
 - [2023/11] Protecting Intellectual Property of Large Language Model-Based Code Generation APIs via Watermarks [![img](https://img.shields.io/badge/paper-f1b800)](https://dl.acm.org/doi/abs/10.1145/3576915.3623120) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23-f1b800) ![img](https://img.shields.io/badge/defense-87b800)

@@ -3,7 +3,7 @@
 The resources related to the safety, security, and privacy (SSP) of large models (LM).
 Here LM contains large language models (LLMs), large vision-language models (LVMs), diffusion models, and so on.
 
-- This repo is in progress 🔥 (currently manually collected)
+- This repo is in progress 🌱 (currently manually collected)
 
 - Welcome to recommend resources to us (via Issue/Pull request/[Email](thu_crypto_ai@163.com)/...)!
 
@@ -28,7 +28,8 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 ## A. Safety
 ### A1. Jailbreak
 - [2024/01] MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2401.02906) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/pipilurj/MLLM-protector) ![img](https://img.shields.io/badge/vlm-589cf4) ![img](https://img.shields.io/badge/defense-87b800) 
-- [2023/12] Adversarial Attacks on GPT-4 via Simple Random Search [![img](https://img.shields.io/badge/paper-18a5ab)](https://www.andriushchenko.me/gpt4adv.pdf) ![img](https://img.shields.io/badge/llm-c7688b) 
+- [2023/12] Adversarial Attacks on GPT-4 via Simple Random Search [![img](https://img.shields.io/badge/paper-18a5ab)](https://www.andriushchenko.me/gpt4adv.pdf) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2023/12] Make Them Spill the Beans! Coercive Knowledge Extraction from (Production) LLMs [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.04782) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/11] FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.05608) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/ThuCCSLab/FigStep) ![img](https://img.shields.io/badge/vlm-589cf4) 
 - [2023/10] Adversarial Attacks on LLMs [![img](https://img.shields.io/badge/blog-18a5ab)](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/10] AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.04451) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/SheltonLiu-N/AutoDAN) ![img](https://img.shields.io/badge/llm-c7688b) 
@@ -80,6 +81,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 
 ## C. Privacy
 ### C1. Data Reconstruction
+- [2023/11] Language Model Inversion [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.13647) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/11] Scalable Extraction of Training Data from (Production) Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.17035) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/01] Extracting Training Data from Diffusion Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://www.usenix.org/system/files/usenixsecurity23-carlini.pdf) ![img](https://img.shields.io/badge/diffusion-a99cf4) ![img](https://img.shields.io/badge/Security'23-f1b800)
 - [2020/12] Extracting Training Data from Large Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2012.07805) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/Security'21-f1b800)

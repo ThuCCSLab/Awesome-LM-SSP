@@ -14,6 +14,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 ![img](https://img.shields.io/badge/llm-c7688b)
 ![img](https://img.shields.io/badge/vlm-589cf4)
 ![img](https://img.shields.io/badge/diffusion-a99cf4)
+![img](https://img.shields.io/badge/conference-f1b800)
 
 # News
 - 🔥🔥🔥 [2024-01-09] Add 8 papers from [CCS'23](https://www.sigsac.org/ccs/CCS2023/program.html)
@@ -46,7 +47,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 - [2023/12] Exploiting Novel GPT-4 APIs [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.14302) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/10] Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To! [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.03693) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/10] Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.02949v1) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/BeyonderXX/ShadowAlignment) ![img](https://img.shields.io/badge/llm-c7688b) 
-- [2023/10] UltraFeedback: Boosting Language Models with High-quality Feedback [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.01377) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/OpenBMB/UltraFeedback) ![img](https://img.shields.io/badge/llm-c7688b) 
+- [2023/10] UltraFeedback: Boosting Language Models with High-quality Feedback [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.01377) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/OpenBMB/UltraFeedback) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800)
 
 ### A3. Toxicity
 - [2023/08] You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2308.05596) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/S&P'24-f1b800)

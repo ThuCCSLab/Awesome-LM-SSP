@@ -67,6 +67,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 - [2022/11] Do Users Write More Insecure Code with AI Assistants? [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2211.03622) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 
 ### B3. Backdoor/Poisoning
+- [2023/05] Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2305.14710)  ![img](https://img.shields.io/badge/llm-c7688b)
 - [2022/11] LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/pdf/2308.13904.pdf) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/meng-wenlong/LMSanitator) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/NDSS'24-f1b800)
 
 ## C. Privacy

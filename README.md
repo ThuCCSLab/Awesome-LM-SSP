@@ -96,6 +96,8 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 
 ### C3. Property Inference
 - [2023/10] Beyond Memorization: Violating Privacy Via Inference with Large Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.07298) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2023/07] ProPILE: Probing Privacy Leakage in Large Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2307.01881) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
+
 
 ### C4. Model Extraction
 - [2023/03] Stealing the Decoding Algorithms of Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2303.04729) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23_(Distinguished_paper)-f1b800)

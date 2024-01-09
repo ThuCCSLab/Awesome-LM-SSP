@@ -17,6 +17,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 ![img](https://img.shields.io/badge/conference-f1b800)
 
 # News
+- 🔥🔥🔥 [2024-01-09] Add 7 papers from [NeurIPS'23](https://openreview.net/group?id=NeurIPS.cc/2023/Conference#tab-accept-oral)
 - 🔥🔥🔥 [2024-01-09] Add 8 papers from [CCS'23](https://www.sigsac.org/ccs/CCS2023/program.html)
 
 # Books

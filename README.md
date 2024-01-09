@@ -1,20 +1,26 @@
 # LM-SSP
+
 The resources related to the safety, security, and privacy (SSP) of large models (LM).
 Here LM contains large language models (LLMs), large vision-language models (LVMs), diffusion models, and so on.
 
-- This repo is in progress 🔥 (currently manually collect)
+- This repo is in progress 🔥 (currently manually collected)
 
 - Welcome to recommend resources to us (via Issue/Pull request/[Email](thu_crypto_ai@163.com)/...)!
 
-- Tags: ![img](https://img.shields.io/badge/blog-18a5ab) 
-![img](https://img.shields.io/badge/defense-87b800) 
+- Tags:
+![img](https://img.shields.io/badge/paper-f1b800)
+![img](https://img.shields.io/badge/code-f1b800)
+![img](https://img.shields.io/badge/blog-18a5ab)
+![img](https://img.shields.io/badge/link-f1b800)
+![img](https://img.shields.io/badge/defense-87b800)
 ![img](https://img.shields.io/badge/conference-f1b800)
-![img](https://img.shields.io/badge/llm-c7688b) 
-![img](https://img.shields.io/badge/vlm-589cf4) 
+![img](https://img.shields.io/badge/llm-c7688b)
+![img](https://img.shields.io/badge/vlm-589cf4)
 ![img](https://img.shields.io/badge/diff-a99cf4)
 
 # Books
-- [2024/01] NIST Trustworthy and Responsible AI Reports [link](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) 
+
+- [2024/01] NIST Trustworthy and Responsible AI Reports [![img](https://img.shields.io/badge/link-f1b800)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) 
 
 # Papers
 
@@ -55,10 +61,8 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 - [2023/02] Large Language Models for Code: Security Hardening and Adversarial Testing [![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2302.05319) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 - [2022/11] Do Users Write More Insecure Code with AI Assistants? [![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2211.03622) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 
-
 ### B3. Backdoor/Poisoning
 - [2022/11] LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors [![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/pdf/2308.13904.pdf) [![img](https://img.shields.io/badge/code-f1b800)](https://github.com/ThuCCSLab/lm-ssp) ![img](https://img.shields.io/badge/defense-87b800)  ![img](https://img.shields.io/badge/NDSS'24-f1b800)
-
 
 ### B4. Model Stealing
 - Coming soon!

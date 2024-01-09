@@ -10,7 +10,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 - Tags:
 ![img](https://img.shields.io/badge/paper-f1b800)
 ![img](https://img.shields.io/badge/blog-18a5ab)
-![img](https://img.shields.io/badge/book-18a5ab)
+![img](https://img.shields.io/badge/book-f1b800)
 ![img](https://img.shields.io/badge/code-f1b800)
 ![img](https://img.shields.io/badge/defense-87b800)
 ![img](https://img.shields.io/badge/llm-c7688b)
@@ -19,7 +19,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 
 # Books
 
-- [2024/01] NIST Trustworthy and Responsible AI Reports [![img](https://img.shields.io/badge/book-18a5ab)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) 
+- [2024/01] NIST Trustworthy and Responsible AI Reports [![img](https://img.shields.io/badge/book-f1b800)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) 
 
 # Papers
 

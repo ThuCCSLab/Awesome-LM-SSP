@@ -97,6 +97,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 - [2023/03] Stealing the Decoding Algorithms of Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2303.04729) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23_(Distinguished_paper)-f1b800)
 
 ### C5. Unlearning
+- [2023/11] Detecting Pretraining Data from Large Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.16789) [![img](https://img.shields.io/badge/code-8B8989)]([![img](https://img.shields.io/badge/code-8B8989)](https://github.com/meng-wenlong/LMSanitator)) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/10] Unlearn What You Want to Forget: Efficient Unlearning for LLMs [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.20150) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800) 
 - [2023/10] Who's Harry Potter? Approximate Unlearning in LLMs [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.02238?s=08) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800) 
 - [2023/03] Erasing Concepts from Diffusion Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2303.07345) ![img](https://img.shields.io/badge/diffusion-a99cf4) ![img](https://img.shields.io/badge/defense-87b800) 

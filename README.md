@@ -68,7 +68,8 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 
 ## B. Security
 ### B1. Adversarial Attacks
-- [2024/01] INSTRUCTTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/pdf/2312.01886.pdf) ![img](https://img.shields.io/badge/vlm-589cf4) 
+- [2024/01] INSTRUCTTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/pdf/2312.01886.pdf) ![img](https://img.shields.io/badge/vlm-589cf4)
+- [2023/11] DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification  [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.16124) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/kangmintong/DiffAttack) ![img](https://img.shields.io/badge/diffusion-a99cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
 - [2023/08] Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2308.07847) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/06] PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2306.04528) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/06] Are aligned neural networks adversarially aligned? [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2306.15447) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)

@@ -28,6 +28,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 # Surveys
 - [2023/12] **A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.02003) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/07] **A Comprehensive Overview of Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2307.06435) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2023/03] **A Survey of Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2303.18223) ![img](https://img.shields.io/badge/llm-c7688b)
 
 # Papers
 

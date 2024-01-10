@@ -25,6 +25,9 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 
 - [2024/01] **NIST Trustworthy and Responsible AI Reports** [![img](https://img.shields.io/badge/book-18a5ab)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) 
 
+# Surveys
+- [2023/12] **A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.02003) 
+- [2023/07] **A Comprehensive Overview of Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2307.06435) 
 
 # Papers
 

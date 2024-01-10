@@ -1,9 +1,9 @@
 # LM-SSP
 
-The resources related to the safety, security, and privacy (SSP) of large models (LM).
-Here LM contains large language models (LLMs), large vision-language models (LVMs), diffusion models, and so on.
+The resources related to the safety, security, and privacy (SSP) of large models (LMs).
+Here LMs contain large language models (LLMs), large vision-language models (LVMs), diffusion models, and so on.
 
-- This repo is in progress 🌱 (currently manually collected)
+- This repo is in progress 🌱 (currently manually collected).
 
 - Welcome to recommend resources to us (via Issue/Pull request/[Email](thu_crypto_ai@163.com)/...)!
 
@@ -18,7 +18,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 
 
 # News
-- 🔥🔥🔥 [2024-01-10] We collect 100 papers!
+- 🔥🔥🔥 [2024-01-10] Reach 100 papers!
 - 🔥🔥🔥 [2024-01-09] Add 7 papers from [NeurIPS'23](https://openreview.net/group?id=NeurIPS.cc/2023/Conference#tab-accept-oral)
 - 🔥🔥🔥 [2024-01-09] Add 8 papers from [CCS'23](https://www.sigsac.org/ccs/CCS2023/program.html)
 

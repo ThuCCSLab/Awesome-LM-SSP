@@ -98,11 +98,23 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 - [2022/11] **Do Users Write More Insecure Code with AI Assistants?** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2211.03622) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 
 ### B3. Backdoor/Poisoning <a name="sec-b3"></a>
-- [2023/12] **Unleashing Cheapfakes through Trojan Plugins of Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.00374) ![img](https://img.shields.io/badge/llm-c7688b) 
+- [2023/12] **Unleashing Cheapfakes through Trojan Plugins of Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.00374) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2023/11] **Universal Jailbreak Backdoors from Poisoned Human Feedback** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.14455) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2023/11] **Test-time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.09763) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/10] **Composite Backdoor Attacks Against Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.07676) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/10] **Prompt Backdoors in Visual Prompt Learning** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.07676) ![img](https://img.shields.io/badge/vlm-589cf4)
+- [2023/08] **The Poison of Alignment** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2308.13449) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2023/07] **Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2307.16888) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/wegodev2/virtual-prompt-injection) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2023/05] **Poisoning Language Models During Instruction Tuning** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2305.00944) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/ICML'23-f1b800)
 - [2023/05] **Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2305.14710) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2022/11] **LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/pdf/2308.13904.pdf) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/meng-wenlong/LMSanitator) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/NDSS'24-f1b800)
+
+
+
+
+
+
+
 
 ## C. Privacy <a name="sec-c"></a>
 ### C1. Data Reconstruction <a name="sec-c1"></a>

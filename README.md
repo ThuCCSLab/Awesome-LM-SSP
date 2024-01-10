@@ -68,6 +68,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 - [2023/11] Evil Geniuses: Delving into the Safety of LLM-based Agents [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.11855) ![img](https://img.shields.io/badge/llm-c7688b)
 
 ### A6. Hallucination
+- [2023/12] The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.09085) [![img](https://img.shields.io/badge/code-8B8989)](https://llms-believe-the-earth-is-flat.github.io/) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/11] Calibrated Language Models Must Hallucinate  [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.14648) ![img](https://img.shields.io/badge/llm-c7688b)
 
 ## B. Security

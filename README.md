@@ -175,3 +175,7 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 - [2023/05] **Watermarking Diffusion Model** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2305.12502) ![img](https://img.shields.io/badge/diffusion-a99cf4)
 - [2023/05] **Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2305.20030) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/YuxinWenRick/tree-ring-watermark) ![img](https://img.shields.io/badge/diffusion-a99cf4) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
 - [2023/01] **A Watermark for Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2301.10226) [![img](https://img.shields.io/badge/code-8B8989)](github.com/jwkirchenbauer/lm-watermarking) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/ICML'23_(Outstanding_paper)-f1b800)
+
+# Acknowledgement
+- Organizers: [Tianshuo Cong](https://tianshuocong.github.io/), [Xinlei He](https://xinleihe.github.io/), [Zhengyu Zhao](https://zhengyuzhao.github.io/), [Yugeng Liu](https://liu.ai/)
+- This project is inspired by [LLM Security](https://llmsecurity.net/), [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security), [LLM Security & Privacy](https://github.com/chawins/llm-sp)

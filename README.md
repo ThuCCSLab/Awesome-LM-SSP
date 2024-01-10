@@ -22,16 +22,16 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 
 # Books
 
-- [2024/01] NIST Trustworthy and Responsible AI Reports [![img](https://img.shields.io/badge/book-18a5ab)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) 
+- [2024/01] **NIST Trustworthy and Responsible AI Reports** [![img](https://img.shields.io/badge/book-18a5ab)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) 
 
 # Papers
 
 ## A. Safety
 ### A1. Jailbreak
-- [2024/01] How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs [![img](https://img.shields.io/badge/paper-18a5ab)](https://www.yi-zeng.com/wp-content/uploads/2024/01/view.pdf) ![img](https://img.shields.io/badge/llm-c7688b)
-- [2024/01] MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2401.02906) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/pipilurj/MLLM-protector) ![img](https://img.shields.io/badge/vlm-589cf4) ![img](https://img.shields.io/badge/defense-87b800) 
-- [2023/12] Adversarial Attacks on GPT-4 via Simple Random Search [![img](https://img.shields.io/badge/paper-18a5ab)](https://www.andriushchenko.me/gpt4adv.pdf) ![img](https://img.shields.io/badge/llm-c7688b)
-- [2023/12] Make Them Spill the Beans! Coercive Knowledge Extraction from (Production) LLMs [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.04782) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2024/01] **How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs** [![img](https://img.shields.io/badge/paper-18a5ab)](https://www.yi-zeng.com/wp-content/uploads/2024/01/view.pdf) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2024/01] **MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2401.02906) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/pipilurj/MLLM-protector) ![img](https://img.shields.io/badge/vlm-589cf4) ![img](https://img.shields.io/badge/defense-87b800) 
+- [2023/12] **Adversarial Attacks on GPT-4 via Simple Random Search** [![img](https://img.shields.io/badge/paper-18a5ab)](https://www.andriushchenko.me/gpt4adv.pdf) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2023/12] **Make Them Spill the Beans! Coercive Knowledge Extraction from (Production) LLMs** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.04782) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/11] FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.05608) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/ThuCCSLab/FigStep) ![img](https://img.shields.io/badge/vlm-589cf4) 
 - [2023/10] Adversarial Attacks on LLMs [![img](https://img.shields.io/badge/blog-18a5ab)](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/10] AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.04451) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/SheltonLiu-N/AutoDAN) ![img](https://img.shields.io/badge/llm-c7688b) 

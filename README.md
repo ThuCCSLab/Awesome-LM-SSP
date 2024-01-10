@@ -31,7 +31,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 ## Content
 - **Safety**: [Jailbreak](#sec-a1), [Safety Alignment](#sec-a2), [Toxicity](#sec-a3), [Deepfake](#sec-a4), [Agent](#sec-a5), [Hallucination](#sec-a6)
 - **Security**: [Adversarial Attacks](#sec-b1), [Code Generation](#sec-b2), [Backdoor/Poisoning](#sec-b3)
-- **Privacy**: [Data Reconstruction](#sec-c1), [Membership Inference](#sec-c2), [Property Inference](#sec-c3), [Extraction (Model/Prompt/Hyperparameters)](#sec-c4), [Unlerning](#sec-c5), [Copyright](#sec-c6)
+- **Privacy**: [Data Reconstruction](#sec-c1), [Membership Inference](#sec-c2), [Property Inference](#sec-c3), [Extraction (Model/Prompt/Hyperparameters)](#sec-c4), [Unlearning](#sec-c5), [Copyright](#sec-c6)
 
 ## A. Safety <a name="sec-a"></a>
 ### A1. Jailbreak <a name="sec-a1"></a>

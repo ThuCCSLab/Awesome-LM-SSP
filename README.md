@@ -18,6 +18,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 
 
 # News
+- 🔥🔥🔥 [2024-01-10] We collect 100 papers!
 - 🔥🔥🔥 [2024-01-09] Add 7 papers from [NeurIPS'23](https://openreview.net/group?id=NeurIPS.cc/2023/Conference#tab-accept-oral)
 - 🔥🔥🔥 [2024-01-09] Add 8 papers from [CCS'23](https://www.sigsac.org/ccs/CCS2023/program.html)
 
@@ -27,6 +28,7 @@ Here LM contains large language models (LLMs), large vision-language models (LVM
 
 # Surveys
 - [2023/12] **A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.02003) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2023/10] **Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks**  [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.10844) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/07] **A Comprehensive Overview of Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2307.06435) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/03] **A Survey of Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2303.18223) ![img](https://img.shields.io/badge/llm-c7688b)
 

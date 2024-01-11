@@ -5,7 +5,9 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 
 - This repo is in progress 🌱 (currently manually collected).
 
-- Welcome to recommend resources to us (via Issue/Pull request/[Email](mailto:thu_crypto_ai@163.com)/...)!
+- Welcome to recommend resources to us (via Issue/Pull request/<nobr><a href="http://www.zj123.com">
+<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/envelope-open.svg" width="5" height="5">
+</a></nobr>/...)!
 
 
 - Badges:

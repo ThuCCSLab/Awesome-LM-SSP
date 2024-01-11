@@ -1,7 +1,3 @@
-<head> 
-<script src="https://kit.fontawesome.com/81dc68471a.js" crossorigin="anonymous"></script>
-</head> 
-
 # LM-SSP
 
 The resources related to the safety, security, and privacy (SSP) of large models (LMs).
@@ -9,7 +5,7 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 
 - This repo is in progress 🌱 (currently manually collected).
 
-- Welcome to recommend resources to us (via Issue/Pull request/<a href="mailto:thu_crypto_ai@163.com" title="email"><i class="fa-solid fa-envelope-circle-check" style="color: #0b7958a2;font-size:90%;"></i></a>/...)!
+- Welcome to recommend resources to us (via Issue/Pull request/[Email](mailto:thu_crypto_ai@163.com)/...)!
 
 - Badges:
  	- Publication: ![img](https://img.shields.io/badge/blog-18a5ab) ![img](https://img.shields.io/badge/paper-18a5ab) ![img](https://img.shields.io/badge/survey-18a5ab) ![img](https://img.shields.io/badge/book-18a5ab)

@@ -5,7 +5,7 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 
 - This repo is in progress 🌱 (currently manually collected).
 
-- Welcome to recommend resources to us (via Issue/Pull request/[Email](thu_crypto_ai@163.com)/...)!
+- Welcome to recommend resources to us (via Issue/Pull request/[Email](mailto:thu_crypto_ai@163.com)/...)!
 
 - Badges:
  	- Publication: ![img](https://img.shields.io/badge/blog-18a5ab) ![img](https://img.shields.io/badge/paper-18a5ab) ![img](https://img.shields.io/badge/survey-18a5ab) ![img](https://img.shields.io/badge/book-18a5ab)

@@ -89,7 +89,7 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 - [2023/11] **Calibrated Language Models Must Hallucinate** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.14648) ![img](https://img.shields.io/badge/llm-c7688b)
 
 ## B. Security <a name="sec-b"></a>
-### B1. Adversarial Attacks <a name="sec-b1"></a>
+### B1. Adversarial Examples <a name="sec-b1"></a>
 - [2024/01] **INSTRUCTTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/pdf/2312.01886.pdf) ![img](https://img.shields.io/badge/vlm-589cf4)
 - [2023/11] **DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.16124) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/kangmintong/DiffAttack) ![img](https://img.shields.io/badge/diffusion-a99cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
 - [2023/11] **How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.16101) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/UCSC-VLAA/vllm-safety-benchmark) ![img](https://img.shields.io/badge/vlm-589cf4)
@@ -117,7 +117,7 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 - [2023/02] **Large Language Models for Code: Security Hardening and Adversarial Testing** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2302.05319) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23_(Distinguished_paper)-f1b800)
 - [2022/11] **Do Users Write More Insecure Code with AI Assistants?** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2211.03622) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 
-### B3. Backdoor/Poisoning <a name="sec-b3"></a>
+### B3. (Backdoor) Poisoning <a name="sec-b3"></a>
 - [2023/12] **Unleashing Cheapfakes through Trojan Plugins of Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.00374) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/11] **Universal Jailbreak Backdoors from Poisoned Human Feedback** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.14455) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/11] **Test-time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.09763) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/llm-c7688b) 

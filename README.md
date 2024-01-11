@@ -7,15 +7,12 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 
 - Welcome to recommend resources to us (via Issue/Pull request/[Email](thu_crypto_ai@163.com)/...)!
 
-- Tags:
-![img](https://img.shields.io/badge/blog/paper/book-18a5ab)
-![img](https://img.shields.io/badge/code-8B8989)
-![img](https://img.shields.io/badge/defense-87b800)
-![img](https://img.shields.io/badge/llm-c7688b)
-![img](https://img.shields.io/badge/vlm-589cf4)
-![img](https://img.shields.io/badge/diffusion-a99cf4)
-![img](https://img.shields.io/badge/conference-f1b800)
-
+- Badges  (Continuous update):
+	- Publication: ![img](https://img.shields.io/badge/blog/paper/survey/book-18a5ab)
+	- Artifacts Available: ![img](https://img.shields.io/badge/code-8B8989) 
+	- Model: ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/vlm-589cf4) ![img](https://img.shields.io/badge/diffusion-a99cf4)
+	- Comment: ![img](https://img.shields.io/badge/benchmark/new_dataset/agent/codeGen/defense-87b800)
+	- Acceptance: ![img](https://img.shields.io/badge/conference-f1b800) 
 
 # News
 - 🔥🔥🔥 [2024-01-10] Reach 100 papers!
@@ -27,14 +24,13 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 - [2024/01] **NIST Trustworthy and Responsible AI Reports** [![img](https://img.shields.io/badge/book-18a5ab)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) 
 
 # Surveys
-- [2023/12] **A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.02003) ![img](https://img.shields.io/badge/llm-c7688b)
-- [2023/10] **Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.10844) ![img](https://img.shields.io/badge/llm-c7688b)
-- [2023/07] **A Comprehensive Overview of Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2307.06435) ![img](https://img.shields.io/badge/llm-c7688b)
-- [2023/03] **A Survey of Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2303.18223) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2023/12] **A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly** [![img](https://img.shields.io/badge/survey-18a5ab)](https://arxiv.org/abs/2312.02003) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2023/10] **Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks** [![img](https://img.shields.io/badge/survey-18a5ab)](https://arxiv.org/abs/2310.10844) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2023/07] **A Comprehensive Overview of Large Language Models** [![img](https://img.shields.io/badge/survey-18a5ab)](https://arxiv.org/abs/2307.06435) ![img](https://img.shields.io/badge/llm-c7688b)
+- [2023/03] **A Survey of Large Language Models** [![img](https://img.shields.io/badge/survey-18a5ab)](https://arxiv.org/abs/2303.18223) ![img](https://img.shields.io/badge/llm-c7688b)
 
 # Papers
 
-## Content
 - **Safety**: [Jailbreak](#sec-a1), [Safety Alignment](#sec-a2), [Toxicity](#sec-a3), [Deepfake](#sec-a4), [Agent](#sec-a5), [Hallucination](#sec-a6)
 - **Security**: [Adversarial Attacks](#sec-b1), [Code Generation](#sec-b2), [Backdoor/Poisoning](#sec-b3)
 - **Privacy**: [Data Reconstruction](#sec-c1), [Membership Inference](#sec-c2), [Property Inference](#sec-c3), [Extraction (Model/Prompt/Hyperparameters)](#sec-c4), [Unlearning](#sec-c5), [Copyright](#sec-c6)
@@ -46,6 +42,7 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 - [2023/12] **Adversarial Attacks on GPT-4 via Simple Random Search** [![img](https://img.shields.io/badge/paper-18a5ab)](https://www.andriushchenko.me/gpt4adv.pdf) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/12] **Make Them Spill the Beans! Coercive Knowledge Extraction from (Production) LLMs** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.04782) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/11] **FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.05608) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/ThuCCSLab/FigStep) ![img](https://img.shields.io/badge/vlm-589cf4) 
+- [2023/11] **Evil Geniuses: Delving into the Safety of LLM-based Agents** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.11855) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/agent-87b800)
 - [2023/10] **Adversarial Attacks on LLMs** [![img](https://img.shields.io/badge/blog-18a5ab)](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/10] **AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.04451) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/SheltonLiu-N/AutoDAN) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/10] **AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.04451) ![img](https://img.shields.io/badge/llm-c7688b) 
@@ -81,8 +78,6 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 - [2022/12] **CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Data Limitation With Contrastive Learning** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2212.10341) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/YichenZW/Coh-MGT-Detection) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/EMNLP'23-f1b800)
 - [2022/10] **DE-FAKE: Detection and Attribution of Fake Images Generated by Text-to-Image Generation Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2210.06998) ![img](https://img.shields.io/badge/diffusion-a99cf4) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 
-### A5. Agent <a name="sec-a5"></a>
-- [2023/11] **Evil Geniuses: Delving into the Safety of LLM-based Agents** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.11855) ![img](https://img.shields.io/badge/llm-c7688b)
 
 ### A6. Hallucination <a name="sec-a6"></a>
 - [2023/12] **The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.09085) [![img](https://img.shields.io/badge/code-8B8989)](https://llms-believe-the-earth-is-flat.github.io/) ![img](https://img.shields.io/badge/llm-c7688b) 
@@ -113,7 +108,8 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 - [2022/12] **Understanding Zero-shot Adversarial Robustness for Large-Scale Model** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2212.07016) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/cvlab-columbia/ZSRobust4FoundationModel) ![img](https://img.shields.io/badge/vlm-589cf4) ![img](https://img.shields.io/badge/ICLR'23-f1b800)
 - [2022/05] **Diffusion Models for Adversarial Purification** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2205.07460) ![img](https://img.shields.io/badge/diffusion-a99cf4) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/ICML'22-f1b800) 
 
-### B2. Code Generation <a name="sec-b2"></a>
+### B2. Code Generation Security <a name="sec-b2"></a>
+- [2024/01] **DebugBench: Evaluating Debugging Capability of Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2401.04621) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/thunlp/DebugBench) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/02] **Large Language Models for Code: Security Hardening and Adversarial Testing** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2302.05319) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23_(Distinguished_paper)-f1b800)
 - [2022/11] **Do Users Write More Insecure Code with AI Assistants?** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2211.03622) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 
@@ -147,7 +143,8 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 - [2023/12] **Black-box Membership Inference Attacks against Fine-tuned Diffusion Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.08207) ![img](https://img.shields.io/badge/diffusion-a99cf4)
 - [2023/11] **Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.06062) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/10] **Last One Standing: A Comparative Analysis of Security and Privacy of Soft Prompt Tuning, LoRA, and In-Context Learning** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.11397) ![img](https://img.shields.io/badge/llm-c7688b)
-- [2023/09] **DP-Forward: Fine-tuning and Inference on Language Models with Differential Privacy in Forward Pass** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2309.06746) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/CCS'23-f1b800)
+- [2023/09] **DP-Forward: Fine-tuning and Inference on Language Models with Differential Privacy in Forward Pass** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2309.06746) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/CCS'23-f1b800)
+- [2023/09] **Privacy Side Channels in Machine Learning Systems** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2309.05610) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/08] **White-box Membership Inference Attacks against Diffusion Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2308.06405) ![img](https://img.shields.io/badge/diffusion-a99cf4)
 - [2022/10] **Membership Inference Attacks Against Text-to-image Generation Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2210.00968) ![img](https://img.shields.io/badge/diffusion-a99cf4)
 
@@ -157,6 +154,7 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 
 
 ### C4. Extraction (Model/Prompt/Hyperparameters) <a name="sec-c4"></a>
+- [2023/03] **On Extracting Specialized Code Abilities from Large Language Models: A Feasibility Study** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2303.03012) ![img](https://img.shields.io/badge/codeGen-87b800) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/ICSE'24-f1b800)
 - [2023/03] **Stealing the Decoding Algorithms of Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2303.04729) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23_(Distinguished_paper)-f1b800)
 - [2023/02] **Prompt Stealing Attacks Against Text-to-Image Generation Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2302.09923) ![img](https://img.shields.io/badge/diffusion-a99cf4)
 
@@ -169,7 +167,7 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 ### C6. Copyright <a name="sec-c6"></a>
 - [2024/01] **Generative AI Has a Visual Plagiarism Problem** [![img](https://img.shields.io/badge/blog-18a5ab)](https://spectrum.ieee.org/midjourney-copyright) ![img](https://img.shields.io/badge/diffusion-a99cf4)
 - [2023/12] **Mark My Words: Analyzing and Evaluating Language Model Watermarks** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.00273) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/wagner-group/MarkMyWords) ![img](https://img.shields.io/badge/llm-c7688b) 
-- [2023/11] **Protecting Intellectual Property of Large Language Model-Based Code Generation APIs via Watermarks** [![img](https://img.shields.io/badge/paper-18a5ab)](https://dl.acm.org/doi/abs/10.1145/3576915.3623120) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/CCS'23-f1b800)
+- [2023/11] **Protecting Intellectual Property of Large Language Model-Based Code Generation APIs via Watermarks** [![img](https://img.shields.io/badge/paper-18a5ab)](https://dl.acm.org/doi/abs/10.1145/3576915.3623120) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/codeGen-87b800) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 - [2023/08] **PromptCARE: Prompt Copyright Protection by Watermark Injection and Verification** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2308.02816) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/grasses/PromptCARE) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/S&P'24-f1b800)
 - [2023/06] **Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2306.07754) ![img](https://img.shields.io/badge/diffusion-a99cf4)
 - [2023/05] **Watermarking Diffusion Model** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2305.12502) ![img](https://img.shields.io/badge/diffusion-a99cf4)

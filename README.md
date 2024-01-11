@@ -7,7 +7,7 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 
 - Welcome to recommend resources to us (via <a href="/ThuCCSLab/lm-ssp/issues" style="display:inline"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
-</svg></a> Issue / Pull request / <a href="mailto:thu_crypto_ai@163.com" style="display:inline"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope-open.svg" width="15" height="15"></a> /...)!
+</svg> Issue</a> / Pull request / <a href="mailto:thu_crypto_ai@163.com" style="display:inline"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope-open.svg" width="15" height="15"></a> /...)!
 
 
 

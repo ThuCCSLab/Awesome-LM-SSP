@@ -7,7 +7,7 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 
 - This repo is in progress 🌱 (currently manually collected).
 
-- Welcome to recommend resources to us (via <a href="https://github.com/ThuCCSLab/lm-ssp/issues" style="display:inline"><img src="https://icons.iconarchive.com/icons/github/octicons/128/issue-opened-16-icon.png" width="15" height="15"></a> / <a href="https://github.com/ThuCCSLab/lm-ssp/pulls" style="display:inline"><img src="https://icons.iconarchive.com/icons/iconoir-team/iconoir/128/git-pull-request-icon.png" width="15" height="15"></a> / <a href="mailto:thu_crypto_ai@163.com" style="display:inline"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope-open.svg" width="15" height="15"></a> /...)!
+- Welcome to recommend resources to us (via <a href="https://github.com/ThuCCSLab/lm-ssp/issues" style="display:inline"><img src="https://icons.iconarchive.com/icons/github/octicons/128/issue-opened-16-icon.png" width="15" height="15"> Issues</a> / <a href="https://github.com/ThuCCSLab/lm-ssp/pulls" style="display:inline"><img src="https://icons.iconarchive.com/icons/iconoir-team/iconoir/128/git-pull-request-icon.png" width="15" height="15"> Pull requests</a> / <a href="mailto:thu_crypto_ai@163.com" style="display:inline"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope-open.svg" width="15" height="15"> Email</a> /...)!
 
 
 

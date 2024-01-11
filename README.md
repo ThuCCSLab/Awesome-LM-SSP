@@ -7,7 +7,7 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 
 - Welcome to recommend resources to us (via Issue/Pull request/[Email](thu_crypto_ai@163.com)/...)!
 
-- Badges  (Continuous update):
+- Badges (Continuous update):
 	- Publication: ![img](https://img.shields.io/badge/blog/paper/survey/book-18a5ab)
 	- Artifacts Available: ![img](https://img.shields.io/badge/code-8B8989) 
 	- Model: ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/vlm-589cf4) ![img](https://img.shields.io/badge/diffusion-a99cf4)
@@ -43,6 +43,7 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 - [2023/12] **Make Them Spill the Beans! Coercive Knowledge Extraction from (Production) LLMs** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.04782) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/11] **FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.05608) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/ThuCCSLab/FigStep) ![img](https://img.shields.io/badge/vlm-589cf4) 
 - [2023/11] **Evil Geniuses: Delving into the Safety of LLM-based Agents** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.11855) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/agent-87b800)
+- [2023/10] **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.06387) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800)
 - [2023/10] **Adversarial Attacks on LLMs** [![img](https://img.shields.io/badge/blog-18a5ab)](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/10] **AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.04451) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/SheltonLiu-N/AutoDAN) ![img](https://img.shields.io/badge/llm-c7688b) 
 - [2023/10] **AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.04451) ![img](https://img.shields.io/badge/llm-c7688b) 

@@ -1,6 +1,6 @@
 <img src="figure/title.png" alt="image" width="1000" height="auto" class="center">
 
-# LM-SSP
+# Introduction
 
 The resources related to the safety, security, and privacy (SSP) of large models (LMs).
 Here LMs contain large language models (LLMs), large vision-language models (LVMs), diffusion models, and so on.

@@ -181,3 +181,5 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 # Acknowledgement
 - Organizers: [Tianshuo Cong](https://tianshuocong.github.io/), [Xinlei He](https://xinleihe.github.io/), [Zhengyu Zhao](https://zhengyuzhao.github.io/), [Yugeng Liu](https://liu.ai/)
 - This project is inspired by [LLM Security](https://llmsecurity.net/), [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security), [LLM Security & Privacy](https://github.com/chawins/llm-sp), [UR2-LLMs](https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness)
+
+<img src="figure/logo.png" alt="image" width="500" height="auto">

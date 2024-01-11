@@ -9,7 +9,7 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 
 - Badges:
  	- Publication: ![img](https://img.shields.io/badge/blog-18a5ab) ![img](https://img.shields.io/badge/paper-18a5ab) ![img](https://img.shields.io/badge/survey-18a5ab) ![img](https://img.shields.io/badge/book-18a5ab)
-	- Artifacts Available (Continuous update): ![img](https://img.shields.io/badge/code-8B8989) 
+	- Artifact (Continuous update): ![img](https://img.shields.io/badge/code-8B8989) 
 	- Model: ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/vlm-589cf4) ![img](https://img.shields.io/badge/diffusion-a99cf4)
 	- Comment: ![img](https://img.shields.io/badge/benchmark-87b800) ![img](https://img.shields.io/badge/new_dataset-87b800) ![img](https://img.shields.io/badge/agent-87b800) ![img](https://img.shields.io/badge/codeGen-87b800) ![img](https://img.shields.io/badge/defense-87b800)
 	- Venue (Continuous update): ![img](https://img.shields.io/badge/conference-f1b800) 

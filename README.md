@@ -124,6 +124,7 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 - [2022/11] **Do Users Write More Insecure Code with AI Assistants?** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2211.03622) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 
 ### B3. (Backdoor) Poisoning <a name="sec-b3"></a>
+- [2024/01] **Universal Vulnerabilities in Large Language Models: In-context Learning Backdoor Attacks**  [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2401.05949) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/shuaizhao95/ICLAttack) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2024/01] **Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training**  [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2401.05566) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/anthropics/sleeper-agents-paper) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/agent-87b800)
 - [2023/12] **Unleashing Cheapfakes through Trojan Plugins of Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2312.00374) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/11] **Universal Jailbreak Backdoors from Poisoned Human Feedback** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2311.14455) ![img](https://img.shields.io/badge/llm-c7688b)

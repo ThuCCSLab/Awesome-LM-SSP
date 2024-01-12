@@ -28,7 +28,7 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 - [2024/01] **NIST Trustworthy and Responsible AI Reports** [![img](https://img.shields.io/badge/book-18a5ab)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) 
 
 # Surveys
-- [2024/01] **TrustLLM: Trustworthiness in Large Language Models** [![img](https://img.shields.io/badge/survey-18a5ab)](https://arxiv.org/abs/2401.05561) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/benchmark-87b800)
+- [2024/01] **TrustLLM: Trustworthiness in Large Language Models** [![img](https://img.shields.io/badge/survey-18a5ab)](https://arxiv.org/abs/2401.05561) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/HowieHwong/TrustLLM) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/benchmark-87b800)
 - [2023/12] **A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly** [![img](https://img.shields.io/badge/survey-18a5ab)](https://arxiv.org/abs/2312.02003) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/10] **Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks** [![img](https://img.shields.io/badge/survey-18a5ab)](https://arxiv.org/abs/2310.10844) ![img](https://img.shields.io/badge/llm-c7688b)
 - [2023/07] **A Comprehensive Overview of Large Language Models** [![img](https://img.shields.io/badge/survey-18a5ab)](https://arxiv.org/abs/2307.06435) ![img](https://img.shields.io/badge/llm-c7688b)

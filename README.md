@@ -2,8 +2,7 @@
 
 # Introduction
 
-The resources related to the safety, security, and privacy (SSP) of large models (LMs).
-Here LMs contain large language models (LLMs), large vision-language models (LVMs), diffusion models, and so on.
+The resources related to the trustworthiness of large models (LMs) across multiple dimensions (e.g., safety, security, and privacy), with a special focus on multi-modal LMs (e.g., vision-language models and diffusion models).
 
 - This repo is in progress 🌱 (currently manually collected).
 

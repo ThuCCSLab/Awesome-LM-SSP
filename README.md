@@ -2,7 +2,7 @@
 
 # Introduction
 
-The resources related to the trustworthiness of large models (LMs) across multiple dimensions (e.g., safety, security, and privacy), with a special focus on multi-modal LMs (e.g., vision-language models and diffusion models).
+The resources related to the trustworthiness of large models (LMs) across multiple dimensions (e.g., safety, security, and privacy), with a special focus on multi-modal LMs, such as vision-language models (VLMs) and diffusion models.
 
 - This repo is in progress 🌱 (currently manually collected).
 

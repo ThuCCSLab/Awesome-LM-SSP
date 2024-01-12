@@ -170,9 +170,11 @@ Here LMs contain large language models (LLMs), large vision-language models (LVM
 
 ### C5. Unlearning <a name="sec-c5"></a>
 - [2023/11] **Detecting Pretraining Data from Large Language Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.16789) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/meng-wenlong/LMSanitator) ![img](https://img.shields.io/badge/llm-c7688b)
-- [2023/10] **Large Language Model Unlearning** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.10683) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/kevinyaobytedance/llm_unlearn)  ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800) 
+- [2023/10] **Large Language Model Unlearning** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.10683) [![img](https://img.shields.io/badge/code-8B8989)](https://github.com/kevinyaobytedance/llm_unlearn)  ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800)
+- [2023/10] **In-Context Unlearning: Language Models as Few Shot Unlearners** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.07579) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800) 
 - [2023/10] **Unlearn What You Want to Forget: Efficient Unlearning for LLMs** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.20150) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800) 
-- [2023/10] **Who's Harry Potter? Approximate Unlearning in LLMs** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.02238?s=08) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800) 
+- [2023/10] **Who's Harry Potter? Approximate Unlearning in LLMs** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2310.02238?s=08) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800)
+- [2023/09] **Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2307.03941) ![img](https://img.shields.io/badge/llm-c7688b) ![img](https://img.shields.io/badge/defense-87b800)
 - [2023/03] **Erasing Concepts from Diffusion Models** [![img](https://img.shields.io/badge/paper-18a5ab)](https://arxiv.org/abs/2303.07345) ![img](https://img.shields.io/badge/diffusion-a99cf4) ![img](https://img.shields.io/badge/defense-87b800) 
 
 ### C6. Copyright <a name="sec-c6"></a>

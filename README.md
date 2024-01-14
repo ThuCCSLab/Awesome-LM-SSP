@@ -139,7 +139,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2023/11] **[Beyond Detection: Unveiling Fairness Vulnerabilities in Abusive Language Models](https://arxiv.org/abs/2311.09428)**
 -  [2023/11] **[ROBBIE: Robust Bias Evaluation of Large Generative Language Models](https://arxiv.org/abs/2311.18140)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23-f1b800)
 -  [2023/10] **[Investigating the Fairness of Large Language Models for Predictions on Tabular Data](https://arxiv.org/abs/2310.14607)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/10] **[Kelly is a Warm Person, Joseph is a Role Model: Gender Biases in LLM-Generated Reference Letters](https://arxiv.org/abs/2310.09219)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23 (Findings)-f1b800)
+-  [2023/10] **[Kelly is a Warm Person, Joseph is a Role Model: Gender Biases in LLM-Generated Reference Letters](https://arxiv.org/abs/2310.09219)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
 -  [2023/10] **[Im not Racist but...: Discovering Bias in the Internal Knowledge of Large Language Models](https://arxiv.org/abs/2310.08780)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/09] **[Bias and Fairness in Large Language Models: A Survey](https://arxiv.org/abs/2309.00770)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/09] **[Bias and Fairness in Chatbots: An Overview](https://arxiv.org/abs/2309.08836)** ![img](https://img.shields.io/badge/LLM-589cf4)

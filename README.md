@@ -42,78 +42,46 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 
 
-## A. Security
+## A. Safety
 
 
-### A1. Adversarial Examples
+### A1. Jailbreak
 
--  [2024/01] **[INSTRUCTTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models](https://arxiv.org/abs/2312.01886)** ![img](https://img.shields.io/badge/VLM-c7688b)
--  [2023/12] **[Hijacking Context in Large Multi-modal Models](https://arxiv.org/abs/2312.07553)**
--  [2023/12] **[Causality Analysis for Evaluating the Security of Large Language Models](https://arxiv.org/abs/2312.07876)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/11] **[How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](https://arxiv.org/abs/2311.16101)** <a href="https://github.com/UCSC-VLAA/vllm-safety-benchmark"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Benchmark-87b800)
--  [2023/11] **[DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification](https://arxiv.org/abs/2311.16124)** <a href="https://github.com/kangmintong/DiffAttack"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
--  [2023/11] **[Can Protective Perturbation Safeguard Personal Data from Being Exploited by Stable Diffusion?](https://arxiv.org/abs/2312.00084)** ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/Defense-87b800)
--  [2023/11] **[Unveiling Safety Vulnerabilities of Large Language Models](https://arxiv.org/abs/2311.04124)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/10] **[Misusing Tools in Large Language Models With Visual Adversarial Examples](https://arxiv.org/abs/2310.03185)** ![img](https://img.shields.io/badge/VLM-c7688b)
--  [2023/10] **[An LLM can Fool Itself: A Prompt-Based Adversarial Attack](https://arxiv.org/abs/2310.13345)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/09] **[How Robust is Google's Bard to Adversarial Image Attacks?](https://arxiv.org/abs/2309.11751)** <a href="https://github.com/thu-ml/Attack-Bard"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
--  [2023/09] **[Image Hijacks: Adversarial Images Can Control Generative Models at Runtime](https://arxiv.org/abs/2309.00236)** <a href="https://github.com/euanong/image-hijacks"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
--  [2023/08] **[Ceci n'est pas une pomme: Adversarial Illusions in Multi-Modal Embeddings](https://arxiv.org/abs/2308.11804)** <a href="https://github.com/ebagdasa/adversarial_illusions"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
--  [2023/08] **[On the Adversarial Robustness of Multi-Modal Foundation Models](https://arxiv.org/abs/2308.10741)** ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/ICCV'23_(AROW_Workshop)-f1b800)
--  [2023/08] **[Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models](https://arxiv.org/abs/2308.07847)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/07] **[Jailbreak in Pieces: Compositional Adversarial Attacks on Multi-Modal Language Models](https://arxiv.org/abs/2307.14539)** ![img](https://img.shields.io/badge/VLM-c7688b)
--  [2023/07] **[Certified Robustness for Large Language Models with Self-Denoising](https://arxiv.org/abs/2307.07171)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
--  [2023/06] **[Adversarial Examples in the Age of ChatGPT](http://spylab.ai/blog/chatbot-adversarial-examples/)** ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Blog-f1b800)
--  [2023/06] **[Visual Adversarial Examples Jailbreak Large Language Models](https://arxiv.org/abs/2306.13213)** <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
--  [2023/06] **[Stable Diffusion is Unstable](https://arxiv.org/abs/2306.02583)** ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
--  [2023/06] **[Unlearnable Examples for Diffusion Models: Protect Data from Unauthorized Exploitation](https://arxiv.org/abs/2306.01902)** <a href="https://github.com/ZhengyueZhao/EUDP"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/Diffusion-a99cf4)
--  [2023/06] **[PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts](https://arxiv.org/abs/2306.04528)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Benchmark-87b800)
--  [2023/06] **[Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
--  [2023/05] **[On evaluating adversarial robustness of large vision-language models](https://arxiv.org/abs/2305.16934)** <a href="https://github.com/yunqing-me/AttackVLM"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
--  [2023/05] **[Assessing Hidden Risks of LLMs: An Empirical Study on Robustness, Consistency, and Credibility](https://arxiv.org/abs/2305.10235)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/03] **[Anti-DreamBooth: Protecting Users from Personalized Text-to-Image Synthesis](https://arxiv.org/abs/2303.15433)** <a href="https://github.com/VinAIResearch/Anti-DreamBooth"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/ICCV'23-f1b800)
--  [2023/02] **[Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples](https://arxiv.org/abs/2302.04578)** <a href="https://github.com/mist-project/mist"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/ICML'23-f1b800)
--  [2023/02] **[Raising the Cost of Malicious AI-Powered Image Editing](https://arxiv.org/abs/2302.06588)** <a href="https://github.com/MadryLab/photoguard"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/ICML'23-f1b800)
--  [2023/02] **[On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective](https://arxiv.org/abs/2302.12095)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/02] **[Large Language Models Can Be Easily Distracted by Irrelevant Context](https://arxiv.org/abs/2302.00093)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICML'23-f1b800)
--  [2023/01] **[On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex](https://arxiv.org/abs/2301.12868)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CodeGen-87b800) ![img](https://img.shields.io/badge/EACL'23-f1b800)
--  [2022/12] **[Understanding Zero-shot Adversarial Robustness for Large-Scale Model](https://arxiv.org/abs/2212.07016)** <a href="https://github.com/cvlab-columbia/ZSRobust4FoundationModel"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/ICLR'23-f1b800)
+-  [2024/01] **[How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLM](https://www.yi-zeng.com/wp-content/uploads/2024/01/view.pdf)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/01] **[MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance](https://arxiv.org/abs/2401.02906)** <a href="https://github.com/pipilurj/MLLM-protector"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Defense-87b800)
+-  [2023/12] **[A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection](https://arxiv.org/abs/2312.10766)** ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Defense-87b800)
+-  [2023/12] **[Adversarial Attacks on GPT-4 via Simple Random Search](https://www.andriushchenko.me/gpt4adv.pdf)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/12] **[Make Them Spill the Beans! Coercive Knowledge Extraction from (Production) LLMs](https://arxiv.org/abs/2312.04782)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CodeGen-87b800)
+-  [2023/12] **[Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack](https://arxiv.org/abs/2312.06924)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/11] **[FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts](https://arxiv.org/abs/2311.05608)** <a href="https://github.com/ThuCCSLab/FigStep"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
+-  [2023/11] **[Evil Geniuses: Delving into the Safety of LLM-based Agents](https://arxiv.org/abs/2311.11855)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Agent-87b800)
+-  [2023/11] **[Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild](https://arxiv.org/abs/2311.06237)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/10] **[Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations](https://arxiv.org/abs/2310.06387)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/10] **[Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Blog-f1b800)
+-  [2023/10] **[AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](https://arxiv.org/abs/2310.04451)** <a href="https://github.com/SheltonLiu-N/AutoDAN"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/10] **[AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models](https://arxiv.org/abs/2310.15140)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/10] **[Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation](https://arxiv.org/abs/2310.06987)** <a href="https://github.com/Princeton-SysML/Jailbreak_LLM"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/10] **[Jailbreaking Black Box Large Language Models in Twenty Queries](https://arxiv.org/abs/2310.08419)** <a href="https://github.com/patrickrchao/JailbreakingLLMs"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/10] **[SC-Safety: A Multi-round Open-ended Question Adversarial Safety Benchmark for Large Language Models in Chinese](https://arxiv.org/abs/2310.05818)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Chinese-87b800)
+-  [2023/10] **[Low-Resource Languages Jailbreak GPT-4](https://arxiv.org/abs/2310.02446)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/10] **[SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
+-  [2023/09] **[GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts](https://arxiv.org/abs/2309.10253)** <a href="https://github.com/sherdencooper/GPTFuzz"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/09] **[Open Sesame! Universal Black Box Jailbreaking of Large Language Models](https://arxiv.org/abs/2309.01446)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/09] **[FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models](https://arxiv.org/abs/2309.05274)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/09] **[Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM](https://arxiv.org/abs/2309.14348)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
+-  [2023/08] **[Detecting Language Model Attacks with Perplexity](https://arxiv.org/abs/2308.14132)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
+-  [2023/08] **[“Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models](https://arxiv.org/abs/2308.03825)** <a href="https://github.com/verazuo/jailbreak_llms"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/08] **[GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher](https://arxiv.org/abs/2308.06463)** <a href="https://github.com/RobustNLP/CipherChat"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/08] **[XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models](https://arxiv.org/abs/2308.01263)** <a href="https://github.com/paul-rottger/exaggerated-safety"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
+-  [2023/07] **[MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots](https://arxiv.org/abs/2307.08715)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/NDSS'24-f1b800)
+-  [2023/07] **[Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
+-  [2023/07] **[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)** <a href="https://github.com/llm-attacks/llm-attacks"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/07] **[Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models](https://arxiv.org/abs/2307.08487)** <a href="qiuhuachuan/latent-jailbreak (github.com)"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/05] **[Tricking LLMs into Disobedience: Understanding, Analyzing, and Preventing Jailbreaks](https://arxiv.org/abs/2305.14965)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/05] **[Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study](https://arxiv.org/abs/2305.13860)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/04] **[Multi-step Jailbreaking Privacy Attacks on ChatGPT](https://arxiv.org/abs/2304.05197)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
 
-### A2. Code Generation Security
-
--  [2024/01] **[DebugBench: Evaluating Debugging Capability of Large Language Models](https://arxiv.org/abs/2401.04621)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/12] **[Chain of Code: Reasoning with a Language Model-Augmented Code Emulator](https://arxiv.org/abs/2312.04474)**
--  [2023/12] **[Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models](https://arxiv.org/abs/2312.04724)** <a href="PurpleLlama/CybersecurityBenchmarks at main · facebookresearch/PurpleLlama (github.com)"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CodeGen-87b800)
--  [2023/05] **[Uncovering and Quantifying Social Biases in Code Generation](https://arxiv.org/abs/2305.15377)**
--  [2023/02] **[Large Language Models for Code: Security Hardening and Adversarial Testing](https://arxiv.org/abs/2302.05319)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CCS'23-f1b800) ![img](https://img.shields.io/badge/Best_paper-ff0000)
--  [2022/11] **[Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/abs/2211.03622)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CCS'23-f1b800)
-
-### A3. Poisoning 
-
--  [2024/01] **[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566)** <a href="https://github.com/anthropics/sleeper-agents-paper"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/12] **[Unleashing Cheapfakes through Trojan Plugins of Large Language Models](https://arxiv.org/abs/2312.00374)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/12] **[Stealthy and Persistent Unalignment on Large Language Models via Backdoor Injections](https://arxiv.org/abs/2312.00027)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/12] **[Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers' Coding Practices with Insecure Suggestions from Poisoned AI Models](https://arxiv.org/abs/2312.06227)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/11] **[Universal Jailbreak Backdoors from Poisoned Human Feedback](https://arxiv.org/abs/2311.14455)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/11] **[Test-time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations](https://arxiv.org/abs/2311.09763)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
--  [2023/10] **[Composite Backdoor Attacks Against Large Language Models](https://arxiv.org/abs/2310.07676)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/10] **[Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models](https://arxiv.org/abs/2310.13828)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/10] **[Prompt Injection Attacks and Defenses in LLM-Integrated Applications](https://arxiv.org/abs/2310.12815)** <a href="liu00222/Open-Prompt-Injection: Prompt injection attacks and defenses in LLM-integrated applications (github.com)"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
--  [2023/10] **[Large Language Models Are Better Adversaries: Exploring Generative Clean-Label Backdoor Attacks Against Text Classifiers](https://arxiv.org/abs/2310.18603)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
--  [2023/10] **[PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models](https://arxiv.org/abs/2310.12439)** <a href="grasses/PoisonPrompt: Code for paper: PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models, IEEE ICASSP 2024 (github.com)"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICASSP'24-f1b800)
--  [2023/08] **[The Poison of Alignment](https://arxiv.org/abs/2308.13449)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/08] **[LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors](https://arxiv.org/abs/2308.13904)** <a href="https://github.com/meng-wenlong/LMSanitator"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/NDSS'24-f1b800)
--  [2023/07] **[Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection](https://arxiv.org/abs/2307.16888)** <a href="https://github.com/wegodev2/virtual-prompt-injection"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/06] **[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)** <a href="https://github.com/azshue/AutoPoison"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
--  [2023/06] **[Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/abs/2306.05499)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/05] **[Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944)** <a href="https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICML'23-f1b800)
--  [2023/05] **[Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models](https://arxiv.org/abs/2305.14710)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/02] **[Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173v2)** ![img](https://img.shields.io/badge/LLM-589cf4)
-
-## B. Safety
-
-
-### B1. Deepfake
+### A2. Deepfake
 
 -  [2023/10] **[Harnessing the Power of ChatGPT in Fake News: An In-Depth Exploration in Generation, Detection and Explanation](https://arxiv.org/abs/2310.05046)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/05] **[Evading Watermark based Detection of AI-Generated Content](https://arxiv.org/abs/2305.03807)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CCS'23-f1b800)
@@ -124,7 +92,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2022/12] **[CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Data Limitation With Contrastive Learning](https://arxiv.org/abs/2212.10341)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2022/10] **[DE-FAKE: Detection and Attribution of Fake Images Generated by Text-to-Image Generation Models](https://arxiv.org/abs/2210.06998)** ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 
-### B2. Ethics
+### A3. Ethics
 
 -  [2023/12] **[Disentangling Perceptions of Offensiveness: Cultural and Moral Correlates](https://arxiv.org/abs/2312.06861)**
 -  [2023/10] **[Unpacking the Ethical Value Alignment in Big Models](https://arxiv.org/abs/2310.17551)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -132,7 +100,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2023/05] **[From Text to MITRE Techniques: Exploring the Malicious Use of Large Language Models for Generating Cyber Attack Payloads](https://arxiv.org/abs/2305.15336)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/01] **[Exploring AI Ethics of ChatGPT: A Diagnostic Analysis](https://arxiv.org/abs/2301.12867)** ![img](https://img.shields.io/badge/LLM-589cf4)
 
-### B3. Fairness
+### A4. Fairness
 
 -  [2023/12] **[GPTBIAS: A Comprehensive Framework for Evaluating Bias in Large Language Models](https://arxiv.org/abs/2312.06315)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/11] **[FFT: Towards Harmlessness Evaluation and Analysis for LLMs with Factuality, Fairness, Toxicity](https://arxiv.org/abs/2311.18580)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -158,7 +126,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2021/02] **[Bias Out-of-the-Box: An Empirical Analysis of Intersectional Occupational Biases in Popular Generative Language Models](https://arxiv.org/abs/2102.04130)** ![img](https://img.shields.io/badge/NeurIPS'21-f1b800)
 -  [2021/01] **[Persistent Anti-Muslim Bias in Large Language Models](https://arxiv.org/abs/2101.05783)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/AIES'21-f1b800)
 
-### B4. Hallucination
+### A5. Hallucination
 
 -  [2024/01] **[Seven Failure Points When Engineering a Retrieval Augmented Generation System](https://arxiv.org/abs/2401.05856)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
 -  [2023/12] **[The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation](https://arxiv.org/abs/2312.09085)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -197,53 +165,16 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2022/02] **[Survey of Hallucination in Natural Language Generation](https://arxiv.org/abs/2202.03629)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2022/02] **[Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/NeurIPS'22-f1b800)
 
-### B5. Jailbreak
-
--  [2024/01] **[How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLM](https://www.yi-zeng.com/wp-content/uploads/2024/01/view.pdf)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2024/01] **[MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance](https://arxiv.org/abs/2401.02906)** <a href="https://github.com/pipilurj/MLLM-protector"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Defense-87b800)
--  [2023/12] **[A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection](https://arxiv.org/abs/2312.10766)** ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Defense-87b800)
--  [2023/12] **[Adversarial Attacks on GPT-4 via Simple Random Search](https://www.andriushchenko.me/gpt4adv.pdf)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/12] **[Make Them Spill the Beans! Coercive Knowledge Extraction from (Production) LLMs](https://arxiv.org/abs/2312.04782)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CodeGen-87b800)
--  [2023/11] **[FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts](https://arxiv.org/abs/2311.05608)** <a href="https://github.com/ThuCCSLab/FigStep"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
--  [2023/11] **[Evil Geniuses: Delving into the Safety of LLM-based Agents](https://arxiv.org/abs/2311.11855)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Agent-87b800)
--  [2023/11] **[Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild](https://arxiv.org/abs/2311.06237)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/10] **[Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations](https://arxiv.org/abs/2310.06387)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/10] **[Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Blog-f1b800)
--  [2023/10] **[AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](https://arxiv.org/abs/2310.04451)** <a href="https://github.com/SheltonLiu-N/AutoDAN"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/10] **[AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models](https://arxiv.org/abs/2310.15140)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/10] **[Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation](https://arxiv.org/abs/2310.06987)** <a href="https://github.com/Princeton-SysML/Jailbreak_LLM"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/10] **[Jailbreaking Black Box Large Language Models in Twenty Queries](https://arxiv.org/abs/2310.08419)** <a href="https://github.com/patrickrchao/JailbreakingLLMs"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/10] **[SC-Safety: A Multi-round Open-ended Question Adversarial Safety Benchmark for Large Language Models in Chinese](https://arxiv.org/abs/2310.05818)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Chinese-87b800)
--  [2023/10] **[Low-Resource Languages Jailbreak GPT-4](https://arxiv.org/abs/2310.02446)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/10] **[SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
--  [2023/09] **[GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts](https://arxiv.org/abs/2309.10253)** <a href="https://github.com/sherdencooper/GPTFuzz"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/09] **[Open Sesame! Universal Black Box Jailbreaking of Large Language Models](https://arxiv.org/abs/2309.01446)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/09] **[FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models](https://arxiv.org/abs/2309.05274)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/08] **[Detecting Language Model Attacks with Perplexity](https://arxiv.org/abs/2308.14132)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
--  [2023/08] **[“Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models](https://arxiv.org/abs/2308.03825)** <a href="https://github.com/verazuo/jailbreak_llms"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/08] **[GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher](https://arxiv.org/abs/2308.06463)** <a href="https://github.com/RobustNLP/CipherChat"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/08] **[XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models](https://arxiv.org/abs/2308.01263)** <a href="https://github.com/paul-rottger/exaggerated-safety"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
--  [2023/07] **[MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots](https://arxiv.org/abs/2307.08715)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/NDSS'24-f1b800)
--  [2023/07] **[Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
--  [2023/07] **[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)** <a href="https://github.com/llm-attacks/llm-attacks"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/07] **[Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models](https://arxiv.org/abs/2307.08487)** <a href="qiuhuachuan/latent-jailbreak (github.com)"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/05] **[Tricking LLMs into Disobedience: Understanding, Analyzing, and Preventing Jailbreaks](https://arxiv.org/abs/2305.14965)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/05] **[Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study](https://arxiv.org/abs/2305.13860)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/04] **[Multi-step Jailbreaking Privacy Attacks on ChatGPT](https://arxiv.org/abs/2304.05197)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
-
-### B6. Safety Alignment
+### A6. Safety Alignment
 
 -  [2024/01] **[Agent Alignment in Evolving Social Norms](https://arxiv.org/abs/2401.04620)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Agent-87b800)
 -  [2023/12] **[Exploiting Novel GPT-4 APIs](https://arxiv.org/abs/2312.14302)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[Alignment for Honesty](https://arxiv.org/abs/2312.07000)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/12] **[Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack](https://arxiv.org/abs/2312.06924)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/11] **[Removing RLHF Protections in GPT-4 via Fine-Tuning](https://arxiv.org/abs/2311.05553)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/10] **[Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://arxiv.org/abs/2310.03693)** <a href="https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/10] **[Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models](https://arxiv.org/abs/2310.02949v1)** <a href="https://github.com/BeyonderXX/ShadowAlignment"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/10] **[AI Alignment: A Comprehensive Survey](https://arxiv.org/abs/2310.19852)** <a href="https://github.com/PKU-Alignment/AlignmentSurvey?tab=readme-ov-file"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/09] **[Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions](https://arxiv.org/abs/2309.07875)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/09] **[Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM](https://arxiv.org/abs/2309.14348)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/08] **[You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content](https://arxiv.org/abs/2308.05596)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/S&P'24-f1b800)
 -  [2023/07] **[CValues: Measuring the Values of Chinese Large Language Models from Safety to Responsibility](https://arxiv.org/abs/2307.09705)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Chinese-87b800)
 -  [2023/07] **[BeaverTails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset](https://arxiv.org/abs/2307.04657)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/05] **[Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://arxiv.org/abs/2305.03047)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -251,7 +182,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2023/04] **[RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment](https://arxiv.org/abs/2304.06767)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2022/10] **[Enabling Classifiers to Make Judgements Explicitly Aligned with Human Values](https://arxiv.org/abs/2210.07652)**
 
-### B7. Toxicity
+### A7. Toxicity
 
 -  [2024/01] **[A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity](https://arxiv.org/abs/2401.01967)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[GTA: Gated Toxicity Avoidance for LM Performance Preservation](https://arxiv.org/abs/2312.06122)** ![img](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
@@ -261,6 +192,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2023/10] **[On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts](https://arxiv.org/abs/2310.16613)** ![img](https://img.shields.io/badge/VLM-c7688b)
 -  [2023/10] **[Safe RLHF: Safe Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2310.12773)**
 -  [2023/10] **[All Languages Matter: On the Multilingual Safety of Large Language Models](https://arxiv.org/abs/2310.00905)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/08] **[You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content](https://arxiv.org/abs/2308.05596)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/S&P'24-f1b800)
 -  [2023/08] **[Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs](https://arxiv.org/abs/2308.13387)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/05] **[Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models](https://arxiv.org/abs/2305.13873)** ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 -  [2023/05] **[Evaluating ChatGPT's Performance for Multilingual and Emoji-based Hate Speech Detection](https://arxiv.org/abs/2305.13276)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -274,6 +206,74 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2022/04] **[Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)**
 -  [2022/03] **[ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509)** ![img](https://img.shields.io/badge/ACL'22-f1b800)
 -  [2020/09] **[RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://arxiv.org/abs/2009.11462)** <a href="https://github.com/allenai/real-toxicity-prompts?tab=readme-ov-file"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'20_(Findings)-f1b800)
+
+## B. Security
+
+
+### B1. Adversarial Examples
+
+-  [2024/01] **[INSTRUCTTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models](https://arxiv.org/abs/2312.01886)** ![img](https://img.shields.io/badge/VLM-c7688b)
+-  [2023/12] **[Hijacking Context in Large Multi-modal Models](https://arxiv.org/abs/2312.07553)**
+-  [2023/12] **[Causality Analysis for Evaluating the Security of Large Language Models](https://arxiv.org/abs/2312.07876)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/11] **[How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](https://arxiv.org/abs/2311.16101)** <a href="https://github.com/UCSC-VLAA/vllm-safety-benchmark"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Benchmark-87b800)
+-  [2023/11] **[DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification](https://arxiv.org/abs/2311.16124)** <a href="https://github.com/kangmintong/DiffAttack"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
+-  [2023/11] **[Can Protective Perturbation Safeguard Personal Data from Being Exploited by Stable Diffusion?](https://arxiv.org/abs/2312.00084)** ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/Defense-87b800)
+-  [2023/11] **[Unveiling Safety Vulnerabilities of Large Language Models](https://arxiv.org/abs/2311.04124)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/10] **[Misusing Tools in Large Language Models With Visual Adversarial Examples](https://arxiv.org/abs/2310.03185)** ![img](https://img.shields.io/badge/VLM-c7688b)
+-  [2023/10] **[An LLM can Fool Itself: A Prompt-Based Adversarial Attack](https://arxiv.org/abs/2310.13345)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/09] **[How Robust is Google's Bard to Adversarial Image Attacks?](https://arxiv.org/abs/2309.11751)** <a href="https://github.com/thu-ml/Attack-Bard"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
+-  [2023/09] **[Image Hijacks: Adversarial Images Can Control Generative Models at Runtime](https://arxiv.org/abs/2309.00236)** <a href="https://github.com/euanong/image-hijacks"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
+-  [2023/08] **[Ceci n'est pas une pomme: Adversarial Illusions in Multi-Modal Embeddings](https://arxiv.org/abs/2308.11804)** <a href="https://github.com/ebagdasa/adversarial_illusions"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
+-  [2023/08] **[On the Adversarial Robustness of Multi-Modal Foundation Models](https://arxiv.org/abs/2308.10741)** ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/ICCV'23_(AROW_Workshop)-f1b800)
+-  [2023/08] **[Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models](https://arxiv.org/abs/2308.07847)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/07] **[Jailbreak in Pieces: Compositional Adversarial Attacks on Multi-Modal Language Models](https://arxiv.org/abs/2307.14539)** ![img](https://img.shields.io/badge/VLM-c7688b)
+-  [2023/07] **[Certified Robustness for Large Language Models with Self-Denoising](https://arxiv.org/abs/2307.07171)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
+-  [2023/06] **[Adversarial Examples in the Age of ChatGPT](http://spylab.ai/blog/chatbot-adversarial-examples/)** ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Blog-f1b800)
+-  [2023/06] **[Visual Adversarial Examples Jailbreak Large Language Models](https://arxiv.org/abs/2306.13213)** <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
+-  [2023/06] **[Stable Diffusion is Unstable](https://arxiv.org/abs/2306.02583)** ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
+-  [2023/06] **[Unlearnable Examples for Diffusion Models: Protect Data from Unauthorized Exploitation](https://arxiv.org/abs/2306.01902)** <a href="https://github.com/ZhengyueZhao/EUDP"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/Diffusion-a99cf4)
+-  [2023/06] **[PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts](https://arxiv.org/abs/2306.04528)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Benchmark-87b800)
+-  [2023/06] **[Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
+-  [2023/05] **[On evaluating adversarial robustness of large vision-language models](https://arxiv.org/abs/2305.16934)** <a href="https://github.com/yunqing-me/AttackVLM"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
+-  [2023/05] **[Assessing Hidden Risks of LLMs: An Empirical Study on Robustness, Consistency, and Credibility](https://arxiv.org/abs/2305.10235)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/03] **[Anti-DreamBooth: Protecting Users from Personalized Text-to-Image Synthesis](https://arxiv.org/abs/2303.15433)** <a href="https://github.com/VinAIResearch/Anti-DreamBooth"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/ICCV'23-f1b800)
+-  [2023/02] **[Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples](https://arxiv.org/abs/2302.04578)** <a href="https://github.com/mist-project/mist"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/ICML'23-f1b800)
+-  [2023/02] **[Raising the Cost of Malicious AI-Powered Image Editing](https://arxiv.org/abs/2302.06588)** <a href="https://github.com/MadryLab/photoguard"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/ICML'23-f1b800)
+-  [2023/02] **[On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective](https://arxiv.org/abs/2302.12095)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/02] **[Large Language Models Can Be Easily Distracted by Irrelevant Context](https://arxiv.org/abs/2302.00093)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICML'23-f1b800)
+-  [2023/01] **[On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex](https://arxiv.org/abs/2301.12868)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CodeGen-87b800) ![img](https://img.shields.io/badge/EACL'23-f1b800)
+-  [2022/12] **[Understanding Zero-shot Adversarial Robustness for Large-Scale Model](https://arxiv.org/abs/2212.07016)** <a href="https://github.com/cvlab-columbia/ZSRobust4FoundationModel"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/ICLR'23-f1b800)
+
+### B2. Code Generation Security
+
+-  [2024/01] **[DebugBench: Evaluating Debugging Capability of Large Language Models](https://arxiv.org/abs/2401.04621)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/12] **[Chain of Code: Reasoning with a Language Model-Augmented Code Emulator](https://arxiv.org/abs/2312.04474)**
+-  [2023/12] **[Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models](https://arxiv.org/abs/2312.04724)** <a href="PurpleLlama/CybersecurityBenchmarks at main · facebookresearch/PurpleLlama (github.com)"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CodeGen-87b800)
+-  [2023/05] **[Uncovering and Quantifying Social Biases in Code Generation](https://arxiv.org/abs/2305.15377)**
+-  [2023/02] **[Large Language Models for Code: Security Hardening and Adversarial Testing](https://arxiv.org/abs/2302.05319)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CCS'23-f1b800) ![img](https://img.shields.io/badge/Best_paper-ff0000)
+-  [2022/11] **[Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/abs/2211.03622)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CCS'23-f1b800)
+
+### B3. Poisoning 
+
+-  [2024/01] **[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566)** <a href="https://github.com/anthropics/sleeper-agents-paper"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/12] **[Unleashing Cheapfakes through Trojan Plugins of Large Language Models](https://arxiv.org/abs/2312.00374)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/12] **[Stealthy and Persistent Unalignment on Large Language Models via Backdoor Injections](https://arxiv.org/abs/2312.00027)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/12] **[Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers' Coding Practices with Insecure Suggestions from Poisoned AI Models](https://arxiv.org/abs/2312.06227)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/11] **[Universal Jailbreak Backdoors from Poisoned Human Feedback](https://arxiv.org/abs/2311.14455)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/11] **[Test-time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations](https://arxiv.org/abs/2311.09763)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
+-  [2023/10] **[Composite Backdoor Attacks Against Large Language Models](https://arxiv.org/abs/2310.07676)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/10] **[Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models](https://arxiv.org/abs/2310.13828)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/10] **[Prompt Injection Attacks and Defenses in LLM-Integrated Applications](https://arxiv.org/abs/2310.12815)** <a href="liu00222/Open-Prompt-Injection: Prompt injection attacks and defenses in LLM-integrated applications (github.com)"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
+-  [2023/10] **[Large Language Models Are Better Adversaries: Exploring Generative Clean-Label Backdoor Attacks Against Text Classifiers](https://arxiv.org/abs/2310.18603)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
+-  [2023/10] **[PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models](https://arxiv.org/abs/2310.12439)** <a href="grasses/PoisonPrompt: Code for paper: PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models, IEEE ICASSP 2024 (github.com)"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICASSP'24-f1b800)
+-  [2023/08] **[The Poison of Alignment](https://arxiv.org/abs/2308.13449)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/08] **[LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors](https://arxiv.org/abs/2308.13904)** <a href="https://github.com/meng-wenlong/LMSanitator"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/NDSS'24-f1b800)
+-  [2023/07] **[Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection](https://arxiv.org/abs/2307.16888)** <a href="https://github.com/wegodev2/virtual-prompt-injection"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/06] **[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)** <a href="https://github.com/azshue/AutoPoison"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
+-  [2023/06] **[Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/abs/2306.05499)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/05] **[Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944)** <a href="https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICML'23-f1b800)
+-  [2023/05] **[Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models](https://arxiv.org/abs/2305.14710)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/02] **[Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173v2)** ![img](https://img.shields.io/badge/LLM-589cf4)
 
 ## C. Privacy
 

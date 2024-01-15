@@ -22,19 +22,19 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 # Survey
 
--  [2023/05] **[ChatGPT Needs SPADE (Sustainability, PrivAcy, Digital divide, and Ethics) Evaluation: A Review](https://arxiv.org/abs/2305.03123)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/12] **[Privacy Issues in Large Language Models: A Survey](https://arxiv.org/abs/2312.06717)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[TrustLLM: Trustworthiness in Large Language Models](https://arxiv.org/abs/2401.05561)** <a href="https://github.com/HowieHwong/TrustLLM"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/12] **[Privacy Issues in Large Language Models: A Survey](https://arxiv.org/abs/2312.06717)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly](https://arxiv.org/abs/2312.02003)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/10] **[Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks](https://arxiv.org/abs/2310.10844)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/08] **[Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment](https://arxiv.org/abs/2308.05374)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/07] **[A Comprehensive Overview of Large Language Models](https://arxiv.org/abs/2307.06435)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/06] **[DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs/2306.11698)** <a href="https://decodingtrust.github.io/"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800) ![img](https://img.shields.io/badge/Best_paper-ff0000)
+-  [2023/05] **[ChatGPT Needs SPADE (Sustainability, PrivAcy, Digital divide, and Ethics) Evaluation: A Review](https://arxiv.org/abs/2305.03123)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/04] **[Safety Assessment of Chinese Large Language Models](https://arxiv.org/abs/2304.10436)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/03] **[A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2022/11] **[Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110)** ![img](https://img.shields.io/badge/TMLR'23-f1b800)
--  [2022/06] **[Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://arxiv.org/abs/2206.04615)**
--  [2021/11] **[Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models](https://arxiv.org/abs/2111.02840)** ![img](https://img.shields.io/badge/NeurIPS'21-f1b800)
+-  [2022/11] **[Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/TMLR'23-f1b800)
+-  [2022/06] **[Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://arxiv.org/abs/2206.04615)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2021/11] **[Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models](https://arxiv.org/abs/2111.02840)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/NeurIPS'21-f1b800)
 
 # Paper
 
@@ -47,8 +47,9 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A1. Jailbreak
 
--  [2024/01] **[How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLM](https://www.yi-zeng.com/wp-content/uploads/2024/01/view.pdf)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/01] **[How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/abs/2401.06373)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance](https://arxiv.org/abs/2401.02906)** <a href="https://github.com/pipilurj/MLLM-protector"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Defense-87b800)
+-  [2024/01] **[Intention Analysis Prompting Makes Large Language Models A Good Jailbreak Defender](https://arxiv.org/abs/2401.06561)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2023/12] **[A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection](https://arxiv.org/abs/2312.10766)** ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2023/12] **[Adversarial Attacks on GPT-4 via Simple Random Search](https://www.andriushchenko.me/gpt4adv.pdf)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[Make Them Spill the Beans! Coercive Knowledge Extraction from (Production) LLMs](https://arxiv.org/abs/2312.04782)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CodeGen-87b800)
@@ -83,10 +84,12 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A2. Deepfake
 
+-  [2024/01] **[Few-Shot Detection of Machine-Generated Text using Style Representations](https://arxiv.org/abs/2401.06712)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/01] **[LLM-as-a-Coauthor: The Challenges of Detecting LLM-Human Mixcase](https://arxiv.org/abs/2401.05952)** <a href="https://github.com/Dongping-Chen/MixSet"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/10] **[Harnessing the Power of ChatGPT in Fake News: An In-Depth Exploration in Generation, Detection and Explanation](https://arxiv.org/abs/2310.05046)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/05] **[Evading Watermark based Detection of AI-Generated Content](https://arxiv.org/abs/2305.03807)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 -  [2023/05] **[On the Risk of Misinformation Pollution with Large Language Models](https://arxiv.org/abs/2305.13661)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
--  [2023/04] **[Synthetic Lies: Understanding AI-Generated Misinformation and Evaluating Algorithmic and Human Solutions](https://doi.org/10.1145/3544548.3581318)** ![img](https://img.shields.io/badge/CHI'23-f1b800)
+-  [2023/04] **[Synthetic Lies: Understanding AI-Generated Misinformation and Evaluating Algorithmic and Human Solutions](https://doi.org/10.1145/3544548.3581318)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CHI'23-f1b800)
 -  [2023/03] **[Can AI-Generated Text be Reliably Detected?](https://arxiv.org/abs/2303.11156)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/03] **[MGTBench: Benchmarking Machine-Generated Text Detection](https://arxiv.org/abs/2303.14822)** <a href="https://github.com/xinleihe/MGTBench"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2022/12] **[CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Data Limitation With Contrastive Learning](https://arxiv.org/abs/2212.10341)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -94,7 +97,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A3. Ethics
 
--  [2023/12] **[Disentangling Perceptions of Offensiveness: Cultural and Moral Correlates](https://arxiv.org/abs/2312.06861)**
+-  [2023/12] **[Disentangling Perceptions of Offensiveness: Cultural and Moral Correlates](https://arxiv.org/abs/2312.06861)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/10] **[Unpacking the Ethical Value Alignment in Big Models](https://arxiv.org/abs/2310.17551)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/10] **[Denevil: Towards Deciphering and Navigating the Ethical Values of Large Language Models via Instruction Learning](https://arxiv.org/abs/2310.11053)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Benchmark-87b800)
 -  [2023/05] **[From Text to MITRE Techniques: Exploring the Malicious Use of Large Language Models for Generating Cyber Attack Payloads](https://arxiv.org/abs/2305.15336)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -102,9 +105,10 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A4. Fairness
 
+-  [2024/01] **[Beyond the Surface: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation](https://arxiv.org/abs/2401.06310)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
 -  [2023/12] **[GPTBIAS: A Comprehensive Framework for Evaluating Bias in Large Language Models](https://arxiv.org/abs/2312.06315)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/11] **[FFT: Towards Harmlessness Evaluation and Analysis for LLMs with Factuality, Fairness, Toxicity](https://arxiv.org/abs/2311.18580)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/11] **[Beyond Detection: Unveiling Fairness Vulnerabilities in Abusive Language Models](https://arxiv.org/abs/2311.09428)**
+-  [2023/11] **[Beyond Detection: Unveiling Fairness Vulnerabilities in Abusive Language Models](https://arxiv.org/abs/2311.09428)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/11] **[ROBBIE: Robust Bias Evaluation of Large Generative Language Models](https://arxiv.org/abs/2311.18140)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23-f1b800)
 -  [2023/10] **[Investigating the Fairness of Large Language Models for Predictions on Tabular Data](https://arxiv.org/abs/2310.14607)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/10] **[Kelly is a Warm Person, Joseph is a Role Model: Gender Biases in LLM-Generated Reference Letters](https://arxiv.org/abs/2310.09219)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23 (Findings)-f1b800)
@@ -119,23 +123,24 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2023/06] **[Knowledge of cultural moral norms in large language models](https://arxiv.org/abs/2306.01857)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ACL'23-f1b800)
 -  [2023/05] **[Large Language Models are not Fair Evaluators](https://arxiv.org/abs/2305.17926)** <a href="https://github.com/i-Eval/FairEval"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/05] **[Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation](https://arxiv.org/abs/2305.07609)** <a href="https://github.com/jizhi-zhang/FaiRLLM"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Recsys'23-f1b800)
--  [2023/05] **[BiasAsker: Measuring the Bias in Conversational AI System](https://arxiv.org/abs/2305.12434)** ![img](https://img.shields.io/badge/FSE'23-f1b800)
+-  [2023/05] **[BiasAsker: Measuring the Bias in Conversational AI System](https://arxiv.org/abs/2305.12434)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/FSE'23-f1b800)
 -  [2022/05] **[Auto-Debias: Debiasing Masked Language Models with Automated Biased Prompts](https://aclanthology.org/2022.acl-long.72/)** <a href="https://github.com/Irenehere/Auto-Debias"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800) ![img](https://img.shields.io/badge/ACL'22-f1b800)
--  [2022/03] **[Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal](https://arxiv.org/abs/2203.12574)** ![img](https://img.shields.io/badge/ACL'22_(Findings)-f1b800)
--  [2021/04] **[Mitigating Political Bias in Language Models Through Reinforced Calibration](https://arxiv.org/abs/2104.14795)** ![img](https://img.shields.io/badge/AAAI'21-f1b800)
--  [2021/02] **[Bias Out-of-the-Box: An Empirical Analysis of Intersectional Occupational Biases in Popular Generative Language Models](https://arxiv.org/abs/2102.04130)** ![img](https://img.shields.io/badge/NeurIPS'21-f1b800)
+-  [2022/03] **[Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal](https://arxiv.org/abs/2203.12574)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ACL'22_(Findings)-f1b800)
+-  [2021/04] **[Mitigating Political Bias in Language Models Through Reinforced Calibration](https://arxiv.org/abs/2104.14795)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/AAAI'21-f1b800)
+-  [2021/02] **[Bias Out-of-the-Box: An Empirical Analysis of Intersectional Occupational Biases in Popular Generative Language Models](https://arxiv.org/abs/2102.04130)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/NeurIPS'21-f1b800)
 -  [2021/01] **[Persistent Anti-Muslim Bias in Large Language Models](https://arxiv.org/abs/2101.05783)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/AIES'21-f1b800)
 
 ### A5. Hallucination
 
 -  [2024/01] **[Seven Failure Points When Engineering a Retrieval Augmented Generation System](https://arxiv.org/abs/2401.05856)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
+-  [2024/01] **[Relying on the Unreliable: The Impact of Language Models' Reluctance to Express Uncertainty](https://arxiv.org/abs/2401.06730)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation](https://arxiv.org/abs/2312.09085)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/12] **[Improving Factual Error Correction by Learning to Inject Factual Errors](https://arxiv.org/abs/2312.07049)**
+-  [2023/12] **[Improving Factual Error Correction by Learning to Inject Factual Errors](https://arxiv.org/abs/2312.07049)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback](https://arxiv.org/abs/2312.00849)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[DelucionQA: Detecting Hallucinations in Domain-specific Question Answering](https://arxiv.org/abs/2312.05200)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
 -  [2023/11] **[Calibrated Language Models Must Hallucinate](https://arxiv.org/abs/2311.14648)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/11] **[Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models](https://arxiv.org/abs/2311.09210)**
--  [2023/11] **[Fine-tuning Language Models for Factuality](https://arxiv.org/abs/2311.08401)**
+-  [2023/11] **[Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models](https://arxiv.org/abs/2311.09210)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/11] **[Fine-tuning Language Models for Factuality](https://arxiv.org/abs/2311.08401)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/11] **[UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation](https://arxiv.org/abs/2311.15296)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Chinese-87b800)
 -  [2023/11] **[Deficiency of Large Language Models in Finance: An Empirical Examination of Hallucination](https://arxiv.org/abs/2311.15548)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/11] **[When Large Language Models contradict humans? Large Language Models' Sycophantic Behaviour](https://arxiv.org/abs/2311.09410)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -149,11 +154,11 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2023/08] **[Simple synthetic data reduces sycophancy in large language models](https://arxiv.org/abs/2308.03958)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/07] **[Shifting Attention to Relevance: Towards the Uncertainty Estimation of Large Language Models](https://arxiv.org/abs/2307.01379)** <a href="https://github.com/jinhaoduan/shifting-attention-to-relevance"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/07] **[A Stitch in Time Saves Nine: Detecting and Mitigating Hallucinations of LLMs by Validating Low-Confidence Generation](https://arxiv.org/abs/2307.03987)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/06] **[Explore, Establish, Exploit: Red Teaming Language Models from Scratch](https://arxiv.org/abs/2306.09442)**
--  [2023/06] **[Inference-Time Intervention: Eliciting Truthful Answers from a Language Model](https://arxiv.org/abs/2306.03341)**
--  [2023/05] **[Improving Factuality and Reasoning in Language Models through Multiagent Debate](https://arxiv.org/abs/2305.14325)**
--  [2023/05] **[Fact-Checking Complex Claims with Program-Guided Reasoning](https://arxiv.org/abs/2305.12744)** ![img](https://img.shields.io/badge/ACL'23-f1b800)
--  [2023/05] **[Trusting Your Evidence: Hallucinate Less with Context-aware Decoding](https://arxiv.org/abs/2305.14739)**
+-  [2023/06] **[Explore, Establish, Exploit: Red Teaming Language Models from Scratch](https://arxiv.org/abs/2306.09442)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/06] **[Inference-Time Intervention: Eliciting Truthful Answers from a Language Model](https://arxiv.org/abs/2306.03341)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/05] **[Improving Factuality and Reasoning in Language Models through Multiagent Debate](https://arxiv.org/abs/2305.14325)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/05] **[Fact-Checking Complex Claims with Program-Guided Reasoning](https://arxiv.org/abs/2305.12744)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ACL'23-f1b800)
+-  [2023/05] **[Trusting Your Evidence: Hallucinate Less with Context-aware Decoding](https://arxiv.org/abs/2305.14739)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/05] **[HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2305.11747)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23-f1b800)
 -  [2023/05] **[Sources of Hallucination by Large Language Models on Inference Tasks](https://arxiv.org/abs/2305.14552)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
 -  [2023/05] **[Knowledge of Knowledge: Exploring Known-Unknowns Uncertainty with Large Language Models](https://arxiv.org/abs/2305.13712)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -180,31 +185,32 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2023/05] **[Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://arxiv.org/abs/2305.03047)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/04] **[Fundamental Limitations of Alignment in Large Language Models](https://arxiv.org/abs/2304.11082)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/04] **[RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment](https://arxiv.org/abs/2304.06767)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2022/10] **[Enabling Classifiers to Make Judgements Explicitly Aligned with Human Values](https://arxiv.org/abs/2210.07652)**
+-  [2022/10] **[Enabling Classifiers to Make Judgements Explicitly Aligned with Human Values](https://arxiv.org/abs/2210.07652)** ![img](https://img.shields.io/badge/LLM-589cf4)
 
 ### A7. Toxicity
 
 -  [2024/01] **[A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity](https://arxiv.org/abs/2401.01967)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/12] **[GTA: Gated Toxicity Avoidance for LM Performance Preservation](https://arxiv.org/abs/2312.06122)** ![img](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
+-  [2024/01] **[MetaHate: A Dataset for Unifying Efforts on Hate Speech Detection](https://arxiv.org/abs/2401.06526)** <a href="https://github.com/palomapiot/metahate/"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/12] **[GTA: Gated Toxicity Avoidance for LM Performance Preservation](https://arxiv.org/abs/2312.06122)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
 -  [2023/12] **[Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models](https://arxiv.org/abs/2312.08303)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations](https://arxiv.org/abs/2312.06674)** <a href="https://github.com/facebookresearch/PurpleLlama/tree/main/Llama-Guard"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/11] **[Unveiling the Implicit Toxicity in Large Language Models](https://arxiv.org/abs/2311.17391)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23-f1b800)
 -  [2023/10] **[On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts](https://arxiv.org/abs/2310.16613)** ![img](https://img.shields.io/badge/VLM-c7688b)
--  [2023/10] **[Safe RLHF: Safe Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2310.12773)**
+-  [2023/10] **[Safe RLHF: Safe Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2310.12773)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/10] **[All Languages Matter: On the Multilingual Safety of Large Language Models](https://arxiv.org/abs/2310.00905)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/08] **[You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content](https://arxiv.org/abs/2308.05596)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/S&P'24-f1b800)
 -  [2023/08] **[Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs](https://arxiv.org/abs/2308.13387)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/05] **[Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models](https://arxiv.org/abs/2305.13873)** ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 -  [2023/05] **[Evaluating ChatGPT's Performance for Multilingual and Emoji-based Hate Speech Detection](https://arxiv.org/abs/2305.13276)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/04] **[Toxicity in ChatGPT: Analyzing Persona-assigned Language Models](https://arxiv.org/abs/2304.05335)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
--  [2023/02] **[Adding Instructions during Pretraining: Effective Way of Controlling Toxicity in Language Models](https://arxiv.org/abs/2302.07388)** ![img](https://img.shields.io/badge/EACL'23-f1b800)
+-  [2023/02] **[Adding Instructions during Pretraining: Effective Way of Controlling Toxicity in Language Models](https://arxiv.org/abs/2302.07388)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EACL'23-f1b800)
 -  [2023/02] **[Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech](https://arxiv.org/abs/2302.07736)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/WWW'23_(Companion_Volume)-f1b800)
--  [2022/12] **[On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning](https://arxiv.org/abs/2212.08061)** ![img](https://img.shields.io/badge/ACL'23-f1b800)
--  [2022/12] **[Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)**
--  [2022/10] **[Unified Detoxifying and Debiasing in Language Generation via Inference-time Adaptive Optimization](https://arxiv.org/abs/2210.04492)** ![img](https://img.shields.io/badge/ICLR'23-f1b800)
+-  [2022/12] **[On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning](https://arxiv.org/abs/2212.08061)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ACL'23-f1b800)
+-  [2022/12] **[Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2022/10] **[Unified Detoxifying and Debiasing in Language Generation via Inference-time Adaptive Optimization](https://arxiv.org/abs/2210.04492)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'23-f1b800)
 -  [2022/05] **[Toxicity Detection with Generative Prompt-based Inference](https://arxiv.org/abs/2205.12390)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2022/04] **[Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)**
--  [2022/03] **[ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509)** ![img](https://img.shields.io/badge/ACL'22-f1b800)
+-  [2022/04] **[Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2022/03] **[ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ACL'22-f1b800)
 -  [2020/09] **[RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://arxiv.org/abs/2009.11462)** <a href="https://github.com/allenai/real-toxicity-prompts?tab=readme-ov-file"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'20_(Findings)-f1b800)
 
 ## B. Security
@@ -213,7 +219,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 ### B1. Adversarial Examples
 
 -  [2024/01] **[INSTRUCTTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models](https://arxiv.org/abs/2312.01886)** ![img](https://img.shields.io/badge/VLM-c7688b)
--  [2023/12] **[Hijacking Context in Large Multi-modal Models](https://arxiv.org/abs/2312.07553)**
+-  [2023/12] **[Hijacking Context in Large Multi-modal Models](https://arxiv.org/abs/2312.07553)** ![img](https://img.shields.io/badge/VLM-c7688b)
 -  [2023/12] **[Causality Analysis for Evaluating the Security of Large Language Models](https://arxiv.org/abs/2312.07876)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/11] **[How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](https://arxiv.org/abs/2311.16101)** <a href="https://github.com/UCSC-VLAA/vllm-safety-benchmark"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Benchmark-87b800)
 -  [2023/11] **[DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification](https://arxiv.org/abs/2311.16124)** <a href="https://github.com/kangmintong/DiffAttack"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
@@ -247,15 +253,16 @@ The resources related to the trustworthiness of large models (LMs) across multip
 ### B2. Code Generation Security
 
 -  [2024/01] **[DebugBench: Evaluating Debugging Capability of Large Language Models](https://arxiv.org/abs/2401.04621)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2023/12] **[Chain of Code: Reasoning with a Language Model-Augmented Code Emulator](https://arxiv.org/abs/2312.04474)**
+-  [2023/12] **[Chain of Code: Reasoning with a Language Model-Augmented Code Emulator](https://arxiv.org/abs/2312.04474)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models](https://arxiv.org/abs/2312.04724)** <a href="PurpleLlama/CybersecurityBenchmarks at main · facebookresearch/PurpleLlama (github.com)"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CodeGen-87b800)
--  [2023/05] **[Uncovering and Quantifying Social Biases in Code Generation](https://arxiv.org/abs/2305.15377)**
+-  [2023/05] **[Uncovering and Quantifying Social Biases in Code Generation](https://arxiv.org/abs/2305.15377)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/02] **[Large Language Models for Code: Security Hardening and Adversarial Testing](https://arxiv.org/abs/2302.05319)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CCS'23-f1b800) ![img](https://img.shields.io/badge/Best_paper-ff0000)
 -  [2022/11] **[Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/abs/2211.03622)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CCS'23-f1b800)
 
 ### B3. Poisoning 
 
 -  [2024/01] **[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566)** <a href="https://github.com/anthropics/sleeper-agents-paper"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/01] **[Universal Vulnerabilities in Large Language Models: In-context Learning Backdoor Attacks](https://arxiv.org/abs/2401.05949)** <a href="https://github.com/shuaizhao95/ICLAttack"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[Unleashing Cheapfakes through Trojan Plugins of Large Language Models](https://arxiv.org/abs/2312.00374)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[Stealthy and Persistent Unalignment on Large Language Models via Backdoor Injections](https://arxiv.org/abs/2312.00027)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers' Coding Practices with Insecure Suggestions from Poisoned AI Models](https://arxiv.org/abs/2312.06227)** ![img](https://img.shields.io/badge/LLM-589cf4)

@@ -18,7 +18,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 | Title | Link  | Code |   Venue |  Classification |  Model | Comment |
 | ---- |---- |---- |---- |---- |----|----|
-| aa |  arxiv | github  | bb'23    |  A1.Jailbreak | LLM  | Agent |
+| aa |  arxiv | github  | bb'23    |  A1. Jailbreak | LLM  | Agent |
 
 
  

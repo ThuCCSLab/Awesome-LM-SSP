@@ -14,7 +14,10 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
    - Venue (Continuous update): ![img](https://img.shields.io/badge/conference-f1b800) or ![img](https://img.shields.io/badge/blog-f1b800)
 
- 
+# News
+
+- [2023.01.17] :fire: We collect `107` related papers from [ICLR'24](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
+- [2023.01.09] :fire: LM-SSP is released!
 
 # Book
 

@@ -5,7 +5,7 @@
 The resources related to the trustworthiness of large models (LMs) across multiple dimensions (e.g., safety, security, and privacy),                  with a special focus on multi-modal LMs (e.g., vision-language models and diffusion models). 
 
 - This repo is in progress :seedling: (currently manually collected).
-- Welcome to recommend resources to us (via <a href="https://github.com/ThuCCSLab/lm-ssp/issues">                 <img src="https://icons.iconarchive.com/icons/github/octicons/128/issue-opened-16-icon.png" width="15" height="15"></a>                 Issues / <a href="https://github.com/ThuCCSLab/lm-ssp/pulls"><img src="https://icons.iconarchive.com/icons/iconoir-team/iconoir/128/git-pull-request-icon.png"                  width="17" height="17"></a> Pull requests / <a href="mailto:thu_crypto_ai@163.com"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope-open.svg"                 width="15" height="15"></a> Email / ...)!
+
 - Badges: 
 
     - Model: ![img](https://img.shields.io/badge/llm-589cf4) ![img](https://img.shields.io/badge/vlm-c7688b)  ![img](https://img.shields.io/badge/diffusion-a99cf4) 
@@ -13,6 +13,13 @@ The resources related to the trustworthiness of large models (LMs) across multip
     - Comment: ![img](https://img.shields.io/badge/Benchmark-87b800) ![img](https://img.shields.io/badge/New_dataset-87b800) ![img](https://img.shields.io/badge/Agent-87b800)                 ![img](https://img.shields.io/badge/CodeGen-87b800) ![img](https://img.shields.io/badge/Defense-87b800) ![img](https://img.shields.io/badge/RAG-87b800) ![img](https://img.shields.io/badge/Chinese-87b800) 
 
    - Venue (Continuous update): ![img](https://img.shields.io/badge/conference-f1b800) or ![img](https://img.shields.io/badge/blog-f1b800)
+ 
+- :sunflower: Welcome to recommend resources to us via <a href="https://github.com/ThuCCSLab/lm-ssp/issues">    <img src="https://icons.iconarchive.com/icons/github/octicons/128/issue-opened-16-icon.png" width="15" height="15"></a> Issues with the following format (**please fill in this table**):
+
+| Title | Link  | Code |   Venue |  Classification |  Model | Comment |
+| ---- |---- |---- |---- |---- |----|----|
+| aa |  arxiv | github  | bb'23    |  A1.Jailbreak | LLM  | Agent |
+
 
  
 

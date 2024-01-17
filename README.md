@@ -12,14 +12,14 @@
 
    - Venue (Continuous update): ![img](https://img.shields.io/badge/conference-f1b800) or ![img](https://img.shields.io/badge/blog-f1b800)
 
- 
+ The resources related to the trustworthiness of large models (LMs) across multiple dimensions (e.g., safety, security, and privacy),                  with a special focus on multi-modal LMs (e.g., vision-language models and diffusion models). 
+
+
 
 # News 
 
 - [2023.01.17] :fire: We collect `108` related papers from [ICLR'24](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
-- [2023.01.09] :fire: LM-SSP is released!The resources related to the trustworthiness of large models (LMs) across multiple dimensions (e.g., safety, security, and privacy),                  with a special focus on multi-modal LMs (e.g., vision-language models and diffusion models). 
-
-
+- [2023.01.09] :fire: LM-SSP is released!
 
 # Book
 

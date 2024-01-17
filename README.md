@@ -2,8 +2,6 @@
 
 # Introduction 
 
-The resources related to the trustworthiness of large models (LMs) across multiple dimensions (e.g., safety, security, and privacy),                  with a special focus on multi-modal LMs (e.g., vision-language models and diffusion models). 
-
 - This repo is in progress :seedling: (currently manually collected).
 - Welcome to recommend resources to us (via <a href="https://github.com/ThuCCSLab/lm-ssp/issues">                 <img src="https://icons.iconarchive.com/icons/github/octicons/128/issue-opened-16-icon.png" width="15" height="15"></a>                 Issues / <a href="https://github.com/ThuCCSLab/lm-ssp/pulls"><img src="https://icons.iconarchive.com/icons/iconoir-team/iconoir/128/git-pull-request-icon.png"                  width="17" height="17"></a> Pull requests / <a href="mailto:thu_crypto_ai@163.com"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope-open.svg"                 width="15" height="15"></a> Email / ...)!
 - Badges: 
@@ -18,6 +16,13 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 - [2023.01.17] :fire: We collect `107` related papers from [ICLR'24](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
 - [2023.01.09] :fire: LM-SSP is released!
+
+# News 
+
+- [2023.01.17] :fire: We collect `108` related papers from [ICLR'24](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
+- [2023.01.09] :fire: LM-SSP is released!The resources related to the trustworthiness of large models (LMs) across multiple dimensions (e.g., safety, security, and privacy),                  with a special focus on multi-modal LMs (e.g., vision-language models and diffusion models). 
+
+
 
 # Book
 
@@ -365,6 +370,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2023/09] **[Proving Test Set Contamination for Black-Box Language Models](https://openreview.net/forum?id=KS8mIvetg2)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24_(Oral)-f1b800)
 -  [2023/09] **[Time Travel in LLMs: Tracing Data Contamination in Large Language Models](https://openreview.net/forum?id=2Rwq6c3tvr)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
 -  [2023/09] **[To the Cutoff... And Beyond? A Longitudinal Perspective on LLM Data Contamination](https://openreview.net/forum?id=m2NVG4Htxs)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
+-  [2023/09] **[DyVal: Graph-Informed Dynamic Evaluation of Large Language Models](https://openreview.net/forum?id=gjfOL9z5Xr)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
 
 ### C2. Copyright
 

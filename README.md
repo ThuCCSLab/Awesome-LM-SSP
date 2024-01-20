@@ -21,7 +21,8 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 # News 
 
-- [2023.01.17] :fire: We collect `108` related papers from [ICLR'24](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
+- [2023.01.20] :fire: We collect `3` related papers from [NDSS'24](https://www.ndss-symposium.org/ndss2024/accepted-papers/)!
+- [2023.01.17]  :fire: We collect `108` related papers from [ICLR'24](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
 - [2023.01.09] :fire: LM-SSP is released!
 
 # Book
@@ -58,7 +59,6 @@ The resources related to the trustworthiness of large models (LMs) across multip
 ### A1. Jailbreak
 
 -  [2024/01] **[How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/abs/2401.06373)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2024/01] **[MLLM-Protector: Ensuring MLLM's Safety Without Hurting Performance](https://arxiv.org/abs/2401.02906)** <a href="https://github.com/pipilurj/MLLM-protector"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/01] **[Intention Analysis Prompting Makes Large Language Models a Good Jailbreak Defender](https://arxiv.org/abs/2401.06561)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/01] **[AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models](https://arxiv.org/abs/2401.09002)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[All in How You Ask for It: Simple Black-Box Method for Jailbreak Attacks](https://arxiv.org/abs/2401.09798)** <a href="https://github.com/kztakemoto/simbaja"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -315,6 +315,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2023/11] **[DiffAttack: Evasion Attacks Against Diffusion-Based Adversarial Purification](https://arxiv.org/abs/2311.16124)** <a href="https://github.com/kangmintong/DiffAttack"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
 -  [2023/11] **[How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](https://arxiv.org/abs/2311.16101)** <a href="https://github.com/UCSC-VLAA/vllm-safety-benchmark"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Benchmark-87b800)
 -  [2023/11] **[Unveiling Safety Vulnerabilities of Large Language Models](https://arxiv.org/abs/2311.04124)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/11] **[Improving the Robustness of Transformer-Based Large Language Models With Dynamic Attention](https://arxiv.org/abs/2311.17400)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800) ![img](https://img.shields.io/badge/NDSS'24-f1b800)
 -  [2023/10] **[Misusing Tools in Large Language Models With Visual Adversarial Examples](https://arxiv.org/abs/2310.03185)** ![img](https://img.shields.io/badge/VLM-c7688b)
 -  [2023/09] **[How Robust Is Google's Bard to Adversarial Image Attacks?](https://arxiv.org/abs/2309.11751)** <a href="https://github.com/thu-ml/Attack-Bard"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
 -  [2023/09] **[Image Hijacks: Adversarial Images Can Control Generative Models at Runtime](https://arxiv.org/abs/2309.00236)** <a href="https://github.com/euanong/image-hijacks"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)

@@ -22,7 +22,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 # News 
 
 - [2023.01.20] :fire: We collect `3` related papers from [NDSS'24](https://www.ndss-symposium.org/ndss2024/accepted-papers/)!
-- [2023.01.17]  :fire: We collect `108` related papers from [ICLR'24](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
+- [2023.01.17] :fire: We collect `108` related papers from [ICLR'24](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
 - [2023.01.09] :fire: LM-SSP is released!
 
 # Book
@@ -62,6 +62,8 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2024/01] **[Intention Analysis Prompting Makes Large Language Models a Good Jailbreak Defender](https://arxiv.org/abs/2401.06561)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/01] **[AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models](https://arxiv.org/abs/2401.09002)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[All in How You Ask for It: Simple Black-Box Method for Jailbreak Attacks](https://arxiv.org/abs/2401.09798)** <a href="https://github.com/kztakemoto/simbaja"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/01] **[Sowing the Wind, Reaping the Whirlwind: The Impact of Editing Language Models](https://arxiv.org/abs/2401.10647)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/01] **[Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tunin](https://arxiv.org/abs/2401.10862)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2023/12] **[A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection](https://arxiv.org/abs/2312.10766)** ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2023/12] **[Adversarial Attacks on GPT-4 via Simple Random Search](https://www.andriushchenko.me/gpt4adv.pdf)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[Make Them Spill the Beans! Coercive Knowledge Extraction From (Production) LLMs](https://arxiv.org/abs/2312.04782)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CodeGen-87b800)
@@ -207,6 +209,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2024/01] **[Seven Failure Points When Engineering a Retrieval Augmented Generation System](https://arxiv.org/abs/2401.05856)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
 -  [2024/01] **[Relying on the Unreliable: The Impact of Language Models' Reluctance to Express Uncertainty](https://arxiv.org/abs/2401.06730)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[Model Editing Can Hurt General Abilities of Large Language Models](https://arxiv.org/abs/2401.04700)** <a href="https://github.com/JasonForJoy/Model-Editing-Hurt"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/01] **[Mitigating Hallucinations of Large Language Models via Knowledge Consistent Alignment](https://arxiv.org/abs/2401.10768)** <a href="https://github.com/fanqiwan/KCA"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[The Earth Is Flat Because...: Investigating LLMs' Belief Towards Misinformation via Persuasive Conversation](https://arxiv.org/abs/2312.09085)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[DelucionQA: Detecting Hallucinations in Domain-Specific Question Answering](https://arxiv.org/abs/2312.05200)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
 -  [2023/12] **[Improving Factual Error Correction by Learning to Inject Factual Errors](https://arxiv.org/abs/2312.07049)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -272,6 +275,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 -  [2024/01] **[A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity](https://arxiv.org/abs/2401.01967)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[MetaHate: A Dataset for Unifying Efforts on Hate Speech Detection](https://arxiv.org/abs/2401.06526)** <a href="https://github.com/palomapiot/metahate/"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/01] **[Using LLMs to Discover Emerging Coded Antisemitic Hate-Speech Emergence in Extremist Social Media](https://arxiv.org/abs/2401.10841)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models](https://arxiv.org/abs/2312.08303)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[GTA: Gated Toxicity Avoidance for LM Performance Preservation](https://arxiv.org/abs/2312.06122)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
 -  [2023/12] **[Llama Guard: LLM-based Input-Output Safeguard for Human-Ai Conversations](https://arxiv.org/abs/2312.06674)** <a href="https://github.com/facebookresearch/PurpleLlama/tree/main/Llama-Guard"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -325,6 +329,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2023/09] **[Leveraging Optimization for Adaptive Attacks on Image Watermarks](https://openreview.net/forum?id=O9PArxKLe1)** ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
 -  [2023/09] **[Tensor Trust: Interpretable Prompt Injection Attacks From an Online Game](https://openreview.net/forum?id=fsW7wJGLBd)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/New_dataset-87b800) ![img](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
 -  [2023/09] **[Training Socially Aligned Language Models on Simulated Social Interactions](https://openreview.net/forum?id=NddKiWtdUm)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
+-  [2023/09] **[Inducing High Energy-Latency of Large Vision-Language Models With Verbose Images](https://openreview.net/forum?id=BteuUysuXX)** <a href="https://github.com/KuofengGao/Verbose_Images"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
 -  [2023/08] **[Ceci N'est Pas Une Pomme: Adversarial Illusions in Multi-Modal Embeddings](https://arxiv.org/abs/2308.11804)** <a href="https://github.com/ebagdasa/adversarial_illusions"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
 -  [2023/08] **[On the Adversarial Robustness of Multi-Modal Foundation Models](https://arxiv.org/abs/2308.10741)** ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/ICCV'23_(AROW_Workshop)-f1b800)
 -  [2023/08] **[Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models](https://arxiv.org/abs/2308.07847)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -420,6 +425,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 ### C5. Inference
 
 -  [2024/01] **[R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Agent-87b800)
+-  [2024/01] **[Excuse Me, Sir? Your Language Model Is Leaking (Information)](https://arxiv.org/abs/2401.10360)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[Black-Box Membership Inference Attacks Against Fine-Tuned Diffusion Models](https://arxiv.org/abs/2312.08207)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
 -  [2023/11] **[Practical Membership Inference Attacks Against Fine-Tuned Large Language Models via Self-Prompt Calibration](https://arxiv.org/abs/2311.06062)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/10] **[Last One Standing: A Comparative Analysis of Security and Privacy of Soft Prompt Tuning, LoRA, and in-Context Learning](https://arxiv.org/abs/2310.11397)** ![img](https://img.shields.io/badge/LLM-589cf4)

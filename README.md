@@ -83,6 +83,8 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A1. Jailbreak
 
+-  [2024/02] **[Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models](https://arxiv.org/abs/2402.02207)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
+-  [2024/02] **[HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal](https://arxiv.org/abs/2402.04249)** <a href="https://github.com/centerforaisafety/HarmBench"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/02] **[Jailbreaking Attack Against Multimodal Large Language Model](https://arxiv.org/abs/2402.02309)** <a href="https://github.com/abc03570128/Jailbreaking-Attack-against-Multimodal-Large-Language-Model"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
 -  [2024/02] **[Prompt-Driven LLM Safeguarding via Directed Representation Optimization](https://arxiv.org/abs/2401.18018)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/01] **[A Cross-Language Investigation Into Jailbreak Attacks in Large Language Models](https://arxiv.org/pdf/2401.16765.pdf)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -135,7 +137,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2023/09] **[Multilingual Jailbreak Challenges in Large Language Models](https://openreview.net/forum?id=vESNKdEMGp)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
 -  [2023/09] **[On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs](https://openreview.net/forum?id=H3UayAQWoE)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24_(Oral)-f1b800)
 -  [2023/09] **[RAIN: Your Language Models Can Align Themselves Without Finetuning](https://openreview.net/forum?id=pETSfWMUzy)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
--  [2023/09] **[Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models That Follow Instructions](https://openreview.net/forum?id=gT5hALch9z)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/defense-87b800) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
+-  [2023/09] **[Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models That Follow Instructions](https://openreview.net/forum?id=gT5hALch9z)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
 -  [2023/09] **[Understanding Hidden Context in Preference Learning: Consequences for RLHF](https://openreview.net/forum?id=0tWTxYYPnW)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
 -  [2023/09] **[Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM](https://arxiv.org/abs/2309.14348)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2023/09] **[FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models](https://arxiv.org/abs/2309.05274)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -177,7 +179,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2023/09] **[Generative Judge for Evaluating Alignment](https://openreview.net/forum?id=gtkFw6sZGS)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
 -  [2023/09] **[Group Preference Optimization: Few-Shot Alignment of Large Language Models](https://openreview.net/forum?id=DpFeMH4l8Q)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
 -  [2023/09] **[Improving Generalization of Alignment With Human Preferences Through Group Invariant Learning](https://openreview.net/forum?id=fwCoLe3TAX)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
--  [2023/09] **[Large Language Models as Automated Aligners for  Benchmarking  Vision-Language Models](https://openreview.net/forum?id=kZEXgtMNNo)** ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
+-  [2023/09] **[Large Language Models as Automated Aligners for Benchmarking Vision-Language Models](https://openreview.net/forum?id=kZEXgtMNNo)** ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
 -  [2023/09] **[Peering Through Preferences: Unraveling Feedback Acquisition for Aligning Large Language Models](https://openreview.net/forum?id=dKl6lMwbCy)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
 -  [2023/09] **[RLCD: Reinforcement Learning From Contrastive Distillation for LM Alignment](https://openreview.net/forum?id=v3XXtxWKi6)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
 -  [2023/09] **[Safe RLHF: Safe Reinforcement Learning From Human Feedback](https://openreview.net/forum?id=TyFrPOKYXw)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
@@ -264,6 +266,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A6. Hallucination
 
+-  [2024/02] **[C-Rag: Certified Generation Risks for Retrieval-Augmented Language Models](https://arxiv.org/abs/2402.03181)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
 -  [2024/01] **[Hallucination Is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[Mitigating Hallucinations of Large Language Models via Knowledge Consistent Alignment](https://arxiv.org/abs/2401.10768)** <a href="https://github.com/fanqiwan/KCA"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[Large Language Models Are Null-Shot Learners](https://arxiv.org/abs/2401.08273)** ![img](https://img.shields.io/badge/LLM-589cf4)

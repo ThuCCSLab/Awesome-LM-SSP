@@ -84,6 +84,8 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A1. Jailbreak
 
+-  [2024/02] **[Comprehensive Assessment of Jailbreak Attacks Against LLMs
+](https://arxiv.org/abs/2402.05668)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models](https://arxiv.org/abs/2402.02207)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/02] **[HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal](https://arxiv.org/abs/2402.04249)** <a href="https://github.com/centerforaisafety/HarmBench"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/02] **[Jailbreaking Attack Against Multimodal Large Language Model](https://arxiv.org/abs/2402.02309)** <a href="https://github.com/abc03570128/Jailbreaking-Attack-against-Multimodal-Large-Language-Model"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
@@ -167,6 +169,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A2. Alignment
 
+-  [2024/02] **[Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications](https://arxiv.org/abs/2402.05162)** <a href="https://boyiwei.com/alignment-attribution/"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[Agent Alignment in Evolving Social Norms](https://arxiv.org/abs/2401.04620)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Agent-87b800)
 -  [2023/12] **[Alignment for Honesty](https://arxiv.org/abs/2312.07000)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[Exploiting Novel GPT-4 APIs](https://arxiv.org/abs/2312.14302)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -271,7 +274,8 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A6. Hallucination
 
--  [2024/02] **[C-RAG: Certified Generation Risks for Retrieval-Augmented Language Models](https://arxiv.org/abs/2402.03181)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
+-  [2024/02] **[Is It Possible to Edit Large Language Models Robustly?](https://arxiv.org/abs/2402.05827)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/02] **[C-Rag: Certified Generation Risks for Retrieval-Augmented Language Models](https://arxiv.org/abs/2402.03181)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
 -  [2024/01] **[Hallucination Is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[Mitigating Hallucinations of Large Language Models via Knowledge Consistent Alignment](https://arxiv.org/abs/2401.10768)** <a href="https://github.com/fanqiwan/KCA"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[Large Language Models Are Null-Shot Learners](https://arxiv.org/abs/2401.08273)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -454,11 +458,13 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### C2. Copyright
 
+-  [2024/02] **[Permute-and-Flip: An Optimally Robust and Watermarkable Decoder for LLMs](https://arxiv.org/abs/2402.05864)** <a href="https://github.com/XuandongZhao/pf-decoding"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/02] **[Copyright Protection in Generative AI: A Technical Perspective
 ](https://arxiv.org/abs/2402.02333)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
 -  [2024/01] **[Adaptive Text Watermark for Large Language Models](https://arxiv.org/abs/2401.13927)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[Instructional Fingerprinting of Large Language Models](https://arxiv.org/abs/2401.12255)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[Generative AI Has a Visual Plagiarism Problem](https://spectrum.ieee.org/midjourney-copyright)** ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/Blog-f1b800)
+-  [2023/12] **[Human-Readable Fingerprint for Large Language Models](https://arxiv.org/abs/2312.04828)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/12] **[Mark My Words: Analyzing and Evaluating Language Model Watermarks](https://arxiv.org/abs/2312.00273)** <a href="https://github.com/wagner-group/MarkMyWords"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/11] **[A Robust Semantics-Based Watermark for Large Language Model Against Paraphrasing](https://arxiv.org/abs/2311.08721)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/11] **[Protecting Intellectual Property of Large Language Model-Based Code Generation APIs via Watermarks](https://dl.acm.org/doi/abs/10.1145/3576915.3623120)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CodeGen-87b800) ![img](https://img.shields.io/badge/CCS'23-f1b800)
@@ -495,6 +501,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### C5. Inference
 
+-  [2024/02] **[PromptCrypt: Prompt Encryption for Secure Communication With Large Language Models](https://arxiv.org/abs/2402.05868)** <a href="https://github.com/agiresearch/PromptCrypt"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/01] **[Excuse Me, Sir? Your Language Model Is Leaking (Information)](https://arxiv.org/abs/2401.10360)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Agent-87b800)
 -  [2023/12] **[Black-Box Membership Inference Attacks Against Fine-Tuned Diffusion Models](https://arxiv.org/abs/2312.08207)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
@@ -530,6 +537,8 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### C7. Unlearning
 
+-  [2024/02] **[Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation in Language Models](https://arxiv.org/abs/2402.05813)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/02] **[In-Context Learning Can Re-Learn Forbidden Tasks](https://arxiv.org/abs/2402.05723)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Machine Unlearning for Image-to-Image Generative Models](https://arxiv.org/abs/2402.00351)** <a href="https://github.com/jpmorganchase/l2l-generator-unlearning"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/_-87b800)
 -  [2024/01] **[TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/abs/2401.06121)** <a href="https://locuslab.github.io/tofu/"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/10] **[In-Context Unlearning: Language Models as Few Shot Unlearners](https://arxiv.org/abs/2310.07579)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -538,7 +547,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2023/10] **[Who's Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238?s=08)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/09] **[Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks](https://openreview.net/forum?id=7erlRDoaV8)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
 -  [2023/09] **[Detecting Pretraining Data From Large Language Models](https://openreview.net/forum?id=zWqr3MQuNs)** <a href="https://swj0419.github.io/detect-pretrain.github.io/"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
--  [2023/09] **[Ring-A-Bell! How Reliable Are Concept Removal Methods for Diffusion Models?](https://openreview.net/forum?id=lm7MRcsFiS)** ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/Defense-87b800) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
+-  [2023/09] **[Ring-a-Bell! How Reliable Are Concept Removal Methods for Diffusion Models?](https://openreview.net/forum?id=lm7MRcsFiS)** ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/Defense-87b800) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
 -  [2023/09] **[SalUn: Empowering Machine Unlearning via Gradient-Based Weight Saliency in Both Image Classification and Generation](https://openreview.net/forum?id=gn0mIhQGNM)** ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
 -  [2023/07] **[Right to Be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions](https://arxiv.org/abs/2307.03941)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/03] **[Erasing Concepts From Diffusion Models](https://arxiv.org/abs/2303.07345)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)

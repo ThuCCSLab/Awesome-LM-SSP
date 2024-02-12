@@ -47,6 +47,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 # Toolkit
 
 -  [2024/02] **[EasyJailbreak](https://luozisheng.com/)** <a href="https://github.com/EasyJailbreak/EasyJailbreak"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a>
+-  [2023/05] **[Ragas](https://docs.ragas.io/en/stable/)** <a href="https://github.com/explodinggradients/ragas"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/RAG-87b800)
 
 # Survey
 
@@ -169,6 +170,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A2. Alignment
 
+-  [2024/02] **[DeAL: Decoding-Time Alignment for Large Language Models](https://arxiv.org/abs/2402.06147)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications](https://arxiv.org/abs/2402.05162)** <a href="https://boyiwei.com/alignment-attribution/"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[Agent Alignment in Evolving Social Norms](https://arxiv.org/abs/2401.04620)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Agent-87b800)
 -  [2023/12] **[Alignment for Honesty](https://arxiv.org/abs/2312.07000)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -274,6 +276,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A6. Hallucination
 
+-  [2024/02] **[Understanding the Effects of Iterative Prompting on Truthfulness](https://arxiv.org/abs/2402.06625)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Is It Possible to Edit Large Language Models Robustly?](https://arxiv.org/abs/2402.05827)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[C-Rag: Certified Generation Risks for Retrieval-Augmented Language Models](https://arxiv.org/abs/2402.03181)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
 -  [2024/01] **[Hallucination Is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -345,6 +348,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A7. Toxicity
 
+-  [2024/02] **[Bryndza at ClimateActivism 2024: Stance, Target and Hate Event Detection via Retrieval-Augmented GPT-4 and LLaMA](https://arxiv.org/abs/2402.06549)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
 -  [2024/01] **[Using LLMs to Discover Emerging Coded Antisemitic Hate-Speech Emergence in Extremist Social Media](https://arxiv.org/abs/2401.10841)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[MetaHate: A Dataset for Unifying Efforts on Hate Speech Detection](https://arxiv.org/abs/2401.06526)** <a href="https://github.com/palomapiot/metahate/"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/01] **[A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity](https://arxiv.org/abs/2401.01967)** ![img](https://img.shields.io/badge/LLM-589cf4)

@@ -85,6 +85,9 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A1. Jailbreak
 
+-  [2024/02] **[COLD-Attack: Jailbreaking LLMs With Stealthiness and Controllability](https://arxiv.org/abs/2402.08679)** <a href="https://github.com/Yu-Fangxu/COLD-Attack"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/02] **[Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast](https://arxiv.org/abs/2402.08567)** <a href="https://sail-sg.github.io/Agent-Smith/"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Agent-87b800)
+-  [2024/02] **[Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning](https://arxiv.org/abs/2402.08416)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
 -  [2024/02] **[Comprehensive Assessment of Jailbreak Attacks Against LLMs
 ](https://arxiv.org/abs/2402.05668)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models](https://arxiv.org/abs/2402.02207)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
@@ -209,6 +212,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A3. Deepfake
 
+-  [2024/02] **[Does DETECTGPT Fully Utilize Perturbation? Selective Perturbation on Model-Based Contrastive Learning Detector Would Be Better](https://arxiv.org/abs/2402.00263)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[TELLER: A Trustworthy Framework for Explainable, Generalizable and Controllable Fake News Detection](https://arxiv.org/abs/2402.07776)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Organic or Diffused: Can We Distinguish Human Art From AI-generated Images?](https://arxiv.org/abs/2402.03214)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
 -  [2024/01] **[Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)** <a href="https://github.com/ahans30/Binoculars"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -433,6 +437,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### B2. Poisoning
 
+-  [2024/02] **[Test-Time Backdoor Attacks on Multimodal Large Language Models](https://arxiv.org/abs/2402.08577)** <a href="https://sail-sg.github.io/AnyDoor/"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
 -  [2024/02] **[PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/abs/2402.07867)** <a href="https://github.com/sleeepeer/PoisonedRAG"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/RAG-87b800)
 -  [2024/02] **[Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models](https://vlm-poison.github.io/)** <a href="https://github.com/umd-huang-lab/VLM-Poisoning"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/VLM-c7688b)
 -  [2024/01] **[Universal Vulnerabilities in Large Language Models: In-Context Learning Backdoor Attacks](https://arxiv.org/abs/2401.05949)** <a href="https://github.com/shuaizhao95/ICLAttack"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -462,6 +467,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### C1. Contamination
 
+-  [2024/02] **[Leak, Cheat, Repeat: Data Contamination and Evaluation Malpractices in Closed-Source LLMs](https://arxiv.org/abs/2402.03927)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/09] **[Proving Test Set Contamination for Black-Box Language Models](https://openreview.net/forum?id=KS8mIvetg2)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24_(Oral)-f1b800)
 -  [2023/09] **[Time Travel in LLMs: Tracing Data Contamination in Large Language Models](https://openreview.net/forum?id=2Rwq6c3tvr)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
 -  [2023/09] **[To the Cutoff... And Beyond? A Longitudinal Perspective on LLM Data Contamination](https://openreview.net/forum?id=m2NVG4Htxs)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
@@ -513,6 +519,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### C5. Inference
 
+-  [2024/02] **[Privacy-Preserving Language Model Inference With Instance Obfuscation](https://arxiv.org/abs/2402.08227)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/02] **[Do Membership Inference Attacks Work on Large Language Models?](https://arxiv.org/abs/2402.07841)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[PromptCrypt: Prompt Encryption for Secure Communication With Large Language Models](https://arxiv.org/abs/2402.05868)** <a href="https://github.com/agiresearch/PromptCrypt"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/01] **[Excuse Me, Sir? Your Language Model Is Leaking (Information)](https://arxiv.org/abs/2401.10360)** ![img](https://img.shields.io/badge/LLM-589cf4)

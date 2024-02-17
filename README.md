@@ -85,6 +85,8 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A1. Jailbreak
 
+-  [2024/02] **[PAL: Proxy-Guided Black-Box Attack on Large Language Models
+](https://arxiv.org/abs/2402.09674)** <a href="https://github.com/chawins/pal"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Attacking Large Language Models With Projected Gradient Descent
 ](https://arxiv.org/abs/2402.09154)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[SafeDecoding: Defending Against Jailbreak Attacks via Safety-Aware Decoding
@@ -526,6 +528,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### C4. Extraction
 
+-  [2024/02] **[Recovering the Pre-Fine-Tuning Weights of Generative Models](https://arxiv.org/abs/2402.10208)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
 -  [2023/03] **[On Extracting Specialized Code Abilities From Large Language Models: A Feasibility Study](https://arxiv.org/abs/2303.03012)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICSE'24-f1b800)
 -  [2023/03] **[Stealing the Decoding Algorithms of Language Models](https://arxiv.org/abs/2303.04729)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CCS'23-f1b800) ![img](https://img.shields.io/badge/Best_paper-ff0000)
 

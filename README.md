@@ -52,6 +52,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 # Survey
 
+-  [2024/02] **[A Survey of Text Watermarking in the Era of Large Language Models](https://arxiv.org/abs/2312.07913)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Safety of Multimodal Large Language Models on Images and Text
 ](https://arxiv.org//abs/2402.00357)** ![img](https://img.shields.io/badge/VLM-c7688b)
 -  [2024/02] **[A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)** ![img](https://img.shields.io/badge/VLM-c7688b)
@@ -86,6 +87,9 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A1. Jailbreak
 
+-  [2024/02] **[LLM Jailbreak Attack Versus Defense Techniques -- A Comprehensive Study](https://arxiv.org/abs/2402.13457)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Survey-87b800)
+-  [2024/02] **[Coercing LLMs to Do and Reveal (Almost) Anything](https://arxiv.org/abs/2402.14020)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/02] **[GradSafe: Detecting Unsafe Prompts for LLMs via Safety-Critical Gradient Analysis](https://arxiv.org/abs/2402.13494)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/02] **[Query-Based Adversarial Prompt Generation](https://arxiv.org/abs/2402.12329)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[ArtPrompt: ASCII Art-Based Jailbreak Attacks Against Aligned LLMs](https://arxiv.org/abs/2402.11753)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[SPML: A DSL for Defending Language Models Against Prompt Attacks](https://arxiv.org/abs/2402.11755)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -188,6 +192,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A2. Alignment
 
+-  [2024/02] **[Privacy-Preserving Instructions for Aligning Large Language Models](https://arxiv.org/abs/2402.13659)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Emulated Disalignment: Safety Alignment for Large Language Models May Backfire!](https://arxiv.org/abs/2402.12343)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Language Models Are Homer Simpson! Safety Re-Alignment of Fine-Tuned Language Models Through Task Arithmetic](https://arxiv.org/abs/2402.11746)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Learning to Edit: Aligning LLMs With Knowledge Editing](https://arxiv.org/abs/2402.11905)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -230,6 +235,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A3. Deepfake
 
+-  [2024/02] **[VGMShield: Mitigating Misuse of Video Generative Models](https://arxiv.org/abs/2402.13126)** ![img](https://img.shields.io/badge/VLM-c7688b) ![img](https://img.shields.io/badge/Video-87b800)
 -  [2024/02] **[M4gt-Bench: Evaluation Benchmark for Black-Box Machine-Generated Text Detection](https://arxiv.org/abs/2402.11175)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Ten Words Only Still Help: Improving Black-Box AI-Generated Text Detection via Proxy-Guided Efficient Re-Sampling](https://arxiv.org/abs/2402.09199)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Does DETECTGPT Fully Utilize Perturbation? Selective Perturbation on Model-Based Contrastive Learning Detector Would Be Better](https://arxiv.org/abs/2402.00263)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -263,6 +269,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A5. Fairness
 
+-  [2024/02] **[Measuring Social Biases in Masked Language Models by Proxy of Prediction Quality](https://arxiv.org/abs/2402.13954)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Your Large Language Model Is Secretly a Fairness Proponent and You Should Prompt It Like One](https://arxiv.org/abs/2402.12150)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Disclosure and Mitigation of Gender Bias in LLMs](https://arxiv.org/abs/2402.11190)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[I Am Not Them: Fluid Identities and Persistent Out-Group Bias in Large Language Models](https://arxiv.org/abs/2402.10436)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -383,6 +390,8 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A7. Toxicity
 
+-  [2024/02] **[Beyond Hate Speech: NLP's Challenges and Opportunities in Uncovering Dehumanizing Language](https://arxiv.org/abs/2402.13818)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/02] **[Large Language Models Are Vulnerable to Bait-and-Switch Attacks for Generating Harmful Content](https://arxiv.org/abs/2402.13926)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Zero Shot VLMs for Hate Meme Detection: Are We There Yet?](https://arxiv.org/abs/2402.12198)** ![img](https://img.shields.io/badge/VLM-c7688b)
 -  [2024/02] **[Universal Prompt Optimizer for Safe Text-to-Image Generation](https://arxiv.org/abs/2402.10882)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
 -  [2024/02] **[Can LLMs Recognize Toxicity? Structured Toxicity Investigation Framework and Semantic-Based Metric](https://arxiv.org/abs/2402.06900)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -423,6 +432,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### B1. Adversarial Examples
 
+-  [2024/02] **[Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-Shot LLM Assessment](https://arxiv.org/abs/2402.14016)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Groot: Adversarial Testing for Generative Text-to-Image Models With Tree-Based Semantic Transformation](https://arxiv.org/abs/2402.12100)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
 -  [2024/02] **[Exploring the Adversarial Capabilities of Large Language Models
 ](https://arxiv.org/abs/2402.09132)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -471,6 +481,8 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### B2. Poisoning
 
+-  [2024/02] **[Learning to Poison Large Language Models During Instruction Tuning](https://arxiv.org/abs/2402.13459)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/02] **[Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2402.12168)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/02] **[Acquiring Clean Language Models From Backdoor Poisoned Datasets by Downscaling Frequency Space](https://arxiv.org/abs/2402.12026)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Rapid Adoption, Hidden Risks: The Dual Impact of Large Language Model Customization](https://arxiv.org/abs/2402.09179)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Secret Collusion Among Generative AI Agents](https://arxiv.org/abs/2402.07510v1)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Agent-87b800)
@@ -512,6 +524,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### C2. Copyright
 
+-  [2024/02] **[Can Watermarks Survive Translation? On the Cross-Lingual Consistency of Text Watermark for Large Language Models](https://arxiv.org/abs/2402.14007)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Proving Membership in LLM Pretraining Data via Data Watermarks](https://arxiv.org/abs/2402.10892)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/02] **[Resilient Watermarking for LLM-Generated Codes](https://arxiv.org/abs/2402.07518)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/02] **[Permute-and-Flip: An Optimally Robust and Watermarkable Decoder for LLMs](https://arxiv.org/abs/2402.05864)** <a href="https://github.com/XuandongZhao/pf-decoding"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
@@ -552,12 +565,14 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### C4. Extraction
 
+-  [2024/02] **[Prompt Stealing Attacks Against Large Language Models](https://arxiv.org/abs/2402.12959)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Recovering the Pre-Fine-Tuning Weights of Generative Models](https://arxiv.org/abs/2402.10208)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
 -  [2023/03] **[On Extracting Specialized Code Abilities From Large Language Models: A Feasibility Study](https://arxiv.org/abs/2303.03012)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICSE'24-f1b800)
 -  [2023/03] **[Stealing the Decoding Algorithms of Language Models](https://arxiv.org/abs/2303.04729)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/CCS'23-f1b800) ![img](https://img.shields.io/badge/Best_paper-ff0000)
 
 ### C5. Inference
 
+-  [2024/02] **[Large Language Models Are Advanced Anonymizers](https://arxiv.org/abs/2402.13846)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Privacy-Preserving Language Model Inference With Instance Obfuscation](https://arxiv.org/abs/2402.08227)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/02] **[Do Membership Inference Attacks Work on Large Language Models?](https://arxiv.org/abs/2402.07841)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[PromptCrypt: Prompt Encryption for Secure Communication With Large Language Models](https://arxiv.org/abs/2402.05868)** <a href="https://github.com/agiresearch/PromptCrypt"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)

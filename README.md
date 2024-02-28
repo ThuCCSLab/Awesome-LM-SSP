@@ -88,6 +88,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A1. Jailbreak
 
+-  [2024/02] **[DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers](https://arxiv.org/abs/2402.16914)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[GUARD: Role-Playing to Generate Natural-Language Jailbreakings to Test Guideline Adherence of Large Language Models](https://arxiv.org/abs/2402.03299)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models](https://arxiv.org/abs/2402.16717)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[PRP: Propagating Universal Perturbations to Attack Large Language Model Guard-Rails](https://arxiv.org/abs/2402.15911)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -284,6 +285,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A5. Fairness
 
+-  [2024/02] **[FairBelief - Assessing Harmful Beliefs in Language Models](https://arxiv.org/abs/2402.17389)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[What's in a Name? Auditing Large Language Models for Race and Gender Bias](https://arxiv.org/abs/2402.14875)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Measuring Social Biases in Masked Language Models by Proxy of Prediction Quality](https://arxiv.org/abs/2402.13954)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Your Large Language Model Is Secretly a Fairness Proponent and You Should Prompt It Like One](https://arxiv.org/abs/2402.12150)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -506,6 +508,8 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### B2. Poisoning
 
+-  [2024/02] **[On Trojan Signatures in Large Language Models of Code](https://arxiv.org/abs/2402.16896)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/02] **[WIPI: A New Web Threat for LLM-Driven Web Agents](https://arxiv.org/abs/2402.16965)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Agent-87b800)
 -  [2024/02] **[VL-Trojan: Multimodal Instruction Backdoor Attacks Against Autoregressive Visual Language Models](https://arxiv.org/abs/2402.13851)** ![img](https://img.shields.io/badge/VLM-c7688b)
 -  [2024/02] **[Universal Vulnerabilities in Large Language Models: Backdoor Attacks for in-Context Learning](https://arxiv.org/abs/2401.05949)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Learning to Poison Large Language Models During Instruction Tuning](https://arxiv.org/abs/2402.13459)** <a href="https://github.com/RookieZxy/GBTL-attack/tree/main"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -551,6 +555,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### C2. Copyright
 
+-  [2024/02] **[Generative Models Are Self-Watermarked: Declaring Model Authentication Through Re-Generation](https://arxiv.org/abs/2402.16889)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
 -  [2024/02] **[Attacking LLM Watermarks by Exploiting Their Strengths](https://arxiv.org/abs/2402.16187)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Double-I Watermark: Protecting Model Copyright for LLM Fine-Tuning](https://arxiv.org/abs/2402.14883)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/02] **[Watermarking Makes Language Models Radioactive](https://arxiv.org/abs/2402.14904)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
@@ -603,6 +608,8 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### C5. Inference
 
+-  [2024/02] **[The Good and the Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2402.16893)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
+-  [2024/02] **[Pandora's White-Box: Increased Training Data Leakage in Open LLMs](https://arxiv.org/abs/2402.17012)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Large Language Models Are Advanced Anonymizers](https://arxiv.org/abs/2402.13846)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Privacy-Preserving Language Model Inference With Instance Obfuscation](https://arxiv.org/abs/2402.08227)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/02] **[Do Membership Inference Attacks Work on Large Language Models?](https://arxiv.org/abs/2402.07841)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -615,7 +622,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2023/10] **[Last One Standing: A Comparative Analysis of Security and Privacy of Soft Prompt Tuning, LoRA, and in-Context Learning](https://arxiv.org/abs/2310.11397)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/09] **[An Efficient Membership Inference Attack for the Diffusion Model by Proximal Initialization](https://openreview.net/forum?id=rpH9FcCEV6)** ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
 -  [2023/09] **[Beyond Memorization: Violating Privacy via Inference With Large Language Models](https://openreview.net/forum?id=kmn0BhQk7p)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
--  [2023/09] **[Can LLMs Keep a Secret? Testing  Privacy  Implications of Language Models  via Contextual Integrity Theory](https://openreview.net/forum?id=gmg7t8b4s0)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
+-  [2023/09] **[Can LLMs Keep a Secret? Testing  Privacy  Implications of Language Models  via Contextual Integrity Theory](https://openreview.net/forum?id=c93SBwz1Ma)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
 -  [2023/09] **[Identifying the Risks of LM Agents With an LM-Emulated Sandbox](https://openreview.net/forum?id=GEcwtMk1uA)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Agent-87b800) ![img](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
 -  [2023/09] **[Privacy Side Channels in Machine Learning Systems](https://arxiv.org/abs/2309.05610)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2023/08] **[White-Box Membership Inference Attacks Against Diffusion Models](https://arxiv.org/abs/2308.06405)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)

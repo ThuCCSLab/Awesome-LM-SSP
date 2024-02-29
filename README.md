@@ -41,6 +41,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 # Leaderboard
 
+-  [2024/02] **[Red-Teaming Resistance Leaderboard](https://huggingface.co/blog/leaderboards-on-the-hub-haizelab)**
 -  [2024/01] **[LLM Safety Leaderboard](https://huggingface.co/spaces/AI-Secure/llm-trustworthy-leaderboard)**
 -  [2024/01] **[Hallucinations Leaderboard](https://huggingface.co/spaces/hallucinations-leaderboard/leaderboard)**
 
@@ -88,6 +89,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A1. Jailbreak
 
+-  [2024/02] **[Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction](https://arxiv.org/abs/2402.18104)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers](https://arxiv.org/abs/2402.16914)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[GUARD: Role-Playing to Generate Natural-Language Jailbreakings to Test Guideline Adherence of Large Language Models](https://arxiv.org/abs/2402.03299)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models](https://arxiv.org/abs/2402.16717)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -207,6 +209,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A2. Alignment
 
+-  [2024/02] **[Keeping LLMs Aligned After Fine-Tuning: The Crucial Role of Prompt Templates](https://arxiv.org/abs/2402.18540)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Privacy-Preserving Instructions for Aligning Large Language Models](https://arxiv.org/abs/2402.13659)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Emulated Disalignment: Safety Alignment for Large Language Models May Backfire!](https://arxiv.org/abs/2402.12343)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Language Models Are Homer Simpson! Safety Re-Alignment of Fine-Tuned Language Models Through Task Arithmetic](https://arxiv.org/abs/2402.11746)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -329,6 +332,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A6. Hallucination
 
+-  [2024/02] **[TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/abs/2402.17811)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Seeing Is Believing: Mitigating Hallucination in Large Vision-Language Models via CLIP-Guided Decoding](https://arxiv.org/abs/2402.15300)** ![img](https://img.shields.io/badge/VLM-c7688b)
 -  [2024/02] **[Measuring and Reducing LLM Hallucination Without Gold-Standard Answers via Expertise-Weighting](https://arxiv.org/abs/2402.10412)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Comparing Hallucination Detection Metrics for Multilingual Generation](https://arxiv.org/abs/2402.10496)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -555,6 +559,8 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### C2. Copyright
 
+-  [2024/02] **[Token-Specific Watermarking With Enhanced Detectability and Semantic Coherence for Large Language Models](https://arxiv.org/abs/2402.18059)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/02] **[EmMark: Robust Watermarks for IP Protection of Embedded Quantized Large Language Models](https://arxiv.org/abs/2402.17938)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Generative Models Are Self-Watermarked: Declaring Model Authentication Through Re-Generation](https://arxiv.org/abs/2402.16889)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
 -  [2024/02] **[Attacking LLM Watermarks by Exploiting Their Strengths](https://arxiv.org/abs/2402.16187)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Double-I Watermark: Protecting Model Copyright for LLM Fine-Tuning](https://arxiv.org/abs/2402.14883)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
@@ -608,6 +614,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### C5. Inference
 
+-  [2024/02] **[Follow My Instruction and Spill the Beans: Scalable Data Extraction From Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2402.17840)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
 -  [2024/02] **[The Good and the Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2402.16893)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
 -  [2024/02] **[Pandora's White-Box: Increased Training Data Leakage in Open LLMs](https://arxiv.org/abs/2402.17012)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Large Language Models Are Advanced Anonymizers](https://arxiv.org/abs/2402.13846)** ![img](https://img.shields.io/badge/LLM-589cf4)

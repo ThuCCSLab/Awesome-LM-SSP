@@ -332,6 +332,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A6. Hallucination
 
+-  [2024/02] **[Reducing Hallucinations in Entity Abstract Summarization With Facts-Template Decomposition](https://arxiv.org/abs/2402.18873)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/abs/2402.17811)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Seeing Is Believing: Mitigating Hallucination in Large Vision-Language Models via CLIP-Guided Decoding](https://arxiv.org/abs/2402.15300)** ![img](https://img.shields.io/badge/VLM-c7688b)
 -  [2024/02] **[Measuring and Reducing LLM Hallucination Without Gold-Standard Answers via Expertise-Weighting](https://arxiv.org/abs/2402.10412)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -512,6 +513,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### B2. Poisoning
 
+-  [2024/02] **[Syntactic Ghost: An Imperceptible General-Purpose Backdoor Attacks on Pre-Trained Language Models](https://arxiv.org/abs/2402.18945)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[On Trojan Signatures in Large Language Models of Code](https://arxiv.org/abs/2402.16896)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[WIPI: A New Web Threat for LLM-Driven Web Agents](https://arxiv.org/abs/2402.16965)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Agent-87b800)
 -  [2024/02] **[VL-Trojan: Multimodal Instruction Backdoor Attacks Against Autoregressive Visual Language Models](https://arxiv.org/abs/2402.13851)** ![img](https://img.shields.io/badge/VLM-c7688b)
@@ -546,6 +548,10 @@ The resources related to the trustworthiness of large models (LMs) across multip
 -  [2023/05] **[Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944)** <a href="https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICML'23-f1b800)
 -  [2022/11] **[Rickrolling the Artist: Injecting Backdoors Into Text Encoders for Text-to-Image Synthesis](https://arxiv.org/abs/2211.02408)** ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/ICCV'23-f1b800)
 
+### B3. System
+
+-  [2024/02] **[A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems](https://arxiv.org/abs/2402.18649)** ![img](https://img.shields.io/badge/LLM-589cf4)
+
 ## C. Privacy
 
 
@@ -559,6 +565,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### C2. Copyright
 
+-  [2024/02] **[Watermark Stealing in Large Language Models](https://arxiv.org/abs/2402.19361)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Token-Specific Watermarking With Enhanced Detectability and Semantic Coherence for Large Language Models](https://arxiv.org/abs/2402.18059)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[EmMark: Robust Watermarks for IP Protection of Embedded Quantized Large Language Models](https://arxiv.org/abs/2402.17938)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Generative Models Are Self-Watermarked: Declaring Model Authentication Through Re-Generation](https://arxiv.org/abs/2402.16889)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
@@ -607,6 +614,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### C4. Extraction
 
+-  [2024/02] **[PRSA: Prompt Reverse Stealing Attacks Against Large Language Models](https://arxiv.org/abs/2402.19200)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Prompt Stealing Attacks Against Large Language Models](https://arxiv.org/abs/2402.12959)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Recovering the Pre-Fine-Tuning Weights of Generative Models](https://arxiv.org/abs/2402.10208)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
 -  [2023/03] **[On Extracting Specialized Code Abilities From Large Language Models: A Feasibility Study](https://arxiv.org/abs/2303.03012)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICSE'24-f1b800)

@@ -89,6 +89,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A1. Jailbreak
 
+-  [2024/03] **[InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents](https://arxiv.org/abs/2403.02691)** <a href="https://github.com/uiuc-kang-lab/InjecAgent"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/New_dataset-87b800)
 -  [2024/03] **[Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes](https://arxiv.org/abs/2403.00867)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
 -  [2024/02] **[Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction](https://arxiv.org/abs/2402.18104)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers](https://arxiv.org/abs/2402.16914)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -290,6 +291,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A5. Fairness
 
+-  [2024/03] **[Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution](https://arxiv.org/abs/2403.03121)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/03] **["Flex Tape Can't Fix That": Bias and Misinformation in Edited Language Models](https://arxiv.org/abs/2403.00180)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/03] **[Gender Bias in Large Language Models Across Multiple Languages](https://arxiv.org/abs/2403.00277)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[FairBelief - Assessing Harmful Beliefs in Language Models](https://arxiv.org/abs/2402.17389)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -336,6 +338,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### A6. Hallucination
 
+-  [2024/03] **[In Search of Truth: An Interrogation Approach to Hallucination Detection](https://arxiv.org/abs/2403.02889)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/03] **[DiaHalu: A Dialogue-Level Hallucination Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2403.00896)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Reducing Hallucinations in Entity Abstract Summarization With Facts-Template Decomposition](https://arxiv.org/abs/2402.18873)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/abs/2402.17811)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -420,7 +423,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 ### A7. Toxicity
 
 -  [2024/03] **[DPP-Based Adversarial Prompt Searching for Lanugage Model](https://arxiv.org/abs/2403.00292)** ![img](https://img.shields.io/badge/LLM-589cf4)
--  [2024/03] **[LLMGuard: Guarding Against Unsafe LLM Behavior](https://arxiv.org/pdf/2403.00826.pdf)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/03] **[LLMGuard: Guarding Against Unsafe LLM Behavior](https://arxiv.org/abs/2403.00826)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[GPT-HateCheck: Can LLMs Write Better Functional Tests for Hate Speech Detection?](https://arxiv.org/abs/2402.15238)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Beyond Hate Speech: NLP's Challenges and Opportunities in Uncovering Dehumanizing Language](https://arxiv.org/abs/2402.13818)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Large Language Models Are Vulnerable to Bait-and-Switch Attacks for Generating Harmful Content](https://arxiv.org/abs/2402.13926)** ![img](https://img.shields.io/badge/LLM-589cf4)
@@ -558,6 +561,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### B3. System
 
+-  [2024/03] **[Here Comes the AI Worm: Unleashing Zero-Click Worms That Target GenAI-Powered Applications](https://arxiv.org/abs/2403.02817)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems](https://arxiv.org/abs/2402.18649)** ![img](https://img.shields.io/badge/LLM-589cf4)
 
 ## C. Privacy
@@ -631,6 +635,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ### C5. Inference
 
+-  [2024/03] **[CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following](https://arxiv.org/abs/2403.03129)** ![img](https://img.shields.io/badge/LLM-589cf4)
 -  [2024/02] **[Follow My Instruction and Spill the Beans: Scalable Data Extraction From Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2402.17840)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
 -  [2024/02] **[The Good and the Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2402.16893)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
 -  [2024/02] **[Pandora's White-Box: Increased Training Data Leakage in Open LLMs](https://arxiv.org/abs/2402.17012)** ![img](https://img.shields.io/badge/LLM-589cf4)

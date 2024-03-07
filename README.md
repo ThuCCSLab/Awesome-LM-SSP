@@ -32,32 +32,32 @@ The resources related to the trustworthiness of large models (LMs) across multip
 <img src="figure/map.png" alt="image" width="1000" height="auto" class="center">
 
 # Collections
-- [Book](collection/book)
-- [Competition](collection/competition)
-- [Leaderboard](collection/leaderboard)
-- [Toolkit](collection/toolkit)
-- [Survey](collection/survey)
+- [Book](collection/book.md)
+- [Competition](collection/competition.md)
+- [Leaderboard](collection/leaderboard.md)
+- [Toolkit](collection/toolkit.md)
+- [Survey](collection/survey.md)
 - Paper
   - A. Safety
-    - [A1. Jailbreak](collection/paper/safety/jailbreak)
-    - [A2. Alignment](collection/paper/safety/alignment)
-    - [A3. Deepfake](collection/paper/safety/deepfake)
-    - [A4. Ethics](collection/paper/safety/ethics)
-    - [A5. Fairness](collection/paper/safety/fairness)
-    - [A6. Hallucination](collection/paper/safety/hallucination)
-    - [A7. Toxicity](collection/paper/safety/toxicity)
+    - [A1. Jailbreak](collection/paper/safety/jailbreak.md)
+    - [A2. Alignment](collection/paper/safety/alignment.md)
+    - [A3. Deepfake](collection/paper/safety/deepfake.md)
+    - [A4. Ethics](collection/paper/safety/ethics.md)
+    - [A5. Fairness](collection/paper/safety/fairness.md)
+    - [A6. Hallucination](collection/paper/safety/hallucination.md)
+    - [A7. Toxicity](collection/paper/safety/toxicity.md)
   - B. Security
-    - [B1. Adversarial Examples](collection/paper/security/adversarial_examples)
-    - [B2. Poisoning](collection/paper/security/poisoning)
-    - [B3. System](collection/paper/security/system)
+    - [B1. Adversarial Examples](collection/paper/security/adversarial_examples.md)
+    - [B2. Poisoning](collection/paper/security/poisoning.md)
+    - [B3. System](collection/paper/security/system.md)
   - C. Privacy
-    - [C1. Contamination](collection/paper/privacy/contamination)
-    - [C2. Copyright](collection/paper/privacy/copyright)
-    - [C3. Data Reconstruction](collection/paper/privacy/data_reconstruction)
-    - [C4. Extraction](collection/paper/privacy/extraction)
-    - [C5. Inference](collection/paper/privacy/inference)
-    - [C6. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation)
-    - [C7. Unlearning](collection/paper/privacy/unlearning)
+    - [C1. Contamination](collection/paper/privacy/contamination.md)
+    - [C2. Copyright](collection/paper/privacy/copyright.md)
+    - [C3. Data Reconstruction](collection/paper/privacy/data_reconstruction.md)
+    - [C4. Extraction](collection/paper/privacy/extraction.md)
+    - [C5. Inference](collection/paper/privacy/inference.md)
+    - [C6. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation.md)
+    - [C7. Unlearning](collection/paper/privacy/unlearning.md)
 
 # Star History
 

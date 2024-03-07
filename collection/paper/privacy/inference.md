@@ -1,0 +1,27 @@
+
+
+# C5. Inference
+
+-  [2024/03] **[CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following](https://arxiv.org/abs/2403.03129)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/02] **[Follow My Instruction and Spill the Beans: Scalable Data Extraction From Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2402.17840)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
+-  [2024/02] **[The Good and the Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2402.16893)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/RAG-87b800)
+-  [2024/02] **[Pandora's White-Box: Increased Training Data Leakage in Open LLMs](https://arxiv.org/abs/2402.17012)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/02] **[Large Language Models Are Advanced Anonymizers](https://arxiv.org/abs/2402.13846)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/02] **[Privacy-Preserving Language Model Inference With Instance Obfuscation](https://arxiv.org/abs/2402.08227)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
+-  [2024/02] **[Do Membership Inference Attacks Work on Large Language Models?](https://arxiv.org/abs/2402.07841)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/02] **[PromptCrypt: Prompt Encryption for Secure Communication With Large Language Models](https://arxiv.org/abs/2402.05868)** <a href="https://github.com/agiresearch/PromptCrypt"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="15" height="15"></a> ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Defense-87b800)
+-  [2024/01] **[Excuse Me, Sir? Your Language Model Is Leaking (Information)](https://arxiv.org/abs/2401.10360)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2024/01] **[R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Agent-87b800)
+-  [2023/12] **[Black-Box Membership Inference Attacks Against Fine-Tuned Diffusion Models](https://arxiv.org/abs/2312.08207)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
+-  [2023/11] **[Practical Membership Inference Attacks Against Fine-Tuned Large Language Models via Self-Prompt Calibration](https://arxiv.org/abs/2311.06062)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/10] **[User Inference Attacks on Large Language Models](https://arxiv.org/abs/2310.09266)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/10] **[Last One Standing: A Comparative Analysis of Security and Privacy of Soft Prompt Tuning, LoRA, and in-Context Learning](https://arxiv.org/abs/2310.11397)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/09] **[An Efficient Membership Inference Attack for the Diffusion Model by Proximal Initialization](https://openreview.net/forum?id=rpH9FcCEV6)** ![img](https://img.shields.io/badge/Diffusion-a99cf4) ![img](https://img.shields.io/badge/ICLR'24-f1b800)
+-  [2023/09] **[Beyond Memorization: Violating Privacy via Inference With Large Language Models](https://openreview.net/forum?id=kmn0BhQk7p)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
+-  [2023/09] **[Can LLMs Keep a Secret? Testing  Privacy  Implications of Language Models  via Contextual Integrity Theory](https://openreview.net/forum?id=c93SBwz1Ma)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
+-  [2023/09] **[Identifying the Risks of LM Agents With an LM-Emulated Sandbox](https://openreview.net/forum?id=GEcwtMk1uA)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/Agent-87b800) ![img](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
+-  [2023/09] **[Privacy Side Channels in Machine Learning Systems](https://arxiv.org/abs/2309.05610)** ![img](https://img.shields.io/badge/LLM-589cf4)
+-  [2023/08] **[White-Box Membership Inference Attacks Against Diffusion Models](https://arxiv.org/abs/2308.06405)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
+-  [2023/07] **[ProPILE: Probing Privacy Leakage in Large Language Models](https://arxiv.org/abs/2307.01881)** ![img](https://img.shields.io/badge/LLM-589cf4) ![img](https://img.shields.io/badge/NeurIPS'23-f1b800)
+-  [2023/03] **[Class Attribute Inference Attacks: Inferring Sensitive Class Information by Diffusion-Based Attribute Manipulations](https://arxiv.org/abs/2303.09289)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)
+-  [2022/10] **[Membership Inference Attacks Against Text-to-Image Generation Models](https://arxiv.org/abs/2210.00968)** ![img](https://img.shields.io/badge/Diffusion-a99cf4)

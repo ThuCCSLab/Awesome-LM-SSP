@@ -1,6 +1,6 @@
 <img src="figure/title.png" alt="image" width="1000" height="auto" class="center">
 
-<img src="https://badges.toozhao.com/badges/01HMRJE3211AJ2QD2X9AKTQG67/blue.svg"> <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">
+<img src="https://badges.toozhao.com/badges/01HMRJE3211AJ2QD2X9AKTQG67/blue.svg"> <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp"> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # Introduction 
 
@@ -27,37 +27,34 @@ The resources related to the trustworthiness of large models (LMs) across multip
 - [2023.01.17] :fire: We collect `108` related papers from [ICLR'24](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
 - [2023.01.09] :fire: LM-SSP is released!
 
-# Roadmap
-
-<img src="figure/map.png" alt="image" width="1000" height="auto" class="center">
-
 # Collections
-- [Book](collection/book.md)
-- [Competition](collection/competition.md)
-- [Leaderboard](collection/leaderboard.md)
-- [Toolkit](collection/toolkit.md)
-- [Survey](collection/survey.md)
+- [Book](collection/book.md) ![Resource Number1](https://img.shields.io/badge/ResourceNumber-1-green)
+- [Competition](collection/competition.md) ![Resource Number5](https://img.shields.io/badge/ResourceNumber-5-green)
+- [Leaderboard](collection/leaderboard.md) ![Resource Number3](https://img.shields.io/badge/ResourceNumber-3-green)
+- [Toolkit](collection/toolkit.md) ![Resource Number3](https://img.shields.io/badge/ResourceNumber-3-green)
+- [Survey](collection/survey.md) ![Resource Number23](https://img.shields.io/badge/ResourceNumber-23-green)
 - Paper
   - A. Safety
-    - [A1. Jailbreak](collection/paper/safety/jailbreak.md)
-    - [A2. Alignment](collection/paper/safety/alignment.md)
-    - [A3. Deepfake](collection/paper/safety/deepfake.md)
-    - [A4. Ethics](collection/paper/safety/ethics.md)
-    - [A5. Fairness](collection/paper/safety/fairness.md)
-    - [A6. Hallucination](collection/paper/safety/hallucination.md)
-    - [A7. Toxicity](collection/paper/safety/toxicity.md)
+    - [A1. Jailbreak](collection/paper/safety/jailbreak.md) ![Resource Number112](https://img.shields.io/badge/ResourceNumber-112-green)
+    - [A2. Alignment](collection/paper/safety/alignment.md) ![Resource Number41](https://img.shields.io/badge/ResourceNumber-41-green)
+    - [A3. Deepfake](collection/paper/safety/deepfake.md) ![Resource Number25](https://img.shields.io/badge/ResourceNumber-25-green)
+    - [A4. Ethics](collection/paper/safety/ethics.md) ![Resource Number5](https://img.shields.io/badge/ResourceNumber-5-green)
+    - [A5. Fairness](collection/paper/safety/fairness.md) ![Resource Number44](https://img.shields.io/badge/ResourceNumber-44-green)
+    - [A6. Hallucination](collection/paper/safety/hallucination.md) ![Resource Number81](https://img.shields.io/badge/ResourceNumber-81-green)
+    - [A7. Toxicity](collection/paper/safety/toxicity.md) ![Resource Number39](https://img.shields.io/badge/ResourceNumber-39-green)
   - B. Security
-    - [B1. Adversarial Examples](collection/paper/security/adversarial_examples.md)
-    - [B2. Poisoning](collection/paper/security/poisoning.md)
-    - [B3. System](collection/paper/security/system.md)
+    - [B1. Adversarial Examples](collection/paper/security/adversarial_examples.md) ![Resource Number51](https://img.shields.io/badge/ResourceNumber-51-green)
+    - [B2. Poisoning](collection/paper/security/poisoning.md) ![Resource Number35](https://img.shields.io/badge/ResourceNumber-35-green)
+    - [B3. System](collection/paper/security/system.md) ![Resource Number2](https://img.shields.io/badge/ResourceNumber-2-green)
   - C. Privacy
-    - [C1. Contamination](collection/paper/privacy/contamination.md)
-    - [C2. Copyright](collection/paper/privacy/copyright.md)
-    - [C3. Data Reconstruction](collection/paper/privacy/data_reconstruction.md)
-    - [C4. Extraction](collection/paper/privacy/extraction.md)
-    - [C5. Inference](collection/paper/privacy/inference.md)
-    - [C6. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation.md)
-    - [C7. Unlearning](collection/paper/privacy/unlearning.md)
+    - [C1. Contamination](collection/paper/privacy/contamination.md) ![Resource Number6](https://img.shields.io/badge/ResourceNumber-6-green)
+    - [C2. Copyright](collection/paper/privacy/copyright.md) ![Resource Number31](https://img.shields.io/badge/ResourceNumber-31-green)
+    - [C3. Data Reconstruction](collection/paper/privacy/data_reconstruction.md) ![Resource Number10](https://img.shields.io/badge/ResourceNumber-10-green)
+    - [C4. Extraction](collection/paper/privacy/extraction.md) ![Resource Number5](https://img.shields.io/badge/ResourceNumber-5-green)
+    - [C5. Inference](collection/paper/privacy/inference.md) ![Resource Number23](https://img.shields.io/badge/ResourceNumber-23-green)
+    - [C6. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation.md) ![Resource Number15](https://img.shields.io/badge/ResourceNumber-15-green)
+    - [C7. Unlearning](collection/paper/privacy/unlearning.md) ![Resource Number17](https://img.shields.io/badge/ResourceNumber-17-green)
+
 
 # Star History
 
@@ -65,7 +62,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 # Acknowledgement
 
-- Organizers: [Tianshuo Cong](https://tianshuocong.github.io/), [Xinlei He](https://xinleihe.github.io/), [Zhengyu Zhao](https://zhengyuzhao.github.io/), [Yugeng Liu](https://liu.ai/)
+- Organizers: [Tianshuo Cong (丛天硕)](https://tianshuocong.github.io/), [Xinlei He (何新磊)](https://xinleihe.github.io/), [Zhengyu Zhao (赵正宇)](https://zhengyuzhao.github.io/), [Yugeng Liu (刘禹更)](https://liu.ai/), [Delong Ran (冉德龙)](https://github.com/eggry)
 
 - This project is inspired by [LLM Security](https://llmsecurity.net/), [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security), [LLM Security & Privacy](https://github.com/chawins/llm-sp),             [UR2-LLMs](https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness), [PLMpapers](https://github.com/thunlp/PLMpapers), [EvaluationPapers4ChatGPT](https://github.com/THU-KEG/EvaluationPapers4ChatGPT)
 

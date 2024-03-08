@@ -1,6 +1,6 @@
 <img src="figure/title.png" alt="image" width="1000" height="auto" class="center">
 
-<img src="https://badges.toozhao.com/badges/01HMRJE3211AJ2QD2X9AKTQG67/blue.svg"> <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp"> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://badges.toozhao.com/badges/01HMRJE3211AJ2QD2X9AKTQG67/blue.svg"> <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">
 
 # Introduction 
 
@@ -28,32 +28,32 @@ The resources related to the trustworthiness of large models (LMs) across multip
 - [2023.01.09] :fire: LM-SSP is released!
 
 # Collections
-- [Book](collection/book.md) ![Resource Number1](https://img.shields.io/badge/ResourceNumber-1-green)
-- [Competition](collection/competition.md) ![Resource Number5](https://img.shields.io/badge/ResourceNumber-5-green)
-- [Leaderboard](collection/leaderboard.md) ![Resource Number3](https://img.shields.io/badge/ResourceNumber-3-green)
-- [Toolkit](collection/toolkit.md) ![Resource Number3](https://img.shields.io/badge/ResourceNumber-3-green)
-- [Survey](collection/survey.md) ![Resource Number23](https://img.shields.io/badge/ResourceNumber-23-green)
+- [Book](collection/book.md) (1)
+- [Competition](collection/competition.md) (5)
+- [Leaderboard](collection/leaderboard.md) (3)
+- [Toolkit](collection/toolkit.md) (3)
+- [Survey](collection/survey.md) (23)
 - Paper
   - A. Safety
-    - [A1. Jailbreak](collection/paper/safety/jailbreak.md) ![Resource Number112](https://img.shields.io/badge/ResourceNumber-112-green)
-    - [A2. Alignment](collection/paper/safety/alignment.md) ![Resource Number41](https://img.shields.io/badge/ResourceNumber-41-green)
-    - [A3. Deepfake](collection/paper/safety/deepfake.md) ![Resource Number25](https://img.shields.io/badge/ResourceNumber-25-green)
-    - [A4. Ethics](collection/paper/safety/ethics.md) ![Resource Number5](https://img.shields.io/badge/ResourceNumber-5-green)
-    - [A5. Fairness](collection/paper/safety/fairness.md) ![Resource Number44](https://img.shields.io/badge/ResourceNumber-44-green)
-    - [A6. Hallucination](collection/paper/safety/hallucination.md) ![Resource Number81](https://img.shields.io/badge/ResourceNumber-81-green)
-    - [A7. Toxicity](collection/paper/safety/toxicity.md) ![Resource Number39](https://img.shields.io/badge/ResourceNumber-39-green)
+    - [A1. Jailbreak](collection/paper/safety/jailbreak.md) (112)
+    - [A2. Alignment](collection/paper/safety/alignment.md) (41)
+    - [A3. Deepfake](collection/paper/safety/deepfake.md) (25)
+    - [A4. Ethics](collection/paper/safety/ethics.md) (5)
+    - [A5. Fairness](collection/paper/safety/fairness.md) (44)
+    - [A6. Hallucination](collection/paper/safety/hallucination.md) (81)
+    - [A7. Toxicity](collection/paper/safety/toxicity.md) (39)
   - B. Security
-    - [B1. Adversarial Examples](collection/paper/security/adversarial_examples.md) ![Resource Number51](https://img.shields.io/badge/ResourceNumber-51-green)
-    - [B2. Poisoning](collection/paper/security/poisoning.md) ![Resource Number35](https://img.shields.io/badge/ResourceNumber-35-green)
-    - [B3. System](collection/paper/security/system.md) ![Resource Number2](https://img.shields.io/badge/ResourceNumber-2-green)
+    - [B1. Adversarial Examples](collection/paper/security/adversarial_examples.md) (51)
+    - [B2. Poisoning](collection/paper/security/poisoning.md) (35)
+    - [B3. System](collection/paper/security/system.md) (2)
   - C. Privacy
-    - [C1. Contamination](collection/paper/privacy/contamination.md) ![Resource Number6](https://img.shields.io/badge/ResourceNumber-6-green)
-    - [C2. Copyright](collection/paper/privacy/copyright.md) ![Resource Number31](https://img.shields.io/badge/ResourceNumber-31-green)
-    - [C3. Data Reconstruction](collection/paper/privacy/data_reconstruction.md) ![Resource Number10](https://img.shields.io/badge/ResourceNumber-10-green)
-    - [C4. Extraction](collection/paper/privacy/extraction.md) ![Resource Number5](https://img.shields.io/badge/ResourceNumber-5-green)
-    - [C5. Inference](collection/paper/privacy/inference.md) ![Resource Number23](https://img.shields.io/badge/ResourceNumber-23-green)
-    - [C6. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation.md) ![Resource Number15](https://img.shields.io/badge/ResourceNumber-15-green)
-    - [C7. Unlearning](collection/paper/privacy/unlearning.md) ![Resource Number17](https://img.shields.io/badge/ResourceNumber-17-green)
+    - [C1. Contamination](collection/paper/privacy/contamination.md) (6)
+    - [C2. Copyright](collection/paper/privacy/copyright.md) (31)
+    - [C3. Data Reconstruction](collection/paper/privacy/data_reconstruction.md) (10)
+    - [C4. Extraction](collection/paper/privacy/extraction.md) (5)
+    - [C5. Inference](collection/paper/privacy/inference.md) (23)
+    - [C6. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation.md) (15)
+    - [C7. Unlearning](collection/paper/privacy/unlearning.md) (17)
 
 
 # Star History

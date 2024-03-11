@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2024/03] **[WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off](https://arxiv.org/abs/2403.04808)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Watermark Stealing in Large Language Models](https://arxiv.org/abs/2402.19361)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models](https://arxiv.org/abs/2402.18059)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[EmMark: Robust Watermarks for IP Protection of Embedded Quantized Large Language Models](https://arxiv.org/abs/2402.17938)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

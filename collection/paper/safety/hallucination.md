@@ -1,4 +1,6 @@
 # A6. Hallucination
+- [2024/03] **[Tell me the truth: A system to measure the trustworthiness of Large Language Models](https://arxiv.org/abs/2403.04964)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/03] **[ERBench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models](https://arxiv.org/abs/2403.05266)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[HaluEval-Wild: Evaluating Hallucinations of Language Models in the Wild](https://arxiv.org/abs/2403.04307)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Fact-Checking the Output of Large Language Models via Token-Level Uncertainty Quantification](https://arxiv.org/abs/2403.04696)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[In Search of Truth: An Interrogation Approach to Hallucination Detection](https://arxiv.org/abs/2403.02889)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

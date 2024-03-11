@@ -1,4 +1,5 @@
 # C4. Extraction
+- [2024/03] **[Alpaca against Vicuna: Using LLMs to Uncover Memorization of LLMs](https://arxiv.org/abs/2403.04801)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[PRSA: Prompt Reverse Stealing Attacks against Large Language Models](https://arxiv.org/abs/2402.19200)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Prompt Stealing Attacks Against Large Language Models](https://arxiv.org/abs/2402.12959)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Recovering the Pre-Fine-Tuning Weights of Generative Models](https://arxiv.org/abs/2402.10208)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

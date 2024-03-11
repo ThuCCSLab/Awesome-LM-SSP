@@ -1,4 +1,5 @@
 # C1. Contamination
+- [2024/03] **[Quantifying Contamination in Evaluating Code Generation Capabilities of Language Models](https://arxiv.org/abs/2403.04811)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Private Benchmarking to Prevent Contamination and Improve Comparative Evaluation of LLMs](https://arxiv.org/abs/2403.00393)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Leak, Cheat, Repeat: Data Contamination and Evaluation Malpractices in Closed-Source LLMs](https://arxiv.org/abs/2402.03927)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/09] **[Proving Test Set Contamination for Black-Box Language Models](https://openreview.net/forum?id=KS8mIvetg2)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24_(Oral)](https://img.shields.io/badge/ICLR'24_(Oral)-f1b800)

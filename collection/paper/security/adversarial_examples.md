@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2024/03] **[The Impact of Quantization on the Robustness of Transformer-based Text Classifiers](https://arxiv.org/abs/2403.05365)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Fast Adversarial Attacks on Language Models In One GPU Minute ](https://arxiv.org/abs/2402.15570)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/vinusankars/BEAST) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Stealthy Attack on Large Language Model based Recommendation](https://arxiv.org/abs/2402.14836)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Recommendation](https://img.shields.io/badge/Recommendation-87b800)
 - [2024/02] **[BSPA: Exploring Black-box Stealthy Prompt Attacks against Image Generators](https://arxiv.org/abs/2402.15218)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

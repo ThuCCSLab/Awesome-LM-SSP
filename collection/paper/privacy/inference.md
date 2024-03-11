@@ -1,4 +1,5 @@
 # C5. Inference
+- [2024/03] **[Analysis of Privacy Leakage in Federated Large Language Models](https://arxiv.org/abs/2403.04784)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![FL](https://img.shields.io/badge/FL-87b800)
 - [2024/03] **[CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following](https://arxiv.org/abs/2403.03129)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Follow My Instruction and Spill the Beans: Scalable Data Extraction from Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2402.17840)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/02] **[The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2402.16893)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

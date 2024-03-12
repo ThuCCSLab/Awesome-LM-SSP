@@ -1,9 +1,10 @@
 # Awesome-LM-SSP
-[<img src="figure/title.png" alt="LM-SSP, a reading list for large models' safety, security, and privacy." width="1000" height="auto" class="center">](.)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Page Views](https://badges.toozhao.com/badges/01HMRJE3211AJ2QD2X9AKTQG67/blue.svg)](.)
 [![Stars](https://img.shields.io/github/stars/ThuCCSLab/lm-ssp)](.)
+
+[<img src="figure/title.png" alt="LM-SSP, a reading list for large models' safety, security, and privacy." width="1000" height="auto" class="center">](.)
 
 ## Introduction 
 The resources related to the trustworthiness of large models (LMs) across multiple dimensions (e.g., safety, security, and privacy),                  with a special focus on multi-modal LMs (e.g., vision-language models and diffusion models). 

@@ -1,4 +1,4 @@
-# LM-SSP
+# Awesome-LM-SSP
 [<img src="figure/title.png" alt="LM-SSP, a reading list for large models' safety, security, and privacy." width="1000" height="auto" class="center">](.)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

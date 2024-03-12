@@ -1,5 +1,5 @@
 # Awesome-LM-SSP
-[<img src="figure/title.png" alt="LM-SSP, a reading list for large models' safety, security, and privacy." width="600" height="auto" class="center">](.)
+[<img src="figure/title.png" alt="LM-SSP, a reading list for large models' safety, security, and privacy." width="1000" height="auto" class="center">](.)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Page Views](https://badges.toozhao.com/badges/01HMRJE3211AJ2QD2X9AKTQG67/blue.svg)](.)

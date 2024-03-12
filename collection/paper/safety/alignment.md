@@ -1,5 +1,5 @@
 # A2. Alignment
-- [2024/03] **[Removing GPT4's Filter](https://arxiv.org/abs/2403.04769)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Attack](https://img.shields.io/badge/Attack-87b800)
+- [2024/03] **[Using Hallucinations to Bypass RLHF Filters](https://arxiv.org/abs/2403.04769)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Attack](https://img.shields.io/badge/Attack-87b800)
 - [2024/03] **[Aligners: Decoupling LLMs and Alignment](https://arxiv.org/abs/2403.04224)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24_(Tiny)](https://img.shields.io/badge/ICLR'24_(Tiny)-f1b800)
 - [2024/03] **[Negating Negatives: Alignment without Human Positive Samples via Distributional Dispreference Optimization](https://arxiv.org/abs/2403.03419)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates](https://arxiv.org/abs/2402.18540)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

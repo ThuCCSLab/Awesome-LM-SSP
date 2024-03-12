@@ -1,4 +1,6 @@
 # C6. Privacy-Preserving Computation
+- [2024/03] **[DP-TabICL: In-Context Learning with Differentially Private Tabular Data](https://arxiv.org/abs/2403.05681)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/03] **[Privacy-Preserving Diffusion Model Using Homomorphic Encryption](https://arxiv.org/abs/2403.05794)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/02] **[LLM-based Privacy Data Augmentation Guided by Knowledge Distillation with a Distribution Tutor for Medical Text Classification](https://arxiv.org/abs/2402.16515)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/10] **[Locally Differentially Private Document Generation Using Zero Shot Prompting](https://arxiv.org/abs/2310.16111)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EMNLP'23_(Findings)](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
 - [2023/09] **[Differentially Private Synthetic Data via Foundation Model APIs 1: Images](https://openreview.net/forum?id=YEhQs8POIo)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)

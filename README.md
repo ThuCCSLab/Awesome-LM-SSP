@@ -37,12 +37,12 @@ The resources related to the trustworthiness of large models (LMs) across multip
 - [Survey](collection/survey.md) (25)
 - Paper
     - A. Safety
-        - [A1. Jailbreak](collection/paper/safety/jailbreak.md) (108)
+        - [A1. Jailbreak](collection/paper/safety/jailbreak.md) (109)
         - [A2. Alignment](collection/paper/safety/alignment.md) (44)
-        - [A3. Deepfake](collection/paper/safety/deepfake.md) (26)
+        - [A3. Deepfake](collection/paper/safety/deepfake.md) (27)
         - [A4. Ethics](collection/paper/safety/ethics.md) (5)
         - [A5. Fairness](collection/paper/safety/fairness.md) (45)
-        - [A6. Hallucination](collection/paper/safety/hallucination.md) (86)
+        - [A6. Hallucination](collection/paper/safety/hallucination.md) (87)
         - [A7. Prompt Injection](collection/paper/safety/prompt_injection.md) (6)
         - [A8. Toxicity](collection/paper/safety/toxicity.md) (40)
     - B. Security
@@ -54,8 +54,8 @@ The resources related to the trustworthiness of large models (LMs) across multip
         - [C2. Copyright](collection/paper/privacy/copyright.md) (33)
         - [C3. Data Reconstruction](collection/paper/privacy/data_reconstruction.md) (10)
         - [C4. Extraction](collection/paper/privacy/extraction.md) (7)
-        - [C5. Inference](collection/paper/privacy/inference.md) (24)
-        - [C6. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation.md) (17)
+        - [C5. Inference](collection/paper/privacy/inference.md) (25)
+        - [C6. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation.md) (18)
         - [C7. Unlearning](collection/paper/privacy/unlearning.md) (18)
 
 ## Star History

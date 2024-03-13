@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2024/03] **[A Framework for Cost-Effective and Self-Adaptive LLM Shaking and Recovery Mechanism](https://arxiv.org/abs/2403.07283)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[DP-TabICL: In-Context Learning with Differentially Private Tabular Data](https://arxiv.org/abs/2403.05681)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Privacy-Preserving Diffusion Model Using Homomorphic Encryption](https://arxiv.org/abs/2403.05794)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/02] **[LLM-based Privacy Data Augmentation Guided by Knowledge Distillation with a Distribution Tutor for Medical Text Classification](https://arxiv.org/abs/2402.16515)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

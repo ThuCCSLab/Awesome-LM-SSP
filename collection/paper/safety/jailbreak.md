@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/03] **[Exploring Safety Generalization Challenges of Large Language Models via Code](https://arxiv.org/abs/2403.07865)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks](https://arxiv.org/abs/2403.04783)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/03] **[Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes](https://arxiv.org/abs/2403.00867)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/02] **[Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction](https://arxiv.org/abs/2402.18104)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

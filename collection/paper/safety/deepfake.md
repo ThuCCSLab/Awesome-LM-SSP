@@ -1,4 +1,5 @@
 # A3. Deepfake
+- [2024/03] **[GPT-generated Text Detection: Benchmark Dataset and Tensor-based Detection Method](https://arxiv.org/abs/2403.07321)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Towards Detecting AI-Generated Text within Human-AI Collaborative Hybrid Texts](https://arxiv.org/abs/2403.03506)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[A Survey of AI-generated Text Forensic Systems: Detection, Attribution, and Characterization](https://arxiv.org/abs/2403.01152)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2024/02] **[Technical Report on the Checkfor.ai AI-Generated Text Classifier](https://arxiv.org/abs/2402.14873)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://checkfor.ai/) ![LLM](https://img.shields.io/badge/LLM-589cf4)

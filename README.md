@@ -2,9 +2,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Page Views](https://badges.toozhao.com/badges/01HMRJE3211AJ2QD2X9AKTQG67/blue.svg)](.)
-[![Stars](https://img.shields.io/github/stars/ThuCCSLab/lm-ssp)](.)
+[![Stars](https://img.shields.io/github/stars/ThuCCSLab/Awesome-LM-SSP)](.)
 
-[<img src="figure/title.png" alt="LM-SSP, a reading list for large models' safety, security, and privacy." width="1000" height="auto" class="center">](.)
+[<img src="figure/title.png" alt="Awesome-LM-SSP" width="1000" height="auto" class="center">](.)
 
 ## Introduction 
 The resources related to the trustworthiness of large models (LMs) across multiple dimensions (e.g., safety, security, and privacy),                  with a special focus on multi-modal LMs (e.g., vision-language models and diffusion models). 
@@ -18,7 +18,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
    - Venue (Continuous update): ![conference](https://img.shields.io/badge/conference-f1b800) or ![blog](https://img.shields.io/badge/blog-f1b800)
 
-- :sunflower: Welcome to recommend resources to us via <a href="https://github.com/ThuCCSLab/lm-ssp/issues"> <img src="https://icons.iconarchive.com/icons/github/octicons/128/issue-opened-16-icon.png" width="15" height="15"></a> Issues with the following format (**please fill in this table**): 
+- :sunflower: Welcome to recommend resources to us via <a href="https://github.com/ThuCCSLab/Awesome-LM-SSP/issues"> <img src="https://icons.iconarchive.com/icons/github/octicons/128/issue-opened-16-icon.png" width="15" height="15"></a> Issues with the following format (**please fill in this table**): 
 
 | Title | Link  | Code |   Venue |  Classification |  Model | Comment | 
 | ---- |---- |---- |---- |---- |----|----| 
@@ -35,8 +35,8 @@ The resources related to the trustworthiness of large models (LMs) across multip
 - [Leaderboard](collection/leaderboard.md) (3)
 - [Toolkit](collection/toolkit.md) (3)
 - [Survey](collection/survey.md) (25)
-- Paper
-    - A. Safety
+- Paper (573)
+    - A. Safety (363)
         - [A1. Jailbreak](collection/paper/safety/jailbreak.md) (109)
         - [A2. Alignment](collection/paper/safety/alignment.md) (44)
         - [A3. Deepfake](collection/paper/safety/deepfake.md) (27)
@@ -45,11 +45,11 @@ The resources related to the trustworthiness of large models (LMs) across multip
         - [A6. Hallucination](collection/paper/safety/hallucination.md) (87)
         - [A7. Prompt Injection](collection/paper/safety/prompt_injection.md) (6)
         - [A8. Toxicity](collection/paper/safety/toxicity.md) (40)
-    - B. Security
+    - B. Security (92)
         - [B1. Adversarial Examples](collection/paper/security/adversarial_examples.md) (53)
         - [B2. Poisoning](collection/paper/security/poisoning.md) (35)
         - [B3. System](collection/paper/security/system.md) (4)
-    - C. Privacy
+    - C. Privacy (118)
         - [C1. Contamination](collection/paper/privacy/contamination.md) (7)
         - [C2. Copyright](collection/paper/privacy/copyright.md) (33)
         - [C3. Data Reconstruction](collection/paper/privacy/data_reconstruction.md) (10)
@@ -60,7 +60,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ThuCCSLab/lm-ssp&type=Date)](https://star-history.com/#ThuCCSLab/lm-ssp&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ThuCCSLab/Awesome-LM-SSP&type=Date)](https://star-history.com/#ThuCCSLab/Awesome-LM-SSP&Date)
 
 ## Acknowledgement
 

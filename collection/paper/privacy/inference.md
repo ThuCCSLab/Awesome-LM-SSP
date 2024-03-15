@@ -1,4 +1,6 @@
 # C5. Inference
+- [2024/03] **[AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](https://arxiv.org/abs/2403.09513)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/03] **[PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps](https://arxiv.org/abs/2403.09562)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Visual Privacy Auditing with Diffusion Models](https://arxiv.org/abs/2403.07588)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/03] **[Analysis of Privacy Leakage in Federated Large Language Models](https://arxiv.org/abs/2403.04784)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![FL](https://img.shields.io/badge/FL-87b800)
 - [2024/03] **[CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following](https://arxiv.org/abs/2403.03129)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

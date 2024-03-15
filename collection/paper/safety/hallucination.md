@@ -1,4 +1,5 @@
 # A6. Hallucination
+- [2024/03] **[Detecting Hallucination and Coverage Errors in Retrieval Augmented Generation for Controversial Topics](https://arxiv.org/abs/2403.08904)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Truth-Aware Context Selection: Mitigating the Hallucinations of Large Language Models Being Misled by Untruthful Contexts](https://arxiv.org/abs/2403.07556)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/ictnlp/TACS) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Unsupervised Real-Time Hallucination Detection based on the Internal States of Large Language Models](https://arxiv.org/abs/2403.06448)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Tell me the truth: A system to measure the trustworthiness of Large Language Models](https://arxiv.org/abs/2403.04964)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

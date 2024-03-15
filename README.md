@@ -4,7 +4,7 @@
 [![Page Views](https://badges.toozhao.com/badges/01HMRJE3211AJ2QD2X9AKTQG67/blue.svg)](.)
 [![Stars](https://img.shields.io/github/stars/ThuCCSLab/Awesome-LM-SSP)](.)
 
-[<img src="figure/title.png" alt="Awesome-LM-SSP" width="1000" height="auto" class="center">](.)
+[<img src="figure/title_new.png" alt="Awesome-LM-SSP" width="1000" height="auto" class="center">](.)
 
 ## Introduction 
 The resources related to the trustworthiness of large models (LMs) across multiple dimensions (e.g., safety, security, and privacy),                  with a special focus on multi-modal LMs (e.g., vision-language models and diffusion models). 

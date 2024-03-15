@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/03] **[AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](https://arxiv.org/abs/2403.09513)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/03] **[Tastle: Distract Large Language Models for Automatic Jailbreak Attack](https://arxiv.org/abs/2403.08424)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Exploring Safety Generalization Challenges of Large Language Models via Code](https://arxiv.org/abs/2403.07865)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks](https://arxiv.org/abs/2403.04783)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

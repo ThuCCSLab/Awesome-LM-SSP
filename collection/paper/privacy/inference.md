@@ -11,7 +11,6 @@
 - [2024/02] **[Do Membership Inference Attacks Work on Large Language Models?](https://arxiv.org/abs/2402.07841)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[PromptCrypt: Prompt Encryption for Secure Communication with Large Language Models](https://arxiv.org/abs/2402.05868)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/agiresearch/PromptCrypt) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/01] **[Excuse me, sir? Your language model is leaking (information)](https://arxiv.org/abs/2401.10360)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2024/01] **[R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2023/12] **[Black-box Membership Inference Attacks against Fine-tuned Diffusion Models](https://arxiv.org/abs/2312.08207)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2023/11] **[Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration](https://arxiv.org/abs/2311.06062)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/10] **[User Inference Attacks on Large Language Models](https://arxiv.org/abs/2310.09266)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

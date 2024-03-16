@@ -27,7 +27,7 @@
 - [2023/09] **[Finetuning Text-to-Image Diffusion Models for Fairness](https://openreview.net/forum?id=hnrB5YHoYu)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICLR'24_(Oral)](https://img.shields.io/badge/ICLR'24_(Oral)-f1b800)
 - [2023/09] **[The Devil is in the Neurons: Interpreting and Mitigating Social Biases in Language Models](https://openreview.net/forum?id=SQGUDc9tC8)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)
 - [2023/09] **[Bias and Fairness in Chatbots: An Overview](https://arxiv.org/abs/2309.08836)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2023/09] **[Bias and Fairness in Large Language Models: A Survey](https://arxiv.org/abs/2309.00770)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2023/09] **[Bias and Fairness in Large Language Models: A Survey](https://arxiv.org/abs/2309.00770)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2023/09] **[People's Perceptions Toward Bias and Related Concepts in Large Language Models: A Systematic Review](https://arxiv.org/abs/2309.14504)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/08] **[FairBench: A Four-Stage Automatic Framework for Detecting Stereotypes and Biases in Large Language Models](https://arxiv.org/abs/2308.10397)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2023/08] **[Gender bias and stereotypes in Large Language Models](https://arxiv.org/abs/2308.14921)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![CI'23](https://img.shields.io/badge/CI'23-f1b800)

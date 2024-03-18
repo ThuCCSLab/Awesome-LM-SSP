@@ -1,4 +1,5 @@
 # A8. Toxicity
+- [2024/03] **[Helpful or Harmful? Exploring the Efficacy of Large Language Models for Online Grooming Prevention](https://arxiv.org/abs/2403.09795)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Harnessing Artificial Intelligence to Combat Online Hate: Exploring the Challenges and Opportunities of Large Language Models in Hate Speech Detection](https://arxiv.org/abs/2403.08035)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[From One to Many: Expanding the Scope of Toxicity Mitigation in Language Models](https://arxiv.org/abs/2403.03893)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[DPP-Based Adversarial Prompt Searching for Lanugage Model](https://arxiv.org/abs/2403.00292)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

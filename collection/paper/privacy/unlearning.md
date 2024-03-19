@@ -1,4 +1,6 @@
 # C7. Unlearning
+- [2024/03] **[Second-Order Information Matters: Revisiting Machine Unlearning for Large Language Models](https://arxiv.org/abs/2403.10557)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/03] **[Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention](https://arxiv.org/abs/2403.11052)** ![Diffustion](https://img.shields.io/badge/Diffustion-)
 - [2024/03] **[Guardrail Baselines for Unlearning in LLMs](https://arxiv.org/abs/2403.03329)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Dissecting Language Models: Machine Unlearning via Selective Pruning](https://arxiv.org/abs/2403.01267)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Machine Unlearning of Pre-trained Large Language Models](https://arxiv.org/abs/2402.15159)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2024/03] **[SSCAE -- Semantic, Syntactic, and Context-aware natural language Adversarial Examples generator](https://arxiv.org/abs/2403.11833)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Transferable Multimodal Attack on Vision-Language Pre-training Models ](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a102/1Ub239H4xyg)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Oakland'24](https://img.shields.io/badge/Oakland'24-f1b800)
 - [2024/03] **[AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions ](https://arxiv.org/abs/2403.09346)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/03] **[The Impact of Quantization on the Robustness of Transformer-based Text Classifiers](https://arxiv.org/abs/2403.05365)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

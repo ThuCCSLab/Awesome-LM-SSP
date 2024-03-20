@@ -1,6 +1,6 @@
 # C2. Copyright
 - [2024/03] **[Learning to Watermark LLM-generated Text via Reinforcement Learning](https://arxiv.org/abs/2403.10553)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2024/03] **[A Watermark-Conditioned Diffusion Model for IP Protection](https://arxiv.org/abs/2403.10893)** ![Diffustion](https://img.shields.io/badge/Diffustion-)
+- [2024/03] **[A Watermark-Conditioned Diffusion Model for IP Protection](https://arxiv.org/abs/2403.10893)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/03] **[Hufu: A Modality-Agnositc Watermarking System for Pre-Trained Transformers via Permutation Equivariance](https://arxiv.org/abs/2403.05842)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off](https://arxiv.org/abs/2403.04808)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Watermark Stealing in Large Language Models](https://arxiv.org/abs/2402.19361)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

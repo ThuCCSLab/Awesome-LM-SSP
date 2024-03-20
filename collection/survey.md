@@ -1,4 +1,5 @@
 # Survey
+- [2024/03] **[Securing Large Language Models: Threats, Vulnerabilities and Responsible Practices](https://arxiv.org/abs/2403.12503)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Breaking Down the Defenses: A Comparative Survey of Attacks on Large Language Models](https://arxiv.org/abs/2403.04786)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[On Protecting the Data Privacy of Large Language Models (LLMs): A Survey](https://arxiv.org/abs/2403.05156)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Privacy](https://img.shields.io/badge/Privacy-87b800)
 - [2024/02] **[Attacks, Defenses and Evaluations for LLM Conversation Safety: A Survey](https://arxiv.org/abs/2402.09283)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Safety](https://img.shields.io/badge/Safety-87b800)

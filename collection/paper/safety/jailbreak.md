@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/03] **[RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content](https://arxiv.org/abs/2403.13031)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Images are Achilles’ Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models](https://arxiv.org/abs/2403.09792)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/03] **[AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](https://arxiv.org/abs/2403.09513)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/03] **[Tastle: Distract Large Language Models for Automatic Jailbreak Attack](https://arxiv.org/abs/2403.08424)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

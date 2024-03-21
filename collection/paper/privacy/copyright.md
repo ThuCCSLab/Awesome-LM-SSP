@@ -1,4 +1,7 @@
 # C2. Copyright
+- [2024/03] **[An Entropy-based Text Watermarking Detection Method](https://arxiv.org/abs/2403.13485)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/03] **[Duwak: Dual Watermarks in Large Language Models](https://arxiv.org/abs/2403.13000)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/03] **[Towards Better Statistical Understanding of Watermarking LLMs](https://arxiv.org/abs/2403.13027)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Learning to Watermark LLM-generated Text via Reinforcement Learning](https://arxiv.org/abs/2403.10553)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[A Watermark-Conditioned Diffusion Model for IP Protection](https://arxiv.org/abs/2403.10893)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/03] **[Hufu: A Modality-Agnositc Watermarking System for Pre-Trained Transformers via Permutation Equivariance](https://arxiv.org/abs/2403.05842)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

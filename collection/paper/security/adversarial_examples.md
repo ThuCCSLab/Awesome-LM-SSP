@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2024/03] **[Improving the Robustness of Large Language Models via Consistency Alignment](https://arxiv.org/abs/2403.14221)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![LREC-COLING‘24](https://img.shields.io/badge/LREC-COLING‘24-f1b800)
 - [2024/03] **[Evaluating Robustness of Generative Search Engine on Adversarial Factual Questions](https://arxiv.org/abs/2403.12077)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[SSCAE -- Semantic, Syntactic, and Context-aware natural language Adversarial Examples generator](https://arxiv.org/abs/2403.11833)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Transferable Multimodal Attack on Vision-Language Pre-training Models ](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a102/1Ub239H4xyg)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Oakland'24](https://img.shields.io/badge/Oakland'24-f1b800)

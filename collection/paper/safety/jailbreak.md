@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/03] **[Detoxifying Large Language Models via Knowledge Editing](https://arxiv.org/abs/2403.14472)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/zjunlp/EasyEdit) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content](https://arxiv.org/abs/2403.13031)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Images are Achilles’ Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models](https://arxiv.org/abs/2403.09792)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/03] **[AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](https://arxiv.org/abs/2403.09513)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)

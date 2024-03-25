@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2024/03] **[Defending Against Indirect Prompt Injection Attacks With Spotlighting](https://arxiv.org/abs/2403.14720)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/03] **[Scaling Behavior of Machine Translation with Large Language Models under Prompt Injection Attacks](https://arxiv.org/abs/2403.09832)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Automatic and Universal Prompt Injection Attacks against Large Language Models](https://arxiv.org/abs/2403.04957)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/SheltonLiu-N/Universal-Prompt-Injection) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Neural Exec: Learning (and Learning from) Execution Triggers for Prompt Injection Attacks](https://arxiv.org/abs/2403.03792)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,6 @@
 # A5. Fairness
+- [2024/03] **[Born With a Silver Spoon? Investigating Socioeconomic Bias in Large Language Models](https://arxiv.org/abs/2403.14633)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/03] **[Protected group bias and stereotypes in Large Language Models](https://arxiv.org/abs/2403.14727)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Locating and Mitigating Gender Bias in Large Language Models](https://arxiv.org/abs/2403.14409)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Steering LLMs Towards Unbiased Responses: A Causality-Guided Debiasing Framework](https://arxiv.org/abs/2403.08743)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Bias-Augmented Consistency Training Reduces Biased Reasoning in Chain-of-Thought](https://arxiv.org/abs/2403.05518)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,6 @@
 # A8. Toxicity
+- [2024/03] **[MemeCraft: Contextual and Stance-Driven Multimodal Meme Generation](https://arxiv.org/abs/2403.14652)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![MM'24](https://img.shields.io/badge/MM'24-f1b800)
+- [2024/03] **[Risk and Response in Large Language Models: Evaluating Key Threat Categories](https://arxiv.org/abs/2403.14988)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[From Representational Harms to Quality-of-Service Harms: A Case Study on Llama 2 Safety Safeguards](https://arxiv.org/abs/2403.13213)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Adversarial Nibbler: An Open Red-Teaming Method for Identifying Diverse Harms in Text-to-Image Generation](https://arxiv.org/abs/2403.12075)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/03] **[Helpful or Harmful? Exploring the Efficacy of Large Language Models for Online Grooming Prevention](https://arxiv.org/abs/2403.09795)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

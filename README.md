@@ -59,7 +59,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
         - [C4. Extraction](collection/paper/privacy/extraction.md) (10)
         - [C5. Inference](collection/paper/privacy/inference.md) (25)
         - [C6. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation.md) (19)
-        - [C7. Unlearning](collection/paper/privacy/unlearning.md) (20)
+        - [C7. Unlearning](collection/paper/privacy/unlearning.md) (24)
 
 ## Star History
 

@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2024/03] **[Ghost Sentence: A Tool for Everyday Users to Copyright Data from Large Language Models](https://arxiv.org/abs/2403.15740)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Bypassing LLM Watermarks with Color-Aware Substitutions](https://arxiv.org/abs/2403.14719)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[A Transfer Attack to Image Watermarks](https://arxiv.org/abs/2403.15365)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/03] **[An Entropy-based Text Watermarking Detection Method](https://arxiv.org/abs/2403.13485)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

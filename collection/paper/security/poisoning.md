@@ -1,4 +1,5 @@
 # B2. Poisoning
+- [2024/03] **[Generating Potent Poisons and Backdoors from Scratch with Guided Diffusion](https://arxiv.org/abs/2403.16365)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/03] **[Diffusion Denoising as a Certified Defense against Clean-label Poisoning ](https://arxiv.org/abs/2403.11981)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/03] **[LoRA-as-an-Attack! Piercing LLM Safety Under The Share-and-Play Scenario](https://arxiv.org/abs/2403.00108)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Syntactic Ghost: An Imperceptible General-purpose Backdoor Attacks on Pre-trained Language Models](https://arxiv.org/abs/2402.18945)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

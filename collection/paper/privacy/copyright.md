@@ -1,4 +1,6 @@
 # C2. Copyright
+- [2024/03] **[RAW: A Robust and Agile Plug-and-Play Watermark Framework for AI-Generated Images with Provable Guarantees](https://arxiv.org/abs/2403.18774)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/03] **[Is Watermarking LLM-Generated Code Robust?](https://arxiv.org/abs/2403.17983)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![codeGen](https://img.shields.io/badge/codeGen-87b800)
 - [2024/03] **[Ghost Sentence: A Tool for Everyday Users to Copyright Data from Large Language Models](https://arxiv.org/abs/2403.15740)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Bypassing LLM Watermarks with Color-Aware Substitutions](https://arxiv.org/abs/2403.14719)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[A Transfer Attack to Image Watermarks](https://arxiv.org/abs/2403.15365)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

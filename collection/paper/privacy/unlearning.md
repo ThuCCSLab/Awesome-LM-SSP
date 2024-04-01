@@ -1,4 +1,5 @@
 # C7. Unlearning
+- [2024/03] **[Localizing Paragraph Memorization in Language Models](https://arxiv.org/abs/2403.19851)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Towards Efficient and Effective Unlearning of Large Language Models for Recommendation](https://arxiv.org/abs/2403.03536)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Second-Order Information Matters: Revisiting Machine Unlearning for Large Language Models](https://arxiv.org/abs/2403.10557)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention](https://arxiv.org/abs/2403.11052)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

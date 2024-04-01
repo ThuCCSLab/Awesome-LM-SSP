@@ -35,7 +35,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 - [Leaderboard](collection/leaderboard.md) (3)
 - [Toolkit](collection/toolkit.md) (3)
 - [Survey](collection/survey.md) (22)
-- Paper (636)
+- Paper (637)
     - A. Safety (395)
         - [A0. General](collection/paper/safety/general.md) (0)
         - [A1. Jailbreak](collection/paper/safety/jailbreak.md) (116)
@@ -51,7 +51,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
         - [B1. Adversarial Examples](collection/paper/security/adversarial_examples.md) (59)
         - [B2. Poisoning](collection/paper/security/poisoning.md) (37)
         - [B3. System](collection/paper/security/system.md) (5)
-    - C. Privacy (140)
+    - C. Privacy (141)
         - [C0. General](collection/paper/privacy/general.md) (0)
         - [C1. Contamination](collection/paper/privacy/contamination.md) (7)
         - [C2. Copyright](collection/paper/privacy/copyright.md) (45)
@@ -59,7 +59,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
         - [C4. Extraction](collection/paper/privacy/extraction.md) (10)
         - [C5. Inference](collection/paper/privacy/inference.md) (25)
         - [C6. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation.md) (19)
-        - [C7. Unlearning](collection/paper/privacy/unlearning.md) (24)
+        - [C7. Unlearning](collection/paper/privacy/unlearning.md) (25)
 
 ## Star History
 

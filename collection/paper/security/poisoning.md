@@ -1,4 +1,7 @@
 # B2. Poisoning
+- [2024/04] **[Shortcuts Arising from Contrast: Effective and Covert Clean-Label Attacks in Prompt-Based Learning](https://arxiv.org/abs/2404.00461)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/04] **[What's in Your "Safe" Data?: Identifying Benign Data that Breaks Safety](https://arxiv.org/abs/2404.01099)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/04] **[UFID: A Unified Framework for Input-level Backdoor Detection on Diffusion Models](https://arxiv.org/abs/2404.01101)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/03] **[Generating Potent Poisons and Backdoors from Scratch with Guided Diffusion](https://arxiv.org/abs/2403.16365)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/hsouri/GDP) ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/03] **[Diffusion Denoising as a Certified Defense against Clean-label Poisoning ](https://arxiv.org/abs/2403.11981)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/03] **[LoRA-as-an-Attack! Piercing LLM Safety Under The Share-and-Play Scenario](https://arxiv.org/abs/2403.00108)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

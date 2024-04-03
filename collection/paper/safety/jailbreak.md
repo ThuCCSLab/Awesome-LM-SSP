@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/03] **[Against The Achilles' Heel: A Survey on Red Teaming for Generative Models](https://arxiv.org/abs/2404.00629)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2024/03] **[Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models](https://arxiv.org/abs/2403.17336)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Security'24](https://img.shields.io/badge/USENIX_Security'24-f1b800)
 - [2024/03] **[Jailbreaking is Best Solved by Definition](https://arxiv.org/abs/2403.14725)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Detoxifying Large Language Models via Knowledge Editing](https://arxiv.org/abs/2403.14472)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/zjunlp/EasyEdit) ![LLM](https://img.shields.io/badge/LLM-589cf4)

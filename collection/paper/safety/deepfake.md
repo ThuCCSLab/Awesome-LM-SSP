@@ -1,4 +1,6 @@
 # A3. Deepfake
+- [2024/03] **[Can ChatGPT Detect DeepFakes? A Study of Using Multimodal Large Language Models for Media Forensics](https://arxiv.org/abs/2403.14077)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2024/03] **[The Impact of Prompts on Zero-Shot Detection of AI-Generated Text](https://arxiv.org/abs/2403.20127)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Quantitative Analysis of AI-Generated Texts in Academic Research: A Study of AI Presence in Arxiv Submissions using AI Detection Tool](https://arxiv.org/abs/2403.13812)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Re-Search for The Truth: Multi-round Retrieval-augmented Large Language Models are Strong Fake News Detectors](https://arxiv.org/abs/2403.09747)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[GPT-generated Text Detection: Benchmark Dataset and Tensor-based Detection Method](https://arxiv.org/abs/2403.07321)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)

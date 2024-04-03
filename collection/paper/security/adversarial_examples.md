@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2024/03] **[Cross-Lingual Transfer Robustness to Lower-Resource Languages on Adversarial Datasets](https://arxiv.org/abs/2403.20056)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Improving the Robustness of Large Language Models via Consistency Alignment](https://arxiv.org/abs/2403.14221)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![LREC-COLING‘24](https://img.shields.io/badge/LREC-COLING‘24-f1b800)
 - [2024/03] **[Evaluating Robustness of Generative Search Engine on Adversarial Factual Questions](https://arxiv.org/abs/2403.12077)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[SSCAE -- Semantic, Syntactic, and Context-aware natural language Adversarial Examples generator](https://arxiv.org/abs/2403.11833)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,8 @@
 # A1. Jailbreak
+- [2024/04] **[JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models](https://arxiv.org/abs/2404.01318)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
+- [2024/04] **[Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack](https://arxiv.org/abs/2404.01833)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/04] **[Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks](https://arxiv.org/abs/2404.02151)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/04] **[Many-shot Jailbreaking](https://cdn.sanity.io/files/4zrzovbb/website/af5633c94ed2beb282f6a53c595eb437e8e7b630.pdf)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Against The Achilles' Heel: A Survey on Red Teaming for Generative Models](https://arxiv.org/abs/2404.00629)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2024/03] **[Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models](https://arxiv.org/abs/2403.17336)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Security'24](https://img.shields.io/badge/USENIX_Security'24-f1b800)
 - [2024/03] **[Jailbreaking is Best Solved by Definition](https://arxiv.org/abs/2403.14725)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,4 @@
-# A7. Prompt Injection
+# A8. Prompt Injection
 - [2024/03] **[Optimization-based Prompt Injection Attack to LLM-as-a-Judge](https://arxiv.org/abs/2403.17710)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Defending Against Indirect Prompt Injection Attacks With Spotlighting](https://arxiv.org/abs/2403.14720)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/03] **[Scaling Behavior of Machine Translation with Large Language Models under Prompt Injection Attacks](https://arxiv.org/abs/2403.09832)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

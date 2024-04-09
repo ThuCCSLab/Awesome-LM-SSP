@@ -1,4 +1,5 @@
 # B2. Poisoning
+- [2024/04] **[Best-of-Venom: Attacking RLHF by Injecting Poisoned Preference Data](https://arxiv.org/abs/2404.05530)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Shortcuts Arising from Contrast: Effective and Covert Clean-Label Attacks in Prompt-Based Learning](https://arxiv.org/abs/2404.00461)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[What's in Your "Safe" Data?: Identifying Benign Data that Breaks Safety](https://arxiv.org/abs/2404.01099)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[UFID: A Unified Framework for Input-level Backdoor Detection on Diffusion Models](https://arxiv.org/abs/2404.01101)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

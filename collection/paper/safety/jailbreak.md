@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/04] **[Increased LLM Vulnerabilities from Fine-tuning and Quantization](https://arxiv.org/abs/2404.04392)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?](https://arxiv.org/abs/2404.03411)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/04] **[Jailbreaking Prompt Attack: A Controllable Adversarial Attack against Diffusion Models](https://arxiv.org/abs/2404.02928)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/04] **[JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2404.03027)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)

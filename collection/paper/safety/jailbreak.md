@@ -1,4 +1,7 @@
 # A1. Jailbreak
+- [2024/04] **[AEGIS: Online Adaptive AI Content Safety Moderation with Ensemble of LLM Experts](https://arxiv.org/abs/2404.05993)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/04] **[Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](https://arxiv.org/abs/2404.05880)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/04] **[Take a Look at it! Rethinking How to Evaluate Language Model Jailbreak](https://arxiv.org/abs/2404.06407)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Unbridled Icarus: A Survey of the Potential Perils of Image Inputs in Multimodal Large Language Model Security](https://arxiv.org/abs/2404.05264)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/04] **[Increased LLM Vulnerabilities from Fine-tuning and Quantization](https://arxiv.org/abs/2404.04392)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?](https://arxiv.org/abs/2404.03411)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

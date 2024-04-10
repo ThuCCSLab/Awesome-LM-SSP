@@ -1,4 +1,5 @@
 # C7. Unlearning
+- [2024/04] **[Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning](https://arxiv.org/abs/2404.05868)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Digital Forgetting in Large Language Models: A Survey of Unlearning Methods](https://arxiv.org/abs/2404.02062)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2024/03] **[Localizing Paragraph Memorization in Language Models](https://arxiv.org/abs/2403.19851)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Towards Efficient and Effective Unlearning of Large Language Models for Recommendation](https://arxiv.org/abs/2403.03536)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

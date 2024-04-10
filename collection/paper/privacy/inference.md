@@ -1,5 +1,6 @@
 # C5. Inference
 - [2024/04] **[Can LLMs get help from other LLMs without revealing private information?](https://arxiv.org/abs/2404.01041)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/03] **[Shake to Leak: Fine-tuning Diffusion Models Can Amplify the Generative Privacy Risk](https://arxiv.org/html/2403.09450v1)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/03] **[PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps](https://arxiv.org/abs/2403.09562)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Visual Privacy Auditing with Diffusion Models](https://arxiv.org/abs/2403.07588)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/03] **[Analysis of Privacy Leakage in Federated Large Language Models](https://arxiv.org/abs/2403.04784)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![FL](https://img.shields.io/badge/FL-87b800)

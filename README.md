@@ -25,9 +25,9 @@ The resources related to the trustworthiness of large models (LMs) across multip
 | aa |  arxiv | github  | bb'23    |  A1. Jailbreak | LLM  | Agent | 
 
 ## News
-- [2023.01.20] :fire: We collect `3` related papers from [NDSS'24](https://www.ndss-symposium.org/ndss2024/accepted-papers/)!
-- [2023.01.17] :fire: We collect `108` related papers from [ICLR'24](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
-- [2023.01.09] :fire: LM-SSP is released!
+- [2024.01.20] :fire: We collect `3` related papers from [NDSS'24](https://www.ndss-symposium.org/ndss2024/accepted-papers/)!
+- [2024.01.17] :fire: We collect `108` related papers from [ICLR'24](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
+- [2024.01.09] :fire: LM-SSP is released!
 
 ## Collections
 - [Book](collection/book.md) (1)
@@ -35,10 +35,10 @@ The resources related to the trustworthiness of large models (LMs) across multip
 - [Leaderboard](collection/leaderboard.md) (3)
 - [Toolkit](collection/toolkit.md) (5)
 - [Survey](collection/survey.md) (22)
-- Paper (666)
-    - A. Safety (412)
+- Paper (671)
+    - A. Safety (415)
         - [A0. General](collection/paper/safety/general.md) (1)
-        - [A1. Jailbreak](collection/paper/safety/jailbreak.md) (126)
+        - [A1. Jailbreak](collection/paper/safety/jailbreak.md) (129)
         - [A2. Alignment](collection/paper/safety/alignment.md) (46)
         - [A3. Deepfake](collection/paper/safety/deepfake.md) (33)
         - [A4. Ethics](collection/paper/safety/ethics.md) (5)
@@ -52,15 +52,15 @@ The resources related to the trustworthiness of large models (LMs) across multip
         - [B1. Adversarial Examples](collection/paper/security/adversarial_examples.md) (60)
         - [B2. Poisoning](collection/paper/security/poisoning.md) (41)
         - [B3. System](collection/paper/security/system.md) (5)
-    - C. Privacy (148)
+    - C. Privacy (150)
         - [C0. General](collection/paper/privacy/general.md) (0)
         - [C1. Contamination](collection/paper/privacy/contamination.md) (7)
         - [C2. Copyright](collection/paper/privacy/copyright.md) (50)
         - [C3. Data Reconstruction](collection/paper/privacy/data_reconstruction.md) (10)
         - [C4. Extraction](collection/paper/privacy/extraction.md) (10)
-        - [C5. Inference](collection/paper/privacy/inference.md) (26)
+        - [C5. Inference](collection/paper/privacy/inference.md) (27)
         - [C6. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation.md) (19)
-        - [C7. Unlearning](collection/paper/privacy/unlearning.md) (26)
+        - [C7. Unlearning](collection/paper/privacy/unlearning.md) (27)
 
 ## Star History
 

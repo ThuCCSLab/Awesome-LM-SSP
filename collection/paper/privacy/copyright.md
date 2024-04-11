@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2024/04] **[Disguised Copyright Infringement of Latent Diffusion Model](https://arxiv.org/abs/2404.06737)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/04] **[Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models](https://arxiv.org/abs/2404.04956)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![CVPR'24](https://img.shields.io/badge/CVPR'24-f1b800)
 - [2024/04] **[Have You Merged My Model? On The Robustness of Large Language Model IP Protection Methods Against Model Merging](https://arxiv.org/abs/2404.05188)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[A Training-Free Plug-and-Play Watermark Framework for Stable Diffusion](https://arxiv.org/abs/2404.05607)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

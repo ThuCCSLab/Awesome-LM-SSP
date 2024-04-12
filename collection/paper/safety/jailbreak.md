@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/04] **[AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs](https://arxiv.org/abs/2404.07921)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/04] **[Sandwich attack: Multi-language Mixture Adaptive Attack on LLMs](https://arxiv.org/abs/2404.07242)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[AEGIS: Online Adaptive AI Content Safety Moderation with Ensemble of LLM Experts](https://arxiv.org/abs/2404.05993)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](https://arxiv.org/abs/2404.05880)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Take a Look at it! Rethinking How to Evaluate Language Model Jailbreak](https://arxiv.org/abs/2404.06407)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,5 @@
 # A7. Hallucination
+- [2024/04] **[Reducing hallucination in structured outputs via Retrieval-Augmented Generation](https://arxiv.org/abs/2404.08189)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/04] **[PoLLMgraph: Unraveling Hallucinations in Large Language Models via State Transition Dynamics](https://arxiv.org/abs/2404.04722)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding](https://arxiv.org/abs/2403.18715)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/03] **[HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models](https://arxiv.org/abs/2310.14566)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/tianyi-lab/HallusionBench) ![VLM](https://img.shields.io/badge/VLM-c7688b) ![CVPR'24](https://img.shields.io/badge/CVPR'24-f1b800)

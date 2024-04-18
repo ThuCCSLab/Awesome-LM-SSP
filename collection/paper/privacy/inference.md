@@ -1,4 +1,5 @@
 # C5. Inference
+- [2024/04] **[Sampling-based Pseudo-Likelihood for Membership Inference Attacks](https://arxiv.org/abs/2404.11262)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Can LLMs get help from other LLMs without revealing private information?](https://arxiv.org/abs/2404.01041)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Shake to Leak: Fine-tuning Diffusion Models Can Amplify the Generative Privacy Risk](https://arxiv.org/html/2403.09450v1)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/03] **[PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps](https://arxiv.org/abs/2403.09562)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

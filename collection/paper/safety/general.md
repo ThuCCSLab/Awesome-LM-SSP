@@ -1,4 +1,5 @@
 # A6. General
+- [2024/04] **[Introducing v0.5 of the AI Safety Benchmark from MLCommons](https://arxiv.org/abs/2404.12241)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[ALERT: A Comprehensive Benchmark for Assessing Large Language Models' Safety through Red Teaming](https://arxiv.org/abs/2404.08676)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Benchmarking Llama2, Mistral, Gemma and GPT for Factuality, Toxicity, Bias and Propensity for Hallucinations](https://arxiv.org/abs/2404.09785)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://llm-safety-challenges.github.io/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)

@@ -1,4 +1,5 @@
 # A3. Deepfake
+- [2024/04] **[DeepFake-O-Meter v2.0: An Open Platform for DeepFake Detection](https://arxiv.org/abs/2404.13146)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/04] **[Watermark-based Detection and Attribution of AI-Generated Content](https://arxiv.org/abs/2404.04254)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/04] **[Humanizing Machine-Generated Content: Evading AI-Text Detection through Adversarial Attack](https://arxiv.org/abs/2404.01907)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Can ChatGPT Detect DeepFakes? A Study of Using Multimodal Large Language Models for Media Forensics](https://arxiv.org/abs/2403.14077)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

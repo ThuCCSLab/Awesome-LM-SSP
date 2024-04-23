@@ -1,4 +1,5 @@
 # A7. Hallucination
+- [2024/04] **[Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback](https://arxiv.org/abs/2404.14233)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/04] **[Uncertainty-Based Abstention in LLMs Improves Safety and Reduces Hallucinations](https://arxiv.org/abs/2404.10960)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Constructing Benchmarks and Interventions for Combating Hallucinations in LLMs](https://arxiv.org/abs/2404.09971)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Reducing hallucination in structured outputs via Retrieval-Augmented Generation](https://arxiv.org/abs/2404.08189)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

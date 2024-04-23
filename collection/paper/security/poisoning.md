@@ -1,4 +1,5 @@
 # B2. Poisoning
+- [2024/04] **[Typos that Broke the RAG's Back: Genetic Attack on RAG Pipeline by Simulating Documents in the Wild via Low-level Perturbations](https://arxiv.org/abs/2404.13948)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/04] **[Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models](https://arxiv.org/abs/2404.12916)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/04] **[Best-of-Venom: Attacking RLHF by Injecting Poisoned Preference Data](https://arxiv.org/abs/2404.05530)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Shortcuts Arising from Contrast: Effective and Covert Clean-Label Attacks in Prompt-Based Learning](https://arxiv.org/abs/2404.00461)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

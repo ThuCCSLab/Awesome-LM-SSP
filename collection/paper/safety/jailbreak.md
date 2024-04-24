@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/04] **[Competition Report: Finding Universal Jailbreak Backdoors in Aligned LLMs](https://arxiv.org/abs/2404.14461)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Protecting Your LLMs with Information Bottleneck](https://arxiv.org/abs/2404.13968)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/04] **[JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models](https://arxiv.org/abs/2404.08793)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs](https://arxiv.org/abs/2404.07921)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

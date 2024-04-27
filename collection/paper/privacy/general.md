@@ -1,2 +1,15 @@
-# C4. General
+# C0. General
+- [2024/04] **[Can LLMs get help from other LLMs without revealing private information?](https://arxiv.org/abs/2404.01041)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/03] **[Shake to Leak: Fine-tuning Diffusion Models Can Amplify the Generative Privacy Risk](https://arxiv.org/html/2403.09450v1)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/03] **[PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps](https://arxiv.org/abs/2403.09562)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/03] **[Visual Privacy Auditing with Diffusion Models](https://arxiv.org/abs/2403.07588)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/03] **[Analysis of Privacy Leakage in Federated Large Language Models](https://arxiv.org/abs/2403.04784)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![FL](https://img.shields.io/badge/FL-87b800)
+- [2024/03] **[CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following](https://arxiv.org/abs/2403.03129)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/02] **[The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2402.16893)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2024/01] **[Excuse me, sir? Your language model is leaking (information)](https://arxiv.org/abs/2401.10360)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2023/10] **[Last One Standing: A Comparative Analysis of Security and Privacy of Soft Prompt Tuning, LoRA, and In-Context Learning](https://arxiv.org/abs/2310.11397)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2023/09] **[Beyond Memorization: Violating Privacy via Inference with Large Language Models](https://openreview.net/forum?id=kmn0BhQk7p)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24_(Spotlight)](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
+- [2023/09] **[Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory](https://openreview.net/forum?id=c93SBwz1Ma)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24_(Spotlight)](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
+- [2023/09] **[Privacy Side Channels in Machine Learning Systems](https://arxiv.org/abs/2309.05610)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Side_channel](https://img.shields.io/badge/Side_channel-87b800)
+- [2023/07] **[ProPILE: Probing Privacy Leakage in Large Language Models](https://arxiv.org/abs/2307.01881)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NeurIPS'23](https://img.shields.io/badge/NeurIPS'23-f1b800)
 - [2023/05] **[ChatGPT Needs SPADE (Sustainability, PrivAcy, Digital divide, and Ethics) Evaluation: A Review](https://arxiv.org/abs/2305.03123)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)

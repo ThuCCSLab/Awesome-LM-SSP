@@ -1,9 +1,12 @@
-# C7. Privacy-Preserving Computation
+# C8. Privacy-Preserving Computation
+- [2024/04] **[zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/abs/2404.16109)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![CCS'24](https://img.shields.io/badge/CCS'24-f1b800)
 - [2024/03] **[Efficient Language Model Architectures for Differentially Private Federated Learning](https://arxiv.org/abs/2403.08100)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[A Framework for Cost-Effective and Self-Adaptive LLM Shaking and Recovery Mechanism](https://arxiv.org/abs/2403.07283)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[DP-TabICL: In-Context Learning with Differentially Private Tabular Data](https://arxiv.org/abs/2403.05681)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Privacy-Preserving Diffusion Model Using Homomorphic Encryption](https://arxiv.org/abs/2403.05794)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/02] **[LLM-based Privacy Data Augmentation Guided by Knowledge Distillation with a Distribution Tutor for Medical Text Classification](https://arxiv.org/abs/2402.16515)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/02] **[Privacy-Preserving Language Model Inference with Instance Obfuscation](https://arxiv.org/abs/2402.08227)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2024/02] **[PromptCrypt: Prompt Encryption for Secure Communication with Large Language Models](https://arxiv.org/abs/2402.05868)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/agiresearch/PromptCrypt) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2023/10] **[Locally Differentially Private Document Generation Using Zero Shot Prompting](https://arxiv.org/abs/2310.16111)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EMNLP'23_(Findings)](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
 - [2023/09] **[Differentially Private Synthetic Data via Foundation Model APIs 1: Images](https://openreview.net/forum?id=YEhQs8POIo)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)
 - [2023/09] **[DP-OPT: Make Large Language Model Your Differentially-Private Prompt Engineer](https://openreview.net/forum?id=Ifz3IgsEPX)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24_(Spotlight)](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)

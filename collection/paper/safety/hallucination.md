@@ -1,4 +1,4 @@
-# A7. Hallucination
+# A6. Hallucination
 - [2024/04] **[Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback](https://arxiv.org/abs/2404.14233)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/04] **[Uncertainty-Based Abstention in LLMs Improves Safety and Reduces Hallucinations](https://arxiv.org/abs/2404.10960)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Constructing Benchmarks and Interventions for Combating Hallucinations in LLMs](https://arxiv.org/abs/2404.09971)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -62,7 +62,6 @@
 - [2023/09] **[CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](https://openreview.net/forum?id=Sx038qxjek)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)
 - [2023/09] **[Davidsonian Scene Graph: Improving Reliability in Fine-grained Evaluation for Text-Image Generation](https://openreview.net/forum?id=ITq4ZRUT4a)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)
 - [2023/09] **[Do Large Language Models Know about Facts?](https://openreview.net/forum?id=9OevMUdods)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24_(Spotlight)](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
-- [2023/09] **[DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models](https://openreview.net/forum?id=Th6NyL07na)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)
 - [2023/09] **[Ferret: Refer and Ground Anything Anywhere at Any Granularity](https://openreview.net/forum?id=2msbbX3ydD)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![ICLR'24_(Spotlight)](https://img.shields.io/badge/ICLR'24_(Spotlight)-f1b800)
 - [2023/09] **[Fine-Tuning Language Models for Factuality](https://openreview.net/forum?id=WPZ2yPag4K)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)
 - [2023/09] **[INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection](https://openreview.net/forum?id=Zj12nzlQbz)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)

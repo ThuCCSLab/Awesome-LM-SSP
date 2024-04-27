@@ -25,9 +25,10 @@ The resources related to the trustworthiness of large models (LMs) across multip
 | aa |  arxiv | github  | bb'23    |  A1. Jailbreak | LLM  | Agent | 
 
 ## News
-- [2024.01.20] :fire: We collect `3` related papers from [NDSS'24](https://www.ndss-symposium.org/ndss2024/accepted-papers/)!
-- [2024.01.17] :fire: We collect `108` related papers from [ICLR'24](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
-- [2024.01.09] :fire: LM-SSP is released!
+- [2024.04.27] We adjusted the categories.
+- [2024.01.20] We collected `3` related papers from [NDSS'24](https://www.ndss-symposium.org/ndss2024/accepted-papers/)!
+- [2024.01.17] We collected `108` related papers from [ICLR'24](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
+- [2024.01.09] 🚀 LM-SSP is released!
 
 ## Collections
 - [Book](collection/book.md) (1)
@@ -57,12 +58,10 @@ The resources related to the trustworthiness of large models (LMs) across multip
         - [D1. Contamination](collection/paper/privacy/contamination.md) (7)
         - [D2. Copyright](collection/paper/privacy/copyright.md) (51)
         - [D3. Data Reconstruction](collection/paper/privacy/data_reconstruction.md) (18)
-        - [D4. Member Inference Attack](collection/paper/privacy/member_inference_attack.md) (1)
-        - [D5. Membership Inference Attacks](collection/paper/privacy/membership_inference_attacks.md) (7)
-        - [D6. Membership Inference Atttacks](collection/paper/privacy/membership_inference_atttacks.md) (1)
-        - [D7. Model Extraction](collection/paper/privacy/model_extraction.md) (7)
-        - [D8. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation.md) (22)
-        - [D9. Unlearning](collection/paper/privacy/unlearning.md) (28)
+        - [D4. Membership Inference Attacks](collection/paper/privacy/membership_inference_attacks.md) (9)
+        - [D5. Model Extraction](collection/paper/privacy/model_extraction.md) (7)
+        - [D6. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation.md) (22)
+        - [D7. Unlearning](collection/paper/privacy/unlearning.md) (28)
 
 ## Star History
 

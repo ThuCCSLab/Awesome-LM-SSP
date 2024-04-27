@@ -1,4 +1,9 @@
 # C3. Data Reconstruction
+- [2024/04] **[Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions](https://arxiv.org/abs/2404.16251)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/04] **[Iteratively Prompting Multimodal LLMs to Reproduce Natural and AI-Generated Images](https://arxiv.org/abs/2404.13784)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2024/03] **[Alpaca against Vicuna: Using LLMs to Uncover Memorization of LLMs](https://arxiv.org/abs/2403.04801)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/02] **[PRSA: Prompt Reverse Stealing Attacks against Large Language Models](https://arxiv.org/abs/2402.19200)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/02] **[Prompt Stealing Attacks Against Large Language Models](https://arxiv.org/abs/2402.12959)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Conversation Reconstruction Attack Against GPT Models ](https://arxiv.org/abs/2402.02987)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/01] **[Text Embedding Inversion Attacks on Multilingual Language Models](https://arxiv.org/abs/2401.12192)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://huggingface.co/yiyic) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/11] **[Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

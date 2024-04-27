@@ -1,4 +1,4 @@
-# C6. Privacy-Preserving Computation
+# C7. Privacy-Preserving Computation
 - [2024/03] **[Efficient Language Model Architectures for Differentially Private Federated Learning](https://arxiv.org/abs/2403.08100)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[A Framework for Cost-Effective and Self-Adaptive LLM Shaking and Recovery Mechanism](https://arxiv.org/abs/2403.07283)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[DP-TabICL: In-Context Learning with Differentially Private Tabular Data](https://arxiv.org/abs/2403.05681)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

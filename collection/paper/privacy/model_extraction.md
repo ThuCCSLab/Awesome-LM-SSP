@@ -1,4 +1,4 @@
-# C7. Model Extraction
+# D7. Model Extraction
 - [2024/04] **[TransLinkGuard: Safeguarding Transformer Models Against Model Stealing in Edge Deployment](https://arxiv.org/abs/2404.11121)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Logits of API-Protected LLMs Leak Proprietary Information](https://arxiv.org/abs/2403.09539)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,4 @@
-# A7. Prompt Injection
+# B7. Prompt Injection
 - [2024/04] **[Goal-guided Generative Prompt Injection Attack on Large Language Models](https://arxiv.org/abs/2404.07234)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Optimization-based Prompt Injection Attack to LLM-as-a-Judge](https://arxiv.org/abs/2403.17710)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Defending Against Indirect Prompt Injection Attacks With Spotlighting](https://arxiv.org/abs/2403.14720)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

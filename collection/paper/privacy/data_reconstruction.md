@@ -1,4 +1,4 @@
-# C3. Data Reconstruction
+# D3. Data Reconstruction
 - [2024/04] **[Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions](https://arxiv.org/abs/2404.16251)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Iteratively Prompting Multimodal LLMs to Reproduce Natural and AI-Generated Images](https://arxiv.org/abs/2404.13784)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/03] **[Alpaca against Vicuna: Using LLMs to Uncover Memorization of LLMs](https://arxiv.org/abs/2403.04801)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

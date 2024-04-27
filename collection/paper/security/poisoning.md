@@ -1,4 +1,4 @@
-# C2. Poisoning
+# B2. Poisoning
 - [2024/04] **[Talk Too Much: Poisoning Large Language Models under Token Limit](https://arxiv.org/abs/2404.14795)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Typos that Broke the RAG's Back: Genetic Attack on RAG Pipeline by Simulating Documents in the Wild via Low-level Perturbations](https://arxiv.org/abs/2404.13948)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/04] **[Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models](https://arxiv.org/abs/2404.12916)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

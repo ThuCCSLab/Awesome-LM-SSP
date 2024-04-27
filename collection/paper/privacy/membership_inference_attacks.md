@@ -1,4 +1,4 @@
-# D4. Membership Inference Attacks
+# C4. Membership Inference Attacks
 - [2024/04] **[Sampling-based Pseudo-Likelihood for Membership Inference Attacks](https://arxiv.org/abs/2404.11262)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Do Membership Inference Attacks Work on Large Language Models?](https://arxiv.org/abs/2402.07841)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/12] **[Black-box Membership Inference Attacks against Fine-tuned Diffusion Models](https://arxiv.org/abs/2312.08207)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

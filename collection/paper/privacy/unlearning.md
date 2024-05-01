@@ -1,4 +1,5 @@
 # C7. Unlearning
+- [2024/04] **[Espresso: Robust Concept Filtering in Text-to-Image Models](https://arxiv.org/abs/2404.19227)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/04] **[Machine Unlearning in Large Language Models](https://arxiv.org/abs/2404.16841)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[LMEraser: Large Model Unlearning through Adaptive Prompt Tuning](https://arxiv.org/abs/2404.11056)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning](https://arxiv.org/abs/2404.05868)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

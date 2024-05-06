@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/04] **[Universal Adversarial Triggers Are Not Universal](https://arxiv.org/abs/2404.16020)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs](https://arxiv.org/abs/2404.16873)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![AI_at_Meta](https://img.shields.io/badge/AI_at_Meta-f1b800)
 - [2024/04] **[The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions](https://arxiv.org/abs/2404.13208)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800) ![OpenAI](https://img.shields.io/badge/OpenAI-f1b800)
 - [2024/04] **[Competition Report: Finding Universal Jailbreak Backdoors in Aligned LLMs](https://arxiv.org/abs/2404.14461)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

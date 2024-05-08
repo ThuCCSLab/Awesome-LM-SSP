@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2024/05] **[Locally Differentially Private In-Context Learning](https://arxiv.org/abs/2405.04032)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![LREC-Coling’24](https://img.shields.io/badge/LREC-Coling’24-f1b800)
 - [2024/04] **[zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/abs/2404.16109)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![CCS'24](https://img.shields.io/badge/CCS'24-f1b800)
 - [2024/03] **[Efficient Language Model Architectures for Differentially Private Federated Learning](https://arxiv.org/abs/2403.08100)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[A Framework for Cost-Effective and Self-Adaptive LLM Shaking and Recovery Mechanism](https://arxiv.org/abs/2403.07283)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

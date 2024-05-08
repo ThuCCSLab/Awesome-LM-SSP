@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2024/05] **[A Causal Explainable Guardrails for Large Language Models ](https://arxiv.org/abs/2405.04160)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[More RLHF, More Trust? On The Impact of Human Preference Alignment On Language Model Trustworthiness](https://arxiv.org/abs/2404.18870)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models](https://arxiv.org/abs/2403.11838)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NAACL'24](https://img.shields.io/badge/NAACL'24-f1b800)
 - [2024/03] **[Using Hallucinations to Bypass RLHF Filters](https://arxiv.org/abs/2403.04769)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Attack](https://img.shields.io/badge/Attack-87b800)

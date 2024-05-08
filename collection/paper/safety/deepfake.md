@@ -1,4 +1,5 @@
 # A3. Deepfake
+- [2024/05] **[Who Wrote This? The Key to Zero-Shot LLM-Generated Text Detection Is GECScore](https://arxiv.org/abs/2405.04286)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape](https://arxiv.org/abs/2404.16212)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Oakland'24](https://img.shields.io/badge/Oakland'24-f1b800)
 - [2024/04] **[The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking](https://arxiv.org/abs/2404.14581)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/04] **[DeepFake-O-Meter v2.0: An Open Platform for DeepFake Detection](https://arxiv.org/abs/2404.13146)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

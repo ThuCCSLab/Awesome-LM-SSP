@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2024/05] **[Stable Signature is Unstable: Removing Image Watermark from Diffusion Models](https://arxiv.org/abs/2405.07145)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/05] **[Adaptive and robust watermark against model extraction attack](https://arxiv.org/abs/2405.02365)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[ProFLingo: A Fingerprinting-based Copyright Protection Scheme for Large Language Models](https://arxiv.org/abs/2405.02466)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[DiffuseTrace: A Transparent and Flexible Watermarking Scheme for Latent Diffusion Model](https://arxiv.org/abs/2405.02696)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

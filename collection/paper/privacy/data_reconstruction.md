@@ -1,4 +1,5 @@
 # C3. Data Reconstruction
+- [2024/05] **[PLeak: Prompt Leaking Attacks against Large Language Model Applications](https://arxiv.org/abs/2405.06823)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![CCS'24](https://img.shields.io/badge/CCS'24-f1b800)
 - [2024/05] **[Special Characters Attack: Toward Scalable Training Data Extraction From Large Language Models](https://arxiv.org/abs/2405.05990)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Could It Be Generated? Towards Practical Analysis of Memorization in Text-To-Image Diffusion Models](https://arxiv.org/abs/2405.05846)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/04] **[Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions](https://arxiv.org/abs/2404.16251)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

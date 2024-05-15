@@ -12,11 +12,15 @@ The resources related to the trustworthiness of large models (LMs) across multip
 - This repo is in progress :seedling: (currently manually collected).
 - Badges: 
 
-    - Model: ![LLM](https://img.shields.io/badge/LLM-589cf4) ![VLM](https://img.shields.io/badge/VLM-c7688b)  ![SLM](https://img.shields.io/badge/SLM-39c5bb) ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+    - Model:
+        - ![LLM](https://img.shields.io/badge/LLM_(Large_Language_Model)-589cf4)
+        - ![VLM](https://img.shields.io/badge/VLM_(Vision_Language_Model)-c7688b) 
+        - ![SLM](https://img.shields.io/badge/SLM_(Speech_Language_Model)-39c5bb) 
+        - ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 
-    - Comment: ![Benchmark](https://img.shields.io/badge/Benchmark-87b800) ![New_dataset](https://img.shields.io/badge/New_dataset-87b800) ![Agent](https://img.shields.io/badge/Agent-87b800)                 ![CodeGen](https://img.shields.io/badge/CodeGen-87b800) ![Defense](https://img.shields.io/badge/Defense-87b800) ![RAG](https://img.shields.io/badge/RAG-87b800) ![Chinese](https://img.shields.io/badge/Chinese-87b800) 
+    - Comment: ![Benchmark](https://img.shields.io/badge/Benchmark-87b800) ![New_dataset](https://img.shields.io/badge/New_dataset-87b800) ![Agent](https://img.shields.io/badge/Agent-87b800)                 ![CodeGen](https://img.shields.io/badge/CodeGen-87b800) ![Defense](https://img.shields.io/badge/Defense-87b800) ![RAG](https://img.shields.io/badge/RAG-87b800) ![Chinese](https://img.shields.io/badge/Chinese-87b800) ...
 
-   - Venue (Continuous update): ![conference](https://img.shields.io/badge/conference-f1b800) or ![blog](https://img.shields.io/badge/blog-f1b800)
+   - Venue (Continuous update): ![conference](https://img.shields.io/badge/conference-f1b800) , ![blog](https://img.shields.io/badge/blog-f1b800), ![OpenAI](https://img.shields.io/badge/OpenAI-f1b800) , ![Meta AI](https://img.shields.io/badge/Meta_AI-f1b800) ...
 
 - :sunflower: Welcome to recommend resources to us via <a href="https://github.com/ThuCCSLab/Awesome-LM-SSP/issues"> <img src="https://icons.iconarchive.com/icons/github/octicons/128/issue-opened-16-icon.png" width="15" height="15"></a> Issues with the following format (**please fill in this table**): 
 

@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2024/05] **[SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models](https://arxiv.org/abs/2405.08317)** ![SLM](https://img.shields.io/badge/SLM-)
 - [2024/04] **[Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models](https://arxiv.org/abs/2404.15081)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/03] **[Cross-Lingual Transfer Robustness to Lower-Resource Languages on Adversarial Datasets](https://arxiv.org/abs/2403.20056)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Improving the Robustness of Large Language Models via Consistency Alignment](https://arxiv.org/abs/2403.14221)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![LREC-COLING‘24](https://img.shields.io/badge/LREC-COLING‘24-f1b800)

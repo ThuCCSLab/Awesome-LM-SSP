@@ -12,7 +12,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 - This repo is in progress :seedling: (currently manually collected).
 - Badges: 
 
-    - Model: ![llm](https://img.shields.io/badge/llm-589cf4) ![vlm](https://img.shields.io/badge/vlm-c7688b)  ![diffusion](https://img.shields.io/badge/diffusion-a99cf4) 
+    - Model: ![LLM](https://img.shields.io/badge/LLM-589cf4) ![VLM](https://img.shields.io/badge/VLM-c7688b)  ![SLM](https://img.shields.io/badge/SLM-39c5bb) ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 
     - Comment: ![Benchmark](https://img.shields.io/badge/Benchmark-87b800) ![New_dataset](https://img.shields.io/badge/New_dataset-87b800) ![Agent](https://img.shields.io/badge/Agent-87b800)                 ![CodeGen](https://img.shields.io/badge/CodeGen-87b800) ![Defense](https://img.shields.io/badge/Defense-87b800) ![RAG](https://img.shields.io/badge/RAG-87b800) ![Chinese](https://img.shields.io/badge/Chinese-87b800) 
 

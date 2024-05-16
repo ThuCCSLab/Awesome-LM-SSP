@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2024/05] **[A safety realignment framework via subspace-oriented model fusion for large language models](https://arxiv.org/pdf/2405.09055)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[A Causal Explainable Guardrails for Large Language Models ](https://arxiv.org/abs/2405.04160)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[More RLHF, More Trust? On The Impact of Human Preference Alignment On Language Model Trustworthiness](https://arxiv.org/abs/2404.18870)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models](https://arxiv.org/abs/2403.11838)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NAACL'24](https://img.shields.io/badge/NAACL'24-f1b800)

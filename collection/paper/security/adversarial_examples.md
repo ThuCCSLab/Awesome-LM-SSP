@@ -26,6 +26,7 @@
 - [2023/12] **[On the Robustness of Large Multimodal Models Against Image Adversarial Attacks](https://arxiv.org/abs/2312.03777)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2023/12] **[Causality Analysis for Evaluating the Security of Large Language Models](https://arxiv.org/abs/2312.07876)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/12] **[Hijacking Context in Large Multi-modal Models](https://arxiv.org/abs/2312.07553)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2023/11] **[MetaCloak: Preventing Unauthorized Subject-driven Text-to-image Diffusion-based Synthesis via Meta-learning](https://arxiv.org/abs/2311.13127)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![CVPR'24_(Oral)](https://img.shields.io/badge/CVPR'24_(Oral)-f1b800)
 - [2023/11] **[Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention](https://arxiv.org/abs/2311.17400)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800) ![NDSS'24](https://img.shields.io/badge/NDSS'24-f1b800)
 - [2023/11] **[Unveiling Safety Vulnerabilities of Large Language Models](https://arxiv.org/abs/2311.04124)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/11] **[Can Protective Perturbation Safeguard Personal Data from Being Exploited by Stable Diffusion?](https://arxiv.org/abs/2312.00084)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

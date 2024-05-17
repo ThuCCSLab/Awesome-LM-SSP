@@ -1,4 +1,5 @@
 # A6. Hallucination
+- [2024/05] **[Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review](https://arxiv.org/abs/2405.09589)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2024/05] **[Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval](https://arxiv.org/abs/2405.06545)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/abs/2405.05904)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Mitigating LLM Hallucinations via Conformal Abstention](https://arxiv.org/abs/2405.01563)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -29,7 +29,7 @@
 - [2024/03] **[Images are Achilles’ Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models](https://arxiv.org/abs/2403.09792)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/03] **[AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](https://arxiv.org/abs/2403.09513)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/03] **[Tastle: Distract Large Language Models for Automatic Jailbreak Attack](https://arxiv.org/abs/2403.08424)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2024/03] **[Exploring Safety Generalization Challenges of Large Language Models via Code](https://arxiv.org/abs/2403.07865)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/03] **[Exploring Safety Generalization Challenges of Large Language Models via Code](https://arxiv.org/abs/2403.07865)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
 - [2024/03] **[AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks](https://arxiv.org/abs/2403.04783)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/03] **[Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes](https://arxiv.org/abs/2403.00867)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/02] **[Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction](https://arxiv.org/abs/2402.18104)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,6 @@
 # C0. General
+- [2024/05] **[Learnable Privacy Neurons Localization in Language Models](https://arxiv.org/abs/2405.10989)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
+- [2024/05] **[Information Leakage from Embedding in Large Language Models](https://arxiv.org/abs/2405.11916)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Air Gap: Protecting Privacy-Conscious Conversational Agents](https://arxiv.org/abs/2405.05175)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/04] **[Can LLMs get help from other LLMs without revealing private information?](https://arxiv.org/abs/2404.01041)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Shake to Leak: Fine-tuning Diffusion Models Can Amplify the Generative Privacy Risk](https://arxiv.org/html/2403.09450v1)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

@@ -1,4 +1,6 @@
 # C2. Copyright
+- [2024/05] **[Enhancing Watermarked Language Models to Identify Users](https://arxiv.org/abs/2405.11109)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/05] **[AquaLoRA: Toward White-box Protection for Customized Stable Diffusion Models via Watermark LoRA](https://arxiv.org/abs/2405.11135)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/05] **[Stylometric Watermarks for Large Language Models](https://arxiv.org/abs/2405.08400)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[UnMarker: A Universal Attack on Defensive Watermarking](https://arxiv.org/abs/2405.08363)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/05] **[Stable Signature is Unstable: Removing Image Watermark from Diffusion Models](https://arxiv.org/abs/2405.07145)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

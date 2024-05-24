@@ -1,4 +1,5 @@
 # B2. Poison & Backdoor
+- [2024/05] **[TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models](https://arxiv.org/abs/2405.13401)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/05] **[Backdoor Removal for Generative Large Language Models](https://arxiv.org/abs/2405.07667)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Transferring Troubles: Cross-Lingual Transferability of Backdoor Attacks in LLMs with Instruction Tunin](https://arxiv.org/abs/2404.19597)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications](https://arxiv.org/abs/2404.17196)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

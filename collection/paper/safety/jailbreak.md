@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/05] **[Lockpicking LLMs: A Logit-Based Jailbreak Using Token-level Manipulation](https://arxiv.org/abs/2405.13068)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/05] **[GPT-4 Jailbreaks Itself with Near-Perfect Success Using Self-Explanation](https://arxiv.org/abs/2405.13077)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM](https://arxiv.org/abs/2405.05610)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Can LLMs Deeply Detect Complex Malicious Queries? A Framework for Jailbreaking via Obfuscating Intent](https://arxiv.org/abs/2405.03654)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Universal Adversarial Triggers Are Not Universal](https://arxiv.org/abs/2404.16020)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -2,7 +2,7 @@
 - [2024/05] **[Mitigating Text Toxicity with Counterfactual Generation](https://arxiv.org/abs/2405.09948)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[PolygloToxicityPrompts: Multilingual Evaluation of Neural Toxic Degeneration in Large Language Models](https://arxiv.org/abs/2405.09373)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images](https://arxiv.org/abs/2405.03486)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
-- [2024/04] **[SafeGen: Mitigating Unsafe Content Generation in Text-to-Image Models](https://arxiv.org/abs/2404.06666)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/04] **[SafeGen: Mitigating Unsafe Content Generation in Text-to-Image Models](https://arxiv.org/abs/2404.06666)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![CCS'24](https://img.shields.io/badge/CCS'24-f1b800)
 - [2024/03] **[Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models](https://arxiv.org/abs/2403.18957)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![USENIX_Security'24](https://img.shields.io/badge/USENIX_Security'24-f1b800)
 - [2024/03] **[MemeCraft: Contextual and Stance-Driven Multimodal Meme Generation](https://arxiv.org/abs/2403.14652)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![MM'24](https://img.shields.io/badge/MM'24-f1b800)
 - [2024/03] **[Risk and Response in Large Language Models: Evaluating Key Threat Categories](https://arxiv.org/abs/2403.14988)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

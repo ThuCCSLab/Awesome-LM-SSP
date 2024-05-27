@@ -1,4 +1,7 @@
 # A1. Jailbreak
+- [2024/05] **[Efficient Adversarial Training in LLMs with Continuous Attacks](https://arxiv.org/abs/2405.15589)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2024/05] **[JailbreakEval: An Integrated Safety Evaluator Toolkit for Assessing Jailbreaks Against Large Language Models](https://github.com/ThuCCSLab/JailbreakEval)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Toolkit](https://img.shields.io/badge/Toolkit-87b800)
+- [2024/05] **[Cross-Task Defense: Instruction-Tuning LLMs for Content Safety](https://arxiv.org/abs/2405.15202)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/05] **[Lockpicking LLMs: A Logit-Based Jailbreak Using Token-level Manipulation](https://arxiv.org/abs/2405.13068)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[GPT-4 Jailbreaks Itself with Near-Perfect Success Using Self-Explanation](https://arxiv.org/abs/2405.13077)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM](https://arxiv.org/abs/2405.05610)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

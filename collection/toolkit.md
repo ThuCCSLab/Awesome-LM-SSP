@@ -1,4 +1,5 @@
 # Toolkit
+- [2024/05] **[JailbreakEval](https://github.com/ThuCCSLab/JailbreakEval)**
 - [2024/05] **[MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://arxiv.org/abs/2405.10051)**
 - [2024/04] **[Jailbreakbench](https://github.com/JailbreakBench/jailbreakbench)**
 - [2024/04] **[LLM Jailbreaking Defense](https://github.com/YihanWang617/llm-jailbreaking-defense?tab=readme-ov-file)**

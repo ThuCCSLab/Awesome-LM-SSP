@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/05] **[Automatic Jailbreaking of the Text-to-Image Generative AI Systems](https://arxiv.org/abs/2405.16567)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/05] **[Hacc-Man: An Arcade Game for Jailbreaking LLMs](https://arxiv.org/abs/2405.15902)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Efficient Adversarial Training in LLMs with Continuous Attacks](https://arxiv.org/abs/2405.15589)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/05] **[JailbreakEval: An Integrated Safety Evaluator Toolkit for Assessing Jailbreaks Against Large Language Models](https://github.com/ThuCCSLab/JailbreakEval)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Toolkit](https://img.shields.io/badge/Toolkit-87b800)
 - [2024/05] **[Cross-Task Defense: Instruction-Tuning LLMs for Content Safety](https://arxiv.org/abs/2405.15202)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
@@ -91,7 +93,7 @@
 - [2023/12] **[A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection](https://arxiv.org/abs/2312.10766)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2023/12] **[Adversarial Attacks on GPT-4 via Simple Random Search](https://www.andriushchenko.me/gpt4adv.pdf)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/12] **[On Large Language Models’ Resilience to Coercive Interrogation](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a252/1WPcZ9B0jCg)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![CodeGen](https://img.shields.io/badge/CodeGen-87b800) ![S&P'24](https://img.shields.io/badge/S&P'24-f1b800)
-- [2023/11] **[Query-Relevant Images Jailbreak Large Multi-Modal Models](https://arxiv.org/abs/2311.17600)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2023/11] **[MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models](https://arxiv.org/abs/2311.17600)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2023/11] **[A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts Can Fool Large Language Models Easily](https://arxiv.org/abs/2311.08268)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/11] **[Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks](https://arxiv.org/abs/2302.05733)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/11] **[MART: Improving LLM Safety with Multi-round Automatic Red-Teaming](https://arxiv.org/abs/2311.07689)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

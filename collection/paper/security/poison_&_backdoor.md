@@ -1,4 +1,5 @@
 # B2. Poison & Backdoor
+- [2024/05] **[TrojFM: Resource-efficient Backdoor Attacks against Very Large Foundation Models](https://arxiv.org/pdf/2405.16783)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Certifiably Robust RAG against Retrieval Corruption](https://arxiv.org/abs/2405.15556)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/05] **[TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models](https://arxiv.org/abs/2405.13401)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/05] **[Backdoor Removal for Generative Large Language Models](https://arxiv.org/abs/2405.07667)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

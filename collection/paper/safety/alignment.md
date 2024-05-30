@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2024/05] **[Learning diverse attacks on large language models for robust red-teaming and safety tuning](https://arxiv.org/abs/2405.18540)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[A safety realignment framework via subspace-oriented model fusion for large language models](https://arxiv.org/pdf/2405.09055)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[A Causal Explainable Guardrails for Large Language Models ](https://arxiv.org/abs/2405.04160)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[More RLHF, More Trust? On The Impact of Human Preference Alignment On Language Model Trustworthiness](https://arxiv.org/abs/2404.18870)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

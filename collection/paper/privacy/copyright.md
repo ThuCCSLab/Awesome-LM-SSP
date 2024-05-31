@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2024/05] **[Large Language Model Watermark Stealing With Mixed Integer Programming](https://arxiv.org/abs/2405.19677)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[FreezeAsGuard: Mitigating Illegal Adaptation of Diffusion Models via Selective Tensor Freezing](https://arxiv.org/abs/2405.17472)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/05] **[A Watermark for Low-entropy and Unbiased Generation in Large Language Models](https://arxiv.org/abs/2405.14604)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Enhancing Watermarked Language Models to Identify Users](https://arxiv.org/abs/2405.11109)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

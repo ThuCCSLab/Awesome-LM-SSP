@@ -1,4 +1,5 @@
 # A8. Toxicity
+- [2024/05] **[ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users](https://arxiv.org/abs/2405.19360)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/05] **[Mitigating Text Toxicity with Counterfactual Generation](https://arxiv.org/abs/2405.09948)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[PolygloToxicityPrompts: Multilingual Evaluation of Neural Toxic Degeneration in Large Language Models](https://arxiv.org/abs/2405.09373)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images](https://arxiv.org/abs/2405.03486)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

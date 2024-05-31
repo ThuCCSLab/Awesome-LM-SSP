@@ -1,4 +1,5 @@
 # A6. Hallucination
+- [2024/05] **[Detecting Hallucinations in Large Language Model Generation: A Token Probability Approach](https://arxiv.org/abs/2405.19648)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICAI'24](https://img.shields.io/badge/ICAI'24-f1b800)
 - [2024/05] **[Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review](https://arxiv.org/abs/2405.09589)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2024/05] **[Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval](https://arxiv.org/abs/2405.06545)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/abs/2405.05904)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

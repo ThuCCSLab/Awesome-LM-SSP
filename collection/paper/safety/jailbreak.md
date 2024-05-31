@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/05] **[Robustifying Safety-Aligned Large Language Models through Clean Data Curation](https://arxiv.org/abs/2405.19358)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2024/05] **[Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks](https://arxiv.org/abs/2405.20099)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/05] **[Voice Jailbreak Attacks Against GPT-4o](https://arxiv.org/abs/2405.19103)** ![SLM](https://img.shields.io/badge/SLM-39c5bb)
 - [2024/05] **[Defending Large Language Models Against Jailbreak Attacks via Layer-specific Editing](https://arxiv.org/abs/2405.18166)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/05] **[Automatic Jailbreaking of the Text-to-Image Generative AI Systems](https://arxiv.org/abs/2405.16567)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

@@ -14,7 +14,7 @@
 - [2024/02] **[Unmemorization in Large Language Models via Self-Distillation and Deliberate Imagination](https://arxiv.org/abs/2402.10052)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Unlearnable Algorithms for In-context Learning](https://arxiv.org/abs/2402.00751)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Towards Safer Large Language Models through Machine Unlearning](https://arxiv.org/abs/2402.10058)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2024/02] **[Machine Unlearning of Pre-trained Large Language Models](https://arxiv.org/abs/2402.15159)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/02] **[Machine Unlearning of Pre-trained Large Language Models](https://arxiv.org/abs/2402.15159)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
 - [2024/02] **[Rethinking Machine Unlearning for Large Language Models ](https://arxiv.org/abs/2402.08787)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation in Language Models](https://arxiv.org/abs/2402.05813)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[In-Context Learning Can Re-learn Forbidden Tasks](https://arxiv.org/abs/2402.05723)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

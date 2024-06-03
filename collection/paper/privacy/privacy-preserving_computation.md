@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2024/05] **[No Free Lunch Theorem for Privacy-Preserving LLM Inference](https://arxiv.org/abs/2405.20681)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[PermLLM: Private Inference of Large Language Models within 3 Seconds under WAN](https://arxiv.org/abs/2405.18744)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[LMO-DP: Optimizing the Randomization Mechanism for Differentially Private Fine-Tuning (Large) Language Models](https://arxiv.org/abs/2405.18776)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Delving into Differentially Private Transformer](https://arxiv.org/abs/2405.18194)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICML'24](https://img.shields.io/badge/ICML'24-f1b800)

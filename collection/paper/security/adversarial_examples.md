@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2024/05] **[Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent](https://arxiv.org/abs/2405.20770)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/05] **[Unveiling the Achilles' Heel of NLG Evaluators: A Unified Adversarial Framework Driven by Large Language Models](https://arxiv.org/abs/2405.14646)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24_(Findings)](https://img.shields.io/badge/ACL'24_(Findings)-f1b800)
 - [2024/05] **[SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models](https://arxiv.org/abs/2405.08317)** ![SLM](https://img.shields.io/badge/SLM-39c5bb)
 - [2024/04] **[Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models](https://arxiv.org/abs/2404.15081)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

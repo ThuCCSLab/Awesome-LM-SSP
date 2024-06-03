@@ -1,4 +1,6 @@
 # C4. Membership Inference Attacks
+- [2024/05] **[Is My Data in Your Retrieval Database? Membership Inference Attacks Against Retrieval Augmented Generation](https://arxiv.org/abs/2405.20446)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2024/05] **[Towards Black-Box Membership Inference Attack for Diffusion Models](https://arxiv.org/abs/2405.20771)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/05] **[Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy](https://arxiv.org/abs/2405.14800)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/04] **[Sampling-based Pseudo-Likelihood for Membership Inference Attacks](https://arxiv.org/abs/2404.11262)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Do Membership Inference Attacks Work on Large Language Models?](https://arxiv.org/abs/2402.07841)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

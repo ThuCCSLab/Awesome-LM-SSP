@@ -1,4 +1,9 @@
 # A1. Jailbreak
+- [2024/05] **[Improved Techniques for Optimization-Based Jailbreaking on Large Language Models](https://arxiv.org/abs/2405.21018)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/05] **[Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters](https://arxiv.org/abs/2405.20413)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/05] **[Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Characte](https://arxiv.org/abs/2405.20773)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2024/05] **[Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models](https://arxiv.org/abs/2405.20775)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2024/05] **[Improved Generation of Adversarial Examples Against Safety-aligned LLMs](https://arxiv.org/abs/2405.20778)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Robustifying Safety-Aligned Large Language Models through Clean Data Curation](https://arxiv.org/abs/2405.19358)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/05] **[Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks](https://arxiv.org/abs/2405.20099)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/05] **[Voice Jailbreak Attacks Against GPT-4o](https://arxiv.org/abs/2405.19103)** ![SLM](https://img.shields.io/badge/SLM-39c5bb)

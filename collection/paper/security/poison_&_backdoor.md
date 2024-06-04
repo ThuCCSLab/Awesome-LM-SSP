@@ -1,4 +1,7 @@
 # B2. Poison & Backdoor
+- [2024/06] **[Invisible Backdoor Attacks on Diffusion Models](https://arxiv.org/abs/2406.00816)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/06] **[BadRAG: Identifying Vulnerabilities in Retrieval Augmented Generation of Large Language Models](https://arxiv.org/abs/2406.00083)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2024/06] **[Are you still on track!? Catching LLM Task Drift with Activations](https://arxiv.org/abs/2406.00799)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/05] **[Phantom: General Trigger Attacks on Retrieval Augmented Language Generation](https://arxiv.org/abs/2405.20485)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/05] **[Exploring Backdoor Attacks against Large Language Model-based Decision Making](https://arxiv.org/abs/2405.20774)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/05] **[TrojFM: Resource-efficient Backdoor Attacks against Very Large Foundation Models](https://arxiv.org/pdf/2405.16783)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

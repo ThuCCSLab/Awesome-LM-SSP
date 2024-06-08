@@ -1,4 +1,9 @@
 # A1. Jailbreak
+- [2024/06] **[Are PPO-ed Language Models Hackable? ](https://arxiv.org/abs/2406.02577)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/06] **[Cross-Modal Safety Alignment: Is textual unlearning all you need?](https://arxiv.org/abs/2406.02575)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2024/06] **[Defending Large Language Models Against Attacks With Residual Stream Activation Analysis](https://arxiv.org/abs/2406.03230)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2024/06] **[Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt](https://arxiv.org/abs/2406.04031)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2024/06] **[AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens](https://arxiv.org/abs/2406.03805)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Improved Few-Shot Jailbreaking Can Circumvent Aligned Language Models and Their Defenses](https://arxiv.org/abs/2406.01288)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[BELLS: A Framework Towards Future Proof Benchmarks for the Evaluation of LLM Safeguards](https://arxiv.org/abs/2406.01364)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/05] **[Improved Techniques for Optimization-Based Jailbreaking on Large Language Models](https://arxiv.org/abs/2405.21018)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

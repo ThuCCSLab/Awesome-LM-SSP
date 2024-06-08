@@ -1,4 +1,7 @@
 # C2. Copyright
+- [2024/06] **[Hiding Text in Large Language Models: Introducing Unconditional Token Forcing Confusion](https://arxiv.org/abs/2406.02481)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/06] **[Bileve: Securing Text Provenance in Large Language Models Against Spoofing with Bi-level Signature](https://arxiv.org/abs/2406.01946)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/06] **[Edit Distance Robust Watermarks for Language Models](https://arxiv.org/abs/2406.02633)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Black-Box Detection of Language Model Watermarks](https://arxiv.org/abs/2405.20777)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Large Language Model Watermark Stealing With Mixed Integer Programming](https://arxiv.org/abs/2405.19677)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[FreezeAsGuard: Mitigating Illegal Adaptation of Diffusion Models via Selective Tensor Freezing](https://arxiv.org/abs/2405.17472)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

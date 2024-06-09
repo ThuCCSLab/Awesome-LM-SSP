@@ -1,5 +1,7 @@
 # A2. Alignment
+- [2024/06] **[Safety Alignment Should Be Made More Than Just a Few Tokens Deep ](https://xiangyuqi.com/shallow-vs-deep-alignment.github.io/)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Decoupled Alignment for Robust Plug-and-Play Adaptation](https://arxiv.org/abs/2406.01514)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/05] **[Safety Alignment for Vision Language Models](https://www.arxiv.org/abs/2405.13581)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/05] **[Learning diverse attacks on large language models for robust red-teaming and safety tuning](https://arxiv.org/abs/2405.18540)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[A safety realignment framework via subspace-oriented model fusion for large language models](https://arxiv.org/pdf/2405.09055)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[A Causal Explainable Guardrails for Large Language Models ](https://arxiv.org/abs/2405.04160)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/06] **[Improving Alignment and Robustness with Short Circuiting](https://arxiv.org/abs/2406.04313)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/06] **[Are PPO-ed Language Models Hackable? ](https://arxiv.org/abs/2406.02577)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Cross-Modal Safety Alignment: Is textual unlearning all you need?](https://arxiv.org/abs/2406.02575)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/06] **[Defending Large Language Models Against Attacks With Residual Stream Activation Analysis](https://arxiv.org/abs/2406.03230)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

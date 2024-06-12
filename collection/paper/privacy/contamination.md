@@ -1,4 +1,5 @@
 # C1. Contamination
+- [2024/06] **[Benchmark Data Contamination of Large Language Models: A Survey](https://arxiv.org/abs/2406.04244v1)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2024/06] **[DICE: Detecting In-distribution Contamination in LLM's Fine-tuning Phase for Math Reasoning](https://arxiv.org/abs/2406.04197)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/THU-KEG/DICE) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Benchmarking Benchmark Leakage in Large Language Models](https://arxiv.org/abs/2404.18824)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Quantifying Contamination in Evaluating Code Generation Capabilities of Language Models](https://arxiv.org/abs/2403.04811)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

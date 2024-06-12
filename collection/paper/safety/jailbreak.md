@@ -2,7 +2,7 @@
 - [2024/06] **[How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States](https://arxiv.org/abs/2406.05644)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner](https://arxiv.org/abs/2406.05498)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/06] **[Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks](https://arxiv.org/abs/2406.06302)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
-- [2024/06] **[Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs](https://www.researchgate.net/publication/381283534_Adversarial_Tuning_Defending_Against_Jailbreak_Attacks_for_LLMs)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2024/06] **[Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs](https://arxiv.org/abs/2406.06622)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/06] **[Improving Alignment and Robustness with Short Circuiting](https://arxiv.org/abs/2406.04313)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/06] **[Are PPO-ed Language Models Hackable? ](https://arxiv.org/abs/2406.02577)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Cross-Modal Safety Alignment: Is textual unlearning all you need?](https://arxiv.org/abs/2406.02575)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

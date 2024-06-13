@@ -1,4 +1,5 @@
 # Survey
+- [2024/06] **[Unique Security and Privacy Threats of Large Language Model: A Comprehensive Survey](https://arxiv.org/abs/2406.07973)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Safeguarding Large Language Models: A Survey](https://arxiv.org/abs/2406.02622)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Exploring Vulnerabilities and Protections in Large Language Models: A Survey](https://arxiv.org/abs/2406.00240)**
 - [2024/03] **[Decoding Compressed Trust: Scrutinizing the Trustworthiness of Efficient LLMs Under Compression](https://arxiv.org/abs/2403.15447)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://decoding-comp-trust.github.io/) ![LLM](https://img.shields.io/badge/LLM-589cf4)

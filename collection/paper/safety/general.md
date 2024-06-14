@@ -1,5 +1,6 @@
 # A0. General
 - [2024/06] **[Benchmarking Trustworthiness of Multimodal Large Language Models: A Comprehensive Study](https://arxiv.org/abs/2406.07057)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
+- [2024/05] **[AI Risk Management Should Incorporate Both Safety and Security](https://arxiv.org/abs/2405.19524)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[S-Eval: Automatic and Adaptive Test Generation for Benchmarking Safety Evaluation of Large Language Models](https://arxiv.org/abs/2405.14191)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Introducing v0.5 of the AI Safety Benchmark from MLCommons](https://arxiv.org/abs/2404.12241)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[ALERT: A Comprehensive Benchmark for Assessing Large Language Models' Safety through Red Teaming](https://arxiv.org/abs/2404.08676)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

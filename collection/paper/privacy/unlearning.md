@@ -1,4 +1,5 @@
 # C8. Unlearning
+- [2024/06] **[REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](https://arxiv.org/abs/2406.09325)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models](https://arxiv.org/abs/2405.15234)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/04] **[Espresso: Robust Concept Filtering in Text-to-Image Models](https://arxiv.org/abs/2404.19227)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/04] **[Machine Unlearning in Large Language Models](https://arxiv.org/abs/2404.16841)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

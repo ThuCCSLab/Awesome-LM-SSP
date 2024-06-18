@@ -1,4 +1,6 @@
 # C8. Unlearning
+- [2024/06] **[Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://arxiv.org/abs/2406.11614)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/yihuaihong/ConceptVectors) ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/06] **[RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2406.10890)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://rwku-bench.github.io/) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](https://arxiv.org/abs/2406.09325)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models](https://arxiv.org/abs/2405.15234)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/04] **[Espresso: Robust Concept Filtering in Text-to-Image Models](https://arxiv.org/abs/2404.19227)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

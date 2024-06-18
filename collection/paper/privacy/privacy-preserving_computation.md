@@ -1,4 +1,6 @@
 # C6. Privacy-Preserving Computation
+- [2024/06] **[Promoting Data and Model Privacy in Federated Learning through Quantized LoRA](https://arxiv.org/abs/2406.10976)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/06] **[MemDPT: Differential Privacy for Memory Efficient Language Models](https://arxiv.org/abs/2406.11087)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Efficient Differentially Private Fine-Tuning of Diffusion Models](https://arxiv.org/abs/2406.05257)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/06] **[PrE-Text: Training Language Models on Private Federated Data in the Age of LLMs](https://arxiv.org/abs/2406.02958)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Differentially Private Fine-Tuning of Diffusion Models](https://arxiv.org/abs/2406.01355)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

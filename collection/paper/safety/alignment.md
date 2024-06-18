@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2024/06] **[Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models](https://arxiv.org/abs/2406.10630)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Safety Alignment Should Be Made More Than Just a Few Tokens Deep ](https://arxiv.org/abs/2406.05946)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Decoupled Alignment for Robust Plug-and-Play Adaptation](https://arxiv.org/abs/2406.01514)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Safety Alignment for Vision Language Models](https://www.arxiv.org/abs/2405.13581)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/06] **["Not Aligned" is Not "Malicious": Being Careful about Hallucinations of Large Language Models' Jailbreak](https://arxiv.org/abs/2406.11668)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/06] **[Knowledge-to-Jailbreak: One Knowledge Point Worth One Attack](https://arxiv.org/abs/2406.11682)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Understanding Jailbreak Success: A Study of Latent Space Dynamics in Large Language Models](https://arxiv.org/abs/2406.09289)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[StructuralSleight: Automated Jailbreak Attacks on Large Language Models Utilizing Uncommon Text-Encoded Structure](https://arxiv.org/abs/2406.08754)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search](https://arxiv.org/abs/2406.08705)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

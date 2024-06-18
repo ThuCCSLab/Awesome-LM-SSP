@@ -1,6 +1,6 @@
 # C3. Data Reconstruction
 - [2024/06] **[Is Diffusion Model Safe? Severe Data Leakage via Gradient-Guided Diffusion Model](https://arxiv.org/abs/2406.09484)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
-- [2024/06] **[Raccoon: Prompt Extraction Benchmark of LLM-Integrated Applications](https://arxiv.org/abs/2406.06737)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/06] **[Raccoon: Prompt Extraction Benchmark of LLM-Integrated Applications](https://arxiv.org/abs/2406.06737)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24_Findings](https://img.shields.io/badge/ACL'24_Findings-f1b800)
 - [2024/05] **[Extracting Prompts by Inverting LLM Outputs](https://arxiv.org/abs/2405.15012)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[PLeak: Prompt Leaking Attacks against Large Language Model Applications](https://arxiv.org/abs/2405.06823)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![CCS'24](https://img.shields.io/badge/CCS'24-f1b800)
 - [2024/05] **[Special Characters Attack: Toward Scalable Training Data Extraction From Large Language Models](https://arxiv.org/abs/2405.05990)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

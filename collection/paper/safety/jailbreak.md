@@ -21,6 +21,7 @@
 - [2024/06] **[AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens](https://arxiv.org/abs/2406.03805)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Improved Few-Shot Jailbreaking Can Circumvent Aligned Language Models and Their Defenses](https://arxiv.org/abs/2406.01288)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[BELLS: A Framework Towards Future Proof Benchmarks for the Evaluation of LLM Safeguards](https://arxiv.org/abs/2406.01364)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2024/05] **[Don't Say No: Jailbreaking LLM by Suppressing Refusal](https://arxiv.org/abs/2404.16369)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Improved Techniques for Optimization-Based Jailbreaking on Large Language Models](https://arxiv.org/abs/2405.21018)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters](https://arxiv.org/abs/2405.20413)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Characte](https://arxiv.org/abs/2405.20773)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

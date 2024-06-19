@@ -1,4 +1,6 @@
 # B2. Poison & Backdoor
+- [2024/06] **[Is poisoning a real threat to LLM alignment? Maybe more so than you think](https://arxiv.org/abs/2406.12091)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/06] **[CleanGen: Mitigating Backdoor Attacks for Generation Tasks in Large Language Models](https://arxiv.org/abs/2406.12257)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Watch the Watcher! Backdoor Attacks on Security-Enhancing Diffusion Models](https://arxiv.org/abs/2406.09669)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/06] **[An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection](https://arxiv.org/abs/2406.06822)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[A Survey of Backdoor Attacks and Defenses on Large Language Models: Implications for Security Measures](https://arxiv.org/abs/2406.06852)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)

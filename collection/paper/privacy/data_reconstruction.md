@@ -1,4 +1,5 @@
 # C3. Data Reconstruction
+- [2024/06] **[Extracting Training Data from Unconditional Diffusion Models](https://arxiv.org/abs/2406.12752)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/06] **[Is Diffusion Model Safe? Severe Data Leakage via Gradient-Guided Diffusion Model](https://arxiv.org/abs/2406.09484)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/06] **[Raccoon: Prompt Extraction Benchmark of LLM-Integrated Applications](https://arxiv.org/abs/2406.06737)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24_Findings](https://img.shields.io/badge/ACL'24_Findings-f1b800)
 - [2024/05] **[Extracting Prompts by Inverting LLM Outputs](https://arxiv.org/abs/2405.15012)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

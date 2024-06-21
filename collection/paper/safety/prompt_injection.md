@@ -1,4 +1,6 @@
 # A7. Prompt Injection
+- [2024/06] **[Prompt Injection Attacks in Defended Systems](https://arxiv.org/abs/2406.14048)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/06] **[AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents](https://arxiv.org/abs/2406.13352)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/05] **[Preemptive Answer "Attacks" on Chain-of-Thought Reasoning](https://arxiv.org/abs/2405.20902)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Goal-guided Generative Prompt Injection Attack on Large Language Models](https://arxiv.org/abs/2404.07234)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Optimization-based Prompt Injection Attack to LLM-as-a-Judge](https://arxiv.org/abs/2403.17710)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

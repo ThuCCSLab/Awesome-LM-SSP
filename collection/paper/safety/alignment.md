@@ -1,4 +1,6 @@
 # A2. Alignment
+- [2024/06] **[Model Merging and Safety Alignment: One Bad Model Spoils the Bunch](https://arxiv.org/abs/2406.14563)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/06] **[ChatBug: A Common Vulnerability of Aligned LLMs Induced by Chat Templates](https://arxiv.org/abs/2406.12935)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models](https://arxiv.org/abs/2406.10630)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Safety Alignment Should Be Made More Than Just a Few Tokens Deep ](https://arxiv.org/abs/2406.05946)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Decoupled Alignment for Robust Plug-and-Play Adaptation](https://arxiv.org/abs/2406.01514)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/06] **[Adversaries Can Misuse Combinations of Safe Models](https://arxiv.org/abs/2406.14595)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Jailbreak Paradox: The Achilles' Heel of LLMs](https://arxiv.org/abs/2406.12702)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **["Not Aligned" is Not "Malicious": Being Careful about Hallucinations of Large Language Models' Jailbreak](https://arxiv.org/abs/2406.11668)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Knowledge-to-Jailbreak: One Knowledge Point Worth One Attack](https://arxiv.org/abs/2406.11682)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

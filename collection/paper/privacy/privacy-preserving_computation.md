@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2024/06] **[Safely Learning with Private Data: A Federated Learning Framework for Large Language Model](https://arxiv.org/abs/2406.14898)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Mind the Privacy Unit! User-Level Differential Privacy for Language Model Fine-Tuning](https://arxiv.org/abs/2406.14322)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[The Fire Thief Is Also the Keeper: Balancing Usability and Privacy in Prompts](https://arxiv.org/abs/2406.14318)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Promoting Data and Model Privacy in Federated Learning through Quantized LoRA](https://arxiv.org/abs/2406.10976)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

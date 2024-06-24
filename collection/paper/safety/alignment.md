@@ -1,4 +1,6 @@
 # A2. Alignment
+- [2024/06] **[Cross-Modality Safety Alignment](https://arxiv.org/abs/2406.15279)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2024/06] **[SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model](https://arxiv.org/abs/2406.12030)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/06] **[Model Merging and Safety Alignment: One Bad Model Spoils the Bunch](https://arxiv.org/abs/2406.14563)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[ChatBug: A Common Vulnerability of Aligned LLMs Induced by Chat Templates](https://arxiv.org/abs/2406.12935)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models](https://arxiv.org/abs/2406.10630)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

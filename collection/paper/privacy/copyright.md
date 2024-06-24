@@ -1,4 +1,6 @@
 # C2. Copyright
+- [2024/06] **[AIGC-Chain: A Blockchain-Enabled Full Lifecycle Recording System for AIGC Product Copyright Management](https://arxiv.org/abs/2406.14966)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Blockchain](https://img.shields.io/badge/Blockchain-87b800)
+- [2024/06] **[PID: Prompt-Independent Data Protection Against Latent Diffusion Models](https://arxiv.org/abs/2406.15305)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICML'24](https://img.shields.io/badge/ICML'24-f1b800)
 - [2024/06] **[PostMark: A Robust Blackbox Watermark for Large Language Models](https://arxiv.org/abs/2406.14517)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[EnTruth: Enhancing the Traceability of Unauthorized Dataset Usage in Text-to-image Diffusion Models with Minimal and Robust Alterations](https://arxiv.org/abs/2406.13933)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/06] **[Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI](https://arxiv.org/abs/2406.12027)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

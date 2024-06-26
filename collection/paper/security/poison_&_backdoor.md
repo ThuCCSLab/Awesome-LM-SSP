@@ -1,4 +1,5 @@
 # B2. Poison & Backdoor
+- [2024/06] **[BEEAR: Embedding-based Adversarial Removal of Safety Backdoors in Instruction-tuned Language Models](https://arxiv.org/abs/2406.17092)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Injecting Bias in Text-To-Image Models via Composite-Trigger Backdoors](https://arxiv.org/abs/2406.15213)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/06] **[Is poisoning a real threat to LLM alignment? Maybe more so than you think](https://arxiv.org/abs/2406.12091)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[CleanGen: Mitigating Backdoor Attacks for Generation Tasks in Large Language Models](https://arxiv.org/abs/2406.12257)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

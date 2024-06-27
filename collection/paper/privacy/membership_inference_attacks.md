@@ -1,4 +1,5 @@
 # C4. Membership Inference Attacks
+- [2024/06] **[Inherent Challenges of Post-Hoc Membership Inference for Large Language Models](https://arxiv.org/abs/2406.17975)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Blind Baselines Beat Membership Inference Attacks for Foundation Models](https://arxiv.org/abs/2406.16201)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Noisy Neighbors: Efficient membership inference attacks against LLMs](https://arxiv.org/abs/2406.16565)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[LLM Dataset Inference: Did you train on my dataset?](https://arxiv.org/abs/2406.06443)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

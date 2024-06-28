@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2024/06] **[Investigating and Defending Shortcut Learning in Personalized Diffusion Models](https://arxiv.org/abs/2406.18944)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/06] **[Adversarial Attacks on Multimodal Agents](https://arxiv.org/abs/2406.12814)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/05] **[Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent](https://arxiv.org/abs/2405.20770)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/05] **[Unveiling the Achilles' Heel of NLG Evaluators: A Unified Adversarial Framework Driven by Large Language Models](https://arxiv.org/abs/2405.14646)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24_(Findings)](https://img.shields.io/badge/ACL'24_(Findings)-f1b800)

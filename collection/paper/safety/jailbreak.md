@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/07] **[Badllama 3: removing safety finetuning from Llama 3 in minutes](https://arxiv.org/abs/2407.01376)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection](https://arxiv.org/abs/2406.19845)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation](https://arxiv.org/abs/2406.20053)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Poisoned LangChain: Jailbreak LLMs by LangChain](https://arxiv.org/abs/2406.18122)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

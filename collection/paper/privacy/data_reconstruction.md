@@ -1,4 +1,6 @@
 # C3. Data Reconstruction
+- [2024/07] **[Towards More Realistic Extraction Attacks: An Adversarial Perspective](https://arxiv.org/abs/2407.02596)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/07] **[PII-Compass: Guiding LLM training data extraction prompts towards the target PII via grounding](https://arxiv.org/abs/2407.02943)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
 - [2024/06] **[Extracting Training Data from Unconditional Diffusion Models](https://arxiv.org/abs/2406.12752)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/06] **[Is Diffusion Model Safe? Severe Data Leakage via Gradient-Guided Diffusion Model](https://arxiv.org/abs/2406.09484)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/06] **[Raccoon: Prompt Extraction Benchmark of LLM-Integrated Applications](https://arxiv.org/abs/2406.06737)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24_Findings](https://img.shields.io/badge/ACL'24_Findings-f1b800)

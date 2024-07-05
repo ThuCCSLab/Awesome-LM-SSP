@@ -1,4 +1,6 @@
 # C6. Privacy-Preserving Computation
+- [2024/07] **[IncogniText: Privacy-enhancing Conditional Text Anonymization via LLM-based Private Attribute Randomization](https://arxiv.org/abs/2407.02956)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/07] **[ObfuscaTune: Obfuscated Offsite Fine-tuning and Inference of Proprietary LLMs on Private Datasets](https://arxiv.org/abs/2407.02960)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Safely Learning with Private Data: A Federated Learning Framework for Large Language Model](https://arxiv.org/abs/2406.14898)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Mind the Privacy Unit! User-Level Differential Privacy for Language Model Fine-Tuning](https://arxiv.org/abs/2406.14322)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[The Fire Thief Is Also the Keeper: Balancing Usability and Privacy in Prompts](https://arxiv.org/abs/2406.14318)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

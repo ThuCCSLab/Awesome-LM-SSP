@@ -1,4 +1,6 @@
 # B1. Adversarial Examples
+- [2024/07] **[Self-Evaluation as a Defense Against Adversarial Attacks on LLMs](https://arxiv.org/abs/2407.03234)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2024/07] **[SOS! Soft Prompt Attack Against Open-Source Large Language Models](https://arxiv.org/abs/2407.03160)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Investigating and Defending Shortcut Learning in Personalized Diffusion Models](https://arxiv.org/abs/2406.18944)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/06] **[Adversarial Attacks on Multimodal Agents](https://arxiv.org/abs/2406.12814)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/05] **[Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent](https://arxiv.org/abs/2405.20770)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)

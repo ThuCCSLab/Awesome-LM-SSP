@@ -1,4 +1,9 @@
 # A1. Jailbreak
+- [2024/07] **[JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models](https://arxiv.org/abs/2407.01599)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
+- [2024/07] **[SoP: Unlock the Power of Social Facilitation for Automatic Jailbreak Attack](https://arxiv.org/abs/2407.01902)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/07] **[Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything](https://arxiv.org/abs/2407.02534)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2024/07] **[A False Sense of Safety: Unsafe Information Leakage in 'Safe' AI Responses](https://arxiv.org/abs/2407.02551)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/07] **[Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks](https://arxiv.org/abs/2407.02855)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/07] **[Badllama 3: removing safety finetuning from Llama 3 in minutes](https://arxiv.org/abs/2407.01376)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection](https://arxiv.org/abs/2406.19845)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation](https://arxiv.org/abs/2406.20053)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

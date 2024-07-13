@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/07] **[Jailbreak Attacks and Defenses Against Large Language Models: A Survey](https://arxiv.org/abs/2407.04295)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
+- [2024/07] **[DART: Deep Adversarial Automated Red Teaming for LLM Safety](https://arxiv.org/abs/2407.03876)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models](https://arxiv.org/abs/2407.01599)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2024/07] **[SoP: Unlock the Power of Social Facilitation for Automatic Jailbreak Attack](https://arxiv.org/abs/2407.01902)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything](https://arxiv.org/abs/2407.02534)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

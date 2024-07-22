@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/07] **[Does Refusal Training in LLMs Generalize to the Past Tense?](https://arxiv.org/abs/2407.11969)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/07] **[Continuous Embedding Attacks via Clipped Inputs in Jailbreaking Large Language Models](https://arxiv.org/abs/2407.13796)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[Jailbreak Attacks and Defenses Against Large Language Models: A Survey](https://arxiv.org/abs/2407.04295)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2024/07] **[DART: Deep Adversarial Automated Red Teaming for LLM Safety](https://arxiv.org/abs/2407.03876)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models](https://arxiv.org/abs/2407.01599)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)

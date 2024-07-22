@@ -1,4 +1,5 @@
 # B2. Poison & Backdoor
+- [2024/07] **[AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases](https://arxiv.org/abs/2407.12784)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/07] **[Future Events as Backdoor Triggers: Investigating Temporal Vulnerabilities in LLMs](https://arxiv.org/abs/2407.04108)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **["Glue pizza and eat rocks" -- Exploiting Vulnerabilities in Retrieval-Augmented Generative Models](https://arxiv.org/pdf/2406.19417)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/06] **[BEEAR: Embedding-based Adversarial Removal of Safety Backdoors in Instruction-tuned Language Models](https://arxiv.org/abs/2406.17092)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

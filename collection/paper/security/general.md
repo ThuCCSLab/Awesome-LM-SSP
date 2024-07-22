@@ -1,4 +1,5 @@
 # B0. General
+- [2024/07] **[Securing the Future of GenAI: Policy and Technology](https://arxiv.org/abs/2407.12999)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[On the (In)Security of LLM App Stores](https://arxiv.org/abs/2407.08422)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![App](https://img.shields.io/badge/App-87b800)
 - [2024/06] **[Security of AI Agents](https://arxiv.org/abs/2406.08689)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/06] **[NYU CTF Dataset: A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security](https://arxiv.org/abs/2406.05590)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)

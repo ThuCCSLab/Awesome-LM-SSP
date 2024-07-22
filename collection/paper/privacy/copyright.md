@@ -1,4 +1,8 @@
 # C2. Copyright
+- [2024/07] **[SLIP: Securing LLMs IP Using Weights Decomposition](https://arxiv.org/abs/2407.10886)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/07] **[Hey, That's My Model! Introducing Chain & Hash, An LLM Fingerprinting Technique](https://arxiv.org/abs/2407.10887)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/07] **[Building Intelligence Identification System via Large Language Model Watermarking: A Survey and Beyond](https://arxiv.org/abs/2407.11100)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/07] **[Less is More: Sparse Watermarking in LLMs with Enhanced Text Quality](https://arxiv.org/abs/2407.13803)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[On Evaluating The Performance of Watermarked Machine-Generated Texts Under Adversarial Attacks](https://arxiv.org/abs/2407.04794)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[Waterfall: Framework for Robust and Scalable Text Watermarking](https://arxiv.org/abs/2407.04411)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[A Fingerprint for Large Language Models](https://arxiv.org/abs/2407.01235)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

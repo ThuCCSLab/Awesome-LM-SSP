@@ -1,4 +1,5 @@
 # C8. Unlearning
+- [2024/07] **[Practical Unlearning for Large Language Models](https://arxiv.org/abs/2407.10223)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[UnUnlearning: Unlearning is not sufficient for content regulation in advanced generative AI](https://arxiv.org/abs/2407.00106)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://arxiv.org/abs/2406.11614)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/yihuaihong/ConceptVectors) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2406.10890)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://rwku-bench.github.io/) ![LLM](https://img.shields.io/badge/LLM-589cf4)

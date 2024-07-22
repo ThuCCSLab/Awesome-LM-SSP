@@ -1,4 +1,6 @@
 # B1. Adversarial Examples
+- [2024/07] **[MaPPing Your Model: Assessing the Impact of Adversarial Attacks on LLM-based Programming Assistants](https://arxiv.org/abs/2407.11072)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/07] **[Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/abs/2407.13757)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/07] **[Self-Evaluation as a Defense Against Adversarial Attacks on LLMs](https://arxiv.org/abs/2407.03234)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/07] **[SOS! Soft Prompt Attack Against Open-Source Large Language Models](https://arxiv.org/abs/2407.03160)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Investigating and Defending Shortcut Learning in Personalized Diffusion Models](https://arxiv.org/abs/2406.18944)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

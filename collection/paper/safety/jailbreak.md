@@ -1,4 +1,8 @@
 # A1. Jailbreak
+- [2024/07] **[Can Large Language Models Automatically Jailbreak GPT-4V?](https://arxiv.org/abs/2407.16686)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2024/07] **[PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing](https://arxiv.org/abs/2407.16318)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2024/07] **[Figure it Out: Analyzing-based Jailbreak Attack on Large Language Models](https://arxiv.org/abs/2407.16205)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/07] **[RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent](https://arxiv.org/abs/2407.16667)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/07] **[Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts](https://arxiv.org/abs/2407.15050)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/07] **[When Do Universal Image Jailbreaks Transfer Between Vision-Language Models?](https://arxiv.org/abs/2407.15211)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/07] **[Imposter.AI: Adversarial Attacks with Hidden Intentions towards Aligned Large Language Models](https://arxiv.org/abs/2407.15399)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

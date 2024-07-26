@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/07] **[Exploring Scaling Trends in LLM Robustness](https://arxiv.org/abs/2407.18213)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/07] **[The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models](https://arxiv.org/abs/2407.17915)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[Can Large Language Models Automatically Jailbreak GPT-4V?](https://arxiv.org/abs/2407.16686)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/07] **[PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing](https://arxiv.org/abs/2407.16318)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/07] **[Figure it Out: Analyzing-based Jailbreak Attack on Large Language Models](https://arxiv.org/abs/2407.16205)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

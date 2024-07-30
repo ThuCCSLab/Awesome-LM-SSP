@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2024/07] **[Prompt Injection Attacks on Large Language Models in Oncology](https://arxiv.org/abs/2407.18981)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Adversarial Search Engine Optimization for Large Language Models](https://arxiv.org/abs/2406.18382)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/06] **[Prompt Injection Attacks in Defended Systems](https://arxiv.org/abs/2406.14048)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents](https://arxiv.org/abs/2406.13352)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)

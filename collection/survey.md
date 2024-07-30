@@ -1,4 +1,5 @@
 # Survey
+- [2024/07] **[The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies](https://arxiv.org/abs/2407.19354)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/07] **[Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)](https://arxiv.org/abs/2407.14937)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Unique Security and Privacy Threats of Large Language Model: A Comprehensive Survey](https://arxiv.org/abs/2406.07973)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Safeguarding Large Language Models: A Survey](https://arxiv.org/abs/2406.02622)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

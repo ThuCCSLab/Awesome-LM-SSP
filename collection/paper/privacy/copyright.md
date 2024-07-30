@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2024/07] **[Strong Copyright Protection for Language Models via Adaptive Model Fusion](https://arxiv.org/abs/2407.20105)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[LLMmap: Fingerprinting For Large Language Models](https://arxiv.org/abs/2407.15847)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[SLIP: Securing LLMs IP Using Weights Decomposition](https://arxiv.org/abs/2407.10886)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[Hey, That's My Model! Introducing Chain & Hash, An LLM Fingerprinting Technique](https://arxiv.org/abs/2407.10887)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

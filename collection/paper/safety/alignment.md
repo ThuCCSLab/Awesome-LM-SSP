@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2024/07] **[Can Editing LLMs Inject Harm?](https://arxiv.org/abs/2407.20224)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://llm-editing.github.io/) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[The Better Angels of Machine Personality: How Personality Relates to LLM Safety](https://arxiv.org/abs/2407.12344)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?](https://arxiv.org/abs/2406.17806)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/06] **[Cross-Modality Safety Alignment](https://arxiv.org/abs/2406.15279)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

@@ -1,4 +1,5 @@
 # A8. Toxicity
+- [2024/07] **[Evolver: Chain-of-Evolution Prompting to Boost Large Multimodal Models for Hateful Meme Detection](https://arxiv.org/abs/2407.21004)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/07] **[Towards Understanding Unsafe Video Generation](https://arxiv.org/abs/2407.12581)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800)
 - [2024/06] **[Preference Tuning For Toxicity Mitigation Generalizes Across Languages](https://arxiv.org/abs/2406.16235)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Supporting Human Raters with the Detection of Harmful Content using Large Language Models](https://arxiv.org/abs/2406.12800)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

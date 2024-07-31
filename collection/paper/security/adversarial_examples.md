@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2024/07] **[Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification](https://arxiv.org/abs/2407.20859)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/07] **[Adversarial Attacks and Defenses on Text-to-Image Diffusion Models: A Survey ](https://arxiv.org/abs/2407.15861)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2024/07] **[MaPPing Your Model: Assessing the Impact of Adversarial Attacks on LLM-based Programming Assistants](https://arxiv.org/abs/2407.11072)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/abs/2407.13757)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

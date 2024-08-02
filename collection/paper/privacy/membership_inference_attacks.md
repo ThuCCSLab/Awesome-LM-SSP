@@ -1,5 +1,5 @@
 # C4. Membership Inference Attacks
-- [2024/08] **[Adaptive Pre-training Data Detection for Large Language Models via Surprising Tokens](https://arxiv.org/abs/2407.21248)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/07] **[Adaptive Pre-training Data Detection for Large Language Models via Surprising Tokens](https://arxiv.org/abs/2407.21248)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Seeing Is Believing: Black-Box Membership Inference Attacks Against Retrieval Augmented Generation](https://arxiv.org/abs/2406.19234)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/06] **[Inherent Challenges of Post-Hoc Membership Inference for Large Language Models](https://arxiv.org/abs/2406.17975)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Blind Baselines Beat Membership Inference Attacks for Foundation Models](https://arxiv.org/abs/2406.16201)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

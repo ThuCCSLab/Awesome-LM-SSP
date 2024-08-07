@@ -1,5 +1,6 @@
 # A1. Jailbreak
 - [2024/08] **[Jailbreaking Text-to-Image Models with LLM-Based Agents](https://arxiv.org/abs/2408.00523)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/07] **[Defending Jailbreak Attack in VLMs via Cross-modality Information Detector](https://arxiv.org/abs/2407.21659)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/07] **[Exploring Scaling Trends in LLM Robustness](https://arxiv.org/abs/2407.18213)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models](https://arxiv.org/abs/2407.17915)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[Can Large Language Models Automatically Jailbreak GPT-4V?](https://arxiv.org/abs/2407.16686)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

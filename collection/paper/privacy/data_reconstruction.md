@@ -1,4 +1,5 @@
 # C3. Data Reconstruction
+- [2024/08] **[Why Are My Prompts Leaked? Unraveling Prompt Extraction Threats in Customized Large Language Models](https://arxiv.org/abs/2408.02416)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[Was it Slander? Towards Exact Inversion of Generative Language Models](https://arxiv.org/abs/2407.11059)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[Towards More Realistic Extraction Attacks: An Adversarial Perspective](https://arxiv.org/abs/2407.02596)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[PII-Compass: Guiding LLM training data extraction prompts towards the target PII via grounding](https://arxiv.org/abs/2407.02943)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)

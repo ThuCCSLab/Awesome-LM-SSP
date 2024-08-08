@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2024/08] **[Empirical Analysis of Large Vision-Language Models against Goal Hijacking via Visual Prompt Injection](https://arxiv.org/abs/2408.03554)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/07] **[Prompt Injection Attacks on Large Language Models in Oncology](https://arxiv.org/abs/2407.18981)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Adversarial Search Engine Optimization for Large Language Models](https://arxiv.org/abs/2406.18382)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/06] **[Prompt Injection Attacks in Defended Systems](https://arxiv.org/abs/2406.14048)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

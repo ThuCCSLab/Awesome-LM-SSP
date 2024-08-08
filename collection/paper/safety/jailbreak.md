@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/08] **[EnJa: Ensemble Jailbreak on Large Language Models](https://arxiv.org/abs/2408.03603)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Jailbreaking Text-to-Image Models with LLM-Based Agents](https://arxiv.org/abs/2408.00523)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/07] **[Defending Jailbreak Attack in VLMs via Cross-modality Information Detector](https://arxiv.org/abs/2407.21659)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/07] **[Exploring Scaling Trends in LLM Robustness](https://arxiv.org/abs/2407.18213)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

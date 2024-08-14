@@ -46,7 +46,7 @@
 - [2023/12] **[DelucionQA: Detecting Hallucinations in Domain-specific Question Answering](https://arxiv.org/abs/2312.05200)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EMNLP'23_(Findings)](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)
 - [2023/12] **[Improving Factual Error Correction by Learning to Inject Factual Errors](https://arxiv.org/abs/2312.07049)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/12] **[RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback](https://arxiv.org/abs/2312.00849)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2023/12] **[The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation](https://arxiv.org/abs/2312.09085)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2023/12] **[The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation](https://arxiv.org/abs/2312.09085)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800) ![Best Paper](https://img.shields.io/badge/Best_paper-ff0000)
 - [2023/11] **[A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/abs/2311.05232)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/11] **[Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models](https://arxiv.org/abs/2311.09210)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/11] **[Deficiency of Large Language Models in Finance: An Empirical Examination of Hallucination](https://arxiv.org/abs/2311.15548)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

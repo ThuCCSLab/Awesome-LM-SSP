@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2024/08] **[Casper: Prompt Sanitization for Protecting User Privacy in Web-Based Large Language Models](https://arxiv.org/abs/2408.07004)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[MPC-Minimized Secure LLM Inference](https://arxiv.org/abs/2408.03561)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[Fine-Tuning Large Language Models with User-Level Differential Privacy](https://arxiv.org/abs/2407.07737)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[IncogniText: Privacy-enhancing Conditional Text Anonymization via LLM-based Private Attribute Randomization](https://arxiv.org/abs/2407.02956)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

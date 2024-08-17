@@ -29,6 +29,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 | aa |  arxiv | github  | bb'23    |  A1. Jailbreak | LLM  | Agent | 
 
 ## News
+- [2024.08.17] We collected `19` related papers from [ACL'24](https://2024.aclweb.org/)!
 - [2024.05.13] We collected `7` related papers from [S&P'24](https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y)!
 - [2024.04.27] We adjusted the categories.
 - [2024.01.20] We collected `3` related papers from [NDSS'24](https://www.ndss-symposium.org/ndss2024/accepted-papers/)!
@@ -41,27 +42,27 @@ The resources related to the trustworthiness of large models (LMs) across multip
 - [Leaderboard](collection/leaderboard.md) (3)
 - [Toolkit](collection/toolkit.md) (9)
 - [Survey](collection/survey.md) (30)
-- Paper (981)
-    - A. Safety (568)
+- Paper (984)
+    - A. Safety (570)
         - [A0. General](collection/paper/safety/general.md) (13)
-        - [A1. Jailbreak](collection/paper/safety/jailbreak.md) (209)
+        - [A1. Jailbreak](collection/paper/safety/jailbreak.md) (210)
         - [A2. Alignment](collection/paper/safety/alignment.md) (63)
         - [A3. Deepfake](collection/paper/safety/deepfake.md) (45)
         - [A4. Ethics](collection/paper/safety/ethics.md) (5)
         - [A5. Fairness](collection/paper/safety/fairness.md) (52)
         - [A6. Hallucination](collection/paper/safety/hallucination.md) (103)
         - [A7. Prompt Injection](collection/paper/safety/prompt_injection.md) (20)
-        - [A8. Toxicity](collection/paper/safety/toxicity.md) (58)
+        - [A8. Toxicity](collection/paper/safety/toxicity.md) (59)
     - B. Security (157)
         - [B0. General](collection/paper/security/general.md) (5)
         - [B1. Adversarial Examples](collection/paper/security/adversarial_examples.md) (73)
         - [B2. Poison & Backdoor](collection/paper/security/poison_&_backdoor.md) (71)
         - [B3. System](collection/paper/security/system.md) (8)
-    - C. Privacy (256)
+    - C. Privacy (257)
         - [C0. General](collection/paper/privacy/general.md) (19)
         - [C1. Contamination](collection/paper/privacy/contamination.md) (13)
         - [C2. Copyright](collection/paper/privacy/copyright.md) (86)
-        - [C3. Data Reconstruction](collection/paper/privacy/data_reconstruction.md) (30)
+        - [C3. Data Reconstruction](collection/paper/privacy/data_reconstruction.md) (31)
         - [C4. Membership Inference Attacks](collection/paper/privacy/membership_inference_attacks.md) (19)
         - [C5. Model Extraction](collection/paper/privacy/model_extraction.md) (8)
         - [C6. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation.md) (41)

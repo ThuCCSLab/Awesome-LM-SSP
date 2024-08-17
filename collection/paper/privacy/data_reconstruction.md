@@ -1,4 +1,5 @@
 # C3. Data Reconstruction
+- [2024/08] **[Transferable Embedding Inversion Attack: Uncovering Privacy Risks in Text Embeddings without Model Queries](https://aclanthology.org/2024.acl-long.230/)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/coffree0123/TEIA) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
 - [2024/08] **[Why Are My Prompts Leaked? Unraveling Prompt Extraction Threats in Customized Large Language Models](https://arxiv.org/abs/2408.02416)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[Data Mixture Inference: What do BPE Tokenizers Reveal about their Training Data?](https://arxiv.org/abs/2407.16607)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[Was it Slander? Towards Exact Inversion of Generative Language Models](https://arxiv.org/abs/2407.11059)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -6,7 +7,7 @@
 - [2024/07] **[PII-Compass: Guiding LLM training data extraction prompts towards the target PII via grounding](https://arxiv.org/abs/2407.02943)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
 - [2024/06] **[Extracting Training Data from Unconditional Diffusion Models](https://arxiv.org/abs/2406.12752)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/06] **[Is Diffusion Model Safe? Severe Data Leakage via Gradient-Guided Diffusion Model](https://arxiv.org/abs/2406.09484)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
-- [2024/06] **[Raccoon: Prompt Extraction Benchmark of LLM-Integrated Applications](https://arxiv.org/abs/2406.06737)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24_Findings](https://img.shields.io/badge/ACL'24_Findings-f1b800)
+- [2024/06] **[Raccoon: Prompt Extraction Benchmark of LLM-Integrated Applications](https://arxiv.org/abs/2406.06737)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24_(Findings)](https://img.shields.io/badge/ACL'24_(Findings)-f1b800)
 - [2024/05] **[Extracting Prompts by Inverting LLM Outputs](https://arxiv.org/abs/2405.15012)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[PLeak: Prompt Leaking Attacks against Large Language Model Applications](https://arxiv.org/abs/2405.06823)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![CCS'24](https://img.shields.io/badge/CCS'24-f1b800)
 - [2024/05] **[Special Characters Attack: Toward Scalable Training Data Extraction From Large Language Models](https://arxiv.org/abs/2405.05990)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

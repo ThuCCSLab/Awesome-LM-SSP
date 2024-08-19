@@ -1,4 +1,5 @@
 # C4. Membership Inference Attacks
+- [2024/08] **[MIA-Tuner: Adapting Large Language Models as Pre-training Text Detector](https://arxiv.org/abs/2408.08661)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Nob-MIAs: Non-biased Membership Inference Attacks Assessment on Large Language Models with Ex-Post Dataset Construction](https://arxiv.org/abs/2408.05968)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[Adaptive Pre-training Data Detection for Large Language Models via Surprising Tokens](https://arxiv.org/abs/2407.21248)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Seeing Is Believing: Black-Box Membership Inference Attacks Against Retrieval Augmented Generation](https://arxiv.org/abs/2406.19234)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

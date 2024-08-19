@@ -1,4 +1,8 @@
 # A3. Deepfake
+- [2024/08] **[MAGE: Machine-generated Text Detection in the Wild](https://aclanthology.org/2024.acl-long.3/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
+- [2024/08] **[Are AI-Generated Text Detectors Robust to Adversarial Perturbations? ](https://aclanthology.org/2024.acl-long.327/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
+- [2024/08] **[Event-Radar: Event-driven Multi-View Learning for Multimodal Fake News Detection](https://aclanthology.org/2024.acl-long.316/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
+- [2024/08] **[Unveiling Opinion Evolution via Prompting and Diffusion for Short Video Fake News Detection](https://aclanthology.org/2024.findings-acl.642/)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ACL'24_(Findings)](https://img.shields.io/badge/ACL'24_(Findings)-f1b800)
 - [2024/06] **[Investigating the Influence of Prompt-Specific Shortcuts in AI Generated Text Detection](https://arxiv.org/abs/2406.16275)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Applying Ensemble Methods to Model-Agnostic Machine-Generated Text Detection](https://arxiv.org/abs/2406.12570)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Evading AI-Generated Content Detectors using Homoglyphs](https://arxiv.org/abs/2406.11239)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -23,7 +27,7 @@
 - [2024/02] **[M4GT-Bench: Evaluation Benchmark for Black-Box Machine-Generated Text Detection](https://arxiv.org/abs/2402.11175)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/02] **[Ten Words Only Still Help: Improving Black-Box AI-Generated Text Detection via Proxy-Guided Efficient Re-Sampling](https://arxiv.org/abs/2402.09199)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Does DETECTGPT Fully Utilize Perturbation? Selective Perturbation on Model-Based Contrastive Learning Detector would be Better](https://arxiv.org/abs/2402.00263)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2024/02] **[TELLER: A Trustworthy Framework for Explainable, Generalizable and Controllable Fake News Detection](https://arxiv.org/abs/2402.07776)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/02] **[TELLER: A Trustworthy Framework for Explainable, Generalizable and Controllable Fake News Detection](https://aclanthology.org/2024.findings-acl.919/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24_(Findings)](https://img.shields.io/badge/ACL'24_(Findings)-f1b800)
 - [2024/02] **[Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?](https://arxiv.org/abs/2402.03214)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/01] **[Raidar: geneRative AI Detection viA Rewriting](https://arxiv.org/abs/2401.12970)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)
 - [2024/01] **[Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/ahans30/Binoculars) ![LLM](https://img.shields.io/badge/LLM-589cf4)

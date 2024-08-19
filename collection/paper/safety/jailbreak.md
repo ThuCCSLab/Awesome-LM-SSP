@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/08] **[MMJ-Bench: A Comprehensive Study on Jailbreak Attacks and Defenses for Vision Language Models](https://arxiv.org/abs/2408.08464)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2024/08] **[Defending LLMs against Jailbreaking Attacks via Backtranslation](https://aclanthology.org/2024.findings-acl.948/)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/YihanWang617/LLM-Jailbreaking-Defense-Backtranslation) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24_(Findings)](https://img.shields.io/badge/ACL'24_(Findings)-f1b800)
 - [2024/08] **[Jailbreak Open-Sourced Large Language Models via Enforced Decoding](https://aclanthology.org/2024.acl-long.299/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
 - [2024/08] **[h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment](https://arxiv.org/abs/2408.04811)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/08] **[A Jailbroken GenAI Model Can Cause Substantial Harm: GenAI-powered Applications are Vulnerable to PromptWares](https://arxiv.org/abs/2408.05061)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

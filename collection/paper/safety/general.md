@@ -1,5 +1,6 @@
 # A0. General
 - [2024/07] **[Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?](https://arxiv.org/abs/2407.21792v1)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/06] **[Finding Safety Neurons in Large Language Models](https://arxiv.org/abs/2406.14144)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors](https://arxiv.org/abs/2406.14598)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/06] **[GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning](https://arxiv.org/abs/2406.09187)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/06] **[Self and Cross-Model Distillation for LLMs: Effective Methods for Refusal Pattern Alignment](https://arxiv.org/abs/2406.11285)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

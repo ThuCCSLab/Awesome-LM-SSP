@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/08] **[Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation](https://arxiv.org/abs/2408.10668)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Prefix Guidance: A Steering Wheel for Large Language Models to Defend Against Jailbreak Attacks](https://arxiv.org/abs/2408.08924)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger](https://arxiv.org/abs/2408.09093)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/08] **[MMJ-Bench: A Comprehensive Study on Jailbreak Attacks and Defenses for Vision Language Models](https://arxiv.org/abs/2408.08464)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

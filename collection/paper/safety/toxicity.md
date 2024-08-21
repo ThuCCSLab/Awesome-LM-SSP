@@ -1,4 +1,5 @@
 # A8. Toxicity
+- [2024/08] **[LeCov: Multi-level Testing Criteria for Large Language Models](https://arxiv.org/abs/2408.10474)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Uncertainty-Guided Modal Rebalance for Hateful Memes Detection](https://aclanthology.org/2024.acl-long.239/)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
 - [2024/08] **[Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies ](https://arxiv.org/abs/2408.07728)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![CCS'24](https://img.shields.io/badge/CCS'24-f1b800)
 - [2024/07] **[Evolver: Chain-of-Evolution Prompting to Boost Large Multimodal Models for Hateful Meme Detection](https://arxiv.org/abs/2407.21004)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)

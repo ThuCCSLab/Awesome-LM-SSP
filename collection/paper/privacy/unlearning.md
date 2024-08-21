@@ -1,4 +1,5 @@
 # C8. Unlearning
+- [2024/08] **[Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models](https://arxiv.org/abs/2408.10682)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Protecting Privacy Through Approximating Optimal Parameters for Sequence Unlearning in Language Models](https://aclanthology.org/2024.findings-acl.936/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24_(Findings)](https://img.shields.io/badge/ACL'24_(Findings)-f1b800)
 - [2024/08] **[Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2408.06621)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[Practical Unlearning for Large Language Models](https://arxiv.org/abs/2407.10223)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

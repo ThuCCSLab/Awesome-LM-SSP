@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/08] **[SAGE-RT: Synthetic Alignment data Generation for Safety Evaluation and Red Teaming](https://arxiv.org/abs/2408.11851)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/08] **[Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles](https://arxiv.org/abs/2408.11182)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[EEG-Defender: Defending against Jailbreak through Early Exit Generation of Large Language Models](https://arxiv.org/abs/2408.11308)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/08] **[Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation](https://arxiv.org/abs/2408.10668)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

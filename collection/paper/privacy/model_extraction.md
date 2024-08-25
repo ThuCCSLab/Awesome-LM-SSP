@@ -2,7 +2,7 @@
 - [2024/08] **[Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services](https://arxiv.org/abs/2408.02814)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/04] **[TransLinkGuard: Safeguarding Transformer Models Against Model Stealing in Edge Deployment](https://arxiv.org/abs/2404.11121)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/03] **[Logits of API-Protected LLMs Leak Proprietary Information](https://arxiv.org/abs/2403.09539)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2024/03] **[Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/03] **[Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICML'24](https://img.shields.io/badge/ICML'24-f1b800) ![Best Paper](https://img.shields.io/badge/Best_paper-ff0000)
 - [2024/02] **[Recovering the Pre-Fine-Tuning Weights of Generative Models](https://arxiv.org/abs/2402.10208)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2023/12] **[Lion: Adversarial Distillation of Proprietary Large Language Models](https://aclanthology.org/2023.emnlp-main.189/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EMNLP'23](https://img.shields.io/badge/EMNLP'23-f1b800)
 - [2023/03] **[On Extracting Specialized Code Abilities from Large Language Models: A Feasibility Study](https://arxiv.org/abs/2303.03012)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICSE'24](https://img.shields.io/badge/ICSE'24-f1b800)

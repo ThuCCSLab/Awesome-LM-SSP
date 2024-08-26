@@ -1,4 +1,6 @@
 # C0. General
+- [2024/08] **[LLM-PBE: Assessing Data Privacy in Large Language Models](https://arxiv.org/abs/2408.12787)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/08] **[Data Exposure from LLM Apps: An In-depth Investigation of OpenAI's GPTs](https://arxiv.org/abs/2408.13247)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Mitigating Privacy Seesaw in Large Language Models: Augmented Privacy Neuron Editing via Activation Patching](https://aclanthology.org/2024.findings-acl.315/)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/flamewei123/APNEAP-) ![VLM](https://img.shields.io/badge/VLM-c7688b) ![ACL'24_(Findings)](https://img.shields.io/badge/ACL'24_(Findings)-f1b800)
 - [2024/08] **[Reducing Privacy Risks in Online Self-Disclosures with Language Models](https://aclanthology.org/2024.acl-long.741/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
 - [2024/08] **[Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions](https://arxiv.org/abs/2408.05212)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

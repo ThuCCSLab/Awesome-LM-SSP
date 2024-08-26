@@ -1,5 +1,5 @@
 # A1. Jailbreak
-- [2024/08] **[Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer](https://arxiv.org/abs/2408.11313)**
+- [2024/08] **[Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer](https://arxiv.org/abs/2408.11313)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[SAGE-RT: Synthetic Alignment data Generation for Safety Evaluation and Red Teaming](https://arxiv.org/abs/2408.11851)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/08] **[Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles](https://arxiv.org/abs/2408.11182)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[EEG-Defender: Defending against Jailbreak through Early Exit Generation of Large Language Models](https://arxiv.org/abs/2408.11308)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

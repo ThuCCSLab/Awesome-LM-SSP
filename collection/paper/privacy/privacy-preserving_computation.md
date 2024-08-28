@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2024/08] **[Learning Differentially Private Diffusion Models via Stochastic Adversarial Distillation](https://arxiv.org/abs/2408.14738)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/08] **[SecFormer: Fast and Accurate Privacy-Preserving Inference for Transformer Models via SMPC](https://aclanthology.org/2024.findings-acl.790/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24_(Findings)](https://img.shields.io/badge/ACL'24_(Findings)-f1b800)
 - [2024/08] **[Towards Privacy-Aware Sign Language Translation at Scale](https://aclanthology.org/2024.acl-long.467/)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
 - [2024/08] **[Casper: Prompt Sanitization for Protecting User Privacy in Web-Based Large Language Models](https://arxiv.org/abs/2408.07004)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,8 @@
 # A1. Jailbreak
+- [2024/08] **[Detecting AI Flaws: Target-Driven Attacks on Internal Faults in Language Models](https://arxiv.org/abs/2408.14853)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/08] **[Advancing Adversarial Suffix Transfer Learning on Aligned Large Language Models](https://arxiv.org/abs/2408.14866)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/08] **[LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet](https://arxiv.org/abs/2408.15221)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2024/08] **[RT-Attack: Jailbreaking Text-to-Image Models via Random Token](https://arxiv.org/abs/2408.13896)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/08] **[Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer](https://arxiv.org/abs/2408.11313)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[SAGE-RT: Synthetic Alignment data Generation for Safety Evaluation and Red Teaming](https://arxiv.org/abs/2408.11851)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/08] **[Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles](https://arxiv.org/abs/2408.11182)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

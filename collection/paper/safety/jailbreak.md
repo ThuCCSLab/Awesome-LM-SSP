@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/08] **[Emerging Vulnerabilities in Frontier Models: Multi-Turn Jailbreak Attacks ](https://arxiv.org/abs/2409.00137)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Detecting AI Flaws: Target-Driven Attacks on Internal Faults in Language Models](https://arxiv.org/abs/2408.14853)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Advancing Adversarial Suffix Transfer Learning on Aligned Large Language Models](https://arxiv.org/abs/2408.14866)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet](https://arxiv.org/abs/2408.15221)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

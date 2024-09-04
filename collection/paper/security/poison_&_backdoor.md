@@ -1,4 +1,6 @@
 # B2. Poison & Backdoor
+- [2024/09] **[The Dark Side of Human Feedback: Poisoning Large Language Models via User Inputs](https://arxiv.org/abs/2409.00787)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/09] **[Exploiting the Vulnerability of Large Language Models via Defense-Aware Architectural Backdoor](https://arxiv.org/abs/2409.01952)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Transferring Backdoors between Large Language Models by Knowledge Distillation](https://arxiv.org/abs/2408.09878)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Compromising Embodied Agents with Contextual Backdoor Attacks](https://arxiv.org/abs/2408.02882)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/08] **[Scaling Laws for Data Poisoning in LLMs](https://arxiv.org/abs/2408.02946)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

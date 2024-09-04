@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2024/08] **[Watermarking Techniques for Large Language Models: A Survey](https://arxiv.org/abs/2409.00089)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2024/08] **[MCGMark: An Encodable and Robust Online Watermark for LLM-Generated Malicious Code](https://arxiv.org/abs/2408.01354)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![codeGen](https://img.shields.io/badge/codeGen-87b800)
 - [2024/08] **[Robustness of Watermarking on Text-to-Image Diffusion Models ](https://arxiv.org/abs/2408.02035)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/08] **[Hide and Seek: Fingerprinting Large Language Models with Evolutionary Learning](https://arxiv.org/abs/2408.02871)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

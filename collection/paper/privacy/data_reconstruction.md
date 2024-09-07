@@ -26,7 +26,7 @@
 - [2023/09] **[Intriguing Properties of Data Attribution on Diffusion Models](https://openreview.net/forum?id=vKViCoKGcB)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)
 - [2023/09] **[Teach LLMs to Phish: Stealing Private Information from Language Models](https://openreview.net/forum?id=qo21ZlfNu6)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)
 - [2023/09] **[Language Model Inversion](https://arxiv.org/abs/2311.13647)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)
-- [2023/07] **[Prompts Should not be Seen as Secrets: Systematically Measuring Prompt Extraction Attack Success](https://arxiv.org/abs/2307.06865)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2023/07] **[Effective Prompt Extraction from Language Models](https://arxiv.org/abs/2307.06865v3)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/02] **[Prompt Stealing Attacks Against Text-to-Image Generation Models](https://arxiv.org/abs/2302.09923)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![USENIX_Security'24](https://img.shields.io/badge/USENIX_Security'24-f1b800)
 - [2023/01] **[Extracting Training Data from Diffusion Models](https://arxiv.org/abs/2301.13188)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![USENIX_Security'23](https://img.shields.io/badge/USENIX_Security'23-f1b800)
 - [2020/12] **[Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Security'21](https://img.shields.io/badge/USENIX_Security'21-f1b800)

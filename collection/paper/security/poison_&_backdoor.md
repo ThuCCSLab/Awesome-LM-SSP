@@ -1,4 +1,5 @@
 # B2. Poison & Backdoor
+- [2024/09] **[TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors ](https://arxiv.org/abs/2409.05294)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Defense](https://img.shields.io/badge/Defense-87b800) ![ICML'24](https://img.shields.io/badge/ICML'24-f1b800)
 - [2024/09] **[The Dark Side of Human Feedback: Poisoning Large Language Models via User Inputs](https://arxiv.org/abs/2409.00787)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Exploiting the Vulnerability of Large Language Models via Defense-Aware Architectural Backdoor](https://arxiv.org/abs/2409.01952)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Transferring Backdoors between Large Language Models by Knowledge Distillation](https://arxiv.org/abs/2408.09878)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

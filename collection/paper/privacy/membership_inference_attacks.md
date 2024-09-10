@@ -1,4 +1,5 @@
 # C4. Membership Inference Attacks
+- [2024/09] **[Con-ReCall: Detecting Pre-training Data in LLMs via Contrastive Decoding](https://arxiv.org/abs/2409.03363)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Membership Inference Attacks Against In-Context Learning](https://arxiv.org/abs/2409.01380)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action](https://arxiv.org/abs/2409.00138)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[MIA-Tuner: Adapting Large Language Models as Pre-training Text Detector](https://arxiv.org/abs/2408.08661)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

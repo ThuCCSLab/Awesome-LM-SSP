@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/09] **[AdaPPA: Adaptive Position Pre-Fill Jailbreak Attack Approach Targeting LLMs](https://arxiv.org/abs/2409.07503)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/09] **[Unleashing Worms and Extracting Data: Escalating the Outcome of Attacks against RAG-based Inference in Scale and Severity Using Jailbreaking](https://arxiv.org/abs/2409.08045)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/09] **[HSF: Defending against Jailbreak Attacks with Hidden State Filtering](https://arxiv.org/abs/2409.03788)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/08] **[Emerging Vulnerabilities in Frontier Models: Multi-Turn Jailbreak Attacks ](https://arxiv.org/abs/2409.00137)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Detecting AI Flaws: Target-Driven Attacks on Internal Faults in Language Models](https://arxiv.org/abs/2408.14853)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

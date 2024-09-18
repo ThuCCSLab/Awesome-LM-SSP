@@ -1,4 +1,5 @@
 # C3. Data Reconstruction
+- [2024/09] **[Prompt Obfuscation for Large Language Models](https://arxiv.org/abs/2409.11026)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/08] **[Transferable Embedding Inversion Attack: Uncovering Privacy Risks in Text Embeddings without Model Queries](https://aclanthology.org/2024.acl-long.230/)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/coffree0123/TEIA) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
 - [2024/08] **[Why Are My Prompts Leaked? Unraveling Prompt Extraction Threats in Customized Large Language Models](https://arxiv.org/abs/2408.02416)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[Data Mixture Inference: What do BPE Tokenizers Reveal about their Training Data?](https://arxiv.org/abs/2407.16607)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

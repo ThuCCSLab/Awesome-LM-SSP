@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2024/09] **[Measuring Copyright Risks of Large Language Model via Partial Information Probing](https://arxiv.org/abs/2409.13831)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Towards Effective User Attribution for Latent Diffusion Models via Watermark-Informed Blending](https://arxiv.org/abs/2409.10958)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/09] **[PersonaMark: Personalized LLM watermarking for model protection and user attribution](https://arxiv.org/abs/2409.09739)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[FP-VEC: Fingerprinting Large Language Models via Efficient Vector Addition](https://arxiv.org/abs/2409.08846)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,5 @@
 # B2. Poison & Backdoor
+- [2024/09] **[Obliviate: Neutralizing Task-agnostic Backdoors within the Parameter-efficient Fine-tuning Paradigm](https://arxiv.org/abs/2409.14119)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Understanding Implosion in Text-to-Image Generative Models](https://arxiv.org/abs/2409.12314)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![CCS'24](https://img.shields.io/badge/CCS'24-f1b800)
 - [2024/09] **[TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors ](https://arxiv.org/abs/2409.05294)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Defense](https://img.shields.io/badge/Defense-87b800) ![ICML'24](https://img.shields.io/badge/ICML'24-f1b800)
 - [2024/09] **[The Dark Side of Human Feedback: Poisoning Large Language Models via User Inputs](https://arxiv.org/abs/2409.00787)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

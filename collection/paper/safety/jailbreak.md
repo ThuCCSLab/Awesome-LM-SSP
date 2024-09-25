@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/09] **[PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach](https://arxiv.org/abs/2409.14177)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/09] **[Effective and Evasive Fuzz Testing-Driven Jailbreaking Attacks against LLMs](https://arxiv.org/abs/2409.14866)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[AdaPPA: Adaptive Position Pre-Fill Jailbreak Attack Approach Targeting LLMs](https://arxiv.org/abs/2409.07503)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Unleashing Worms and Extracting Data: Escalating the Outcome of Attacks against RAG-based Inference in Scale and Severity Using Jailbreaking](https://arxiv.org/abs/2409.08045)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/09] **[HSF: Defending against Jailbreak Attacks with Hidden State Filtering](https://arxiv.org/abs/2409.03788)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

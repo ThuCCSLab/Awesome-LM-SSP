@@ -1,4 +1,5 @@
 # C4. Membership Inference Attacks
+- [2024/09] **[Predicting and analyzing memorization within fine-tuned Large Language Models](https://arxiv.org/abs/2409.18858)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Context-Aware Membership Inference Attacks against Pre-trained Large Language Models](https://arxiv.org/abs/2409.13745)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Order of Magnitude Speedups for LLM Membership Inference](https://arxiv.org/abs/2409.14513)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Con-ReCall: Detecting Pre-training Data in LLMs via Contrastive Decoding](https://arxiv.org/abs/2409.03363)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

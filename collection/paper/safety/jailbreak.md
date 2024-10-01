@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/09] **[Read Over the Lines: Attacking LLMs and Toxicity Detection Systems with ASCII Art to Mask Profanity](https://arxiv.org/abs/2409.18708)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking](https://arxiv.org/abs/2409.17458)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks](https://arxiv.org/abs/2409.17699)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/09] **[PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach](https://arxiv.org/abs/2409.14177)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

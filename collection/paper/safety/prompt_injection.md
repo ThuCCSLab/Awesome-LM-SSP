@@ -1,4 +1,6 @@
 # A7. Prompt Injection
+- [2024/09] **[System-Level Defense against Indirect Prompt Injection Attacks: An Information Flow Control Perspective](https://arxiv.org/abs/2409.19091)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/09] **[GenTel-Safe: A Unified Benchmark and Shielding Framework for Defending Against Prompt Injection Attacks](https://arxiv.org/abs/2409.19521)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs](https://arxiv.org/abs/2409.14729)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Applying Pre-trained Multilingual BERT in Embeddings for Improved Malicious Prompt Injection Attacks Detection](https://arxiv.org/abs/2409.13331)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/08] **[Rag and Roll: An End-to-End Evaluation of Indirect Prompt Manipulations in LLM-based Application Frameworks](https://arxiv.org/abs/2408.05025)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

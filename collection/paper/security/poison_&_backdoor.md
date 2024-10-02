@@ -1,4 +1,5 @@
 # B2. Poison & Backdoor
+- [2024/09] **[Mitigating Backdoor Threats to Large Language Models: Advancement and Challenges](https://arxiv.org/abs/2409.19993)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[CLIBE: Detecting Dynamic Backdoors in Transformer-based NLP Models](https://arxiv.org/abs/2409.01193)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/Raytsang123/CLIBE) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)
 - [2024/09] **[Weak-To-Strong Backdoor Attacks for LLMs with Contrastive Knowledge Distillation](https://arxiv.org/abs/2409.17946)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Obliviate: Neutralizing Task-agnostic Backdoors within the Parameter-efficient Fine-tuning Paradigm](https://arxiv.org/abs/2409.14119)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2024/09] **[A Certified Robust Watermark For Large Language Models](https://arxiv.org/abs/2409.19708)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Multi-Designated Detector Watermarking for Language Models](https://arxiv.org/abs/2409.17518)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Measuring Copyright Risks of Large Language Model via Partial Information Probing](https://arxiv.org/abs/2409.13831)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Towards Effective User Attribution for Latent Diffusion Models via Watermark-Informed Blending](https://arxiv.org/abs/2409.10958)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
@@ -40,7 +41,7 @@
 - [2024/05] **[Lazy Layers to Make Fine-Tuned Diffusion Models More Traceable](https://arxiv.org/abs/2405.00466)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/04] **[Disguised Copyright Infringement of Latent Diffusion Model](https://arxiv.org/abs/2404.06737)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/04] **[Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models](https://arxiv.org/abs/2404.04956)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![CVPR'24](https://img.shields.io/badge/CVPR'24-f1b800)
-- [2024/04] **[Have You Merged My Model? On The Robustness of Large Language Model IP Protection Methods Against Model Merging](https://arxiv.org/abs/2404.05188)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![LAMPS@CCS‘24](https://img.shields.io/badge/LAMPS@CCS‘24-f1b800)
+- [2024/04] **[Have You Merged My Model? On The Robustness of Large Language Model IP Protection Methods Against Model Merging](https://arxiv.org/abs/2404.05188)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![LAMPS@CCS‘24](https://img.shields.io/badge/LAMPS@CCS‘24-f1b800) ![Best Paper](https://img.shields.io/badge/Best_paper-ff0000)
 - [2024/04] **[A Training-Free Plug-and-Play Watermark Framework for Stable Diffusion](https://arxiv.org/abs/2404.05607)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/04] **[Topic-based Watermarks for LLM-Generated Text](https://arxiv.org/abs/2404.02138)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[A Statistical Framework of Watermarks for Large Language Models: Pivot, Detection Efficiency and Optimal Rules](https://arxiv.org/abs/2404.01245)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

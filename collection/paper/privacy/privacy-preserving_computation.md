@@ -1,4 +1,7 @@
 # C6. Privacy-Preserving Computation
+- [2024/10] **[PrivTuner with Homomorphic Encryption and LoRA: A P3EFT Scheme for Privacy-Preserving Parameter-Efficient Fine-Tuning of AI Foundation Models](https://arxiv.org/abs/2410.00433)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/09] **[Secure Multiparty Generative AI](https://arxiv.org/abs/2409.19120)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/09] **[Confidential Prompting: Protecting User Prompts from Cloud LLM Providers](https://arxiv.org/abs/2409.19134)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Learning Differentially Private Diffusion Models via Stochastic Adversarial Distillation](https://arxiv.org/abs/2408.14738)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/08] **[SecFormer: Fast and Accurate Privacy-Preserving Inference for Transformer Models via SMPC](https://aclanthology.org/2024.findings-acl.790/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24_(Findings)](https://img.shields.io/badge/ACL'24_(Findings)-f1b800)
 - [2024/08] **[Towards Privacy-Aware Sign Language Translation at Scale](https://aclanthology.org/2024.acl-long.467/)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)

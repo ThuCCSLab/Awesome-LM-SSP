@@ -1,4 +1,5 @@
 # A8. Toxicity
+- [2024/10] **[SteerDiff: Steering towards Safe Text-to-Image Diffusion Models](https://arxiv.org/abs/2410.02710)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/08] **[DiffZOO: A Purely Query-Based Black-Box Attack for Red-teaming Text-to-Image Generative Model via Zeroth Order Optimization](https://arxiv.org/abs/2408.11071)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/08] **[Efficient Detection of Toxic Prompts in Large Language Models](https://arxiv.org/abs/2408.11727)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[LeCov: Multi-level Testing Criteria for Large Language Models](https://arxiv.org/abs/2408.10474)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

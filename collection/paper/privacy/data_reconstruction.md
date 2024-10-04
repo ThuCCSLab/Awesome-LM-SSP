@@ -1,4 +1,5 @@
 # C3. Data Reconstruction
+- [2024/10] **[Towards a Theoretical Understanding of Memorization in Diffusion Models](https://arxiv.org/abs/2410.02467)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/09] **[Extracting Memorized Training Data via Decomposition](https://arxiv.org/abs/2409.12367)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Prompt Obfuscation for Large Language Models](https://arxiv.org/abs/2409.11026)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/08] **[Transferable Embedding Inversion Attack: Uncovering Privacy Risks in Text Embeddings without Model Queries](https://aclanthology.org/2024.acl-long.230/)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/coffree0123/TEIA) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)

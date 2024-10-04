@@ -1,4 +1,5 @@
 # B0. General
+- [2024/10] **[Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/agiresearch/ASB) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/07] **[Securing the Future of GenAI: Policy and Technology](https://arxiv.org/abs/2407.12999)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/07] **[On the (In)Security of LLM App Stores](https://arxiv.org/abs/2407.08422)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![App](https://img.shields.io/badge/App-87b800)
 - [2024/06] **[Security of AI Agents](https://arxiv.org/abs/2406.08689)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)

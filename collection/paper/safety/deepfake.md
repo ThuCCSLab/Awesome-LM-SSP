@@ -1,4 +1,5 @@
 # A3. Deepfake
+- [2024/10] **[Social Media Authentication and Combating Deepfakes using Semi-fragile Invisible Image Watermarking](https://arxiv.org/abs/2410.01906)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/09] **[FIDAVL: Fake Image Detection and Attribution using Vision-Language Model](https://arxiv.org/abs/2409.03109)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/09] **[LLM Detectors Still Fall Short of Real World: Case of LLM-Generated Short News-Like Posts](https://arxiv.org/abs/2409.03291)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[MAGE: Machine-generated Text Detection in the Wild](https://aclanthology.org/2024.acl-long.3/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)

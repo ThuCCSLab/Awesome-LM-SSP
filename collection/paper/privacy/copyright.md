@@ -1,4 +1,7 @@
 # C2. Copyright
+- [2024/10] **[Ward: Provable RAG Dataset Inference via LLM Watermarks](https://arxiv.org/abs/2410.03537)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2024/10] **[Universally Optimal Watermarking Schemes for LLMs: from Theory to Practice](https://arxiv.org/abs/2410.02890)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/10] **[Can Watermarked LLMs be Identified by Users via Crafted Prompts?](https://arxiv.org/abs/2410.03168)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[A Watermark for Black-Box Language Models](https://arxiv.org/abs/2410.02099)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Optimizing Adaptive Attacks against Content Watermarks for Language Models](https://arxiv.org/abs/2410.02440)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Discovering Clues of Spoofed LM Watermarks](https://arxiv.org/abs/2410.02693)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

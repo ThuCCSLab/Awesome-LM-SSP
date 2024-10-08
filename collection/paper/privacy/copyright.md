@@ -5,6 +5,7 @@
 - [2024/10] **[A Watermark for Black-Box Language Models](https://arxiv.org/abs/2410.02099)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Optimizing Adaptive Attacks against Content Watermarks for Language Models](https://arxiv.org/abs/2410.02440)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Discovering Clues of Spoofed LM Watermarks](https://arxiv.org/abs/2410.02693)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/09] **[Dormant: Defending against Pose-driven Human Image Animation](https://arxiv.org/abs/2409.14424)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/Manu21JC/Dormant) ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/09] **[A Certified Robust Watermark For Large Language Models](https://arxiv.org/abs/2409.19708)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Multi-Designated Detector Watermarking for Language Models](https://arxiv.org/abs/2409.17518)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Measuring Copyright Risks of Large Language Model via Partial Information Probing](https://arxiv.org/abs/2409.13831)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

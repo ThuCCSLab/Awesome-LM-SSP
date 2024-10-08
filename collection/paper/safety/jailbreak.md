@@ -1,4 +1,7 @@
 # A1. Jailbreak
+- [2024/10] **[Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step](https://arxiv.org/abs/2410.03869)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/10] **[Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks](https://arxiv.org/abs/2410.04234)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/10] **[Harnessing Task Overload for Scalable Jailbreak Attacks on Large Language Models](https://arxiv.org/abs/2410.04190)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[FlipAttack: Jailbreak LLMs via Flipping](https://arxiv.org/abs/2410.02832)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models](https://arxiv.org/abs/2410.02298)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data](https://arxiv.org/abs/2410.00296)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)

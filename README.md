@@ -53,7 +53,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
         - [A6. Hallucination](collection/paper/safety/hallucination.md) (106)
         - [A7. Prompt Injection](collection/paper/safety/prompt_injection.md) (25)
         - [A8. Toxicity](collection/paper/safety/toxicity.md) (63)
-        - [A9. Toxicity](collection/paper/safety/faceswap.md) (24)
+        - [A9. Face Swapping](collection/paper/safety/faceswap.md) (24)
     - B. Security (173)
         - [B0. General](collection/paper/security/general.md) (6)
         - [B1. Adversarial Examples](collection/paper/security/adversarial_examples.md) (75)

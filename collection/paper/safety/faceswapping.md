@@ -1,4 +1,4 @@
-# A.9 Face Swapping
+# A9. Face Swapping
 - [2024/07] [**CodeSwap: Symmetrically Face Swapping Based on Prior Codebook**](https://openreview.net/forum?id=TYbuVVM3iR) ![ACMMM'24](https://img.shields.io/badge/ACMMM'24-f1b800)
 - [2024/07] **[BlendFace: Re-designing Identity Encoders for Face-Swapping](https://arxiv.org/abs/2307.10854)** ![ICCV'23](https://img.shields.io/badge/ICCV'23-f1b800)
 - [2024/07] **[Reinforced Disentanglement for Face Swapping without Skip Connection](https://openaccess.thecvf.com/content/ICCV2023/papers/Ren_Reinforced_Disentanglement_for_Face_Swapping_without_Skip_Connection_ICCV_2023_paper.pdf)** ![ICCV'23](https://img.shields.io/badge/ICCV'23-f1b800)

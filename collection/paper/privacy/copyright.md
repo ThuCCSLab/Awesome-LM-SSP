@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2024/10] **[An undetectable watermark for generative image models ](https://arxiv.org/abs/2410.07369)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/10] **[WAPITI: A Watermark for Finetuned Open-Source LLMs](https://arxiv.org/abs/2410.06467)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Signal Watermark on Large Language Models](https://arxiv.org/abs/2410.06545)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Ward: Provable RAG Dataset Inference via LLM Watermarks](https://arxiv.org/abs/2410.03537)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

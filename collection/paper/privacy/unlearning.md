@@ -1,4 +1,5 @@
 # C8. Unlearning
+- [2024/10] **[Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models](https://arxiv.org/abs/2410.08074)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/09] **[An Adversarial Perspective on Machine Unlearning for AI Safety](https://arxiv.org/abs/2409.18025)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language Models for Privacy Leakage](https://arxiv.org/abs/2408.17354)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models](https://arxiv.org/abs/2408.10682)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

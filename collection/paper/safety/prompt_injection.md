@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2024/10] **[Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems](https://arxiv.org/abs/2410.07283)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/10] **[Aligning LLMs to Be Robust Against Prompt Injection](https://arxiv.org/abs/2410.05451)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[System-Level Defense against Indirect Prompt Injection Attacks: An Information Flow Control Perspective](https://arxiv.org/abs/2409.19091)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[GenTel-Safe: A Unified Benchmark and Shielding Framework for Defending Against Prompt Injection Attacks](https://arxiv.org/abs/2409.19521)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

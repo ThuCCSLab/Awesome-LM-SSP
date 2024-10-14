@@ -1,4 +1,5 @@
 # B2. Poison & Backdoor
+- [2024/10] **[PoisonBench: Assessing Large Language Model Vulnerability to Data Poisoning](https://arxiv.org/abs/2410.08811)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[ASPIRER: Bypassing System Prompts With Permutation-based Backdoors in LLMs](https://arxiv.org/abs/2410.04009)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Controlled Generation of Natural Adversarial Documents for Stealthy Retrieval Poisoning](https://arxiv.org/abs/2410.02163)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/09] **[Mitigating Backdoor Threats to Large Language Models: Advancement and Challenges](https://arxiv.org/abs/2409.19993)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

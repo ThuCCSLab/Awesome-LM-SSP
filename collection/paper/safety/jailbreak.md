@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/10] **[RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process](https://arxiv.org/abs/2410.08660)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/10] **[AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs](https://arxiv.org/abs/2410.05295)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level](https://arxiv.org/abs/2410.06809)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/10] **[Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step](https://arxiv.org/abs/2410.03869)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

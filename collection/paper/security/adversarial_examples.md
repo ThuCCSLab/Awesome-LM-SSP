@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2024/10] **[Natural Language Induced Adversarial Images](https://arxiv.org/abs/2410.08620)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/10] **[Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates](https://arxiv.org/abs/2410.07137)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[TaeBench: Improving Quality of Toxic Adversarial Examples](https://arxiv.org/abs/2410.05573)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Real-world Adversarial Defense against Patch Attacks based on Diffusion Model](https://arxiv.org/abs/2409.09406)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

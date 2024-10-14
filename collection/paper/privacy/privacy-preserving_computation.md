@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2024/10] **[Privately Learning from Graphs with Applications in Fine-tuning Large Language Models](https://arxiv.org/abs/2410.08299)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Fine-Tuning Language Models with Differential Privacy through Adaptive Noise Allocation](https://arxiv.org/abs/2410.02912)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Adaptively Private Next-Token Prediction of Large Language Models](https://arxiv.org/abs/2410.02016)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Encryption-Friendly LLM Architecture](https://arxiv.org/abs/2410.02486)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

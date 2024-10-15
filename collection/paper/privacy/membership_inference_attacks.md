@@ -1,4 +1,5 @@
 # C4. Membership Inference Attacks
+- [2024/10] **[Identity-Focused Inference and Extraction Attacks on Diffusion Models](https://arxiv.org/abs/2410.10177)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/10] **[Detecting Training Data of Large Language Models via Expectation Maximization](https://arxiv.org/abs/2410.07582)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Membership Inference Attacks Cannot Prove that a Model Was Trained On Your Data](https://arxiv.org/abs/2409.19798)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Predicting and analyzing memorization within fine-tuned Large Language Models](https://arxiv.org/abs/2409.18858)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

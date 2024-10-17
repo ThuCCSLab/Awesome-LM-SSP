@@ -1,4 +1,5 @@
 # C0. General
+- [2024/10] **[Empowering Users in Digital Privacy Management through Interactive LLM-Based Agents](https://arxiv.org/abs/2410.11906)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/08] **[LLM-PBE: Assessing Data Privacy in Large Language Models](https://arxiv.org/abs/2408.12787)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Data Exposure from LLM Apps: An In-depth Investigation of OpenAI's GPTs](https://arxiv.org/abs/2408.13247)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Mitigating Privacy Seesaw in Large Language Models: Augmented Privacy Neuron Editing via Activation Patching](https://aclanthology.org/2024.findings-acl.315/)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/flamewei123/APNEAP-) ![VLM](https://img.shields.io/badge/VLM-c7688b) ![ACL'24_(Findings)](https://img.shields.io/badge/ACL'24_(Findings)-f1b800)

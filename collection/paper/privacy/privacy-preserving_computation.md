@@ -1,4 +1,7 @@
 # C6. Privacy-Preserving Computation
+- [2024/10] **[Rescriber: Smaller-LLM-Powered User-Led Data Minimization for Navigating Privacy Trade-offs in LLM-Based Conversational Agent](https://arxiv.org/abs/2410.11876)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/10] **[Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning](https://arxiv.org/abs/2410.12085)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/10] **[Reconstruction of Differentially Private Text Sanitization via Large Language Models](https://arxiv.org/abs/2410.12443)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Privately Learning from Graphs with Applications in Fine-tuning Large Language Models](https://arxiv.org/abs/2410.08299)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Fine-Tuning Language Models with Differential Privacy through Adaptive Noise Allocation](https://arxiv.org/abs/2410.02912)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Adaptively Private Next-Token Prediction of Large Language Models](https://arxiv.org/abs/2410.02016)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

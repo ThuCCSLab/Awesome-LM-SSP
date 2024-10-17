@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2024/10] **[UTF:Undertrained Tokens as Fingerprints A Novel Approach to LLM Identification](https://arxiv.org/abs/2410.12318)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[FreqMark: Frequency-Based Watermark for Sentence-Level Detection of LLM-Generated Text](https://arxiv.org/abs/2410.10876)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[MergePrint: Robust Fingerprinting against Merging Large Language Models](https://arxiv.org/abs/2410.08604)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[An undetectable watermark for generative image models ](https://arxiv.org/abs/2410.07369)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

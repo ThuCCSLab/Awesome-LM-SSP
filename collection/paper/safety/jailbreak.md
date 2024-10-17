@@ -1,7 +1,6 @@
 # A1. Jailbreak
 - [2024/10] **[Derail Yourself: Multi-turn LLM Jailbreak Attack through Self-discovered Clues](https://arxiv.org/abs/2410.10700)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation](https://arxiv.org/abs/2410.11317)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2024/10] **[Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation](https://arxiv.org/abs/2410.11317)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models](https://arxiv.org/abs/2410.09804)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process](https://arxiv.org/abs/2410.08660)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/10] **[AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs](https://arxiv.org/abs/2410.05295)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

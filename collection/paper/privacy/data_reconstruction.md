@@ -1,4 +1,5 @@
 # C3. Data Reconstruction
+- [2024/10] **[Data Defenses Against Large Language Models](https://arxiv.org/abs/2410.13138)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/10] **[PII-Scope: A Benchmark for Training Data PII Leakage Assessment in LLMs](https://arxiv.org/abs/2410.06704)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/10] **[Towards a Theoretical Understanding of Memorization in Diffusion Models](https://arxiv.org/abs/2410.02467)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/09] **[Extracting Memorized Training Data via Decomposition](https://arxiv.org/abs/2409.12367)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

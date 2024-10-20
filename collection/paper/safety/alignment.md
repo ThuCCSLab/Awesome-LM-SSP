@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2024/10] **[On the Role of Attention Heads in Large Language Model Safety](https://arxiv.org/abs/2410.13708)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Superficial Safety Alignment Hypothesis](https://arxiv.org/abs/2410.10862)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks](https://arxiv.org/abs/2410.03769)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Booster: Tackling Harmful Fine-tuning for Large Language Models via Attenuating Harmful Perturbation](https://arxiv.org/abs/2409.01586)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/git-disl/Booster) ![LLM](https://img.shields.io/badge/LLM-589cf4)

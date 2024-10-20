@@ -1,4 +1,5 @@
 # B2. Poison & Backdoor
+- [2024/10] **[Persistent Pre-Training Poisoning of LLMs](https://arxiv.org/abs/2410.13722)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Denial-of-Service Poisoning Attacks against Large Language Models](https://arxiv.org/abs/2410.10760)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[PoisonBench: Assessing Large Language Model Vulnerability to Data Poisoning](https://arxiv.org/abs/2410.08811)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[ASPIRER: Bypassing System Prompts With Permutation-based Backdoors in LLMs](https://arxiv.org/abs/2410.04009)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

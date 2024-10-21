@@ -1,4 +1,5 @@
 # B2. Poison & Backdoor
+- [2024/10] **[Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation](https://arxiv.org/abs/2410.14425)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Persistent Pre-Training Poisoning of LLMs](https://arxiv.org/abs/2410.13722)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Denial-of-Service Poisoning Attacks against Large Language Models](https://arxiv.org/abs/2410.10760)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[PoisonBench: Assessing Large Language Model Vulnerability to Data Poisoning](https://arxiv.org/abs/2410.08811)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

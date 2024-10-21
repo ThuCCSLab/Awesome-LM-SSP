@@ -1,4 +1,5 @@
 # A6. Hallucination
+- [2024/10] **[Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](https://arxiv.org/abs/2410.14262)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Large Language Models are Easily Confused: A Quantitative Metric, Security Implications and Typological Analysis](https://arxiv.org/abs/2410.13237)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Ingest-And-Ground: Dispelling Hallucinations from Continually-Pretrained LLMs with RAG](https://arxiv.org/abs/2410.02825)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/09] **[Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals in Large Language Models](https://arxiv.org/abs/2409.00598)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

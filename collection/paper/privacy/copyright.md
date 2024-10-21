@@ -1,4 +1,7 @@
 # C2. Copyright
+- [2024/10] **[REEF: Representation Encoding Fingerprints for Large Language Models](https://arxiv.org/abs/2410.14273)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/10] **[CoreGuard: Safeguarding Foundational Capabilities of LLMs Against Model Stealing in Edge Deployment](https://arxiv.org/abs/2410.13903)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/10] **[NSmark: Null Space Based Black-box Watermarking Defense Framework for Pre-trained Language Models](https://arxiv.org/abs/2410.13907)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[UTF:Undertrained Tokens as Fingerprints A Novel Approach to LLM Identification](https://arxiv.org/abs/2410.12318)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[FreqMark: Frequency-Based Watermark for Sentence-Level Detection of LLM-Generated Text](https://arxiv.org/abs/2410.10876)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[MergePrint: Robust Fingerprinting against Merging Large Language Models](https://arxiv.org/abs/2410.08604)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

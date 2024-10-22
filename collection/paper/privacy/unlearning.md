@@ -1,4 +1,5 @@
 # C8. Unlearning
+- [2024/10] **[When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?](https://arxiv.org/abs/2410.15267)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/10] **[Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts](https://arxiv.org/abs/2410.12777)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/10] **[Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models](https://arxiv.org/abs/2410.08074)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/09] **[An Adversarial Perspective on Machine Unlearning for AI Safety](https://arxiv.org/abs/2409.18025)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

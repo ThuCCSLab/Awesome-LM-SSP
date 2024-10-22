@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2024/10] **[FedSpaLLM: Federated Pruning of Large Language Models](https://arxiv.org/abs/2410.14852)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[AERO: Softmax-Only LLMs for Efficient Private Inference](https://arxiv.org/abs/2410.13060)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[FRAG: Toward Federated Vector Database Management for Collaborative and Secure Retrieval-Augmented Generation](https://arxiv.org/abs/2410.13272)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/10] **[Rescriber: Smaller-LLM-Powered User-Led Data Minimization for Navigating Privacy Trade-offs in LLM-Based Conversational Agent](https://arxiv.org/abs/2410.11876)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

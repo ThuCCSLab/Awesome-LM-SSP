@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/10] **[Faster-GCG: Efficient Discrete Optimization Jailbreak Attacks against Aligned Large Language Models](https://arxiv.org/abs/2410.15362)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/10] **[Jailbreaking and Mitigation of Vulnerabilities in Large Language Models](https://arxiv.org/abs/2410.15236)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents](https://arxiv.org/abs/2410.13886)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[SoK: Prompt Hacking of Large Language Models](https://arxiv.org/abs/2410.13901)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Derail Yourself: Multi-turn LLM Jailbreak Attack through Self-discovered Clues](https://arxiv.org/abs/2410.10700)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

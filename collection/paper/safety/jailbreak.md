@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/10] **[Feint and Attack: Attention-Based Strategies for Jailbreaking and Protecting LLMs](https://arxiv.org/abs/2410.16327)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Faster-GCG: Efficient Discrete Optimization Jailbreak Attacks against Aligned Large Language Models](https://arxiv.org/abs/2410.15362)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Jailbreaking and Mitigation of Vulnerabilities in Large Language Models](https://arxiv.org/abs/2410.15236)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents](https://arxiv.org/abs/2410.13886)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

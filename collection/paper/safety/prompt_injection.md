@@ -1,6 +1,6 @@
 # A7. Prompt Injection
 - [2024/10] **[Making LLMs Vulnerable to Prompt Injection via Poisoning Alignment](https://arxiv.org/abs/2410.14827)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2024/10] **[Backdoored Retrievers for Prompt Injection Attacks on Retrieval Augmented Generation of Large Language Models](https://arxiv.org/abs/2410.14479)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/10] **[Backdoored Retrievers for Prompt Injection Attacks on Retrieval Augmented Generation of Large Language Models](https://arxiv.org/abs/2410.14479)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/10] **[F2A: An Innovative Approach for Prompt Injection by Utilizing Feign Security Detection Agents](https://arxiv.org/abs/2410.08776)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems](https://arxiv.org/abs/2410.07283)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/10] **[Aligning LLMs to Be Robust Against Prompt Injection](https://arxiv.org/abs/2410.05451)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

@@ -1,4 +1,6 @@
 # C2. Copyright
+- [2024/10] **[Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances](https://arxiv.org/abs/2410.18775)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/10] **[Provably Robust Watermarks for Open-Source Language Models](https://arxiv.org/abs/2410.18861)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[REEF: Representation Encoding Fingerprints for Large Language Models](https://arxiv.org/abs/2410.14273)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[CoreGuard: Safeguarding Foundational Capabilities of LLMs Against Model Stealing in Edge Deployment](https://arxiv.org/abs/2410.13903)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[NSmark: Null Space Based Black-box Watermarking Defense Framework for Pre-trained Language Models](https://arxiv.org/abs/2410.13907)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

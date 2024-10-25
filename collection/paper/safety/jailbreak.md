@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/10] **[SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models ](https://arxiv.org/abs/2410.18927)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/10] **[AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents](https://arxiv.org/abs/2410.17401)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/10] **[Feint and Attack: Attention-Based Strategies for Jailbreaking and Protecting LLMs](https://arxiv.org/abs/2410.16327)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Faster-GCG: Efficient Discrete Optimization Jailbreak Attacks against Aligned Large Language Models](https://arxiv.org/abs/2410.15362)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

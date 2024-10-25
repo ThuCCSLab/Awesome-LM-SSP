@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2024/10] **[Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attack](https://arxiv.org/abs/2410.18210)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[On the Role of Attention Heads in Large Language Model Safety](https://arxiv.org/abs/2410.13708)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Superficial Safety Alignment Hypothesis](https://arxiv.org/abs/2410.10862)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks](https://arxiv.org/abs/2410.03769)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

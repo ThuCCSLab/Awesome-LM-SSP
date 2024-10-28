@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2024/10] **[LanFL: Differentially Private Federated Learning with Large Language Models using Synthetic Samples](https://arxiv.org/abs/2410.19114)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[PAPILLON: PrivAcy Preservation from Internet-based and Local Language MOdel ENsembles](https://arxiv.org/abs/2410.17127)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[FedSpaLLM: Federated Pruning of Large Language Models](https://arxiv.org/abs/2410.14852)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[AERO: Softmax-Only LLMs for Efficient Private Inference](https://arxiv.org/abs/2410.13060)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,6 @@
 # C2. Copyright
+- [2024/10] **[Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models](https://arxiv.org/abs/2410.21088)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/10] **[Inevitable Trade-off between Watermark Strength and Speculative Sampling Efficiency for Language Models](https://arxiv.org/abs/2410.20418)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Watermarking Large Language Models and the Generated Content: Opportunities and Challenges](https://arxiv.org/abs/2410.19096)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances](https://arxiv.org/abs/2410.18775)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/10] **[Provably Robust Watermarks for Open-Source Language Models](https://arxiv.org/abs/2410.18861)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

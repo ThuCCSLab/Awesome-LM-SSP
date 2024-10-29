@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/10] **[RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction](https://arxiv.org/abs/2410.19937)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2024/10] **[You Know What I'm Saying: Jailbreak Attack via Implicit Reference](https://arxiv.org/abs/2410.03857)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/Lucas-TY/llm_Implicit_reference) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Adversarial Attacks on Large Language Models Using Regularized Relaxation](https://arxiv.org/abs/2410.19160)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models ](https://arxiv.org/abs/2410.18927)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/10] **[AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents](https://arxiv.org/abs/2410.17401)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Agent](https://img.shields.io/badge/Agent-87b800)

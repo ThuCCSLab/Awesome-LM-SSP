@@ -1,4 +1,6 @@
 # A7. Prompt Injection
+- [2024/10] **[FATH: Authentication-based Test-time Defense against Indirect Prompt Injection Attacks](https://arxiv.org/abs/2410.21492)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2024/10] **[Embedding-based classifiers can detect prompt injection attacks](https://arxiv.org/abs/2410.22284)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks](https://arxiv.org/abs/2410.20911)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Making LLMs Vulnerable to Prompt Injection via Poisoning Alignment](https://arxiv.org/abs/2410.14827)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Backdoored Retrievers for Prompt Injection Attacks on Retrieval Augmented Generation of Large Language Models](https://arxiv.org/abs/2410.14479)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

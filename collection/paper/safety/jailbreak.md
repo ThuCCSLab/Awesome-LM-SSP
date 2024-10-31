@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/10] **[Effective and Efficient Adversarial Detection for Vision-Language Models via A Single Vector](https://arxiv.org/abs/2410.22888)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/10] **[RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction](https://arxiv.org/abs/2410.19937)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/10] **[You Know What I'm Saying: Jailbreak Attack via Implicit Reference](https://arxiv.org/abs/2410.03857)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/Lucas-TY/llm_Implicit_reference) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Adversarial Attacks on Large Language Models Using Regularized Relaxation](https://arxiv.org/abs/2410.19160)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

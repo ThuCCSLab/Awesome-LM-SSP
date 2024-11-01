@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2024/10] **[Adversarial Attacks of Vision Tasks in the Past 10 Years: A Survey](https://arxiv.org/abs/2410.23687)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2024/10] **[Natural Language Induced Adversarial Images](https://arxiv.org/abs/2410.08620)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/10] **[Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates](https://arxiv.org/abs/2410.07137)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[TaeBench: Improving Quality of Toxic Adversarial Examples](https://arxiv.org/abs/2410.05573)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

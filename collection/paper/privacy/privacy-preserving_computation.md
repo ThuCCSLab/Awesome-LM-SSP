@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2024/11] **[A Practical and Privacy-Preserving Framework for Real-World Large Language Model Services](https://arxiv.org/abs/2411.01471)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[SVIP: Towards Verifiable Inference of Open-source Large Language Models](https://arxiv.org/abs/2410.22307)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[LanFL: Differentially Private Federated Learning with Large Language Models using Synthetic Samples](https://arxiv.org/abs/2410.19114)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[PAPILLON: PrivAcy Preservation from Internet-based and Local Language MOdel ENsembles](https://arxiv.org/abs/2410.17127)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

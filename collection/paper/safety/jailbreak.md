@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/11] **[SQL Injection Jailbreak: a structural disaster of large language models](https://arxiv.org/abs/2411.01565)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Transferable Ensemble Black-box Jailbreak Attacks on Large Language Models](https://arxiv.org/abs/2410.23558)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Effective and Efficient Adversarial Detection for Vision-Language Models via A Single Vector](https://arxiv.org/abs/2410.22888)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/10] **[RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction](https://arxiv.org/abs/2410.19937)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

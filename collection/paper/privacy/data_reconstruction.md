@@ -1,4 +1,5 @@
 # C3. Data Reconstruction
+- [2024/11] **[Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors](https://arxiv.org/abs/2411.01705)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/10] **[Stealing User Prompts from Mixture of Experts ](https://arxiv.org/abs/2410.22884)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Remote Timing Attacks on Efficient Language Model Inference](https://arxiv.org/abs/2410.17175)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Extracting Spatiotemporal Data from Gradients with Large Language Models](https://arxiv.org/abs/2410.16121)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

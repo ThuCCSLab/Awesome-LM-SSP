@@ -1,4 +1,5 @@
 # C4. Membership Inference Attacks
+- [2024/11] **[Membership Inference Attacks against Large Vision-Language Models](https://arxiv.org/abs/2411.02902)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![NeurIPS'24](https://img.shields.io/badge/NeurIPS'24-f1b800)
 - [2024/10] **[Mask-based Membership Inference Attacks for Retrieval-Augmented Generation](https://arxiv.org/abs/2410.20142)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/10] **[PSY: Posterior Sampling Based Privacy Enhancer in Large Language Models](https://arxiv.org/abs/2410.18824)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Identity-Focused Inference and Extraction Attacks on Diffusion Models](https://arxiv.org/abs/2410.10177)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

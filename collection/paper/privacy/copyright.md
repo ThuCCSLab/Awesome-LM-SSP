@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2024/11] **[ROBIN: Robust and Invisible Watermarks for Diffusion Models with Adversarial Optimization](https://arxiv.org/abs/2411.03862)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/10] **[Embedding Watermarks in Diffusion Process for Model Intellectual Property Protection](https://arxiv.org/abs/2410.22445)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/10] **[Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models](https://arxiv.org/abs/2410.21088)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/10] **[Inevitable Trade-off between Watermark Strength and Speculative Sampling Efficiency for Language Models](https://arxiv.org/abs/2410.20418)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

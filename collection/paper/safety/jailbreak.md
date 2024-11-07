@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/11] **[MRJ-Agent: An Effective Jailbreak Agent for Multi-Round Dialogue](https://arxiv.org/abs/2411.03814)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
+- [2024/11] **[What Features in Prompts Jailbreak LLMs? Investigating the Mechanisms Behind Attacks](https://arxiv.org/abs/2411.03343)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[SQL Injection Jailbreak: a structural disaster of large language models](https://arxiv.org/abs/2411.01565)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Transferable Ensemble Black-box Jailbreak Attacks on Large Language Models](https://arxiv.org/abs/2410.23558)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Effective and Efficient Adversarial Detection for Vision-Language Models via A Single Vector](https://arxiv.org/abs/2410.22888)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

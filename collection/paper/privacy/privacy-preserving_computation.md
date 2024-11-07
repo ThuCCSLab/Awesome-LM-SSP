@@ -1,4 +1,6 @@
 # C6. Privacy-Preserving Computation
+- [2024/11] **[OML: Open, Monetizable, and Loyal AI](https://arxiv.org/abs/2411.03887)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/11] **[PipeLLM: Fast and Confidential Large Language Model Services with Speculative Pipelined Encryption](https://arxiv.org/abs/2411.03357)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ASPLOS'25](https://img.shields.io/badge/ASPLOS'25-f1b800)
 - [2024/11] **[A Practical and Privacy-Preserving Framework for Real-World Large Language Model Services](https://arxiv.org/abs/2411.01471)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[SVIP: Towards Verifiable Inference of Open-source Large Language Models](https://arxiv.org/abs/2410.22307)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[LanFL: Differentially Private Federated Learning with Large Language Models using Synthetic Samples](https://arxiv.org/abs/2410.19114)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

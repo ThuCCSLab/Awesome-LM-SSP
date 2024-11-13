@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/11] **[SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains](https://arxiv.org/abs/2411.06426)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[MRJ-Agent: An Effective Jailbreak Agent for Multi-Round Dialogue](https://arxiv.org/abs/2411.03814)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/11] **[What Features in Prompts Jailbreak LLMs? Investigating the Mechanisms Behind Attacks](https://arxiv.org/abs/2411.03343)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[SQL Injection Jailbreak: a structural disaster of large language models](https://arxiv.org/abs/2411.01565)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

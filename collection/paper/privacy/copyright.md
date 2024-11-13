@@ -1,4 +1,6 @@
 # C2. Copyright
+- [2024/11] **[LLM App Squatting and Cloning](https://arxiv.org/abs/2411.07518)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/11] **[InvisMark: Invisible and Robust Watermarking for AI-generated Image Provenance](https://arxiv.org/abs/2411.07795)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Watermarking Language Models through Language Models](https://arxiv.org/abs/2411.05091)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Revisiting the Robustness of Watermarking to Paraphrasing Attacks](https://arxiv.org/abs/2411.05277)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[ROBIN: Robust and Invisible Watermarks for Diffusion Models with Adversarial Optimization](https://arxiv.org/abs/2411.03862)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

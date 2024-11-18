@@ -1,4 +1,5 @@
 # A8. Toxicity
+- [2024/11] **[Safe Text-to-Image Generation: Simply Sanitize the Prompt Embedding](https://arxiv.org/abs/2411.10329)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/10] **[Soft-Label Integration for Robust Toxicity Classification](https://arxiv.org/abs/2410.14894)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Can a large language model be a gaslighter?](https://arxiv.org/abs/2410.09181)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[On Calibration of LLM-based Guard Models for Reliable Content Moderation](https://arxiv.org/abs/2410.10414)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

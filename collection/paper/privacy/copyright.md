@@ -1,4 +1,9 @@
 # C2. Copyright
+- [2024/11] **[One Prompt to Verify Your Models: Black-Box Text-to-Image Models Verification via Non-Transferable Adversarial Attacks](https://arxiv.org/abs/2410.22725)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/11] **[Debiasing Watermarks for Large Language Models via Maximal Coupling](https://arxiv.org/abs/2411.11203)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/11] **[CLUE-MARK: Watermarking Diffusion Models using CLWE](https://arxiv.org/abs/2411.11434)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/11] **[SoK: On the Role and Future of AIGC Watermarking in the Era of Gen-AI](https://arxiv.org/abs/2411.11478)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/11] **[Conceptwm: A Diffusion Model Watermark for Concept Protection](https://arxiv.org/abs/2411.11688)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/11] **[LLM App Squatting and Cloning](https://arxiv.org/abs/2411.07518)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[InvisMark: Invisible and Robust Watermarking for AI-generated Image Provenance](https://arxiv.org/abs/2411.07795)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Watermarking Language Models through Language Models](https://arxiv.org/abs/2411.05091)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

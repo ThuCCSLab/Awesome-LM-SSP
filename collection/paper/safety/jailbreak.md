@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/11] **[JailbreakLens: Interpreting Jailbreak Mechanism in the Lens of Representation and Circuit](https://arxiv.org/abs/2411.11114)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/11] **[SoK: Unifying Cybersecurity and Cybersafety of Multimodal Foundation Models with an Information Theory Approach](https://arxiv.org/abs/2411.11195)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2024/11] **[The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense](https://arxiv.org/abs/2411.08410)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/11] **[SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains](https://arxiv.org/abs/2411.06426)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[MRJ-Agent: An Effective Jailbreak Agent for Multi-Round Dialogue](https://arxiv.org/abs/2411.03814)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)

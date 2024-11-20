@@ -1,4 +1,6 @@
 # B2. Poison & Backdoor
+- [2024/11] **[Combinational Backdoor Attack against Customized Text-to-Image Models](https://arxiv.org/abs/2411.12389)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/11] **[When Backdoors Speak: Understanding LLM Backdoor Attacks Through Model-Generated Explanations](https://arxiv.org/abs/2411.12701)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation](https://arxiv.org/abs/2410.14425)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Persistent Pre-Training Poisoning of LLMs](https://arxiv.org/abs/2410.13722)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Denial-of-Service Poisoning Attacks against Large Language Models](https://arxiv.org/abs/2410.10760)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,7 @@
 # C2. Copyright
+- [2024/11] **[CDI: Copyrighted Data Identification in Diffusion Models](https://arxiv.org/abs/2411.12858)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/11] **[CopyrightMeter: Revisiting Copyright Protection in Text-to-image Models](https://arxiv.org/abs/2411.13144)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/11] **[WaterPark: A Robustness Assessment of Language Model Watermarking](https://arxiv.org/abs/2411.13425)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[One Prompt to Verify Your Models: Black-Box Text-to-Image Models Verification via Non-Transferable Adversarial Attacks](https://arxiv.org/abs/2410.22725)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/11] **[Debiasing Watermarks for Large Language Models via Maximal Coupling](https://arxiv.org/abs/2411.11203)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[CLUE-MARK: Watermarking Diffusion Models using CLWE](https://arxiv.org/abs/2411.11434)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

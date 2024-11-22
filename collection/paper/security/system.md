@@ -1,4 +1,5 @@
 # B3. System
+- [2024/11] **[AttentionBreaker: Adaptive Evolutionary Optimization for Unmasking Vulnerabilities in LLMs through Bit-Flip Attacks](https://arxiv.org/abs/2411.13757)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Towards evaluations-based safety cases for AI scheming](https://arxiv.org/abs/2411.03336)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Safeguard is a Double-edged Sword: Denial-of-service Attack on Large Language Models](https://arxiv.org/abs/2410.02916)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems](https://arxiv.org/abs/2409.20002)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

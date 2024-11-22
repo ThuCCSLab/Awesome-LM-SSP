@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/11] **[GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs](https://arxiv.org/abs/2411.14133)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Rapid Response: Mitigating LLM Jailbreaks with a Few Examples](https://arxiv.org/abs/2411.07494)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/11] **[JailbreakLens: Interpreting Jailbreak Mechanism in the Lens of Representation and Circuit](https://arxiv.org/abs/2411.11114)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[SoK: Unifying Cybersecurity and Cybersafety of Multimodal Foundation Models with an Information Theory Approach](https://arxiv.org/abs/2411.11195)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Survey](https://img.shields.io/badge/Survey-87b800)

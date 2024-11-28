@@ -1,4 +1,5 @@
 # A3. Deepfake
+- [2024/11] **[Passive Deepfake Detection Across Multi-modalities: A Comprehensive Survey](https://arxiv.org/abs/2411.17911)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/11] **[AI-generated Image Detection: Passive or Watermark?](https://arxiv.org/abs/2411.13553)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/11] **[A Quality-Centric Framework for Generic Deepfake Detection](https://arxiv.org/abs/2411.05335)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Video](https://img.shields.io/badge/Video-87b800)
 - [2024/10] **[Humanizing the Machine: Proxy Attacks to Mislead LLM Detectors](https://arxiv.org/abs/2410.19230)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

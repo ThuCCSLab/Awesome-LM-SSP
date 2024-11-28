@@ -1,4 +1,7 @@
 # A1. Jailbreak
+- [2024/11] **[In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models](https://arxiv.org/abs/2411.16769)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/11] **["Moralized" Multi-Step Jailbreak Prompts: Black-Box Testing of Guardrails in Large Language Models for Verbal Attacks](https://arxiv.org/abs/2411.16730)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/11] **[Preventing Jailbreak Prompts as Malicious Tools for Cybercriminals: A Cyber Defense Perspective](https://arxiv.org/abs/2411.16642)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs](https://arxiv.org/abs/2411.14133)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Rapid Response: Mitigating LLM Jailbreaks with a Few Examples](https://arxiv.org/abs/2411.07494)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/11] **[JailbreakLens: Interpreting Jailbreak Mechanism in the Lens of Representation and Circuit](https://arxiv.org/abs/2411.11114)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

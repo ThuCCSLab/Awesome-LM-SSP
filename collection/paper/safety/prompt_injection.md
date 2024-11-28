@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2024/11] **[Universal and Context-Independent Triggers for Precise Control of LLM Outputs](https://arxiv.org/abs/2411.14738)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/11] **[Attention Tracker: Detecting Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2411.00348)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/11] **[Defense Against Prompt Injection Attack by Leveraging Attack Techniques](https://arxiv.org/abs/2411.00459)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/10] **[Systematically Analyzing Prompt Injection Vulnerabilities in Diverse LLM Architectures](https://arxiv.org/abs/2410.23308)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

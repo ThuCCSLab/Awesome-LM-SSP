@@ -1,4 +1,6 @@
 # B2. Poison & Backdoor
+- [2024/11] **[LoBAM: LoRA-Based Backdoor Attack on Model Merging](https://arxiv.org/abs/2411.16746)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/11] **[PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2411.17453)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Combinational Backdoor Attack against Customized Text-to-Image Models](https://arxiv.org/abs/2411.12389)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/11] **[When Backdoors Speak: Understanding LLM Backdoor Attacks Through Model-Generated Explanations](https://arxiv.org/abs/2411.12701)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation](https://arxiv.org/abs/2410.14425)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

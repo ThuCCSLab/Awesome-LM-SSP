@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2024/11] **[SoK: Watermarking for AI-Generated Content](https://arxiv.org/abs/2411.18479)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![SoK](https://img.shields.io/badge/SoK-87b800)
 - [2024/11] **[CDI: Copyrighted Data Identification in Diffusion Models](https://arxiv.org/abs/2411.12858)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/11] **[CopyrightMeter: Revisiting Copyright Protection in Text-to-image Models](https://arxiv.org/abs/2411.13144)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/11] **[WaterPark: A Robustness Assessment of Language Model Watermarking](https://arxiv.org/abs/2411.13425)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

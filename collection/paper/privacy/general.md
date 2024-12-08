@@ -1,4 +1,5 @@
 # C0. General
+- [2024/12] **[VLSBench: Unveiling Visual Leakage in Multimodal Safety](https://arxiv.org/abs/2411.19939)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/11] **[Privacy Risks of Speculative Decoding in Large Language Models](https://arxiv.org/abs/2411.01076)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Can Humans Oversee Agents to Prevent Privacy Leakage? A Study on Privacy Awareness, Preferences, and Trust in Language Model Agents](https://arxiv.org/abs/2411.01344)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/10] **[Empowering Users in Digital Privacy Management through Interactive LLM-Based Agents](https://arxiv.org/abs/2410.11906)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)

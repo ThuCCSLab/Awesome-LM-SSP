@@ -1,4 +1,7 @@
 # A1. Jailbreak
+- [2024/12] **[Improved Large Language Model Jailbreak Detection via Pretrained Embeddings](https://arxiv.org/abs/2412.01547)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2024/11] **[Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment](https://arxiv.org/abs/2411.18688)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2024/11] **[PEFT-as-an-Attack! Jailbreaking Language Models during Federated Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2411.19335)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models](https://arxiv.org/abs/2411.16769)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/11] **["Moralized" Multi-Step Jailbreak Prompts: Black-Box Testing of Guardrails in Large Language Models for Verbal Attacks](https://arxiv.org/abs/2411.16730)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Preventing Jailbreak Prompts as Malicious Tools for Cybercriminals: A Cyber Defense Perspective](https://arxiv.org/abs/2411.16642)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

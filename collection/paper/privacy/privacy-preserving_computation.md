@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2024/12] **[TruncFormer: Private LLM Inference Using Only Truncations](https://arxiv.org/abs/2412.01042)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Preempting Text Sanitization Utility in Resource-Constrained Privacy-Preserving LLM Interactions](https://arxiv.org/abs/2411.11521)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[OML: Open, Monetizable, and Loyal AI](https://arxiv.org/abs/2411.03887)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[PipeLLM: Fast and Confidential Large Language Model Services with Speculative Pipelined Encryption](https://arxiv.org/abs/2411.03357)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ASPLOS'25](https://img.shields.io/badge/ASPLOS'25-f1b800)

@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2024/12] **[Trust No AI: Prompt Injection Along The CIA Security Triad](https://arxiv.org/abs/2412.06090)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Universal and Context-Independent Triggers for Precise Control of LLM Outputs](https://arxiv.org/abs/2411.14738)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/11] **[Attention Tracker: Detecting Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2411.00348)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/11] **[Defense Against Prompt Injection Attack by Leveraging Attack Techniques](https://arxiv.org/abs/2411.00459)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

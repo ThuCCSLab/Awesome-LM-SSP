@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2024/12] **[On Evaluating the Durability of Safeguards for Open-Weight LLMs](https://arxiv.org/abs/2412.07097)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attack](https://arxiv.org/abs/2410.18210)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[On the Role of Attention Heads in Large Language Model Safety](https://arxiv.org/abs/2410.13708)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Superficial Safety Alignment Hypothesis](https://arxiv.org/abs/2410.10862)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

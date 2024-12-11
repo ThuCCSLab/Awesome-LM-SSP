@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/12] **[FlexLLM: Exploring LLM Customization for Moving Target Defense on Black-Box LLMs Against Jailbreak Attacks](https://arxiv.org/abs/2412.07672)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/12] **[PrisonBreak: Jailbreaking Large Language Models with Fewer Than Twenty-Five Targeted Bit-flips](https://arxiv.org/abs/2412.07192)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[BAMBA: A Bimodal Adversarial Multi-Round Black-Box Jailbreak Attacker for LVLMs](https://arxiv.org/abs/2412.05892)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/12] **[Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models](https://arxiv.org/abs/2412.05934)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/12] **[Improved Large Language Model Jailbreak Detection via Pretrained Embeddings](https://arxiv.org/abs/2412.01547)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

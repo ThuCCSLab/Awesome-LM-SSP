@@ -1,4 +1,7 @@
 # A1. Jailbreak
+- [2024/12] **[Model-Editing-Based Jailbreak against Safety-aligned Large Language Models](https://arxiv.org/abs/2412.08201)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/12] **[Antelope: Potent and Concealed Jailbreak Attack Strategy](https://arxiv.org/abs/2412.08156)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/12] **[AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models](https://arxiv.org/abs/2412.08608)** ![SLM](https://img.shields.io/badge/SLM-39c5bb)
 - [2024/12] **[FlexLLM: Exploring LLM Customization for Moving Target Defense on Black-Box LLMs Against Jailbreak Attacks](https://arxiv.org/abs/2412.07672)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[PrisonBreak: Jailbreaking Large Language Models with Fewer Than Twenty-Five Targeted Bit-flips](https://arxiv.org/abs/2412.07192)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[BAMBA: A Bimodal Adversarial Multi-Round Black-Box Jailbreak Attacker for LVLMs](https://arxiv.org/abs/2412.05892)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

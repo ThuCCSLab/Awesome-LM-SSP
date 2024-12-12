@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2024/12] **[Federated In-Context LLM Agent Learning](https://arxiv.org/abs/2412.08054)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Privacy-Preserving Large Language Models: Mechanisms, Applications, and Future Directions](https://arxiv.org/abs/2412.06113)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Privacy-Preserving Retrieval Augmented Generation with Differential Privacy](https://arxiv.org/abs/2412.04697)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/12] **[TruncFormer: Private LLM Inference Using Only Truncations](https://arxiv.org/abs/2412.01042)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2024/12] **[AdvPrefix: An Objective for Nuanced LLM Jailbreaks](https://arxiv.org/abs/2412.10321)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Model-Editing-Based Jailbreak against Safety-aligned Large Language Models](https://arxiv.org/abs/2412.08201)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Antelope: Potent and Concealed Jailbreak Attack Strategy](https://arxiv.org/abs/2412.08156)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/12] **[AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models](https://arxiv.org/abs/2412.08608)** ![SLM](https://img.shields.io/badge/SLM-39c5bb)

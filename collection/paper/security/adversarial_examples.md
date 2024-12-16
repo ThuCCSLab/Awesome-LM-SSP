@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2024/12] **[Robust image classification with multi-modal large language models](https://arxiv.org/abs/2412.10353)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/12] **[Doubly-Universal Adversarial Perturbations: Deceiving Vision-Language Models Across Both Images and Text with a Single Perturbation](https://arxiv.org/abs/2412.08108)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/11] **[Unlocking The Potential of Adaptive Attacks on Diffusion-Based Purification](https://arxiv.org/abs/2411.16598)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/11] **[Adversarial Robustness of In-Context Learning in Transformers for Linear Regression ](https://arxiv.org/abs/2411.05189)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,5 @@
 # B2. Poison & Backdoor
+- [2024/12] **[From Allies to Adversaries: Manipulating LLM Tool-Calling through Adversarial Injection](https://arxiv.org/abs/2412.10198)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Gracefully Filtering Backdoor Samples for Generative Large Language Models without Retraining](https://arxiv.org/abs/2412.02454)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![COLING_2025](https://img.shields.io/badge/COLING_2025-f1b800)
 - [2024/11] **[Knowledge Database or Poison Base? Detecting RAG Poisoning Attack through LLM Activations](https://arxiv.org/abs/2411.18948)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/11] **[LoBAM: LoRA-Based Backdoor Attack on Model Merging](https://arxiv.org/abs/2411.16746)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

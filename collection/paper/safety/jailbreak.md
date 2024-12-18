@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/12] **[No Free Lunch for Defending Against Prefilling Attack by In-Context Learning](https://arxiv.org/abs/2412.12192)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/12] **[Defending LVLMs Against Vision Attacks through Partial-Perception Supervision](https://arxiv.org/abs/2412.12722)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/12] **[AdvPrefix: An Objective for Nuanced LLM Jailbreaks](https://arxiv.org/abs/2412.10321)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Model-Editing-Based Jailbreak against Safety-aligned Large Language Models](https://arxiv.org/abs/2412.08201)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Antelope: Potent and Concealed Jailbreak Attack Strategy](https://arxiv.org/abs/2412.08156)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

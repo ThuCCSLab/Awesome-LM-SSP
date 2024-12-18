@@ -1,4 +1,5 @@
 # A0. General
+- [2024/12] **[SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/abs/2412.13178)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/11] **[Quantized Delta Weight Is Safety Keeper](https://arxiv.org/abs/2411.19530)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Image-Perfect Imperfections: Safety, Bias, and Authenticity in the Shadow of Text-To-Image Model Evolution](https://arxiv.org/abs/2408.17285)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![CCS'24](https://img.shields.io/badge/CCS'24-f1b800)
 - [2024/07] **[Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?](https://arxiv.org/abs/2407.21792v1)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

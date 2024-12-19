@@ -1,4 +1,5 @@
 # C3. Data Reconstruction
+- [2024/12] **[Safeguarding System Prompts for LLMs](https://arxiv.org/abs/2412.13426)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/11] **[InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks](https://arxiv.org/abs/2411.18191)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks](https://arxiv.org/abs/2411.14110)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/11] **[Mitigating Privacy Risks in LLM Embeddings from Embedding Inversion](https://arxiv.org/abs/2411.05034)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

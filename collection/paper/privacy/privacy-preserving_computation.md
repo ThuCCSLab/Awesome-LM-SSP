@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2024/12] **[Large Language Model Federated Learning with Blockchain and Unlearning for Cross-Organizational Collaboration](https://arxiv.org/abs/2412.13551)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[RemoteRAG: A Privacy-Preserving LLM Cloud RAG Service](https://arxiv.org/abs/2412.12775)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/12] **[Federated In-Context LLM Agent Learning](https://arxiv.org/abs/2412.08054)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Privacy-Preserving Large Language Models: Mechanisms, Applications, and Future Directions](https://arxiv.org/abs/2412.06113)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

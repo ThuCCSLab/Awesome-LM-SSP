@@ -1,4 +1,5 @@
 # B3. System
+- [2024/12] **[Crabs: Consuming Resrouce via Auto-generation for LLM-DoS Attack under Black-box Settings](https://arxiv.org/abs/2412.13879)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[AttentionBreaker: Adaptive Evolutionary Optimization for Unmasking Vulnerabilities in LLMs through Bit-Flip Attacks](https://arxiv.org/abs/2411.13757)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Towards evaluations-based safety cases for AI scheming](https://arxiv.org/abs/2411.03336)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Safeguard is a Double-edged Sword: Denial-of-service Attack on Large Language Models](https://arxiv.org/abs/2410.02916)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

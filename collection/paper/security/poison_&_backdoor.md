@@ -1,4 +1,5 @@
 # B2. Poison & Backdoor
+- [2024/12] **[Meme Trojan: Backdoor Attacks Against Hateful Meme Detection via Cross-Modal Triggers](https://arxiv.org/abs/2412.15503)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![AAAI'25](https://img.shields.io/badge/AAAI'25-f1b800)
 - [2024/12] **[UIBDiffusion: Universal Imperceptible Backdoor Attack for Diffusion Models](https://arxiv.org/abs/2412.11441)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/12] **[From Allies to Adversaries: Manipulating LLM Tool-Calling through Adversarial Injection](https://arxiv.org/abs/2412.10198)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Gracefully Filtering Backdoor Samples for Generative Large Language Models without Retraining](https://arxiv.org/abs/2412.02454)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![COLING_2025](https://img.shields.io/badge/COLING_2025-f1b800)

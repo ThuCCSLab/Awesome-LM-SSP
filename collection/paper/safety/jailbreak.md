@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2024/12] **[Token Highlighter: Inspecting and Mitigating Jailbreak Prompts for Large Language Models](https://arxiv.org/abs/2412.18171)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2024/12] **[AEIOU: A Unified Defense Framework against NSFW Prompts in Text-to-Image Models](https://arxiv.org/abs/2412.18123)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/12] **[SATA: A Paradigm for LLM Jailbreak via Simple Assistive Task Linkage](https://arxiv.org/abs/2412.15289)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[JailPO: A Novel Black-box Jailbreak Framework via Preference Optimization against Aligned LLMs](https://arxiv.org/abs/2412.15623)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[No Free Lunch for Defending Against Prefilling Attack by In-Context Learning](https://arxiv.org/abs/2412.12192)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

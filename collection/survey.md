@@ -1,4 +1,5 @@
 # Survey
+- [2024/11] **[Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents](https://arxiv.org/abs/2411.09523)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/09] **[Harmful Fine-tuning Attacks and Defenses for Large Language Models: A Survey](https://arxiv.org/abs/2409.18169)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/git-disl/awesome_LLM-harmful-fine-tuning-papers) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Attacks and Defenses for Generative Diffusion Models: A Comprehensive Survey](https://arxiv.org/abs/2408.03400)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/07] **[Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)](https://arxiv.org/abs/2407.14937)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

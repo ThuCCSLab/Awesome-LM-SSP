@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2024/12] **[RAG with Differential Privacy ](https://arxiv.org/abs/2412.19291)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/12] **[DR-Encoder: Encode Low-rank Gradients with Random Prior for Large Language Models Differentially Privately](https://arxiv.org/abs/2412.17053)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Large Language Model Federated Learning with Blockchain and Unlearning for Cross-Organizational Collaboration](https://arxiv.org/abs/2412.13551)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[RemoteRAG: A Privacy-Preserving LLM Cloud RAG Service](https://arxiv.org/abs/2412.12775)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

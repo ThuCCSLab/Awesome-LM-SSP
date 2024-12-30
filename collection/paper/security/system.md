@@ -1,4 +1,5 @@
 # B3. System
+- [2024/12] **[An Engorgio Prompt Makes Large Language Model Babble on](https://arxiv.org/abs/2412.19394)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Crabs: Consuming Resrouce via Auto-generation for LLM-DoS Attack under Black-box Settings](https://arxiv.org/abs/2412.13879)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[AttentionBreaker: Adaptive Evolutionary Optimization for Unmasking Vulnerabilities in LLMs through Bit-Flip Attacks](https://arxiv.org/abs/2411.13757)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Towards evaluations-based safety cases for AI scheming](https://arxiv.org/abs/2411.03336)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

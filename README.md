@@ -9,7 +9,7 @@
 ## Introduction 
 The resources related to the trustworthiness of large models (LMs) across multiple dimensions (e.g., safety, security, and privacy),                  with a special focus on multi-modal LMs (e.g., vision-language models and diffusion models). 
 
-- This repo is in progress :seedling: (currently manually collected).
+- This repo is in progress :seedling: (manually collected).
 - Badges: 
 
     - Model:
@@ -22,7 +22,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
    - Venue: ![conference](https://img.shields.io/badge/conference-f1b800) ![blog](https://img.shields.io/badge/blog-f1b800) ![OpenAI](https://img.shields.io/badge/OpenAI-f1b800)  ![Meta AI](https://img.shields.io/badge/Meta_AI-f1b800) ...
 
-- :sunflower: Welcome to recommend resources to us via <a href="https://github.com/ThuCCSLab/Awesome-LM-SSP/issues"> <img src="https://icons.iconarchive.com/icons/github/octicons/128/issue-opened-16-icon.png" width="15" height="15"></a> Issues with the following format (**please fill in this table**): 
+- :sunflower: Welcome to recommend resources to us via pulling requests or opening issues with the following format: 
 
 | Title | Link  | Code |   Venue |  Classification |  Model | Comment | 
 | ---- |---- |---- |---- |---- |----|----| 

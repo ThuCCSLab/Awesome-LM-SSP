@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2025/01] **[SAT-LDM: Provably Generalizable Image Watermarking for Latent Diffusion Models with Self-Augmented Training](https://arxiv.org/abs/2501.00463)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/12] **[ExpShield: Safeguarding Web Text from Unauthorized Crawling and Language Modeling Exploitation](https://arxiv.org/abs/2412.21123)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Copyright-Protected Language Generation via Adaptive Model Fusion](https://arxiv.org/abs/2412.06619)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models](https://arxiv.org/abs/2412.03283)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

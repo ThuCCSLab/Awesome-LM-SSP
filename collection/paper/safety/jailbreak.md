@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2025/01] **[Auto-RT: Automatic Jailbreak Strategy Exploration for Red-Teaming Large Language Models](https://arxiv.org/abs/2501.01830)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models](https://arxiv.org/abs/2501.00055)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Token Highlighter: Inspecting and Mitigating Jailbreak Prompts for Large Language Models](https://arxiv.org/abs/2412.18171)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/12] **[AEIOU: A Unified Defense Framework against NSFW Prompts in Text-to-Image Models](https://arxiv.org/abs/2412.18123)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

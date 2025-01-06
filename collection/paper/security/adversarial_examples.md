@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2025/01] **[Rerouting LLM Routers](https://arxiv.org/abs/2501.01818)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs](https://arxiv.org/abs/2501.01042)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/12] **[Robust image classification with multi-modal large language models](https://arxiv.org/abs/2412.10353)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/12] **[Doubly-Universal Adversarial Perturbations: Deceiving Vision-Language Models Across Both Images and Text with a Single Perturbation](https://arxiv.org/abs/2412.08108)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

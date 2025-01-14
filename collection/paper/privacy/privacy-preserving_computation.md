@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2025/01] **[MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference](https://arxiv.org/abs/2501.06807)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Practical Secure Inference Algorithm for Fine-tuned Large Language Model Based on Fully Homomorphic Encryption](https://arxiv.org/abs/2501.01672)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[RAG with Differential Privacy ](https://arxiv.org/abs/2412.19291)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/12] **[DR-Encoder: Encode Low-rank Gradients with Random Prior for Large Language Models Differentially Privately](https://arxiv.org/abs/2412.17053)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

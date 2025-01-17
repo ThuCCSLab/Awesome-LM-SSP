@@ -15,7 +15,7 @@
 - [2024/06] **[Cross-Modality Safety Alignment](https://arxiv.org/abs/2406.15279)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/06] **[SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model](https://arxiv.org/abs/2406.12030)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/06] **[Model Merging and Safety Alignment: One Bad Model Spoils the Bunch](https://arxiv.org/abs/2406.14563)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2024/06] **[ChatBug: A Common Vulnerability of Aligned LLMs Induced by Chat Templates](https://arxiv.org/abs/2406.12935)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/06] **[ChatBug: A Common Vulnerability of Aligned LLMs Induced by Chat Templates](https://arxiv.org/abs/2406.12935)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/uw-nsl/ChatBug) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![AAAI'25](https://img.shields.io/badge/AAAI'25-f1b800)
 - [2024/06] **[Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models](https://arxiv.org/abs/2406.10630)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Safety Alignment Should Be Made More Than Just a Few Tokens Deep ](https://arxiv.org/abs/2406.05946)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Decoupled Alignment for Robust Plug-and-Play Adaptation](https://arxiv.org/abs/2406.01514)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

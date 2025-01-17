@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2025/01] **[SEAL: Entangled White-box Watermarks on Low-Rank Adaptation](https://arxiv.org/abs/2501.09284)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[RAG-WM: An Efficient Black-Box Watermarking Approach for Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/abs/2501.05249)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/01] **[SAT-LDM: Provably Generalizable Image Watermarking for Latent Diffusion Models with Self-Augmented Training](https://arxiv.org/abs/2501.00463)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/12] **[ExpShield: Safeguarding Web Text from Unauthorized Crawling and Language Modeling Exploitation](https://arxiv.org/abs/2412.21123)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

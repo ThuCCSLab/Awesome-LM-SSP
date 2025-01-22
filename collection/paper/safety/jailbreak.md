@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2025/01] **[Jailbreaking Large Language Models in Infinitely Many Ways](https://arxiv.org/abs/2501.10800)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/01] **[You Can't Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense](https://arxiv.org/abs/2501.12210)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/01] **[Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency](https://arxiv.org/abs/2501.04931)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/01] **[Layer-Level Self-Exposure and Patch: Affirmative Token Mitigation for Jailbreak Attack Defense](https://arxiv.org/abs/2501.02629)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models](https://arxiv.org/abs/2501.02029)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)

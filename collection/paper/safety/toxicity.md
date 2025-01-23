@@ -1,4 +1,5 @@
 # A8. Toxicity
+- [2025/01] **[T2ISafety: Benchmark for Assessing Fairness, Toxicity, and Privacy in Image Generation](https://arxiv.org/abs/2501.12612)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2025/01] **[PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for Text-to-Image Models](https://arxiv.org/abs/2501.03544)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/01] **[How Toxic Can You Get? Search-based Toxicity Testing for Large Language Models](https://arxiv.org/abs/2501.01741)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Toxicity Detection towards Adaptability to Changing Perturbations](https://arxiv.org/abs/2412.15267)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

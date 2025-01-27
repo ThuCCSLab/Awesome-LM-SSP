@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2025/01] **[Siren: A Learning-Based Multi-Turn Attack Framework for Simulating Real-World Human Jailbreak Behaviors](https://arxiv.org/abs/2501.14250)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment](https://arxiv.org/abs/2501.13080)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/01] **[Jailbreaking Large Language Models in Infinitely Many Ways](https://arxiv.org/abs/2501.10800)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[You Can't Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense](https://arxiv.org/abs/2501.12210)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

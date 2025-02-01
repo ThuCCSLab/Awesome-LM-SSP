@@ -1,4 +1,6 @@
 # A2. Alignment
+- [2025/01] **[Virus: Harmful Fine-tuning Attack for Large Language Models Bypassing Guardrail Moderation ](https://arxiv.org/abs/2501.17433)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/01] **[Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models](https://arxiv.org/abs/2501.18533)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/12] **[On Evaluating the Durability of Safeguards for Open-Weight LLMs](https://arxiv.org/abs/2412.07097)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[ETA: Evaluating Then Aligning Safety of Vision Language Models at Inference Time](https://arxiv.org/pdf/2410.06625)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/DripNowhy/ETA) ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/10] **[Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attack](https://arxiv.org/abs/2410.18210)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

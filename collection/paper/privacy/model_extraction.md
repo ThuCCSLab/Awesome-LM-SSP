@@ -1,4 +1,5 @@
 # C5. Model Extraction
+- [2025/01] **[Targeting Alignment: Extracting Safety Classifiers of Aligned LLMs](https://arxiv.org/abs/2501.16534)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Archilles' Heel in Semi-open LLMs: Hiding Bottom against Recovery Attacks](https://arxiv.org/abs/2410.11182)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Alignment-Aware Model Extraction Attacks on Large Language Models](https://arxiv.org/abs/2409.02718)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services](https://arxiv.org/abs/2408.02814)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

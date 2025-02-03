@@ -1,4 +1,5 @@
 # B0. General
+- [2025/01] **[SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model](https://arxiv.org/abs/2501.18636)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/01] **[Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI ](https://arxiv.org/abs/2501.16671)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Secuirty'25](https://img.shields.io/badge/USENIX_Secuirty'25-f1b800)
 - [2024/11] **[Large Language Model Supply Chain: Open Problems From the Security Perspective](https://arxiv.org/abs/2411.01604)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/agiresearch/ASB) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)

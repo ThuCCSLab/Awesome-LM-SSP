@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2025/01] **[Scaling Laws for Differentially Private Language Models](https://arxiv.org/abs/2501.18914)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Trusted Machine Learning Models Unlock Private Inference for Problems Currently Infeasible with Cryptography](https://arxiv.org/abs/2501.08970)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference](https://arxiv.org/abs/2501.06807)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Practical Secure Inference Algorithm for Fine-tuned Large Language Model Based on Fully Homomorphic Encryption](https://arxiv.org/abs/2501.01672)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

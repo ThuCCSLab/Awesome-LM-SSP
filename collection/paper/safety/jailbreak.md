@@ -1,4 +1,8 @@
 # A1. Jailbreak
+- [2025/01] **[Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming](https://arxiv.org/abs/2501.18837)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/01] **[Towards Safe AI Clinicians: A Comprehensive Study on Large Language Model Jailbreaking in Healthcare](https://arxiv.org/abs/2501.18632)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/01] **[Graph of Attacks with Pruning: Optimizing Stealthy Jailbreak Prompt Generation for Enhanced LLM Content Moderation](https://arxiv.org/abs/2501.18638)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/01] **[Enhancing Model Defense Against Jailbreaks with Proactive Safety Reasoning](https://arxiv.org/abs/2501.19180)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/01] **[GuardReasoner: Towards Reasoning-based LLM Safeguards](https://arxiv.org/abs/2501.18492)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/01] **[Siren: A Learning-Based Multi-Turn Attack Framework for Simulating Real-World Human Jailbreak Behaviors](https://arxiv.org/abs/2501.14250)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment](https://arxiv.org/abs/2501.13080)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

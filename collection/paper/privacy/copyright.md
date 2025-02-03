@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2025/01] **[PSyDUCK: Training-Free Steganography for Latent Diffusion ](https://arxiv.org/abs/2501.19172)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/01] **[LoRAGuard: An Effective Black-box Watermarking Approach for LoRAs](https://arxiv.org/abs/2501.15478)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[GaussMark: A Practical Approach for Structural Watermarking of Language Models](https://arxiv.org/abs/2501.13941)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[SEAL: Entangled White-box Watermarks on Low-Rank Adaptation](https://arxiv.org/abs/2501.09284)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

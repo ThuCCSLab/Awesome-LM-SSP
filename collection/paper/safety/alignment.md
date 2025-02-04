@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2025/02] **[The dark deep side of DeepSeek: Fine-tuning attacks against the safety alignment of CoT-enabled models](https://arxiv.org/abs/2502.01225)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Virus: Harmful Fine-tuning Attack for Large Language Models Bypassing Guardrail Moderation ](https://arxiv.org/abs/2501.17433)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models](https://arxiv.org/abs/2501.18533)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/12] **[On Evaluating the Durability of Safeguards for Open-Weight LLMs](https://arxiv.org/abs/2412.07097)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

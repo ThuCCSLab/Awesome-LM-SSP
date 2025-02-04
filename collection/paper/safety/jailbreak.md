@@ -1,4 +1,10 @@
 # A1. Jailbreak
+- [2025/02] **[Jailbreaking with Universal Multi-Prompts](https://arxiv.org/abs/2502.01154)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[Defense Against the Dark Prompts: Mitigating Best-of-N Jailbreaking with Prompt Evaluation](https://arxiv.org/abs/2502.00580)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2025/02] **[Towards Robust Multimodal Large Language Models Against Jailbreak Attacks](https://arxiv.org/abs/2502.00653)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/02] **[From Compliance to Exploitation: Jailbreak Prompt Attacks on Multimodal LLMs](https://arxiv.org/abs/2502.00735)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/02] **[AgentBreeder: Mitigating the AI Safety Impact of Multi-Agent Scaffolds](https://arxiv.org/abs/2502.00757)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
+- [2025/01] **[Peering Behind the Shield: Guardrail Identification in Large Language Models](https://arxiv.org/abs/2502.01241)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/01] **[Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming](https://arxiv.org/abs/2501.18837)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Towards Safe AI Clinicians: A Comprehensive Study on Large Language Model Jailbreaking in Healthcare](https://arxiv.org/abs/2501.18632)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Graph of Attacks with Pruning: Optimizing Stealthy Jailbreak Prompt Generation for Enhanced LLM Content Moderation](https://arxiv.org/abs/2501.18638)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

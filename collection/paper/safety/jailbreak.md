@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2025/02] **[PANDAS: Improving Many-shot Jailbreaking via Positive Affirmation, Negative Demonstration, and Adaptive Sampling](https://arxiv.org/abs/2502.01925)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Jailbreaking with Universal Multi-Prompts](https://arxiv.org/abs/2502.01154)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Defense Against the Dark Prompts: Mitigating Best-of-N Jailbreaking with Prompt Evaluation](https://arxiv.org/abs/2502.00580)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/02] **[Towards Robust Multimodal Large Language Models Against Jailbreak Attacks](https://arxiv.org/abs/2502.00653)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

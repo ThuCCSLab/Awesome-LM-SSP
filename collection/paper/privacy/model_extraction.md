@@ -1,4 +1,5 @@
 # C5. Model Extraction
+- [2025/02] **[Medical Multimodal Model Stealing Attacks via Adversarial Domain Alignment](https://arxiv.org/abs/2502.02438)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/01] **[Targeting Alignment: Extracting Safety Classifiers of Aligned LLMs](https://arxiv.org/abs/2501.16534)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Archilles' Heel in Semi-open LLMs: Hiding Bottom against Recovery Attacks](https://arxiv.org/abs/2410.11182)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Alignment-Aware Model Extraction Attacks on Large Language Models](https://arxiv.org/abs/2409.02718)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

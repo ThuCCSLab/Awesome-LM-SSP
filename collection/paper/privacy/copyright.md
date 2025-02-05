@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2025/02] **[Robust and Secure Code Watermarking for Large Language Models via ML/Crypto Codesign](https://arxiv.org/abs/2502.02068)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Model Provenance Testing for Large Language Models](https://arxiv.org/abs/2502.00706)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[PSyDUCK: Training-Free Steganography for Latent Diffusion ](https://arxiv.org/abs/2501.19172)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/01] **[LoRAGuard: An Effective Black-box Watermarking Approach for LoRAs](https://arxiv.org/abs/2501.15478)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

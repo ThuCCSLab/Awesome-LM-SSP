@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2025/02] **["Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence](https://arxiv.org/abs/2502.04204)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/02] **[Understanding and Enhancing the Transferability of Jailbreaking Attacks](https://arxiv.org/abs/2502.03052)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800)
 - [2025/02] **[PANDAS: Improving Many-shot Jailbreaking via Positive Affirmation, Negative Demonstration, and Adaptive Sampling](https://arxiv.org/abs/2502.01925)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Jailbreaking with Universal Multi-Prompts](https://arxiv.org/abs/2502.01154)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

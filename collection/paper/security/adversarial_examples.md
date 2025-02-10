@@ -6,6 +6,7 @@
 - [2024/12] **[Doubly-Universal Adversarial Perturbations: Deceiving Vision-Language Models Across Both Images and Text with a Single Perturbation](https://arxiv.org/abs/2412.08108)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/11] **[Unlocking The Potential of Adaptive Attacks on Diffusion-Based Purification](https://arxiv.org/abs/2411.16598)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/11] **[Adversarial Robustness of In-Context Learning in Transformers for Linear Regression ](https://arxiv.org/abs/2411.05189)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/10] **[Break the Visual Perception: Adversarial Attacks Targeting Encoded Visual Tokens of Large Vision-Language Models](https://arxiv.org/abs/2410.06699)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![ACM_MM'24](https://img.shields.io/badge/ACM_MM'24-f1b800)
 - [2024/10] **[Adversarial Attacks of Vision Tasks in the Past 10 Years: A Survey](https://arxiv.org/abs/2410.23687)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2024/10] **[Natural Language Induced Adversarial Images](https://arxiv.org/abs/2410.08620)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/10] **[Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates](https://arxiv.org/abs/2410.07137)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2025/02] **[MELON: Indirect Prompt Injection Defense via Masked Re-execution and Tool Comparison](https://arxiv.org/abs/2502.05174)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/01] **[PromptShield: Deployable Detection for Prompt Injection Attacks](https://arxiv.org/abs/2501.15145)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/01] **[Computing Optimization-Based Prompt Injections Against Closed-Weights Models By Misusing a Fine-Tuning API](https://arxiv.org/abs/2501.09798)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents](https://arxiv.org/abs/2412.16682)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

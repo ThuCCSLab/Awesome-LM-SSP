@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2025/02] **[Generating Privacy-Preserving Personalized Advice with Zero-Knowledge Proofs and LLMs](https://arxiv.org/abs/2502.06425)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning](https://arxiv.org/abs/2502.00354)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Activation Approximations Can Incur Safety Vulnerabilities Even in Aligned LLMs: Comprehensive Analysis and Defense](https://arxiv.org/abs/2502.00840)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[SecPE: Secure Prompt Ensembling for Private and Robust Large Language Models](https://arxiv.org/abs/2502.00847)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

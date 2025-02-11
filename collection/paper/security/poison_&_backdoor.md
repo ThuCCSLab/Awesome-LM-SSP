@@ -1,4 +1,5 @@
 # B2. Poison & Backdoor
+- [2025/02] **[A Survey on Backdoor Threats in Large Language Models (LLMs): Attacks, Defenses, and Evaluations](https://arxiv.org/abs/2502.05224)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2025/02] **[Exploring the Security Threats of Knowledge Base Poisoning in Retrieval-Augmented Code Generation](https://arxiv.org/abs/2502.03233)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/01] **[DarkMind: Latent Chain-of-Thought Backdoor in Customized LLMs](https://arxiv.org/abs/2501.18617)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[CL-attack: Textual Backdoor Attacks via Cross-Lingual Triggers](https://arxiv.org/abs/2412.19037)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/TenneyHu/CrossLingualAttack) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![AAAI'25](https://img.shields.io/badge/AAAI'25-f1b800)

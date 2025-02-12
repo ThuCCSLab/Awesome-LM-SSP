@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2025/02] **[Scalable Fingerprinting of Large Language Models](https://arxiv.org/abs/2502.07760)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models](https://arxiv.org/abs/2502.05213)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[SimMark: A Robust Sentence-Level Similarity-Based Watermarking Algorithm for Large Language Models](https://arxiv.org/abs/2502.02787)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Robust and Secure Code Watermarking for Large Language Models via ML/Crypto Codesign](https://arxiv.org/abs/2502.02068)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

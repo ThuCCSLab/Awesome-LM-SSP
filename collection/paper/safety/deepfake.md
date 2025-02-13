@@ -1,4 +1,5 @@
 # A3. Deepfake
+- [2025/02] **[Modification and Generated-Text Detection: Achieving Dual Detection Capabilities for the Outputs of LLM by Watermark](https://arxiv.org/abs/2502.08332)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[FDLLM: A Text Fingerprint Detection Method for LLMs in Multi-Language, Multi-Domain Black-Box Environments](https://arxiv.org/abs/2501.16029)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Are We in the AI-Generated Text World Already? Quantifying and Monitoring AIGT on Social Media](https://arxiv.org/abs/2412.18148)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Passive Deepfake Detection Across Multi-modalities: A Comprehensive Survey](https://arxiv.org/abs/2411.17911)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

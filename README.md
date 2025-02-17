@@ -29,6 +29,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 | aa |  arxiv | github  | bb'23    |  A1. Jailbreak | LLM  | Agent | 
 
 ## News
+- [2025.02.17] We collected `12` related papers from [NDSS'25](https://www.ndss-symposium.org/ndss2025/accepted-papers/)!
 - [2024.08.17] We collected `34` related papers from [ACL'24](https://2024.aclweb.org/)!
 - [2024.05.13] We collected `7` related papers from [S&P'24](https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y)!
 - [2024.04.27] We adjusted the categories.
@@ -37,7 +38,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 - [2024.01.09] 🚀 LM-SSP is released!
 
 ## Collections
-- [Book](collection/book.md) (2)
+- [Book](collection/book.md) (3)
 - [Competition](collection/competition.md) (5)
 - [Leaderboard](collection/leaderboard.md) (3)
 - [Toolkit](collection/toolkit.md) (10)

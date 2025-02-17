@@ -2,7 +2,6 @@
 - [2025/02] **[MARAGE: Transferable Multi-Model Adversarial Attack for Retrieval-Augmented Generation Data Extraction](https://arxiv.org/abs/2502.04360)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[How Much Do Code Language Models Remember? An Investigation on Data Extraction Attacks before and after Fine-tuning](https://arxiv.org/abs/2501.17501)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Safeguarding System Prompts for LLMs](https://arxiv.org/abs/2412.13426)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
-- [2024/11] **[InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks](https://arxiv.org/abs/2411.18191)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks](https://arxiv.org/abs/2411.14110)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/11] **[Mitigating Privacy Risks in LLM Embeddings from Embedding Inversion](https://arxiv.org/abs/2411.05034)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors](https://arxiv.org/abs/2411.01705)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

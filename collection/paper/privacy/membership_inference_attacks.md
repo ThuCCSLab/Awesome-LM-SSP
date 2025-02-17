@@ -1,4 +1,5 @@
 # C4. Membership Inference Attacks
+- [2025/02] **[Has My System Prompt Been Used? Large Language Model Prompt Membership Inference](https://arxiv.org/abs/2502.09974)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation](https://arxiv.org/abs/2502.00306)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/01] **[Membership Inference Attacks Against Vision-Language Models](https://arxiv.org/abs/2501.18624)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![USENIX_Secuirty'25](https://img.shields.io/badge/USENIX_Secuirty'25-f1b800)
 - [2025/01] **[Tag&Tab: Pretraining Data Detection in Large Language Models Using Keyword-Based Membership Inference Attack](https://arxiv.org/abs/2501.08454)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

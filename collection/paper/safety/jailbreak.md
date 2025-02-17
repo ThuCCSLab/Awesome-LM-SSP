@@ -1,4 +1,7 @@
 # A1. Jailbreak
+- [2025/02] **[Making Them a Malicious Database: Exploiting Query Code to Jailbreak Aligned Large Language Models](https://arxiv.org/abs/2502.09723)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[Enhancing Jailbreak Attacks via Compliance-Refusal-Based Initialization](https://arxiv.org/abs/2502.09755)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks without Compromising Usability](https://arxiv.org/abs/2502.09990)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/02] **[JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation](https://arxiv.org/abs/2502.07557)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)
 - [2025/02] **[KDA: A Knowledge-Distilled Attacker for Generating Diverse Prompts to Jailbreak LLMs](https://arxiv.org/abs/2502.05223)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **["Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence](https://arxiv.org/abs/2502.04204)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

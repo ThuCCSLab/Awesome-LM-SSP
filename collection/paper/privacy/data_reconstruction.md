@@ -37,6 +37,7 @@
 - [2024/02] **[Prompt Stealing Attacks Against Large Language Models](https://arxiv.org/abs/2402.12959)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/02] **[Conversation Reconstruction Attack Against GPT Models ](https://arxiv.org/abs/2402.02987)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/01] **[Text Embedding Inversion Attacks on Multilingual Language Models](https://arxiv.org/abs/2401.12192)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://huggingface.co/yiyic) ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2023/12] **[Diffence: Fencing Membership Privacy With Diffusion Models](https://arxiv.org/abs/2312.04692)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)
 - [2023/11] **[Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/09] **[Intriguing Properties of Data Attribution on Diffusion Models](https://openreview.net/forum?id=vKViCoKGcB)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)
 - [2023/09] **[Teach LLMs to Phish: Stealing Private Information from Language Models](https://openreview.net/forum?id=qo21ZlfNu6)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)

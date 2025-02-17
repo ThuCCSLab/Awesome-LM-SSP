@@ -17,7 +17,7 @@
 - [2024/08] **[Uncertainty-Guided Modal Rebalance for Hateful Memes Detection](https://aclanthology.org/2024.acl-long.239/)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
 - [2024/08] **[Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies ](https://arxiv.org/abs/2408.07728)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![CCS'24](https://img.shields.io/badge/CCS'24-f1b800)
 - [2024/07] **[Evolver: Chain-of-Evolution Prompting to Boost Large Multimodal Models for Hateful Meme Detection](https://arxiv.org/abs/2407.21004)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)
-- [2024/07] **[Towards Understanding Unsafe Video Generation](https://arxiv.org/abs/2407.12581)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800)
+- [2024/07] **[Towards Understanding Unsafe Video Generation](https://arxiv.org/abs/2407.12581)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)
 - [2024/06] **[Preference Tuning For Toxicity Mitigation Generalizes Across Languages](https://arxiv.org/abs/2406.16235)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Supporting Human Raters with the Detection of Harmful Content using Large Language Models](https://arxiv.org/abs/2406.12800)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users](https://arxiv.org/abs/2405.19360)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

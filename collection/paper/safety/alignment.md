@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2025/02] **[Safety Misalignment Against Large Language Models]()** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/ThuCCSLab/misalignment) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)
 - [2025/02] **[The dark deep side of DeepSeek: Fine-tuning attacks against the safety alignment of CoT-enabled models](https://arxiv.org/abs/2502.01225)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Virus: Harmful Fine-tuning Attack for Large Language Models Bypassing Guardrail Moderation ](https://arxiv.org/abs/2501.17433)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models](https://arxiv.org/abs/2501.18533)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

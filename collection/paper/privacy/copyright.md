@@ -1,4 +1,7 @@
 # C2. Copyright
+- [2025/02] **[SWA-LDM: Toward Stealthy Watermarks for Latent Diffusion Models](https://arxiv.org/abs/2502.10495)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/02] **[Towards Watermarking of Open-Source LLMs](https://arxiv.org/abs/2502.10525)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[Dataset Protection via Watermarked Canaries in Retrieval-Augmented LLMs](https://arxiv.org/abs/2502.10673)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/02] **[Scalable Fingerprinting of Large Language Models](https://arxiv.org/abs/2502.07760)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models](https://arxiv.org/abs/2502.05213)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[SimMark: A Robust Sentence-Level Similarity-Based Watermarking Algorithm for Large Language Models](https://arxiv.org/abs/2502.02787)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

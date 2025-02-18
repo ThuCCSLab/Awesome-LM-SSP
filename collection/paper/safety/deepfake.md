@@ -1,4 +1,6 @@
 # A3. Deepfake
+- [2025/02] **[FaceSwapGuard: Safeguarding Facial Privacy from DeepFake Threats through Identity Obfuscation](https://arxiv.org/abs/2502.10801)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/02] **[PDA: Generalizable Detection of AI-Generated Images via Post-hoc Distribution Alignment](https://arxiv.org/abs/2502.10803)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/02] **[GAP-Diff: Protecting JPEG-Compressed Images from Diffusion-based Facial Customization]()** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)
 - [2025/02] **[Modification and Generated-Text Detection: Achieving Dual Detection Capabilities for the Outputs of LLM by Watermark](https://arxiv.org/abs/2502.08332)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[FDLLM: A Text Fingerprint Detection Method for LLMs in Multi-Language, Multi-Domain Black-Box Environments](https://arxiv.org/abs/2501.16029)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

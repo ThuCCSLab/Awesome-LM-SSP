@@ -1,4 +1,5 @@
 # C3. Data Reconstruction
+- [2025/02] **[ALGEN: Few-shot Inversion Attacks on Textual Embeddings using Alignment and Generation](https://arxiv.org/abs/2502.11308)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[MARAGE: Transferable Multi-Model Adversarial Attack for Retrieval-Augmented Generation Data Extraction](https://arxiv.org/abs/2502.04360)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[How Much Do Code Language Models Remember? An Investigation on Data Extraction Attacks before and after Fine-tuning](https://arxiv.org/abs/2501.17501)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Safeguarding System Prompts for LLMs](https://arxiv.org/abs/2412.13426)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

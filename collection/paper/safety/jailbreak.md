@@ -1,4 +1,9 @@
 # A1. Jailbreak
+- [2025/02] **[Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models](https://arxiv.org/abs/2502.11054)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[Injecting Universal Jailbreak Backdoors into LLMs in Minutes](https://arxiv.org/abs/2502.10438)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800)
+- [2025/02] **[CCJA: Context-Coherent Jailbreak Attack for Aligned Large Language Models](https://arxiv.org/abs/2502.11379)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[Adversary-Aware DPO: Enhancing Safety Alignment in Vision Language Models via Adversarial Training](https://arxiv.org/abs/2502.11455)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2025/02] **[DELMAN: Dynamic Defense Against Large Language Model Jailbreaking with Model Editing](https://arxiv.org/abs/2502.11647)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/02] **[Making Them a Malicious Database: Exploiting Query Code to Jailbreak Aligned Large Language Models](https://arxiv.org/abs/2502.09723)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Enhancing Jailbreak Attacks via Compliance-Refusal-Based Initialization](https://arxiv.org/abs/2502.09755)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks without Compromising Usability](https://arxiv.org/abs/2502.09990)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

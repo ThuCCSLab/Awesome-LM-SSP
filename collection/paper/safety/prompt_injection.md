@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2025/02] **[Prompt Inject Detection with Generative Explanation as an Investigative Tool](https://arxiv.org/abs/2502.11006)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/02] **[RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage](https://arxiv.org/abs/2502.08966)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/02] **[MELON: Indirect Prompt Injection Defense via Masked Re-execution and Tool Comparison](https://arxiv.org/abs/2502.05174)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/01] **[PromptShield: Deployable Detection for Prompt Injection Attacks](https://arxiv.org/abs/2501.15145)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2025/02] **[Image Watermarks are Removable Using Controllable Regeneration from Clean Noise](https://arxiv.org/abs/2410.05470)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800)
 - [2025/02] **[SWA-LDM: Toward Stealthy Watermarks for Latent Diffusion Models](https://arxiv.org/abs/2502.10495)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/02] **[Towards Watermarking of Open-Source LLMs](https://arxiv.org/abs/2502.10525)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Dataset Protection via Watermarked Canaries in Retrieval-Augmented LLMs](https://arxiv.org/abs/2502.10673)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

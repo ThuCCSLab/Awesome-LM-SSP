@@ -1,4 +1,5 @@
 # A3. Deepfake
+- [2025/02] **[Iron Sharpens Iron: Defending Against Attacks in Machine-Generated Text Detection with Adversarial Training](https://arxiv.org/abs/2502.12734)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[FaceSwapGuard: Safeguarding Facial Privacy from DeepFake Threats through Identity Obfuscation](https://arxiv.org/abs/2502.10801)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/02] **[PDA: Generalizable Detection of AI-Generated Images via Post-hoc Distribution Alignment](https://arxiv.org/abs/2502.10803)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/02] **[GAP-Diff: Protecting JPEG-Compressed Images from Diffusion-based Facial Customization]()** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)

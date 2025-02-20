@@ -1,4 +1,6 @@
 # A2. Alignment
+- [2025/02] **[LLM Safety for Children](https://arxiv.org/abs/2502.12552v1)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region](https://arxiv.org/abs/2502.13946)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[SEA: Low-Resource Safety Alignment for Multimodal Large Language Models via Synthetic Embeddings](https://arxiv.org/abs/2502.12562)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/02] **[VLM-Guard: Safeguarding Vision-Language Models via Fulfilling Safety Alignment Gap](https://arxiv.org/abs/2502.10486)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/02] **[Safety Misalignment Against Large Language Models]()** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/ThuCCSLab/misalignment) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)

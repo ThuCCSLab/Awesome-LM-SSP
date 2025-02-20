@@ -1,5 +1,6 @@
 # B0. General
-- [2025/02] **[SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain]()** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks](https://arxiv.org/abs/2502.13175)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EmbodiedAI](https://img.shields.io/badge/EmbodiedAI-87b800)
+- [2025/02] **[SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain](https://arxiv.org/abs/2502.12497)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model](https://arxiv.org/abs/2501.18636)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/01] **[Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI ](https://arxiv.org/abs/2501.16671)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Secuirty'25](https://img.shields.io/badge/USENIX_Secuirty'25-f1b800)
 - [2024/11] **[Large Language Model Supply Chain: Open Problems From the Security Perspective](https://arxiv.org/abs/2411.01604)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

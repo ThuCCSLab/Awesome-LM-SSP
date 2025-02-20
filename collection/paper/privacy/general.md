@@ -1,4 +1,5 @@
 # C0. General
+- [2025/02] **[Unveiling Privacy Risks in LLM Agent Memory](https://arxiv.org/abs/2502.13172)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Mimicking the Familiar: Dynamic Command Generation for Information Theft Attacks in LLM Tool-Learning System](https://arxiv.org/abs/2502.11358)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[PrivAgent: Agentic-based Red-teaming for LLM Privacy Leakage](https://arxiv.org/abs/2412.05734)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[VLSBench: Unveiling Visual Leakage in Multimodal Safety](https://arxiv.org/abs/2411.19939)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

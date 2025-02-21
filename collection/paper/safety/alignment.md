@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2025/02] **[Fundamental Limitations in Defending LLM Finetuning APIs](https://arxiv.org/abs/2502.14828)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[LLM Safety for Children](https://arxiv.org/abs/2502.12552v1)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region](https://arxiv.org/abs/2502.13946)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[SEA: Low-Resource Safety Alignment for Multimodal Large Language Models via Synthetic Embeddings](https://arxiv.org/abs/2502.12562)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

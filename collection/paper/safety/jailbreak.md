@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2025/02] **[How Jailbreak Defenses Work and Ensemble? A Mechanistic Investigation](https://arxiv.org/abs/2502.14486)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[ShieldLearner: A New Paradigm for Jailbreak Attack Defense in LLMs](https://arxiv.org/abs/2502.13162)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/02] **[Exploiting Prefix-Tree in Structured Output Interfaces for Enhancing Jailbreak Attacking](https://arxiv.org/abs/2502.13527)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models](https://arxiv.org/abs/2502.11054)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

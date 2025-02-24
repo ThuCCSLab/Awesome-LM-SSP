@@ -1,4 +1,6 @@
 # C0. General
+- [2025/02] **[The Canary's Echo: Auditing Privacy Risks of LLM-Generated Synthetic Text](https://arxiv.org/abs/2502.14921)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[A General Pseudonymization Framework for Cloud-Based LLMs: Replacing Privacy Information in Controlled Text Generation](https://arxiv.org/abs/2502.15233)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Unveiling Privacy Risks in LLM Agent Memory](https://arxiv.org/abs/2502.13172)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Mimicking the Familiar: Dynamic Command Generation for Information Theft Attacks in LLM Tool-Learning System](https://arxiv.org/abs/2502.11358)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[PrivAgent: Agentic-based Red-teaming for LLM Privacy Leakage](https://arxiv.org/abs/2412.05734)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

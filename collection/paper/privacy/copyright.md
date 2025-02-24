@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2025/02] **[Obliviate: Efficient Unmemorization for Protecting Intellectual Property in Large Language Models](https://arxiv.org/abs/2502.15010)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Secure and Efficient Watermarking for Latent Diffusion Models in Model Distribution Scenarios](https://arxiv.org/abs/2502.13345)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/02] **[Image Watermarks are Removable Using Controllable Regeneration from Clean Noise](https://arxiv.org/abs/2410.05470)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800)
 - [2025/02] **[SWA-LDM: Toward Stealthy Watermarks for Latent Diffusion Models](https://arxiv.org/abs/2502.10495)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
@@ -18,6 +19,7 @@
 - [2024/12] **[ExpShield: Safeguarding Web Text from Unauthorized Crawling and Language Modeling Exploitation](https://arxiv.org/abs/2412.21123)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Copyright-Protected Language Generation via Adaptive Model Fusion](https://arxiv.org/abs/2412.06619)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models](https://arxiv.org/abs/2412.03283)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/11] **[Do LLMs Know to Respect Copyright Notice?](https://aclanthology.org/2024.emnlp-main.1147.pdf)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EMNLP'24](https://img.shields.io/badge/EMNLP'24-f1b800)
 - [2024/11] **[SoK: Watermarking for AI-Generated Content](https://arxiv.org/abs/2411.18479)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![SoK](https://img.shields.io/badge/SoK-87b800)
 - [2024/11] **[CDI: Copyrighted Data Identification in Diffusion Models](https://arxiv.org/abs/2411.12858)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/11] **[CopyrightMeter: Revisiting Copyright Protection in Text-to-image Models](https://arxiv.org/abs/2411.13144)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

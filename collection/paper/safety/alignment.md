@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2025/02] **[No, of course I can! Refusal Mechanisms Can Be Exploited Using Harmless Fine-Tuning Data](https://arxiv.org/abs/2502.19537)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment](https://arxiv.org/abs/2502.15334)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Fundamental Limitations in Defending LLM Finetuning APIs](https://arxiv.org/abs/2502.14828)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[LLM Safety for Children](https://arxiv.org/abs/2502.12552v1)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

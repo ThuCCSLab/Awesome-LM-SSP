@@ -1,4 +1,9 @@
 # A1. Jailbreak
+- [2025/02] **[GuidedBench: Equipping Jailbreak Evaluation with Guidelines](https://arxiv.org/abs/2502.16903)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos ](https://arxiv.org/abs/2502.15806)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[TurboFuzzLLM: Turbocharging Mutation-based Fuzzing for Effectively Jailbreaking Large Language Models in Practice](https://arxiv.org/abs/2502.18504)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[Beyond Surface-Level Patterns: An Essence-Driven Defense Framework Against Jailbreak Attacks in LLMs](https://arxiv.org/abs/2502.19041)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2025/02] **[Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models](https://arxiv.org/abs/2502.19883)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[EigenShield: Causal Subspace Filtering via Random Matrix Theory for Adversarially Robust Vision-Language Models ](https://arxiv.org/abs/2502.14976)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/02] **[A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations](https://arxiv.org/abs/2502.14881)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2025/02] **[Adversarial Prompt Evaluation: Systematic Benchmarking of Guardrails Against Prompt Input Attacks on LLMs](https://arxiv.org/abs/2502.15427)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,7 @@
 # C2. Copyright
+- [2025/02] **[Tracking the Copyright of Large Vision-Language Models through Parameter Learning Adversarial Images](https://arxiv.org/abs/2502.16593)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800)
+- [2025/02] **[Merger-as-a-Stealer: Stealing Targeted PII from Aligned LLMs with Model Merging](https://arxiv.org/abs/2502.16094)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[Marking Code Without Breaking It: Code Watermarking for Detecting LLM-Generated Code](https://arxiv.org/abs/2502.18851)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Obliviate: Efficient Unmemorization for Protecting Intellectual Property in Large Language Models](https://arxiv.org/abs/2502.15010)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Secure and Efficient Watermarking for Latent Diffusion Models in Model Distribution Scenarios](https://arxiv.org/abs/2502.13345)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/02] **[Image Watermarks are Removable Using Controllable Regeneration from Clean Noise](https://arxiv.org/abs/2410.05470)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800)

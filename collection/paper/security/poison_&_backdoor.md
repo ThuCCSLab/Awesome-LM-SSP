@@ -1,4 +1,5 @@
 # B2. Poison & Backdoor
+- [2025/02] **[ELBA-Bench: An Efficient Learning Backdoor Attacks Benchmark for Large Language Models](https://arxiv.org/abs/2502.18511)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[DemonAgent: Dynamically Encrypted Multi-Backdoor Implantation Attack on LLM-based Agent](https://arxiv.org/abs/2502.12575)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/02] **[BackdoorDM: A Comprehensive Benchmark for Backdoor Learning in Diffusion Model](https://arxiv.org/abs/2502.11798)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/02] **[THEMIS: Regulating Textual Inversion for Personalized Concept Censorship](https://www.ndss-symposium.org/ndss-paper/themis-regulating-textual-inversion-for-personalized-concept-censorship/)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)

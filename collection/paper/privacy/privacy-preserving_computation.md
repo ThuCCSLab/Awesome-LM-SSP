@@ -1,5 +1,7 @@
 # C6. Privacy-Preserving Computation
 - [2025/02] **[RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models](https://arxiv.org/abs/2502.12794)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/02] **[Secure Transformer Inference Made Non-interactive](https://www.ndss-symposium.org/ndss-paper/secure-transformer-inference-made-non-interactive/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)
+- [2025/02] **[SHAFT: Secure, Handy, Accurate and Fast Transformer Inference](https://www.ndss-symposium.org/ndss-paper/shaft-secure-handy-accurate-and-fast-transformer-inference/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)
 - [2025/02] **[A New PPML Paradigm for Quantized Models](https://www.ndss-symposium.org/ndss-paper/a-new-ppml-paradigm-for-quantized-models/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)
 - [2025/02] **[Generating Privacy-Preserving Personalized Advice with Zero-Knowledge Proofs and LLMs](https://arxiv.org/abs/2502.06425)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning](https://arxiv.org/abs/2502.00354)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

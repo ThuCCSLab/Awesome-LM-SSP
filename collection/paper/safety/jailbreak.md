@@ -1,4 +1,12 @@
 # A1. Jailbreak
+- [2025/03] **[Jailbreaking Safeguarded Text-to-Image Models via Large Language Models](https://arxiv.org/abs/2503.01839)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/03] **[BadJudge: Backdoor Vulnerabilities of LLM-as-a-Judge](https://arxiv.org/abs/2503.00596)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/03] **[Jailbreaking Generative AI: Empowering Novices to Conduct Phishing Attacks](https://arxiv.org/abs/2503.01395)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/03] **[Efficient Jailbreaking of Large Models by Freeze Training: Lower Layers Exhibit Greater Sensitivity to Harmful Content](https://arxiv.org/abs/2502.20952)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[Steering Dialogue Dynamics for Robustness against Multi-turn Jailbreaking Attacks](https://arxiv.org/abs/2503.00187)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[from Benign import Toxic: Jailbreaking the Language Model via Adversarial Metaphors](https://arxiv.org/abs/2503.00038)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[SafeText: Safe Text-to-image Models via Aligning the Text Encoder](https://arxiv.org/abs/2502.20623)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/02] **[FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts](https://arxiv.org/abs/2502.21059)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/02] **[GuidedBench: Equipping Jailbreak Evaluation with Guidelines](https://arxiv.org/abs/2502.16903)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos ](https://arxiv.org/abs/2502.15806)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[TurboFuzzLLM: Turbocharging Mutation-based Fuzzing for Effectively Jailbreaking Large Language Models in Practice](https://arxiv.org/abs/2502.18504)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

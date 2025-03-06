@@ -1,4 +1,6 @@
 # A2. Alignment
+- [2025/03] **[Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable](https://arxiv.org/abs/2503.00555)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/03] **[Improving LLM Safety Alignment with Dual-Objective Optimization](https://arxiv.org/abs/2503.03710)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[No, of course I can! Refusal Mechanisms Can Be Exploited Using Harmless Fine-Tuning Data](https://arxiv.org/abs/2502.19537)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment](https://arxiv.org/abs/2502.15334)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Fundamental Limitations in Defending LLM Finetuning APIs](https://arxiv.org/abs/2502.14828)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

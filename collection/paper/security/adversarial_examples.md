@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2025/03] **[AutoAdvExBench: Benchmarking autonomous exploitation of adversarial example defenses](https://arxiv.org/abs/2503.01811)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Typographic Attacks in a Multi-Image Setting](https://arxiv.org/abs/2502.08193)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/02] **[Topic-FlipRAG: Topic-Orientated Adversarial Opinion Manipulation Attacks to Retrieval-Augmented Generation Models](https://arxiv.org/abs/2502.01386)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/01] **[Rerouting LLM Routers](https://arxiv.org/abs/2501.01818)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,6 @@
 # B2. Poison & Backdoor
+- [2025/03] **[Gungnir: Exploiting Stylistic Features in Images for Backdoor Attacks on Diffusion Models](https://arxiv.org/abs/2502.20650)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/02] **[The RAG Paradox: A Black-Box Attack Exploiting Unintentional Vulnerabilities in Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2502.20995)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/02] **[ELBA-Bench: An Efficient Learning Backdoor Attacks Benchmark for Large Language Models](https://arxiv.org/abs/2502.18511)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[DemonAgent: Dynamically Encrypted Multi-Backdoor Implantation Attack on LLM-based Agent](https://arxiv.org/abs/2502.12575)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/02] **[BackdoorDM: A Comprehensive Benchmark for Backdoor Learning in Diffusion Model](https://arxiv.org/abs/2502.11798)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

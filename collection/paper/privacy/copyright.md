@@ -1,4 +1,7 @@
 # C2. Copyright
+- [2025/03] **[Mark Your LLM: Detecting the Misuse of Open-Source Large Language Models via Watermarking](https://arxiv.org/abs/2503.04636)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/03] **[Robust Data Watermarking in Language Models by Injecting Fictitious Knowledge](https://arxiv.org/abs/2503.04036)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/03] **[The Challenge of Identifying the Origin of Black-Box Large Language Models](https://arxiv.org/abs/2503.04332)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Tracking the Copyright of Large Vision-Language Models through Parameter Learning Adversarial Images](https://arxiv.org/abs/2502.16593)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800)
 - [2025/02] **[Merger-as-a-Stealer: Stealing Targeted PII from Aligned LLMs with Model Merging](https://arxiv.org/abs/2502.16094)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Marking Code Without Breaking It: Code Watermarking for Detecting LLM-Generated Code](https://arxiv.org/abs/2502.18851)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

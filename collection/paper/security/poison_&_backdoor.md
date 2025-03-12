@@ -1,4 +1,6 @@
 # B2. Poison & Backdoor
+- [2025/03] **[Poisoned-MRAG: Knowledge Poisoning Attacks to Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2503.06254)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2025/03] **[NaviDet: Efficient Input-level Backdoor Detection on Text-to-Image Synthesis via Neuron Activation Variation](https://arxiv.org/abs/2503.06453)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/03] **[Gungnir: Exploiting Stylistic Features in Images for Backdoor Attacks on Diffusion Models](https://arxiv.org/abs/2502.20650)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/02] **[The RAG Paradox: A Black-Box Attack Exploiting Unintentional Vulnerabilities in Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2502.20995)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/02] **[ELBA-Bench: An Efficient Learning Backdoor Attacks Benchmark for Large Language Models](https://arxiv.org/abs/2502.18511)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

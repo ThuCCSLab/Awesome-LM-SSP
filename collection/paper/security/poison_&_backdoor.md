@@ -1,4 +1,5 @@
 # B2. Poison & Backdoor
+- [2025/03] **[Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models](https://arxiv.org/abs/2503.09669)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![CVPR'25](https://img.shields.io/badge/CVPR'25-f1b800)
 - [2025/03] **[Poisoned-MRAG: Knowledge Poisoning Attacks to Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2503.06254)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/03] **[NaviDet: Efficient Input-level Backdoor Detection on Text-to-Image Synthesis via Neuron Activation Variation](https://arxiv.org/abs/2503.06453)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/03] **[Gungnir: Exploiting Stylistic Features in Images for Backdoor Attacks on Diffusion Models](https://arxiv.org/abs/2502.20650)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

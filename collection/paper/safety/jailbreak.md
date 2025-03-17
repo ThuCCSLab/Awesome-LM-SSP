@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2025/03] **[Align in Depth: Defending Jailbreak Attacks via Progressive Answer Detoxification](https://arxiv.org/abs/2503.11185)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/03] **[Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense](https://arxiv.org/abs/2503.11619)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/03] **[Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search](https://arxiv.org/abs/2503.10619)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[ExtremeAIGC: Benchmarking LMM Vulnerability to AI-Generated Extremist Content](https://arxiv.org/abs/2503.09964)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/03] **[JBFuzz: Jailbreaking LLMs Efficiently and Effectively Using Fuzzing](https://arxiv.org/abs/2503.08990)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

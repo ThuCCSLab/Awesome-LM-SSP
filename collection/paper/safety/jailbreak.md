@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2025/03] **[Making Every Step Effective: Jailbreaking Large Vision-Language Models Through Hierarchical KV Equalization](https://arxiv.org/abs/2503.11750)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/03] **[MirrorGuard: Adaptive Defense Against Jailbreaks via Entropy-Guided Mirror Crafting](https://arxiv.org/abs/2503.12931)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/03] **[Align in Depth: Defending Jailbreak Attacks via Progressive Answer Detoxification](https://arxiv.org/abs/2503.11185)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense](https://arxiv.org/abs/2503.11619)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/03] **[Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search](https://arxiv.org/abs/2503.10619)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

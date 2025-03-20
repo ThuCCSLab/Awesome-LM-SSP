@@ -10,6 +10,7 @@
 - [2025/02] **[Activation Approximations Can Incur Safety Vulnerabilities Even in Aligned LLMs: Comprehensive Analysis and Defense](https://arxiv.org/abs/2502.00840)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[SecPE: Secure Prompt Ensembling for Private and Robust Large Language Models](https://arxiv.org/abs/2502.00847)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Encrypted Large Model Inference: The Equivariant Encryption Paradigm](https://arxiv.org/abs/2502.01013)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/01] **[Differentially Private Steering for LLM Alignment](https://arxiv.org/abs/2501.18532)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800)
 - [2025/01] **[Scaling Laws for Differentially Private Language Models](https://arxiv.org/abs/2501.18914)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Trusted Machine Learning Models Unlock Private Inference for Problems Currently Infeasible with Cryptography](https://arxiv.org/abs/2501.08970)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference](https://arxiv.org/abs/2501.06807)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

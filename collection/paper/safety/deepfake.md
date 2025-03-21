@@ -1,4 +1,5 @@
 # A3. Deepfake
+- [2025/03] **[Detecting LLM-Written Peer Reviews](https://arxiv.org/abs/2503.15772)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[TH-Bench: Evaluating Evading Attacks via Humanizing AI Text on Machine-Generated Text Detecto](https://arxiv.org/abs/2503.08708)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Iron Sharpens Iron: Defending Against Attacks in Machine-Generated Text Detection with Adversarial Training](https://arxiv.org/abs/2502.12734)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[FaceSwapGuard: Safeguarding Facial Privacy from DeepFake Threats through Identity Obfuscation](https://arxiv.org/abs/2502.10801)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

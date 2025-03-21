@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2025/03] **[Privacy-Aware RAG: Secure and Isolated Knowledge Retrieval](https://arxiv.org/abs/2503.15548)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/03] **[Token-Level Privacy in Large Language Models](https://arxiv.org/abs/2503.03652)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[PriFFT: Privacy-preserving Federated Fine-tuning of Large Language Models via Function Secret Sharing](https://arxiv.org/abs/2503.03146)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models](https://arxiv.org/abs/2502.12794)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

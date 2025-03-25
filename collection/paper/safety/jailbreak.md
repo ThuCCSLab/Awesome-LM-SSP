@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2025/03] **[Metaphor-based Jailbreaking Attacks on Text-to-Image Models](https://arxiv.org/abs/2503.17987)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/03] **[Making Every Step Effective: Jailbreaking Large Vision-Language Models Through Hierarchical KV Equalization](https://arxiv.org/abs/2503.11750)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/03] **[MirrorGuard: Adaptive Defense Against Jailbreaks via Entropy-Guided Mirror Crafting](https://arxiv.org/abs/2503.12931)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/03] **[Align in Depth: Defending Jailbreak Attacks via Progressive Answer Detoxification](https://arxiv.org/abs/2503.11185)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

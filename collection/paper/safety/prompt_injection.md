@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2025/03] **[Defeating Prompt Injections by Design](https://arxiv.org/abs/2503.18813)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Adaptive Attacks Break Defenses Against Indirect Prompt Injection Attacks on LLM Agents](https://arxiv.org/abs/2503.00061)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Prompt Inject Detection with Generative Explanation as an Investigative Tool](https://arxiv.org/abs/2502.11006)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/02] **[RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage](https://arxiv.org/abs/2502.08966)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

@@ -1,4 +1,5 @@
 # B3. System
+- [2025/03] **[sudo rm -rf agentic_security](https://arxiv.org/abs/2503.20279)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/02] **[Auditing Prompt Caching in Language Model APIs](https://arxiv.org/abs/2502.07776)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[An Engorgio Prompt Makes Large Language Model Babble on](https://arxiv.org/abs/2412.19394)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Crabs: Consuming Resrouce via Auto-generation for LLM-DoS Attack under Black-box Settings](https://arxiv.org/abs/2412.13879)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

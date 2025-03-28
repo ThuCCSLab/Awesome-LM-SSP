@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2025/03] **[Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy](https://arxiv.org/abs/2503.20823)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![CVPR'25](https://img.shields.io/badge/CVPR'25-f1b800)
+- [2025/03] **[Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing](https://arxiv.org/abs/2503.21598)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks](https://arxiv.org/abs/2503.19134)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/03] **[Metaphor-based Jailbreaking Attacks on Text-to-Image Models](https://arxiv.org/abs/2503.17987)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/03] **[Making Every Step Effective: Jailbreaking Large Vision-Language Models Through Hierarchical KV Equalization](https://arxiv.org/abs/2503.11750)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

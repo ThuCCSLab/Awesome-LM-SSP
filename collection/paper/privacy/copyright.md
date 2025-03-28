@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2025/03] **[CEFW: A Comprehensive Evaluation Framework for Watermark in Large Language Models](https://arxiv.org/abs/2503.20802)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[SEAL: Semantic Aware Image Watermarking ](https://arxiv.org/abs/2503.12172)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/03] **[Towards A Correct Usage of Cryptography in Semantic Watermarks for Diffusion Models](https://arxiv.org/abs/2503.11404)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![_WMark@ICLR‘25](https://img.shields.io/badge/_WMark@ICLR‘25-f1b800)
 - [2025/03] **[Mark Your LLM: Detecting the Misuse of Open-Source Large Language Models via Watermarking](https://arxiv.org/abs/2503.04636)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

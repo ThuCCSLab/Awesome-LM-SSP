@@ -3,7 +3,6 @@
 - [2025/03] **[LLM-Safety Evaluations Lack Robustness](https://arxiv.org/abs/2503.02574)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Is Safety Standard Same for Everyone? User-Specific Safety Evaluation of Large Language Models](https://arxiv.org/abs/2502.15086)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/yeonjun-in/U-SafeBench) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2025/02] **[SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities](https://arxiv.org/abs/2502.12025)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2025/02] **["Nuclear Deployed!": Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents](https://arxiv.org/abs/2502.11355)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/12] **[Agent-SafetyBench: Evaluating the Safety of LLM Agents](https://arxiv.org/abs/2412.14470)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/12] **[SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/abs/2412.13178)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/11] **[Quantized Delta Weight Is Safety Keeper](https://arxiv.org/abs/2411.19530)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

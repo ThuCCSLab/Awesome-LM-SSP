@@ -1,4 +1,4 @@
-# A8. Toxicity
+# A9. Toxicity
 - [2025/02] **[I know what you MEME! Understanding and Detecting Harmful Memes with Multimodal Large Language Models](https://www.ndss-symposium.org/ndss-paper/i-know-what-you-meme-understanding-and-detecting-harmful-memes-with-multimodal-large-language-models/)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)
 - [2025/01] **[Distorting Embedding Space for Safety: A Defense Mechanism for Adversarially Robust Diffusion Models](https://arxiv.org/abs/2501.18877)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/01] **[HateBench: Benchmarking Hate Speech Detectors on LLM-Generated Content and Hate Campaigns](https://arxiv.org/abs/2501.16750)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800) ![USENIX_Secuirty'25](https://img.shields.io/badge/USENIX_Secuirty'25-f1b800)

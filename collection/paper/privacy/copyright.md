@@ -1,4 +1,6 @@
 # C2. Copyright
+- [2025/03] **[Protecting Your Video Content: Disrupting Automated Video-based LLM Annotations](https://arxiv.org/abs/2503.21824)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![video](https://img.shields.io/badge/video-87b800) ![CVPR'25](https://img.shields.io/badge/CVPR'25-f1b800)
+- [2025/03] **[Imperceptible but Forgeable: Practical Invisible Watermark Forgery via Diffusion Models](https://arxiv.org/abs/2503.22330)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/03] **[CEFW: A Comprehensive Evaluation Framework for Watermark in Large Language Models](https://arxiv.org/abs/2503.20802)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[SEAL: Semantic Aware Image Watermarking ](https://arxiv.org/abs/2503.12172)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/03] **[Towards A Correct Usage of Cryptography in Semantic Watermarks for Diffusion Models](https://arxiv.org/abs/2503.11404)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![_WMark@ICLR‘25](https://img.shields.io/badge/_WMark@ICLR‘25-f1b800)

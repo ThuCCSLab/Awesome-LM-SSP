@@ -1,4 +1,4 @@
-# A2. Alignment
+# A3. Alignment
 - [2025/03] **[Safety is Not Only About Refusal: Reasoning-Enhanced Fine-tuning for Interpretable LLM Safety](https://arxiv.org/abs/2503.05021)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable](https://arxiv.org/abs/2503.00555)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Improving LLM Safety Alignment with Dual-Objective Optimization](https://arxiv.org/abs/2503.03710)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

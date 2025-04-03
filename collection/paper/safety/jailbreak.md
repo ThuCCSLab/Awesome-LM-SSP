@@ -1,4 +1,8 @@
 # A1. Jailbreak
+- [2025/04] **[No Free Lunch with Guardrails](https://arxiv.org/abs/2504.00441)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[Multilingual and Multi-Accent Jailbreaking of Audio LLMs](https://arxiv.org/abs/2504.01094)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Audio](https://img.shields.io/badge/Audio-87b800)
+- [2025/04] **[PiCo: Jailbreaking Multimodal Large Language Models via Pictorial Code Contextualization](https://arxiv.org/abs/2504.01444)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[LightDefense: A Lightweight Uncertainty-Driven Defense against Jailbreaks via Shifted Token Distribution](https://arxiv.org/abs/2504.01533)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/03] **[Output Constraints as Attack Surface: Exploiting Structured Generation to Bypass LLM Safety Mechanisms](https://arxiv.org/abs/2503.24191)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy](https://arxiv.org/abs/2503.20823)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![CVPR'25](https://img.shields.io/badge/CVPR'25-f1b800)
 - [2025/03] **[Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing](https://arxiv.org/abs/2503.21598)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

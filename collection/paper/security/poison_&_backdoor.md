@@ -1,4 +1,5 @@
 # B3. Poison & Backdoor
+- [2025/04] **[Practical Poisoning Attacks against Retrieval-Augmented Generation](https://arxiv.org/abs/2504.03957)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/03] **[BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models](https://arxiv.org/abs/2503.16023)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![CVPR'25](https://img.shields.io/badge/CVPR'25-f1b800)
 - [2025/03] **[XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](https://arxiv.org/abs/2503.14281)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models](https://arxiv.org/abs/2503.09669)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![CVPR'25](https://img.shields.io/badge/CVPR'25-f1b800)

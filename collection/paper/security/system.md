@@ -1,4 +1,5 @@
 # B4. System
+- [2025/04] **[Are You Getting What You Pay For? Auditing Model Substitution in LLM APIs](https://arxiv.org/abs/2504.04715)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Auditing Prompt Caching in Language Model APIs](https://arxiv.org/abs/2502.07776)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[An Engorgio Prompt Makes Large Language Model Babble on](https://arxiv.org/abs/2412.19394)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Crabs: Consuming Resrouce via Auto-generation for LLM-DoS Attack under Black-box Settings](https://arxiv.org/abs/2412.13879)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

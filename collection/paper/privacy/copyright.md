@@ -1,4 +1,6 @@
 # C2. Copyright
+- [2025/04] **[Detection Limits and Statistical Separability of Tree Ring Watermarks in Rectified Flow-based Text-to-Image Generation Models](https://arxiv.org/abs/2504.03850)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/04] **[Watermarking for AI Content Detection: A Review on Text, Visual, and Audio Modalities](https://arxiv.org/abs/2504.03765)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[How does Watermarking Affect Visual Language Models in Document Understanding?](https://arxiv.org/abs/2504.01048)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/03] **[Protecting Your Video Content: Disrupting Automated Video-based LLM Annotations](https://arxiv.org/abs/2503.21824)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![video](https://img.shields.io/badge/video-87b800) ![CVPR'25](https://img.shields.io/badge/CVPR'25-f1b800)
 - [2025/03] **[Imperceptible but Forgeable: Practical Invisible Watermark Forgery via Diffusion Models](https://arxiv.org/abs/2503.22330)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

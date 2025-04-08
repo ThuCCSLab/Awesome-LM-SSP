@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2025/04] **[JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model](https://arxiv.org/abs/2504.03770)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/04] **[No Free Lunch with Guardrails](https://arxiv.org/abs/2504.00441)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Multilingual and Multi-Accent Jailbreaking of Audio LLMs](https://arxiv.org/abs/2504.01094)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Audio](https://img.shields.io/badge/Audio-87b800)
 - [2025/04] **[PiCo: Jailbreaking Multimodal Large Language Models via Pictorial Code Contextualization](https://arxiv.org/abs/2504.01444)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2025/04] **[Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking](https://arxiv.org/abs/2504.05838)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![CVPR'25](https://img.shields.io/badge/CVPR'25-f1b800)
+- [2025/04] **[Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking](https://arxiv.org/abs/2504.05652)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model](https://arxiv.org/abs/2504.03770)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/04] **[No Free Lunch with Guardrails](https://arxiv.org/abs/2504.00441)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Multilingual and Multi-Accent Jailbreaking of Audio LLMs](https://arxiv.org/abs/2504.01094)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Audio](https://img.shields.io/badge/Audio-87b800)

@@ -1,4 +1,5 @@
 # A8. Prompt Injection
+- [2025/04] **[Separator Injection Attack: Uncovering Dialogue Biases in Large Language Models Caused by Role Separators](https://arxiv.org/abs/2504.05689)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Encrypted Prompt: Securing LLM Applications Against Unauthorized Actions](https://arxiv.org/abs/2503.23250)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Defeating Prompt Injections by Design](https://arxiv.org/abs/2503.18813)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Adaptive Attacks Break Defenses Against Indirect Prompt Injection Attacks on LLM Agents](https://arxiv.org/abs/2503.00061)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

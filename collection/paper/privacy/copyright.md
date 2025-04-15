@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2025/04] **[Defending LLM Watermarking Against Spoofing Attacks with Contrastive Representation Learning](https://arxiv.org/abs/2504.06575)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Detection Limits and Statistical Separability of Tree Ring Watermarks in Rectified Flow-based Text-to-Image Generation Models](https://arxiv.org/abs/2504.03850)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[Watermarking for AI Content Detection: A Review on Text, Visual, and Audio Modalities](https://arxiv.org/abs/2504.03765)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[How does Watermarking Affect Visual Language Models in Document Understanding?](https://arxiv.org/abs/2504.01048)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

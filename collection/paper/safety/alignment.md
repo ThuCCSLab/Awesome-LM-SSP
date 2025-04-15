@@ -1,4 +1,5 @@
 # A3. Alignment
+- [2025/04] **[Alleviating the Fear of Losing Alignment in LLM Fine-tuning](https://arxiv.org/abs/2504.09757)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[The H-Elena Trojan Virus to Infect Model Weights: A Wake-Up Call on the Security Risks of Malicious Fine-Tuning](https://arxiv.org/abs/2504.03823)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Safety is Not Only About Refusal: Reasoning-Enhanced Fine-tuning for Interpretable LLM Safety](https://arxiv.org/abs/2503.05021)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable](https://arxiv.org/abs/2503.00555)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

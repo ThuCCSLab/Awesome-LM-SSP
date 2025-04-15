@@ -1,4 +1,6 @@
 # B2. Agent
+- [2025/04] **[RealHarm: A Collection of Real-World Language Model Application Failures](https://arxiv.org/abs/2504.10277)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies](https://arxiv.org/abs/2504.08623)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Detecting Malicious AI Agents Through Simulated Interactions](https://arxiv.org/abs/2504.03726)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits](https://arxiv.org/abs/2504.03767)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions](https://arxiv.org/abs/2503.23278)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)

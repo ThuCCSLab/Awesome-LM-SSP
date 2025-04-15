@@ -1,4 +1,9 @@
 # A1. Jailbreak
+- [2025/04] **[Mitigating Many-Shot Jailbreaking](https://arxiv.org/abs/2504.09604)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[X-Guard: Multilingual Guard Agent for Content Moderation](https://arxiv.org/abs/2504.08848)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[AdaSteer: Your Aligned LLM is Inherently an Adaptive Jailbreak Defender](https://arxiv.org/abs/2504.09466)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models? ](https://arxiv.org/abs/2504.10000)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2025/04] **[Geneshift: Impact of different scenario shift on Jailbreaking LLM](https://arxiv.org/abs/2504.08104)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking](https://arxiv.org/abs/2504.05838)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![CVPR'25](https://img.shields.io/badge/CVPR'25-f1b800)
 - [2025/04] **[Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking](https://arxiv.org/abs/2504.05652)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model](https://arxiv.org/abs/2504.03770)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

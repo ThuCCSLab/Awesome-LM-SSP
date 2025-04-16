@@ -1,4 +1,5 @@
 # B3. Poison & Backdoor
+- [2025/04] **[Exploring Backdoor Attack and Defense for LLM-empowered Recommendations](https://arxiv.org/abs/2504.11182)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[ControlNET: A Firewall for RAG-based LLM System](https://arxiv.org/abs/2504.09593)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/04] **[PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization](https://arxiv.org/abs/2504.07717)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800) ![SIGIR'25](https://img.shields.io/badge/SIGIR'25-f1b800)
 - [2025/04] **[ShadowCoT: Cognitive Hijacking for Stealthy Reasoning Backdoors in LLMs](https://arxiv.org/abs/2504.05605)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

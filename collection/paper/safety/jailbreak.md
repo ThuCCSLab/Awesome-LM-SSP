@@ -1,4 +1,7 @@
 # A1. Jailbreak
+- [2025/04] **[Bypassing Prompt Injection and Jailbreak Detection in LLM Guardrails](https://arxiv.org/abs/2504.11168)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image Models](https://arxiv.org/abs/2504.11106)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/04] **[The Jailbreak Tax: How Useful are Your Jailbreak Outputs?](https://arxiv.org/abs/2504.10694)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Mitigating Many-Shot Jailbreaking](https://arxiv.org/abs/2504.09604)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[X-Guard: Multilingual Guard Agent for Content Moderation](https://arxiv.org/abs/2504.08848)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[AdaSteer: Your Aligned LLM is Inherently an Adaptive Jailbreak Defender](https://arxiv.org/abs/2504.09466)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

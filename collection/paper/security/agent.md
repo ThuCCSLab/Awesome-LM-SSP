@@ -1,4 +1,5 @@
 # B2. Agent
+- [2025/04] **[The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections](https://arxiv.org/abs/2504.11281)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[RealHarm: A Collection of Real-World Language Model Application Failures](https://arxiv.org/abs/2504.10277)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies](https://arxiv.org/abs/2504.08623)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Detecting Malicious AI Agents Through Simulated Interactions](https://arxiv.org/abs/2504.03726)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

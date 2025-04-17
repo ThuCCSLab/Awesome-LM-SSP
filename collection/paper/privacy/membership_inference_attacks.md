@@ -1,6 +1,7 @@
 # C4. Membership Inference Attacks
 - [2025/03] **[Membership Inference Attacks on Large-Scale Models: A Survey](https://arxiv.org/abs/2503.19338)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2025/03] **[Privacy Auditing of Large Language Models](https://arxiv.org/abs/2503.06808)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800)
+- [2025/02] **[Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference Attacks in Large Language Models via Dual-Purpose Training](https://arxiv.org/abs/2502.19726)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://arxiv.org/abs/2502.18943)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)
 - [2025/02] **[Has My System Prompt Been Used? Large Language Model Prompt Membership Inference](https://arxiv.org/abs/2502.09974)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation](https://arxiv.org/abs/2502.00306)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

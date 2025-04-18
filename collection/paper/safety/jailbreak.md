@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2025/04] **[GraphAttack: Exploiting Representational Blindspots in LLM Safety Mechanisms ](https://arxiv.org/abs/2504.13052)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Bypassing Prompt Injection and Jailbreak Detection in LLM Guardrails](https://arxiv.org/abs/2504.11168)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image Models](https://arxiv.org/abs/2504.11106)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[The Jailbreak Tax: How Useful are Your Jailbreak Outputs?](https://arxiv.org/abs/2504.10694)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

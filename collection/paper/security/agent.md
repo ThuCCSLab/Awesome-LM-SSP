@@ -1,4 +1,5 @@
 # B2. Agent
+- [2025/04] **[MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System](https://arxiv.org/abs/2504.12757)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Progent: Programmable Privilege Control for LLM Agents](https://arxiv.org/abs/2504.11703)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections](https://arxiv.org/abs/2504.11281)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[RealHarm: A Collection of Real-World Language Model Application Failures](https://arxiv.org/abs/2504.10277)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

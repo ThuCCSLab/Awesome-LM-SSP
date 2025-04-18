@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2025/04] **[ArtistAuditor: Auditing Artist Style Pirate in Text-to-Image Generation Models](https://arxiv.org/abs/2504.13061)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![WWW'25](https://img.shields.io/badge/WWW'25-f1b800)
 - [2025/04] **[PCDiff: Proactive Control for Ownership Protection in Diffusion Models with Watermark Compatibility ](https://arxiv.org/abs/2504.11774)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[PT-Mark: Invisible Watermarking for Text-to-image Diffusion Models via Semantic-aware Pivotal Tuning](https://arxiv.org/abs/2504.10853)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[Defending LLM Watermarking Against Spoofing Attacks with Contrastive Representation Learning](https://arxiv.org/abs/2504.06575)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

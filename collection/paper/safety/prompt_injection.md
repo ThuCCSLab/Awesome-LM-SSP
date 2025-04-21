@@ -1,4 +1,4 @@
-# A8. Prompt Injection
+# A7. Prompt Injection
 - [2025/04] **[DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks](https://arxiv.org/abs/2504.11358)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[StruPhantom: Evolutionary Injection Attacks on Black-Box Tabular Agents Powered by Large Language Models](https://arxiv.org/abs/2504.09841)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Separator Injection Attack: Uncovering Dialogue Biases in Large Language Models Caused by Role Separators](https://arxiv.org/abs/2504.05689)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

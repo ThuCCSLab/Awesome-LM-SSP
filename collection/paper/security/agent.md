@@ -1,4 +1,5 @@
 # B2. Agent
+- [2025/04] **[CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent](https://arxiv.org/abs/2504.13192)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System](https://arxiv.org/abs/2504.12757)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Progent: Programmable Privilege Control for LLM Agents](https://arxiv.org/abs/2504.11703)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections](https://arxiv.org/abs/2504.11281)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -10,5 +11,6 @@
 - [2025/03] **[Get the Agents Drunk: Memory Perturbations in Autonomous Agent-based Recommender Systems](https://arxiv.org/abs/2503.23804)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/03] **[ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning](https://arxiv.org/abs/2503.22738)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/03] **[sudo rm -rf agentic_security](https://arxiv.org/abs/2503.20279)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
+- [2025/03] **[Prompt Flow Integrity to Prevent Privilege Escalation in LLM Agents](https://arxiv.org/abs/2503.15547)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/02] **[DemonAgent: Dynamically Encrypted Multi-Backdoor Implantation Attack on LLM-based Agent](https://arxiv.org/abs/2502.12575)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/02] **["Nuclear Deployed!": Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents](https://arxiv.org/abs/2502.11355)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)

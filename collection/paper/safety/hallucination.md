@@ -1,4 +1,4 @@
-# A7. Hallucination
+# A6. Hallucination
 - [2024/11] **[I'm Spartacus, No, I'm Spartacus: Measuring and Understanding LLM Identity Confusion](https://arxiv.org/abs/2411.10683)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](https://arxiv.org/abs/2410.14262)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Large Language Models are Easily Confused: A Quantitative Metric, Security Implications and Typological Analysis](https://arxiv.org/abs/2410.13237)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

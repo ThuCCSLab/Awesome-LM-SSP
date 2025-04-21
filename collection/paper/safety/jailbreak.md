@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2025/04] **[Concept Enhancement Engineering: A Lightweight and Efficient Robust Defense Against Jailbreak Attacks in Embodied AI](https://arxiv.org/abs/2504.13201)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents](https://arxiv.org/abs/2504.13203)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[GraphAttack: Exploiting Representational Blindspots in LLM Safety Mechanisms ](https://arxiv.org/abs/2504.13052)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Bypassing Prompt Injection and Jailbreak Detection in LLM Guardrails](https://arxiv.org/abs/2504.11168)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image Models](https://arxiv.org/abs/2504.11106)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
@@ -33,8 +35,6 @@
 - [2025/03] **[BadJudge: Backdoor Vulnerabilities of LLM-as-a-Judge](https://arxiv.org/abs/2503.00596)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Jailbreaking Generative AI: Empowering Novices to Conduct Phishing Attacks](https://arxiv.org/abs/2503.01395)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Efficient Jailbreaking of Large Models by Freeze Training: Lower Layers Exhibit Greater Sensitivity to Harmful Content](https://arxiv.org/abs/2502.20952)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-
-- [2025/02] **[StructTransform: A Scalable Attack Surface for Safety-Aligned Large Language Models](https://arxiv.org/abs/2502.11853)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Steering Dialogue Dynamics for Robustness against Multi-turn Jailbreaking Attacks](https://arxiv.org/abs/2503.00187)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[from Benign import Toxic: Jailbreaking the Language Model via Adversarial Metaphors](https://arxiv.org/abs/2503.00038)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[SafeText: Safe Text-to-image Models via Aligning the Text Encoder](https://arxiv.org/abs/2502.20623)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

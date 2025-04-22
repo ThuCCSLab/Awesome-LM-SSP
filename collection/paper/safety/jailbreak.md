@@ -35,6 +35,7 @@
 - [2025/03] **[BadJudge: Backdoor Vulnerabilities of LLM-as-a-Judge](https://arxiv.org/abs/2503.00596)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Jailbreaking Generative AI: Empowering Novices to Conduct Phishing Attacks](https://arxiv.org/abs/2503.01395)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Efficient Jailbreaking of Large Models by Freeze Training: Lower Layers Exhibit Greater Sensitivity to Harmful Content](https://arxiv.org/abs/2502.20952)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[StructTransform: A Scalable Attack Surface for Safety-Aligned Large Language Models](https://arxiv.org/abs/2502.11853)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Steering Dialogue Dynamics for Robustness against Multi-turn Jailbreaking Attacks](https://arxiv.org/abs/2503.00187)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[from Benign import Toxic: Jailbreaking the Language Model via Adversarial Metaphors](https://arxiv.org/abs/2503.00038)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[SafeText: Safe Text-to-image Models via Aligning the Text Encoder](https://arxiv.org/abs/2502.20623)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

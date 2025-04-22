@@ -1,4 +1,8 @@
 # C2. Copyright
+- [2025/04] **[What Lurks Within? Concept Auditing for Shared Diffusion Models at Scale](https://arxiv.org/abs/2504.14815)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/04] **[Gaussian Shading++: Rethinking the Realistic Deployment Challenge of Performance-Lossless Image Watermark for Diffusion Models](https://arxiv.org/abs/2504.15026)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/04] **[Protecting Your Voice: Temporal-aware Robust Watermarking](https://arxiv.org/abs/2504.14832)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Speech](https://img.shields.io/badge/Speech-87b800)
+- [2025/04] **[SOLIDO: A Robust Watermarking Method for Speech Synthesis via Low-Rank Adaptation](https://arxiv.org/abs/2504.15035)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Speech](https://img.shields.io/badge/Speech-87b800)
 - [2025/04] **[ArtistAuditor: Auditing Artist Style Pirate in Text-to-Image Generation Models](https://arxiv.org/abs/2504.13061)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![WWW'25](https://img.shields.io/badge/WWW'25-f1b800)
 - [2025/04] **[PCDiff: Proactive Control for Ownership Protection in Diffusion Models with Watermark Compatibility ](https://arxiv.org/abs/2504.11774)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[PT-Mark: Invisible Watermarking for Text-to-image Diffusion Models via Semantic-aware Pivotal Tuning](https://arxiv.org/abs/2504.10853)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

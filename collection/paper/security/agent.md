@@ -1,4 +1,5 @@
 # B2. Agent
+- [2025/04] **[DoomArena: A framework for Testing AI Agents Against Evolving Security Threats](https://arxiv.org/abs/2504.14064)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent](https://arxiv.org/abs/2504.13192)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System](https://arxiv.org/abs/2504.12757)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Progent: Programmable Privilege Control for LLM Agents](https://arxiv.org/abs/2504.11703)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

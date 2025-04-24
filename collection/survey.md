@@ -1,4 +1,5 @@
 # Survey
+- [2025/04] **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](https://arxiv.org/abs/2504.15585)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[On the Trustworthiness of Generative Foundation Models: Guideline, Assessment, and Perspective](https://arxiv.org/abs/2502.14296)**
 - [2025/02] **[Safety at Scale: A Comprehensive Survey of Large Model Safety](https://arxiv.org/abs/2502.05206)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents](https://arxiv.org/abs/2411.09523)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)

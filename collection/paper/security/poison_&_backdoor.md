@@ -1,4 +1,5 @@
 # B3. Poison & Backdoor
+- [2025/04] **[Give LLMs a Security Course: Securing Retrieval-Augmented Code Generation via Knowledge Injection](https://arxiv.org/abs/2504.16429)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/04] **[REDEditing: Relationship-Driven Precise Backdoor Poisoning on Text-to-Image Diffusion Models](https://arxiv.org/abs/2504.14554)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models](https://arxiv.org/abs/2504.13775)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Exploring Backdoor Attack and Defense for LLM-empowered Recommendations](https://arxiv.org/abs/2504.11182)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2025/04] **[How Private is Your Attention? Bridging Privacy with In-Context Learning](https://arxiv.org/abs/2504.16000)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Prεεmpt: Sanitizing Sensitive Prompts for LLMs](https://arxiv.org/abs/2504.05147)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Privacy-Aware RAG: Secure and Isolated Knowledge Retrieval](https://arxiv.org/abs/2503.15548)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/03] **[Token-Level Privacy in Large Language Models](https://arxiv.org/abs/2503.03652)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2025/04] **[VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models](https://arxiv.org/abs/2504.16359)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800)
 - [2025/04] **[What Lurks Within? Concept Auditing for Shared Diffusion Models at Scale](https://arxiv.org/abs/2504.14815)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[Gaussian Shading++: Rethinking the Realistic Deployment Challenge of Performance-Lossless Image Watermark for Diffusion Models](https://arxiv.org/abs/2504.15026)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[Protecting Your Voice: Temporal-aware Robust Watermarking](https://arxiv.org/abs/2504.14832)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Speech](https://img.shields.io/badge/Speech-87b800)

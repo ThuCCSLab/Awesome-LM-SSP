@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2025/04] **[Adversarial Attacks on LLM-as-a-Judge Systems: Insights from Prompt Injections](https://arxiv.org/abs/2504.18333)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Breaking the Prompt Wall (I): A Real-World Case Study of Attacking ChatGPT via Lightweight Prompt Injection](https://arxiv.org/abs/2504.16125)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks](https://arxiv.org/abs/2504.11358)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[StruPhantom: Evolutionary Injection Attacks on Black-Box Tabular Agents Powered by Large Language Models](https://arxiv.org/abs/2504.09841)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

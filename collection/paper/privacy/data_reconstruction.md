@@ -1,4 +1,5 @@
 # C3. Data Reconstruction
+- [2025/04] **[Diffusion-Driven Universal Model Inversion Attack for Face Recognition](https://arxiv.org/abs/2504.18015)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/03] **[Safeguarding LLM Embeddings in End-Cloud Collaboration via Entropy-Driven Perturbation](https://arxiv.org/abs/2503.12896)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/03] **[Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/abs/2503.09022)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![SP'25](https://img.shields.io/badge/SP'25-f1b800)
 - [2025/03] **[Prompt Inference Attack on Distributed Large Language Model Inference Frameworks](https://arxiv.org/abs/2503.09291)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

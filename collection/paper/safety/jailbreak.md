@@ -1,4 +1,8 @@
 # A1. Jailbreak
+- [2025/04] **[Graph of Attacks: Improved Black-Box and Interpretable Jailbreaks for LLMs](https://arxiv.org/abs/2504.19019)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[DualBreach: Efficient Dual-Jailbreaking via Target-Driven Initialization and Multi-Target Optimization](https://arxiv.org/abs/2504.18564)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift](https://arxiv.org/abs/2504.19440)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[Inception: Jailbreak the Memory Mechanism of Text-to-Image Generation Systems](https://arxiv.org/abs/2504.20376)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[T2VShield: Model-Agnostic Jailbreak Defense for Text-to-Video Models](https://arxiv.org/abs/2504.15512)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[Amplified Vulnerabilities: Structured Jailbreak Attacks on LLM-based Multi-Agent Debate](https://arxiv.org/abs/2504.16489)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/04] **[Concept Enhancement Engineering: A Lightweight and Efficient Robust Defense Against Jailbreak Attacks in Embodied AI](https://arxiv.org/abs/2504.13201)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

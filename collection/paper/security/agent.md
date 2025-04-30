@@ -1,4 +1,10 @@
 # B2. Agent
+- [2025/04] **[RepliBench: Evaluating the autonomous replication capabilities of language model agents](https://arxiv.org/abs/2504.18565)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks](https://arxiv.org/abs/2504.18575)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[Prompt Injection Attack to Tool Selection in LLM Agents](https://arxiv.org/abs/2504.19793)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[Securing GenAI Multi-Agent Systems Against Tool Squatting: A Zero Trust Registry-Based Approach](https://arxiv.org/abs/2504.19951)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents](https://arxiv.org/abs/2504.19956)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[Simplified and Secure MCP Gateways for Enterprise AI Integration](https://arxiv.org/abs/2504.19997)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Toward a Human-Centered Evaluation Framework for Trustworthy LLM-Powered GUI Agents](https://arxiv.org/abs/2504.17934)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[DoomArena: A framework for Testing AI Agents Against Evolving Security Threats](https://arxiv.org/abs/2504.14064)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent](https://arxiv.org/abs/2504.13192)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

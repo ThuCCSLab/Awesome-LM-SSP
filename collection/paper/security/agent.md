@@ -1,4 +1,5 @@
 # B2. Agent
+- [2025/04] **[SAGA: A Security Architecture for Governing AI Agentic Systems](https://arxiv.org/abs/2504.21034)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[RepliBench: Evaluating the autonomous replication capabilities of language model agents](https://arxiv.org/abs/2504.18565)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks](https://arxiv.org/abs/2504.18575)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Prompt Injection Attack to Tool Selection in LLM Agents](https://arxiv.org/abs/2504.19793)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

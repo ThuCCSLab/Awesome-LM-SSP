@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2025/04] **[Prefill-Based Jailbreak: A Novel Approach of Bypassing LLM Safety Boundary](https://arxiv.org/abs/2504.21038)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs](https://arxiv.org/abs/2504.21700)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Graph of Attacks: Improved Black-Box and Interpretable Jailbreaks for LLMs](https://arxiv.org/abs/2504.19019)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[DualBreach: Efficient Dual-Jailbreaking via Target-Driven Initialization and Multi-Target Optimization](https://arxiv.org/abs/2504.18564)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift](https://arxiv.org/abs/2504.19440)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

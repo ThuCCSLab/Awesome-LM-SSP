@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2025/05] **[VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models](https://arxiv.org/abs/2505.01406)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800)
 - [2025/04] **[GenPTW: In-Generation Image Watermarking for Provenance Tracing and Tamper Localization](https://arxiv.org/abs/2504.19567)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models](https://arxiv.org/abs/2504.16359)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800)
 - [2025/04] **[What Lurks Within? Concept Auditing for Shared Diffusion Models at Scale](https://arxiv.org/abs/2504.14815)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

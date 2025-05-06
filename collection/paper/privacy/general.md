@@ -1,4 +1,5 @@
 # C0. General
+- [2025/05] **[A Survey on Privacy Risks and Protection in Large Language Models](https://arxiv.org/abs/2505.01976)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model](https://arxiv.org/abs/2504.19373)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/02] **[The Canary's Echo: Auditing Privacy Risks of LLM-Generated Synthetic Text](https://arxiv.org/abs/2502.14921)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[A General Pseudonymization Framework for Cloud-Based LLMs: Replacing Privacy Information in Controlled Text Generation](https://arxiv.org/abs/2502.15233)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

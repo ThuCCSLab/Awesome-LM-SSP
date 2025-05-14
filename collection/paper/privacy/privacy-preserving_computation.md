@@ -1,4 +1,8 @@
 # C6. Privacy-Preserving Computation
+- [2025/05] **[CAPE: Context-Aware Prompt Perturbation Mechanism with Differential Privacy](https://arxiv.org/abs/2505.05922)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[User Behavior Analysis in Privacy Protection with Large Language Models: A Study on Privacy Preferences with Limited Data](https://arxiv.org/abs/2505.06305)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity](https://arxiv.org/abs/2505.07239)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![S&P'25](https://img.shields.io/badge/S&P'25-f1b800)
+- [2025/05] **[Private LoRA Fine-tuning of Open-Source LLMs with Homomorphic Encryption](https://arxiv.org/abs/2505.07329)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Can Differentially Private Fine-tuning LLMs Protect Against Privacy Attacks?](https://arxiv.org/abs/2504.21036)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[How Private is Your Attention? Bridging Privacy with In-Context Learning](https://arxiv.org/abs/2504.16000)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Prεεmpt: Sanitizing Sensitive Prompts for LLMs](https://arxiv.org/abs/2504.05147)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

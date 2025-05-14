@@ -1,4 +1,5 @@
 # A3. Deepfake
+- [2025/05] **[Where the Devil Hides: Deepfake Detectors Can No Longer Be Trusted](https://arxiv.org/abs/2505.08255)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis](https://arxiv.org/abs/2504.09839)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Voice](https://img.shields.io/badge/Voice-87b800) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)
 - [2025/03] **[SoK: How Robust is Audio Watermarking in Generative AI models?](https://arxiv.org/abs/2503.19176)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Audio](https://img.shields.io/badge/Audio-87b800)
 - [2025/03] **[Detecting LLM-Written Peer Reviews](https://arxiv.org/abs/2503.15772)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,8 @@
 # C2. Copyright
+- [2025/05] **[Revealing Weaknesses in Text Watermarking Through Self-Information Rewrite Attacks](https://arxiv.org/abs/2505.05190)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[LLM-Text Watermarking based on Lagrange Interpolation](https://arxiv.org/abs/2505.05712)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[RAP-SM: Robust Adversarial Prompt via Shadow Models for Copyright Verification of Large Language Models](https://arxiv.org/abs/2505.06304)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[Removing Watermarks with Partial Regeneration using Semantic Information ](https://arxiv.org/abs/2505.08234)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/05] **[Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models](https://arxiv.org/abs/2505.02824)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/05] **[LLM Watermarking Using Mixtures and Statistical-to-Computational Gaps](https://arxiv.org/abs/2505.01484)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[An End-to-End Model For Logits Based Large Language Models Watermarking](https://arxiv.org/abs/2505.02344)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

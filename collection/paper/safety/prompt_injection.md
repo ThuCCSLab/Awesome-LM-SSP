@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2025/05] **[Defending against Indirect Prompt Injection by Instruction Detection](https://arxiv.org/abs/2505.06311)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/05] **[OET: Optimization-based prompt injection Evaluation Toolkit](https://arxiv.org/abs/2505.00843)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[CachePrune: Neural-Based Attribution Defense Against Indirect Prompt Injection Attacks](https://arxiv.org/abs/2504.21228)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/04] **[Robustness via Referencing: Defending against Prompt Injection Attacks by Referencing the Executed Instruction](https://arxiv.org/abs/2504.20472)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

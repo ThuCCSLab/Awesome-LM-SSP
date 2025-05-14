@@ -1,4 +1,6 @@
 # B3. Poison & Backdoor
+- [2025/05] **[System Prompt Poisoning: Persistent Attacks on Large Language Models Beyond User Injection](https://arxiv.org/abs/2505.06493)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[POISONCRAFT: Practical Poisoning of Retrieval-Augmented Generation for Large Language Models](https://arxiv.org/abs/2505.06579)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[BadLingual: A Novel Lingual-Backdoor Attack against Large Language Models](https://arxiv.org/abs/2505.03501)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Traceback of Poisoning Attacks to Retrieval-Augmented Generation](https://arxiv.org/abs/2504.21668)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/04] **[Backdoor Defense in Diffusion Models via Spatial Attention Unlearning](https://arxiv.org/abs/2504.18563)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

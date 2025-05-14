@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2025/05] **[LiteLMGuard: Seamless and Lightweight On-Device Prompt Filtering for Safeguarding Small Language Models against Quantization-induced Risks and Vulnerabilities ](https://arxiv.org/abs/2505.05619)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Prefill-Based Jailbreak: A Novel Approach of Bypassing LLM Safety Boundary](https://arxiv.org/abs/2504.21038)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs](https://arxiv.org/abs/2504.21700)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Graph of Attacks: Improved Black-Box and Interpretable Jailbreaks for LLMs](https://arxiv.org/abs/2504.19019)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

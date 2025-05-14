@@ -1,4 +1,6 @@
 # B2. Agent
+- [2025/05] **[A Proposal for Evaluating the Operational Risk for ChatBots based on Large Language Models](https://arxiv.org/abs/2505.04784)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[AgentXploit: End-to-End Redteaming of Black-Box AI Agents](https://arxiv.org/abs/2505.05849)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[LlamaFirewall: An open source guardrail system for building secure AI agents](https://arxiv.org/abs/2505.03574)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Open Challenges in Multi-Agent Security: Towards Secure Systems of Interacting AI Agents](https://arxiv.org/abs/2505.02077)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[SAGA: A Security Architecture for Governing AI Agentic Systems](https://arxiv.org/abs/2504.21034)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

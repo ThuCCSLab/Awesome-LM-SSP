@@ -1,4 +1,6 @@
 # B2. Agent
+- [2025/05] **[Think Twice Before You Act: Enhancing Agent Behavioral Safety with Thought Correction](https://arxiv.org/abs/2505.11063)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[MPMA: Preference Manipulation Attack Against Model Context Protocol](https://arxiv.org/abs/2505.11154)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[A Proposal for Evaluating the Operational Risk for ChatBots based on Large Language Models](https://arxiv.org/abs/2505.04784)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[AgentXploit: End-to-End Redteaming of Black-Box AI Agents](https://arxiv.org/abs/2505.05849)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[LlamaFirewall: An open source guardrail system for building secure AI agents](https://arxiv.org/abs/2505.03574)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

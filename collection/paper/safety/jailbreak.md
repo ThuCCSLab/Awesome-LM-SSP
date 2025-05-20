@@ -1,4 +1,10 @@
 # A1. Jailbreak
+- [2025/05] **[TokenProber: Jailbreaking Text-to-image Models via Fine-grained Word Impact Analysis](https://arxiv.org/abs/2505.08804)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/05] **[Dark LLMs: The Growing Threat of Unaligned AI Models ](https://arxiv.org/abs/2505.10066)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization](https://arxiv.org/abs/2505.09921)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[LARGO: Latent Adversarial Reflection through Gradient Optimization for Jailbreaking LLMs](https://arxiv.org/abs/2505.10838)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[AutoRAN: Weak-to-Strong Jailbreaking of Large Reasoning Models](https://arxiv.org/abs/2505.10846)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning ](https://arxiv.org/abs/2505.11049)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/05] **[LiteLMGuard: Seamless and Lightweight On-Device Prompt Filtering for Safeguarding Small Language Models against Quantization-induced Risks and Vulnerabilities ](https://arxiv.org/abs/2505.05619)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Prefill-Based Jailbreak: A Novel Approach of Bypassing LLM Safety Boundary](https://arxiv.org/abs/2504.21038)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs](https://arxiv.org/abs/2504.21700)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

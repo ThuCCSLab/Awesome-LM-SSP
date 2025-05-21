@@ -1,4 +1,6 @@
 # B3. Poison & Backdoor
+- [2025/05] **[Does Low Rank Adaptation Lead to Lower Robustness against Training-Time Attacks?](https://arxiv.org/abs/2505.12871)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICML'25](https://img.shields.io/badge/ICML'25-f1b800)
+- [2025/05] **[One Shot Dominance: Knowledge Poisoning Attack on Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2505.11548)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/05] **[System Prompt Poisoning: Persistent Attacks on Large Language Models Beyond User Injection](https://arxiv.org/abs/2505.06493)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[POISONCRAFT: Practical Poisoning of Retrieval-Augmented Generation for Large Language Models](https://arxiv.org/abs/2505.06579)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[BadLingual: A Novel Lingual-Backdoor Attack against Large Language Models](https://arxiv.org/abs/2505.03501)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

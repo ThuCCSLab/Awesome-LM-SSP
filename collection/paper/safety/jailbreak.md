@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2025/05] **[JULI: Jailbreak Large Language Models by Self-Introspection](https://arxiv.org/abs/2505.11790)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[TokenProber: Jailbreaking Text-to-image Models via Fine-grained Word Impact Analysis](https://arxiv.org/abs/2505.08804)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/05] **[Dark LLMs: The Growing Threat of Unaligned AI Models ](https://arxiv.org/abs/2505.10066)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization](https://arxiv.org/abs/2505.09921)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

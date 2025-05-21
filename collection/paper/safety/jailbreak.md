@@ -1,4 +1,7 @@
 # A1. Jailbreak
+- [2025/05] **[PandaGuard: Systematic Evaluation of LLM Safety in the Era of Jailbreaking Attacks](https://arxiv.org/abs/2505.13862)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models](https://arxiv.org/abs/2505.14103)** ![SLM](https://img.shields.io/badge/SLM-39c5bb) ![Audio](https://img.shields.io/badge/Audio-87b800)
+- [2025/05] **[Exploring Jailbreak Attacks on LLMs through Intent Concealment and Diversion](https://arxiv.org/abs/2505.14316)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[JULI: Jailbreak Large Language Models by Self-Introspection](https://arxiv.org/abs/2505.11790)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[TokenProber: Jailbreaking Text-to-image Models via Fine-grained Word Impact Analysis](https://arxiv.org/abs/2505.08804)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/05] **[Dark LLMs: The Growing Threat of Unaligned AI Models ](https://arxiv.org/abs/2505.10066)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

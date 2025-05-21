@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2025/05] **[Invisible Entropy: Towards Safe and Efficient Low-Entropy LLM Watermarking](https://arxiv.org/abs/2505.14112)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[MorphMark: Flexible Adaptive Watermarking for Large Language Models](https://arxiv.org/abs/2505.11541)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Optimized Couplings for Watermarking Large Language Models](https://arxiv.org/abs/2505.08878)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ISIT'25](https://img.shields.io/badge/ISIT'25-f1b800)
 - [2025/05] **[From Trade-off to Synergy: A Versatile Symbiotic Watermarking Framework for Large Language Models ](https://arxiv.org/abs/2505.09924)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'25](https://img.shields.io/badge/ACL'25-f1b800)

@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2025/05] **[sudoLLM : On Multi-role Alignment of Language Models](https://arxiv.org/abs/2505.14607)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Safe Delta: Consistently Preserving Safety when Fine-Tuning LLMs on Diverse Datasets](https://arxiv.org/abs/2505.12038)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICML'25](https://img.shields.io/badge/ICML'25-f1b800)
 - [2025/05] **[One Trigger Token Is Enough: A Defense Strategy for Balancing Safety and Usability in Large Language Models](https://arxiv.org/abs/2505.07167)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Alleviating the Fear of Losing Alignment in LLM Fine-tuning](https://arxiv.org/abs/2504.09757)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

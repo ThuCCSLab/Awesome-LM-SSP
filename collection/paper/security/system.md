@@ -1,4 +1,5 @@
 # B4. System
+- [2025/05] **[BitHydra: Towards Bit-flip Inference Cost Attack against Large Language Models](https://arxiv.org/abs/2505.16670)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study](https://arxiv.org/abs/2505.02502)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Hoist with His Own Petard: Inducing Guardrails to Facilitate Denial-of-Service Attacks on Retrieval-Augmented Generation of LLMs](https://arxiv.org/abs/2504.21680)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Are You Getting What You Pay For? Auditing Model Substitution in LLM APIs](https://arxiv.org/abs/2504.04715)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

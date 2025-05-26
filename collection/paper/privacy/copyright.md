@@ -1,4 +1,7 @@
 # C2. Copyright
+- [2025/05] **[DuFFin: A Dual-Level Fingerprinting Framework for LLMs IP Protection](https://arxiv.org/abs/2505.16530)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[Robust LLM Fingerprinting via Domain-Specific Watermarks](https://arxiv.org/abs/2505.16723)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[CoTSRF: Utilize Chain of Thought as Stealthy and Robust Fingerprint of Large Language Models](https://arxiv.org/abs/2505.16785)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Invisible Entropy: Towards Safe and Efficient Low-Entropy LLM Watermarking](https://arxiv.org/abs/2505.14112)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[MorphMark: Flexible Adaptive Watermarking for Large Language Models](https://arxiv.org/abs/2505.11541)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Optimized Couplings for Watermarking Large Language Models](https://arxiv.org/abs/2505.08878)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ISIT'25](https://img.shields.io/badge/ISIT'25-f1b800)
@@ -166,6 +169,7 @@
 - [2024/01] **[Adaptive Text Watermark for Large Language Models](https://arxiv.org/abs/2401.13927)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/01] **[Instructional Fingerprinting of Large Language Models](https://arxiv.org/abs/2401.12255)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/01] **[Generative AI Has a Visual Plagiarism Problem](https://spectrum.ieee.org/midjourney-copyright)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Blog](https://img.shields.io/badge/Blog-f1b800)
+- [2023/12] **[HuRef: HUman-REadable Fingerprint for Large Language Models](https://arxiv.org/abs/2312.04828)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NeurIPS'24](https://img.shields.io/badge/NeurIPS'24-f1b800)
 - [2023/12] **[Human-Readable Fingerprint for Large Language Models](https://arxiv.org/abs/2312.04828)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/12] **[Mark My Words: Analyzing and Evaluating Language Model Watermarks](https://arxiv.org/abs/2312.00273)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/wagner-group/MarkMyWords) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/11] **[WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models](https://arxiv.org/abs/2311.07138)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/THU-KEG/WaterBench) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)

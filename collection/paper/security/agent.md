@@ -1,4 +1,6 @@
 # B2. Agent
+- [2025/05] **[Gaming Tool Preferences in Agentic LLMs](https://arxiv.org/abs/2505.18135)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems](https://arxiv.org/abs/2505.15216)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[IP Leakage Attacks Targeting LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2505.12442)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents](https://arxiv.org/abs/2505.12981)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[The Hidden Dangers of Browsing AI Agents ](https://arxiv.org/abs/2505.13076)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

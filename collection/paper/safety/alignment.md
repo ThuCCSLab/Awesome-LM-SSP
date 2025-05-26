@@ -1,4 +1,9 @@
 # A2. Alignment
+- [2025/05] **[Mitigating Fine-tuning Risks in LLMs via Safety-Aware Probing Optimization](https://arxiv.org/abs/2505.16737)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[CTRAP: Embedding Collapse Trap to Safeguard Large Language Models from Harmful Fine-Tuning](https://arxiv.org/abs/2505.16559)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[Safety Alignment Can Be Not Superficial With Explicit Safety Signals](https://arxiv.org/abs/2505.17072)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[MTSA: Multi-turn Safety Alignment for LLMs through Multi-round Red-teaming](https://arxiv.org/abs/2505.17147)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[Alignment Under Pressure: The Case for Informed Adversaries When Evaluating LLM Defenses](https://arxiv.org/abs/2505.15738)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[sudoLLM : On Multi-role Alignment of Language Models](https://arxiv.org/abs/2505.14607)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Safe Delta: Consistently Preserving Safety when Fine-Tuning LLMs on Diverse Datasets](https://arxiv.org/abs/2505.12038)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICML'25](https://img.shields.io/badge/ICML'25-f1b800)
 - [2025/05] **[One Trigger Token Is Enough: A Defense Strategy for Balancing Safety and Usability in Large Language Models](https://arxiv.org/abs/2505.07167)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

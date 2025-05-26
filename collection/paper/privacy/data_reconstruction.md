@@ -1,4 +1,6 @@
 # C3. Data Reconstruction
+- [2025/05] **[Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries](https://arxiv.org/abs/2505.15420)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2025/05] **[ProxyPrompt: Securing System Prompts against Prompt Extraction Attacks](https://arxiv.org/abs/2505.11459)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[ReCIT: Reconstructing Full Private Data from Gradient in Parameter-Efficient Fine-Tuning of Large Language Models](https://arxiv.org/abs/2504.20570)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Diffusion-Driven Universal Model Inversion Attack for Face Recognition](https://arxiv.org/abs/2504.18015)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/03] **[Safeguarding LLM Embeddings in End-Cloud Collaboration via Entropy-Driven Perturbation](https://arxiv.org/abs/2503.12896)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

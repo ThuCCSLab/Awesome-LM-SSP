@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2025/05] **[An Efficient Private GPT Never Autoregressively Decodes](https://arxiv.org/abs/2505.15252)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Improved Algorithms for Differentially Private Language Model Alignment](https://arxiv.org/abs/2505.08849)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Private Transformer Inference in MLaaS: A Survey](https://arxiv.org/abs/2505.10315)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[CAPE: Context-Aware Prompt Perturbation Mechanism with Differential Privacy](https://arxiv.org/abs/2505.05922)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2025/05] **[Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models](https://arxiv.org/abs/2505.16957)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Is Your Prompt Safe? Investigating Prompt Injection Attacks Against Open-Source LLMs](https://arxiv.org/abs/2505.14368)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Lessons from Defending Gemini Against Indirect Prompt Injections](https://arxiv.org/abs/2505.14534)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Defending against Indirect Prompt Injection by Instruction Detection](https://arxiv.org/abs/2505.06311)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

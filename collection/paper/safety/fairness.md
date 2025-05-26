@@ -1,4 +1,5 @@
 # A5. Fairness
+- [2025/05] **[Evaluate Bias without Manual Test Sets: A Concept Representation Perspective for LLMs](https://arxiv.org/abs/2505.15524)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[ModScan: Measuring Stereotypical Bias in Large Vision-Language Models from Vision and Language Modalities](https://arxiv.org/abs/2410.06967)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/08] **[Pro-Woman, Anti-Man? Identifying Gender Bias in Stance Detection](https://aclanthology.org/2024.findings-acl.192/)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/chuchun8/GenderStance) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24_(Findings)](https://img.shields.io/badge/ACL'24_(Findings)-f1b800)
 - [2024/08] **[Social Debiasing for Fair Multi-modal LLMs](https://arxiv.org/abs/2408.06569)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,7 @@
 # B3. Poison & Backdoor
+- [2025/05] **[Benchmarking Poisoning Attacks against Retrieval-Augmented Generation](https://arxiv.org/abs/2505.18543)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2025/05] **[CPA-RAG:Covert Poisoning Attacks on Retrieval-Augmented Generation in Large Language Models](https://arxiv.org/abs/2505.19864)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2025/05] **[Merge Hijacking: Backdoor Attacks to Model Merging of Large Language Models](https://arxiv.org/abs/2505.23561)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'25_Main](https://img.shields.io/badge/ACL'25_Main-f1b800)
 - [2025/05] **[Finetuning-Activated Backdoors in LLMs](https://arxiv.org/abs/2505.16567)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Backdoor Cleaning without External Guidance in MLLM Fine-tuning](https://arxiv.org/abs/2505.16916)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/05] **[Does Low Rank Adaptation Lead to Lower Robustness against Training-Time Attacks?](https://arxiv.org/abs/2505.12871)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICML'25](https://img.shields.io/badge/ICML'25-f1b800)

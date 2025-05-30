@@ -1,4 +1,5 @@
 # C0. General
+- [2025/05] **[TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent](https://arxiv.org/abs/2505.20118)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Can Large Language Models Really Recognize Your Name?](https://arxiv.org/abs/2505.14549)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Automated Profile Inference with Language Model Agents](https://arxiv.org/abs/2505.12402)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[A Survey on Privacy Risks and Protection in Large Language Models](https://arxiv.org/abs/2505.01976)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

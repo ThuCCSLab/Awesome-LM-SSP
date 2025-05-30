@@ -1,4 +1,8 @@
 # A1. Jailbreak
+- [2025/05] **[What Really Matters in Many-Shot Attacks? An Empirical Study of Long-Context Vulnerabilities in LLMs](https://arxiv.org/abs/2505.19773)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space](https://arxiv.org/abs/2505.21277)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[Jailbreak Distillation: Renewable Safety Benchmarking](https://arxiv.org/abs/2505.22037)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[Test-Time Immunization: A Universal Defense Framework Against Jailbreaks for (Multimodal) Large Language Models](https://arxiv.org/abs/2505.22271)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/05] **[SafeKey: Amplifying Aha-Moment Insights for Safety Reasoning](https://arxiv.org/abs/2505.16186)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[When Safety Detectors Aren't Enough: A Stealthy and Effective Jailbreak Attack on LLMs via Steganographic Techniques](https://arxiv.org/abs/2505.16765)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Improving LLM Outputs Against Jailbreak Attacks with Expert Model Integration](https://arxiv.org/abs/2505.17066)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

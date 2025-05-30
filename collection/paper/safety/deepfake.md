@@ -1,4 +1,7 @@
 # A3. Deepfake
+- [2025/05] **[Think Twice before Adaptation: Improving Adaptability of DeepFake Detection via Online Test-Time Adaptation](https://arxiv.org/abs/2505.18787)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/05] **[Fooling the Watchers: Breaking AIGC Detectors via Semantic Prompt Attacks](https://arxiv.org/abs/2505.23192)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/05] **[Security Benefits and Side Effects of Labeling AI-Generated Images](https://arxiv.org/abs/2505.22845)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/05] **[FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models](https://arxiv.org/abs/2505.15644)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/05] **[Is Artificial Intelligence Generated Image Detection a Solved Problem?](https://arxiv.org/abs/2505.12335)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2025/05] **[Where the Devil Hides: Deepfake Detectors Can No Longer Be Trusted](https://arxiv.org/abs/2505.08255)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

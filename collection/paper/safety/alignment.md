@@ -1,4 +1,7 @@
 # A2. Alignment
+- [2025/05] **[Lifelong Safety Alignment for Language Models](https://arxiv.org/abs/2505.20259)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[AgentAlign: Navigating Safety Alignment in the Shift from Informative to Agentic Large Language Models](https://arxiv.org/abs/2505.23020)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[SOSBENCH: Benchmarking Safety Alignment on Scientific Knowledge](https://arxiv.org/abs/2505.21605)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Mitigating Fine-tuning Risks in LLMs via Safety-Aware Probing Optimization](https://arxiv.org/abs/2505.16737)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[CTRAP: Embedding Collapse Trap to Safeguard Large Language Models from Harmful Fine-Tuning](https://arxiv.org/abs/2505.16559)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Safety Alignment Can Be Not Superficial With Explicit Safety Signals](https://arxiv.org/abs/2505.17072)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

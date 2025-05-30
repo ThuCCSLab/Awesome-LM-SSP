@@ -1,4 +1,5 @@
 # C2. Copyright
+- [2025/05] **[VideoMarkBench: Benchmarking Robustness of Video Watermarking](https://arxiv.org/abs/2505.21620)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/05] **[DuFFin: A Dual-Level Fingerprinting Framework for LLMs IP Protection](https://arxiv.org/abs/2505.16530)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Robust LLM Fingerprinting via Domain-Specific Watermarks](https://arxiv.org/abs/2505.16723)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[CoTSRF: Utilize Chain of Thought as Stealthy and Robust Fingerprint of Large Language Models](https://arxiv.org/abs/2505.16785)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

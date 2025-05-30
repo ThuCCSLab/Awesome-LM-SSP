@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2025/05] **[SHE-LoRA: Selective Homomorphic Encryption for Federated Tuning with Heterogeneous LoRA](https://arxiv.org/abs/2505.21051 )** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[An Efficient Private GPT Never Autoregressively Decodes](https://arxiv.org/abs/2505.15252)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Improved Algorithms for Differentially Private Language Model Alignment](https://arxiv.org/abs/2505.08849)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Private Transformer Inference in MLaaS: A Survey](https://arxiv.org/abs/2505.10315)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -6,6 +7,7 @@
 - [2025/05] **[User Behavior Analysis in Privacy Protection with Large Language Models: A Study on Privacy Preferences with Limited Data](https://arxiv.org/abs/2505.06305)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity](https://arxiv.org/abs/2505.07239)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![S&P'25](https://img.shields.io/badge/S&P'25-f1b800)
 - [2025/05] **[Private LoRA Fine-tuning of Open-Source LLMs with Homomorphic Encryption](https://arxiv.org/abs/2505.07329)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[Privacy-Preserving Federated Embedding Learning for Localized Retrieval-Augmented Generation](https://arxiv.org/abs/2504.19101)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/04] **[Can Differentially Private Fine-tuning LLMs Protect Against Privacy Attacks?](https://arxiv.org/abs/2504.21036)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[How Private is Your Attention? Bridging Privacy with In-Context Learning](https://arxiv.org/abs/2504.16000)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Prεεmpt: Sanitizing Sensitive Prompts for LLMs](https://arxiv.org/abs/2504.05147)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

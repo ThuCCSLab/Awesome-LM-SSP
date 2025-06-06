@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2025/06] **[The Security Threat of Compressed Projectors in Large Vision-Language Models](https://arxiv.org/abs/2506.00534)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/05] **[Disrupting Vision-Language Model-Driven Navigation Services via Adversarial Object Fusion](https://arxiv.org/abs/2505.23266)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/04] **[Embedding Hidden Adversarial Capabilities in Pre-Trained Diffusion Models ](https://arxiv.org/abs/2504.08782)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Select Me! When You Need a Tool: A Black-box Text Attack on Tool Selection](https://arxiv.org/abs/2504.04809)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

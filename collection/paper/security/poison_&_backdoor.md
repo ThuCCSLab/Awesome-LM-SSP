@@ -1,4 +1,8 @@
 # B3. Poison & Backdoor
+- [2025/06] **[Which Factors Make Code LLMs More Vulnerable to Backdoor Attacks? A Systematic Study](https://arxiv.org/abs/2506.01825)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[VLMs Can Aggregate Scattered Training Patches ](https://arxiv.org/abs/2506.03614)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/06] **[Through the Stealth Lens: Rethinking Attacks and Defenses in RAG](https://arxiv.org/abs/2506.04390)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2025/05] **[Spa-VLM: Stealthy Poisoning Attacks on RAG-based VLM](https://arxiv.org/abs/2505.23828)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/05] **[Benchmarking Poisoning Attacks against Retrieval-Augmented Generation](https://arxiv.org/abs/2505.18543)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/05] **[CPA-RAG:Covert Poisoning Attacks on Retrieval-Augmented Generation in Large Language Models](https://arxiv.org/abs/2505.19864)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/05] **[Merge Hijacking: Backdoor Attacks to Model Merging of Large Language Models](https://arxiv.org/abs/2505.23561)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'25_Main](https://img.shields.io/badge/ACL'25_Main-f1b800)

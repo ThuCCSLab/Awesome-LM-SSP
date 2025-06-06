@@ -1,4 +1,11 @@
 # B2. Agent
+- [2025/06] **[COALESCE: Economic and Security Dynamics of Skill-Based Task Outsourcing Among Team of Autonomous LLM Agents](https://arxiv.org/abs/2506.01900)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[ETDI: Mitigating Tool Squatting and Rug Pull Attacks in Model Context Protocol (MCP) by using OAuth-Enhanced Tool Definitions and Policy-Based Access Control](https://arxiv.org/abs/2506.01333)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem](https://arxiv.org/abs/2506.02040)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Attention Knows Whom to Trust: Attention-based Trust Management for LLM Multi-Agent Systems](https://arxiv.org/abs/2506.02546)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[ATAG: AI-Agent Application Threat Assessment with Attack Graphs](https://arxiv.org/abs/2506.02859)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems](https://arxiv.org/abs/2505.23847)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[LLM Agents Should Employ Security Principles](https://arxiv.org/abs/2505.24019)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[CoTGuard: Using Chain-of-Thought Triggering for Copyright Protection in Multi-Agent LLM Systems](https://arxiv.org/abs/2505.19405)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery](https://arxiv.org/abs/2505.21499)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment](https://arxiv.org/abs/2505.23634)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

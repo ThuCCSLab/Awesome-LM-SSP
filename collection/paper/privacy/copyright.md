@@ -1,4 +1,7 @@
 # C2. Copyright
+- [2025/06] **[Video Signature: In-generation Watermarking for Latent Video Diffusion Models](https://arxiv.org/abs/2506.00652)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800)
+- [2025/06] **[Watermarking Degrades Alignment in Language Models: Analysis and Mitigation](https://arxiv.org/abs/2506.04462)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[Watermarking Without Standards Is Not AI Governance](https://arxiv.org/abs/2505.23814)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[VideoMarkBench: Benchmarking Robustness of Video Watermarking](https://arxiv.org/abs/2505.21620)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/05] **[DuFFin: A Dual-Level Fingerprinting Framework for LLMs IP Protection](https://arxiv.org/abs/2505.16530)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Robust LLM Fingerprinting via Domain-Specific Watermarks](https://arxiv.org/abs/2505.16723)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

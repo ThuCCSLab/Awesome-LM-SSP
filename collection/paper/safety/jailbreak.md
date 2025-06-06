@@ -1,4 +1,10 @@
 # A1. Jailbreak
+- [2025/06] **[Con Instruction: Universal Jailbreaking of Multimodal Large Language Models via Non-Textual Modalities](https://arxiv.org/abs/2506.00548)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Align is not Enough: Multimodal Universal Jailbreak Attack against Multimodal Large Language Models](https://arxiv.org/abs/2506.01307)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/06] **[ReGA: Representation-Guided Abstraction for Model-based Safeguarding of LLMs](https://arxiv.org/abs/2506.01770)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[BitBypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage](https://arxiv.org/abs/2506.02479)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[USB: A Comprehensive and Unified Safety Evaluation Benchmark for Multimodal Large Language Models ](https://arxiv.org/abs/2505.23793)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
+- [2025/05] **[GeneBreaker: Jailbreak Attacks against DNA Language Models with Pathogenicity Guidance](https://arxiv.org/abs/2505.23839)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![DNA](https://img.shields.io/badge/DNA-87b800)
 - [2025/05] **[What Really Matters in Many-Shot Attacks? An Empirical Study of Long-Context Vulnerabilities in LLMs](https://arxiv.org/abs/2505.19773)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space](https://arxiv.org/abs/2505.21277)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Jailbreak Distillation: Renewable Safety Benchmarking](https://arxiv.org/abs/2505.22037)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

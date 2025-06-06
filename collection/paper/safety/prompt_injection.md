@@ -1,4 +1,7 @@
 # A7. Prompt Injection
+- [2025/06] **[Simple Prompt Injection Attacks Can Leak Personal Data Observed by LLM Agents During Task Execution](https://arxiv.org/abs/2506.01055)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents](https://arxiv.org/abs/2506.02456)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[TracLLM: A Generic Framework for Attributing Long Context LLMs](https://arxiv.org/abs/2506.04202)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)
 - [2025/05] **[A Critical Evaluation of Defenses against Prompt Injection Attacks](https://arxiv.org/abs/2505.18333)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models](https://arxiv.org/abs/2505.16957)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Is Your Prompt Safe? Investigating Prompt Injection Attacks Against Open-Source LLMs](https://arxiv.org/abs/2505.14368)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

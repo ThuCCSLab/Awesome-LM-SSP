@@ -1,4 +1,6 @@
 # A2. Alignment
+- [2025/06] **[Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets](https://arxiv.org/abs/2506.05346)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[SafeCOMM: What about Safety Alignment in Fine-Tuned Telecom Large Language Models?](https://arxiv.org/abs/2506.00062)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Lifelong Safety Alignment for Language Models](https://arxiv.org/abs/2505.20259)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[AgentAlign: Navigating Safety Alignment in the Shift from Informative to Agentic Large Language Models](https://arxiv.org/abs/2505.23020)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[SOSBENCH: Benchmarking Safety Alignment on Scientific Knowledge](https://arxiv.org/abs/2505.21605)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

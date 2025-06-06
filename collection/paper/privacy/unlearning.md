@@ -1,4 +1,7 @@
 # C9. Unlearning
+- [2025/06] **[Keeping an Eye on LLM Unlearning: The Hidden Risk and Remedy](https://arxiv.org/abs/2506.00359)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Rethinking Machine Unlearning in Image Generation Models](https://arxiv.org/abs/2506.02761)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![CCS'25](https://img.shields.io/badge/CCS'25-f1b800)
+- [2025/05] **[Breaking the Gold Standard: Extracting Forgotten Data under Exact Unlearning in Large Language Models ](https://arxiv.org/abs/2505.24379)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Unlearning Isn't Deletion: Investigating Reversibility of Machine Unlearning in LLMs](https://arxiv.org/abs/2505.16831)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Harry Potter is Still Here! Probing Knowledge Leakage in Targeted Unlearned Large Language Models via Automated Adversarial Prompting](https://arxiv.org/abs/2505.17160)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[SAEs Can Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision Unlearning in LLMs](https://arxiv.org/abs/2504.08192)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

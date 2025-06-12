@@ -1,4 +1,5 @@
 # B2. Agent
+- [2025/06] **[RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments](https://arxiv.org/abs/2505.21936)**![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/06] **[COALESCE: Economic and Security Dynamics of Skill-Based Task Outsourcing Among Team of Autonomous LLM Agents](https://arxiv.org/abs/2506.01900)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[ETDI: Mitigating Tool Squatting and Rug Pull Attacks in Model Context Protocol (MCP) by using OAuth-Enhanced Tool Definitions and Policy-Based Access Control](https://arxiv.org/abs/2506.01333)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem](https://arxiv.org/abs/2506.02040)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

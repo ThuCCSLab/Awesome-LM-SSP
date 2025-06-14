@@ -32,7 +32,6 @@
 - [2024/06] **[Applying Ensemble Methods to Model-Agnostic Machine-Generated Text Detection](https://arxiv.org/abs/2406.12570)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Evading AI-Generated Content Detectors using Homoglyphs](https://arxiv.org/abs/2406.11239)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Are AI-Generated Text Detectors Robust to Adversarial Perturbations?](https://arxiv.org/abs/2406.01179)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
-- [2024/05] **[WatME: Towards Lossless Watermarking Through Lexical Redundancy](https://aclanthology.org/2024.acl-long.496/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
 - [2024/05] **[Transformer and Hybrid Deep Learning Based Models for Machine-Generated Text Detection](https://arxiv.org/abs/2405.17964)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[RAID: A Shared Benchmark for Robust Evaluation of Machine-Generated Text Detectors](https://arxiv.org/abs/2405.07940)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
 - [2024/05] **[Who Wrote This? The Key to Zero-Shot LLM-Generated Text Detection Is GECScore](https://arxiv.org/abs/2405.04286)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

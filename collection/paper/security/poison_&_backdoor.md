@@ -1,4 +1,9 @@
 # B3. Poison & Backdoor
+- [2025/06] **[Robust Anti-Backdoor Instruction Tuning in LVLMs](https://arxiv.org/abs/2506.05401)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/06] **[Joint-GCG: Unified Gradient-Based Poisoning Attacks on Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2506.06151)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2025/06] **[Backdoor Attack on Vision Language Models with Stealthy Semantic Manipulation](https://arxiv.org/abs/2506.07214)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/06] **[A Systematic Review of Poisoning Attacks Against Large Language Models](https://arxiv.org/abs/2506.06518)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Your Agent Can Defend Itself against Backdoor Attacks](https://arxiv.org/abs/2506.08336)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/06] **[Which Factors Make Code LLMs More Vulnerable to Backdoor Attacks? A Systematic Study](https://arxiv.org/abs/2506.01825)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[VLMs Can Aggregate Scattered Training Patches ](https://arxiv.org/abs/2506.03614)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/06] **[Through the Stealth Lens: Rethinking Attacks and Defenses in RAG](https://arxiv.org/abs/2506.04390)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

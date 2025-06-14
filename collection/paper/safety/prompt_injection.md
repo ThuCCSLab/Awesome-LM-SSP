@@ -1,4 +1,7 @@
 # A7. Prompt Injection
+- [2025/06] **[Sentinel: SOTA model to protect against prompt injections](https://arxiv.org/abs/2506.05446)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[To Protect the LLM Agent Against the Prompt Injection Attack with Polymorphic Prompt](https://arxiv.org/abs/2506.05739)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge](https://arxiv.org/abs/2506.09956)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Dataset](https://img.shields.io/badge/Dataset-87b800)
 - [2025/06] **[Simple Prompt Injection Attacks Can Leak Personal Data Observed by LLM Agents During Task Execution](https://arxiv.org/abs/2506.01055)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents](https://arxiv.org/abs/2506.02456)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[TracLLM: A Generic Framework for Attributing Long Context LLMs](https://arxiv.org/abs/2506.04202)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)

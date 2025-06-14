@@ -1,4 +1,6 @@
 # C4. Membership Inference Attacks
+- [2025/06] **[What Really is a Member? Discrediting Membership Inference via Poisoning](https://arxiv.org/abs/2506.06003)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[SOFT: Selective Data Obfuscation for Protecting LLM Fine-tuning against Membership Inference Attacks](https://arxiv.org/abs/2506.10424)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)
 - [2025/05] **[Strong Membership Inference Attacks on Massive Datasets and (Moderately) Large Language Models](https://arxiv.org/abs/2505.18773)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Unveiling Impact of Frequency Components on Membership Inference Attacks for Diffusion Models](https://arxiv.org/abs/2505.20955)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/05] **[Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference Attacks in Large Language Models via Dual-Purpose Training](https://arxiv.org/abs/2502.19726)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'25](https://img.shields.io/badge/ACL'25-f1b800)

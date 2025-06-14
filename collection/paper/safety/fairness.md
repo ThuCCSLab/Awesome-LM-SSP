@@ -1,4 +1,5 @@
 # A5. Fairness
+- [2025/06] **[LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge](https://arxiv.org/abs/2506.09443)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Attributional Safety Failures in Large Language Models under Code-Mixed Perturbations](https://arxiv.org/abs/2505.14469)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Evaluate Bias without Manual Test Sets: A Concept Representation Perspective for LLMs](https://arxiv.org/abs/2505.15524)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Navigating the Cultural Kaleidoscope: A Hitchhiker's Guide to Sensitivity in Large Language Models](https://arxiv.org/abs/2410.12880)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://neuralsentinel.github.io/KaleidoCulture/) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NAACL'25](https://img.shields.io/badge/NAACL'25-f1b800)

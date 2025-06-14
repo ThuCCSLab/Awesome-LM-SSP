@@ -1,4 +1,6 @@
 # A3. Deepfake
+- [2025/06] **[Identity Deepfake Threats to Biometric Authentication Systems: Public and Expert Perspectives](https://arxiv.org/abs/2506.06825)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/06] **[GradEscape: A Gradient-Based Evader Against AI-Generated Text Detectors](https://arxiv.org/abs/2506.08188)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)
 - [2025/05] **[Think Twice before Adaptation: Improving Adaptability of DeepFake Detection via Online Test-Time Adaptation](https://arxiv.org/abs/2505.18787)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/05] **[Fooling the Watchers: Breaking AIGC Detectors via Semantic Prompt Attacks](https://arxiv.org/abs/2505.23192)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/05] **[Security Benefits and Side Effects of Labeling AI-Generated Images](https://arxiv.org/abs/2505.22845)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

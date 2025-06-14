@@ -1,4 +1,6 @@
 # C9. Unlearning
+- [2025/06] **[LLM Unlearning Should Be Form-Independent](https://arxiv.org/abs/2506.07795)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[SoK: Machine Unlearning for Large Language Models](https://arxiv.org/abs/2506.09227)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Keeping an Eye on LLM Unlearning: The Hidden Risk and Remedy](https://arxiv.org/abs/2506.00359)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Rethinking Machine Unlearning in Image Generation Models](https://arxiv.org/abs/2506.02761)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![CCS'25](https://img.shields.io/badge/CCS'25-f1b800)
 - [2025/05] **[Breaking the Gold Standard: Extracting Forgotten Data under Exact Unlearning in Large Language Models ](https://arxiv.org/abs/2505.24379)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

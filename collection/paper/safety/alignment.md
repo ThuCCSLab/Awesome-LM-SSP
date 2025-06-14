@@ -1,4 +1,6 @@
 # A2. Alignment
+- [2025/06] **[Saffron-1: Towards an Inference Scaling Paradigm for LLM Safety Assurance](https://arxiv.org/abs/2506.06444)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt](https://arxiv.org/abs/2506.09353)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/zhangyitonggg/DAVSP) ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/06] **[Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://arxiv.org/abs/2506.03850)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICML'25](https://img.shields.io/badge/ICML'25-f1b800)
 - [2025/06] **[Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets](https://arxiv.org/abs/2506.05346)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[SafeCOMM: What about Safety Alignment in Fine-Tuned Telecom Large Language Models?](https://arxiv.org/abs/2506.00062)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

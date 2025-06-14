@@ -1,4 +1,12 @@
 # C2. Copyright
+- [2025/06] **[Optimization-Free Universal Watermark Forgery with Regenerative Diffusion Models](https://arxiv.org/abs/2506.06018)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/06] **[StealthInk: A Multi-bit and Stealthy Watermark for Large Language Models](https://arxiv.org/abs/2506.05502)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[SoK: Are Watermarks in LLMs Ready for Deployment?](https://arxiv.org/abs/2506.05594)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[HeavyWater and SimplexWater: Watermarking Low-Entropy Text Distributions](https://arxiv.org/abs/2506.06409)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Enhancing Watermarking Quality for LLMs via Contextual Generation States Awareness](https://arxiv.org/abs/2506.07403)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment](https://arxiv.org/abs/2506.10030)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2025/06] **[A Crack in the Bark: Leveraging Public Knowledge to Remove Tree-Ring Watermarks](https://arxiv.org/abs/2506.10502)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)
+- [2025/06] **[ME: Trigger Element Combination Backdoor Attack on Copyright Infringement](https://arxiv.org/abs/2506.10776)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/06] **[Video Signature: In-generation Watermarking for Latent Video Diffusion Models](https://arxiv.org/abs/2506.00652)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800)
 - [2025/06] **[Watermarking Degrades Alignment in Language Models: Analysis and Mitigation](https://arxiv.org/abs/2506.04462)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Watermarking Without Standards Is Not AI Governance](https://arxiv.org/abs/2505.23814)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

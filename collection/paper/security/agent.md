@@ -1,4 +1,8 @@
 # B2. Agent
+- [2025/06] **[Mind the Web: The Security of Web Use Agents](https://arxiv.org/abs/2506.07153)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Effective Red-Teaming of Policy-Adherent Agents](https://arxiv.org/abs/2506.09600)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Disclosure Audits for LLM Agents](https://arxiv.org/abs/2506.10171)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Specification and Evaluation of Multi-Agent LLM Systems -- Prototype and Cybersecurity Applications](https://arxiv.org/abs/2506.10467)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[COALESCE: Economic and Security Dynamics of Skill-Based Task Outsourcing Among Team of Autonomous LLM Agents](https://arxiv.org/abs/2506.01900)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[ETDI: Mitigating Tool Squatting and Rug Pull Attacks in Model Context Protocol (MCP) by using OAuth-Enhanced Tool Definitions and Policy-Based Access Control](https://arxiv.org/abs/2506.01333)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem](https://arxiv.org/abs/2506.02040)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

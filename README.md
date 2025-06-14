@@ -29,12 +29,6 @@ The resources related to the trustworthiness of large models (LMs) across multip
 | aa |  arxiv | github  | bb'23    |  A1. Jailbreak | LLM  | Agent | 
 
 ## News
-- [2025.02.17] We collected `12` related papers from [NDSS'25](https://www.ndss-symposium.org/ndss2025/accepted-papers/)!
-- [2024.08.17] We collected `34` related papers from [ACL'24](https://2024.aclweb.org/)!
-- [2024.05.13] We collected `7` related papers from [S&P'24](https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y)!
-- [2024.04.27] We adjusted the categories.
-- [2024.01.20] We collected `3` related papers from [NDSS'24](https://www.ndss-symposium.org/ndss2024/accepted-papers/)!
-- [2024.01.17] We collected `108` related papers from [ICLR'24](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
 - [2024.01.09] 🚀 LM-SSP is released!
 
 ## Collections
@@ -43,34 +37,34 @@ The resources related to the trustworthiness of large models (LMs) across multip
 - [Leaderboard](collection/leaderboard.md) (4)
 - [Toolkit](collection/toolkit.md) (12)
 - [Survey](collection/survey.md) (36)
-- Paper (1767)
-    - A. Safety (935)
+- Paper (1809)
+    - A. Safety (951)
         - [A0. General](collection/paper/safety/general.md) (24)
-        - [A1. Jailbreak](collection/paper/safety/jailbreak.md) (411)
-        - [A2. Alignment](collection/paper/safety/alignment.md) (108)
-        - [A3. Deepfake](collection/paper/safety/deepfake.md) (74)
+        - [A1. Jailbreak](collection/paper/safety/jailbreak.md) (418)
+        - [A2. Alignment](collection/paper/safety/alignment.md) (110)
+        - [A3. Deepfake](collection/paper/safety/deepfake.md) (76)
         - [A4. Ethics](collection/paper/safety/ethics.md) (5)
-        - [A5. Fairness](collection/paper/safety/fairness.md) (57)
+        - [A5. Fairness](collection/paper/safety/fairness.md) (58)
         - [A6. Hallucination](collection/paper/safety/hallucination.md) (113)
-        - [A7. Prompt Injection](collection/paper/safety/prompt_injection.md) (68)
-        - [A8. Toxicity](collection/paper/safety/toxicity.md) (75)
-    - B. Security (305)
+        - [A7. Prompt Injection](collection/paper/safety/prompt_injection.md) (71)
+        - [A8. Toxicity](collection/paper/safety/toxicity.md) (76)
+    - B. Security (315)
         - [B0. General](collection/paper/security/general.md) (14)
         - [B1. Adversarial Examples](collection/paper/security/adversarial_examples.md) (94)
-        - [B2. Agent](collection/paper/security/agent.md) (46)
-        - [B3. Poison & Backdoor](collection/paper/security/poison_&_backdoor.md) (134)
-        - [B4. System](collection/paper/security/system.md) (17)
-    - C. Privacy (527)
-        - [C0. General](collection/paper/privacy/general.md) (37)
+        - [B2. Agent](collection/paper/security/agent.md) (50)
+        - [B3. Poison & Backdoor](collection/paper/security/poison_&_backdoor.md) (139)
+        - [B4. System](collection/paper/security/system.md) (18)
+    - C. Privacy (543)
+        - [C0. General](collection/paper/privacy/general.md) (38)
         - [C1. Contamination](collection/paper/privacy/contamination.md) (13)
-        - [C2. Copyright](collection/paper/privacy/copyright.md) (195)
+        - [C2. Copyright](collection/paper/privacy/copyright.md) (203)
         - [C3. Data Reconstruction](collection/paper/privacy/data_reconstruction.md) (56)
-        - [C4. Membership Inference Attacks](collection/paper/privacy/membership_inference_attacks.md) (44)
+        - [C4. Membership Inference Attacks](collection/paper/privacy/membership_inference_attacks.md) (46)
         - [C5. Model Extraction](collection/paper/privacy/model_extraction.md) (12)
-        - [C6. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation.md) (104)
-        - [C7. Property Inference Attacks](collection/paper/privacy/property_inference_attacks.md) (3)
+        - [C6. Privacy-Preserving Computation](collection/paper/privacy/privacy-preserving_computation.md) (106)
+        - [C7. Property Inference Attacks](collection/paper/privacy/property_inference_attacks.md) (4)
         - [C8. Side-Channel](collection/paper/privacy/side-channel.md) (7)
-        - [C9. Unlearning](collection/paper/privacy/unlearning.md) (56)
+        - [C9. Unlearning](collection/paper/privacy/unlearning.md) (58)
 
 ## Star History
 

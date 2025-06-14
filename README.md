@@ -66,7 +66,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
         - [C8. Side-Channel](collection/paper/privacy/side-channel.md) (7)
         - [C9. Unlearning](collection/paper/privacy/unlearning.md) (58)
 
-## Star History
+## Big love to the community — thank you! 🙏
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ThuCCSLab/Awesome-LM-SSP&type=Date)](https://star-history.com/#ThuCCSLab/Awesome-LM-SSP&Date)
 

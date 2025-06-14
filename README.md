@@ -29,6 +29,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 | aa |  arxiv | github  | bb'23    |  A1. Jailbreak | LLM  | Agent | 
 
 ## News
+- [2025.01.09] 🎂 Happy 1st Birthday to Awesome-LM-SSP! Keep Going! 💪
 - [2024.01.09] 🚀 LM-SSP is released!
 
 ## Collections

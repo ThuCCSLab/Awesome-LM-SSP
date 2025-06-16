@@ -78,6 +78,7 @@
 - [2025/03] **[BadJudge: Backdoor Vulnerabilities of LLM-as-a-Judge](https://arxiv.org/abs/2503.00596)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Jailbreaking Generative AI: Empowering Novices to Conduct Phishing Attacks](https://arxiv.org/abs/2503.01395)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Efficient Jailbreaking of Large Models by Freeze Training: Lower Layers Exhibit Greater Sensitivity to Harmful Content](https://arxiv.org/abs/2502.20952)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[Single-pass Detection of Jailbreaking Input in Large Language Models](https://arxiv.org/abs/2502.15435)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![TMLR'25](https://img.shields.io/badge/TMLR'25-f1b800)
 - [2025/02] **[PEARL: Towards Permutation-Resilient LLMs](https://arxiv.org/abs/2502.14628)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)
 - [2025/02] **[StructTransform: A Scalable Attack Surface for Safety-Aligned Large Language Models](https://arxiv.org/abs/2502.11853)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Steering Dialogue Dynamics for Robustness against Multi-turn Jailbreaking Attacks](https://arxiv.org/abs/2503.00187)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

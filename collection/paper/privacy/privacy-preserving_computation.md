@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2025/06] **[Differential Privacy in Machine Learning: From Symbolic AI to LLMs](https://arxiv.org/abs/2506.11687)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model](https://arxiv.org/abs/2506.05640)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Dual-Priv Pruning : Efficient Differential Private Fine-Tuning in Multimodal Large Language Models](https://arxiv.org/abs/2506.07077)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/06] **[Learning to Diagnose Privately: DP-Powered LLMs for Radiology Report Classification](https://arxiv.org/abs/2506.04450)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

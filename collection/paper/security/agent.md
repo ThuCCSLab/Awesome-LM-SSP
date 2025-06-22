@@ -1,4 +1,8 @@
 # B2. Agent
+- [2025/06] **[Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments](https://arxiv.org/abs/2506.13205)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/06] **[Doppelgänger Method: Breaking Role Consistency in LLM Agent via Prompt-based Transferable Adversarial Attack](https://arxiv.org/abs/2506.14539)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](https://arxiv.org/abs/2506.14697)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[RAS-Eval: A Comprehensive Benchmark for Security Evaluation of LLM Agents in Real-World Environments](https://arxiv.org/abs/2506.15253)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Mind the Web: The Security of Web Use Agents](https://arxiv.org/abs/2506.07153)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Effective Red-Teaming of Policy-Adherent Agents](https://arxiv.org/abs/2506.09600)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Disclosure Audits for LLM Agents](https://arxiv.org/abs/2506.10171)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

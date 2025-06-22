@@ -1,4 +1,6 @@
 # C0. General
+- [2025/06] **[SoK: The Privacy Paradox of Large Language Models: Advancements, Privacy Risks, and Mitigation](https://arxiv.org/abs/2506.12699)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers](https://arxiv.org/abs/2506.15674)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Private Memorization Editing: Turning Memorization into a Defense to Strengthen Data Privacy in Large Language Models](https://arxiv.org/abs/2506.10024)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'25](https://img.shields.io/badge/ACL'25-f1b800)
 - [2025/05] **[When GPT Spills the Tea: Comprehensive Assessment of Knowledge File Leakage in GPTs](https://arxiv.org/abs/2506.00197)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent](https://arxiv.org/abs/2505.20118)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

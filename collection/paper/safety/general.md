@@ -1,4 +1,5 @@
 # A0. General
+- [2025/06] **[The Scales of Justitia: A Comprehensive Survey on Safety Evaluation of LLMs](https://arxiv.org/abs/2506.11094)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[CircleGuardBench - A full-fledged benchmark for evaluating protection capabilities of AI models ](https://huggingface.co/blog/whitecircle-ai/circleguardbench)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2025/04] **[𝚂𝙰𝙶𝙴: A Generic Framework for LLM Safety Evaluation](https://arxiv.org/abs/2504.19674)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models](https://arxiv.org/abs/2503.14827)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![benchmark](https://img.shields.io/badge/benchmark-87b800) ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800)

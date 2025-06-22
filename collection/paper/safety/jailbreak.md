@@ -1,4 +1,9 @@
 # A1. Jailbreak
+- [2025/06] **[InfoFlood: Jailbreaking Large Language Models with Information Overload](https://arxiv.org/abs/2506.12274)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Alphabet Index Mapping: Jailbreaking LLMs through Semantic Dissimilarity](https://arxiv.org/abs/2506.12685)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[SecurityLingua: Efficient Defense of LLM Jailbreak Attacks via Security-Aware Prompt Compression](https://arxiv.org/abs/2506.12707)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Universal Jailbreak Suffixes Are Strong Attention Hijackers](https://arxiv.org/abs/2506.12880)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem](https://arxiv.org/abs/2506.15170)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[HauntAttack: When Attack Follows Reasoning as a Shadow](https://arxiv.org/abs/2506.07031)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures](https://arxiv.org/abs/2506.07402)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[From Threat to Tool: Leveraging Refusal-Aware Injection Attacks for Safety Alignment](https://arxiv.org/abs/2506.10020)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

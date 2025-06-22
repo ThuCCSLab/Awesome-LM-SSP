@@ -1,4 +1,8 @@
 # C2. Copyright
+- [2025/06] **[GaussMarker: Robust Dual-Domain Watermark for Diffusion Models](https://arxiv.org/abs/2506.11444)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/06] **[MEraser: An Effective Fingerprint Erasure Approach for Large Language Models](https://arxiv.org/abs/2506.12551)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Watermarking LLM-Generated Datasets in Downstream Tasks](https://arxiv.org/abs/2506.13494)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[LexiMark: Robust Watermarking via Lexical Substitutions to Enhance Membership Verification of an LLM's Textual Training Data](https://arxiv.org/abs/2506.14474)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Optimization-Free Universal Watermark Forgery with Regenerative Diffusion Models](https://arxiv.org/abs/2506.06018)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/06] **[StealthInk: A Multi-bit and Stealthy Watermark for Large Language Models](https://arxiv.org/abs/2506.05502)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[SoK: Are Watermarks in LLMs Ready for Deployment?](https://arxiv.org/abs/2506.05594)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -26,6 +30,7 @@
 - [2025/05] **[LLM Watermarking Using Mixtures and Statistical-to-Computational Gaps](https://arxiv.org/abs/2505.01484)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[An End-to-End Model For Logits Based Large Language Models Watermarking](https://arxiv.org/abs/2505.02344)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models](https://arxiv.org/abs/2505.01406)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800)
+- [2025/04] **[Forging and Removing Latent-Noise Diffusion Watermarks Using a Single Image](https://arxiv.org/abs/2504.20111)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[GenPTW: In-Generation Image Watermarking for Provenance Tracing and Tamper Localization](https://arxiv.org/abs/2504.19567)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models](https://arxiv.org/abs/2504.16359)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800)
 - [2025/04] **[What Lurks Within? Concept Auditing for Shared Diffusion Models at Scale](https://arxiv.org/abs/2504.14815)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

@@ -1,4 +1,5 @@
 # C9. Unlearning
+- [2025/06] **[UCD: Unlearning in LLMs via Contrastive Decoding](https://arxiv.org/abs/2506.12097)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[LLM Unlearning Should Be Form-Independent](https://arxiv.org/abs/2506.07795)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[SoK: Machine Unlearning for Large Language Models](https://arxiv.org/abs/2506.09227)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Keeping an Eye on LLM Unlearning: The Hidden Risk and Remedy](https://arxiv.org/abs/2506.00359)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

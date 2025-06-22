@@ -1,4 +1,5 @@
 # C4. Membership Inference Attacks
+- [2025/06] **[Image Corruption-Inspired Membership Inference Attacks against Large Vision-Language Models](https://arxiv.org/abs/2506.12340)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/06] **[What Really is a Member? Discrediting Membership Inference via Poisoning](https://arxiv.org/abs/2506.06003)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[SOFT: Selective Data Obfuscation for Protecting LLM Fine-tuning against Membership Inference Attacks](https://arxiv.org/abs/2506.10424)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)
 - [2025/05] **[Strong Membership Inference Attacks on Massive Datasets and (Moderately) Large Language Models](https://arxiv.org/abs/2505.18773)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

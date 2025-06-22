@@ -1,4 +1,7 @@
 # B4. System
+- [2025/06] **[ExtendAttack: Attacking Servers of LRMs via Extending Reasoning](https://arxiv.org/abs/2506.13737)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[LingoLoop Attack: Trapping MLLMs via Linguistic Context and State Entrapment into Endless Loops](https://arxiv.org/abs/2506.14493)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/06] **[Excessive Reasoning Attack on Reasoning LLMs](https://arxiv.org/abs/2506.14374)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Auditing Black-Box LLM APIs with a Rank-Based Uniformity Test](https://arxiv.org/abs/2506.06975)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[BitHydra: Towards Bit-flip Inference Cost Attack against Large Language Models](https://arxiv.org/abs/2505.16670)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study](https://arxiv.org/abs/2505.02502)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

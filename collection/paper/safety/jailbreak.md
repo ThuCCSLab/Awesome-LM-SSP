@@ -1,4 +1,8 @@
 # A1. Jailbreak
+- [2025/06] **[The Safety Reminder: A Soft Prompt to Reactivate Delayed Safety Awareness in Vision-Language Models](https://arxiv.org/abs/2506.15734)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/06] **[Efficient and Stealthy Jailbreak Attacks via Adversarial Prompt Distillation from LLMs to SLMs](https://arxiv.org/abs/2506.17231)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[LLM Jailbreak Oracle](https://arxiv.org/abs/2506.17299)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Security Assessment of DeepSeek and GPT Series Models against Jailbreak Attacks](https://arxiv.org/abs/2506.18543)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[InfoFlood: Jailbreaking Large Language Models with Information Overload](https://arxiv.org/abs/2506.12274)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Alphabet Index Mapping: Jailbreaking LLMs through Semantic Dissimilarity](https://arxiv.org/abs/2506.12685)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[SecurityLingua: Efficient Defense of LLM Jailbreak Attacks via Security-Aware Prompt Compression](https://arxiv.org/abs/2506.12707)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

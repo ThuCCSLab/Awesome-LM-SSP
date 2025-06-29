@@ -1,4 +1,8 @@
 # C2. Copyright
+- [2025/06] **[Multi-use LLM Watermarking and the False Detection Problem](https://arxiv.org/abs/2506.15975)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[A Nested Watermark for Large Language Models](https://arxiv.org/abs/2506.17308)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Blameless Users in a Clean Room: Defining Copyright Protection for Generative Models](https://arxiv.org/abs/2506.19881)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[CodeGuard: A Generalized and Stealthy Backdoor Watermarking for Generative Code Models](https://arxiv.org/abs/2506.20926)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[GaussMarker: Robust Dual-Domain Watermark for Diffusion Models](https://arxiv.org/abs/2506.11444)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/06] **[MEraser: An Effective Fingerprint Erasure Approach for Large Language Models](https://arxiv.org/abs/2506.12551)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Watermarking LLM-Generated Datasets in Downstream Tasks](https://arxiv.org/abs/2506.13494)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,6 @@
 # C0. General
+- [2025/06] **[PrivacyXray: Detecting Privacy Breaches in LLMs through Semantic Consistency and Probability Certainty](https://arxiv.org/abs/2506.19563)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)
+- [2025/06] **[Retrieval-Confused Generation is a Good Defender for Privacy Violation Attack of Large Language Models](https://arxiv.org/abs/2506.19889)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[SoK: The Privacy Paradox of Large Language Models: Advancements, Privacy Risks, and Mitigation](https://arxiv.org/abs/2506.12699)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers](https://arxiv.org/abs/2506.15674)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Private Memorization Editing: Turning Memorization into a Defense to Strengthen Data Privacy in Large Language Models](https://arxiv.org/abs/2506.10024)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'25](https://img.shields.io/badge/ACL'25-f1b800)

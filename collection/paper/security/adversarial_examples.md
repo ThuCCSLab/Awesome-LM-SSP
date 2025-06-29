@@ -1,6 +1,7 @@
 # B1. Adversarial Examples
+- [2025/06] **[Semantic-Preserving Adversarial Attacks on LLMs: An Adaptive Greedy Binary Search Approach](https://arxiv.org/abs/2506.18756)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Robustness in Both Domains: CLIP Needs a Robust Text Encoder](https://arxiv.org/abs/2506.03355)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/06] **[DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models](https://arxiv.org/abs/2506.03933)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
-- [2025/06] **[Robustness in Both Domains: CLIP Needs a Robust Text Encoder](https://arxiv.org/pdf/2506.03355?)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/06] **[The Security Threat of Compressed Projectors in Large Vision-Language Models](https://arxiv.org/abs/2506.00534)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/05] **[Disrupting Vision-Language Model-Driven Navigation Services via Adversarial Object Fusion](https://arxiv.org/abs/2505.23266)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/04] **[Embedding Hidden Adversarial Capabilities in Pre-Trained Diffusion Models ](https://arxiv.org/abs/2504.08782)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -30,7 +31,7 @@
 - [2024/07] **[SOS! Soft Prompt Attack Against Open-Source Large Language Models](https://arxiv.org/abs/2407.03160)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[Investigating and Defending Shortcut Learning in Personalized Diffusion Models](https://arxiv.org/abs/2406.18944)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/06] **[Adversarial Attacks on Multimodal Agents](https://arxiv.org/abs/2406.12814)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Agent](https://img.shields.io/badge/Agent-87b800)
-- [2024/05] **[Revisiting Character-level Adversarial Attacks for Language Models](https://arxiv.org/abs/2405.14646)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICML'24](https://img.shields.io/badge/ICML'24-f1b800) 
+- [2024/05] **[Revisiting Character-level Adversarial Attacks for Language Models](https://arxiv.org/abs/2405.14646)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICML'24](https://img.shields.io/badge/ICML'24-f1b800)
 - [2024/05] **[Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent](https://arxiv.org/abs/2405.20770)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2024/05] **[Unveiling the Achilles' Heel of NLG Evaluators: A Unified Adversarial Framework Driven by Large Language Models](https://arxiv.org/abs/2405.14646)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24_(Findings)](https://img.shields.io/badge/ACL'24_(Findings)-f1b800)
 - [2024/05] **[SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models](https://arxiv.org/abs/2405.08317)** ![SLM](https://img.shields.io/badge/SLM-39c5bb)

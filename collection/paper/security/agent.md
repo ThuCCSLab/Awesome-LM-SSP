@@ -1,4 +1,6 @@
 # B2. Agent
+- [2025/06] **[SHADE-Arena: Evaluating Sabotage and Monitoring in LLM Agents](https://arxiv.org/abs/2506.15740)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures](https://arxiv.org/abs/2506.19676)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2025/06] **[Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments](https://arxiv.org/abs/2506.13205)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/06] **[Doppelgänger Method: Breaking Role Consistency in LLM Agent via Prompt-based Transferable Adversarial Attack](https://arxiv.org/abs/2506.14539)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](https://arxiv.org/abs/2506.14697)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

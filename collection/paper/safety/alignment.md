@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2025/06] **[Probing the Robustness of Large Language Models Safety to Latent Perturbations](https://arxiv.org/abs/2506.16078)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Saffron-1: Towards an Inference Scaling Paradigm for LLM Safety Assurance](https://arxiv.org/abs/2506.06444)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt](https://arxiv.org/abs/2506.09353)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/zhangyitonggg/DAVSP) ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/06] **[Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://arxiv.org/abs/2506.03850)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICML'25](https://img.shields.io/badge/ICML'25-f1b800)

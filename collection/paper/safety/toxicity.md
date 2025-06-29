@@ -1,4 +1,5 @@
 # A8. Toxicity
+- [2025/06] **[PRISON: Unmasking the Criminal Potential of Large Language Models](https://arxiv.org/abs/2506.16150)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[GenBreak: Red Teaming Text-to-Image Generators Using Large Language Models](https://arxiv.org/abs/2506.10047)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/05] **[Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study](https://arxiv.org/abs/2505.15389)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/02] **[I know what you MEME! Understanding and Detecting Harmful Memes with Multimodal Large Language Models](https://www.ndss-symposium.org/ndss-paper/i-know-what-you-meme-understanding-and-detecting-harmful-memes-with-multimodal-large-language-models/)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)

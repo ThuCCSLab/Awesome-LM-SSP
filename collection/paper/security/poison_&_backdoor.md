@@ -1,4 +1,5 @@
 # B3. Poison & Backdoor
+- [2025/06] **[Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models ](https://arxiv.org/abs/2506.16447)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Bias Amplification in RAG: Poisoning Knowledge Retrieval to Steer LLMs](https://arxiv.org/abs/2506.11415)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Robust Anti-Backdoor Instruction Tuning in LVLMs](https://arxiv.org/abs/2506.05401)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/06] **[Joint-GCG: Unified Gradient-Based Poisoning Attacks on Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2506.06151)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

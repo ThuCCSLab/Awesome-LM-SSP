@@ -8,7 +8,7 @@
 - [2025/06] **[Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures](https://arxiv.org/abs/2506.07402)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[From Threat to Tool: Leveraging Refusal-Aware Injection Attacks for Safety Alignment](https://arxiv.org/abs/2506.10020)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[LLMs Caught in the Crossfire: Malware Requests and Jailbreak Challenges ](https://arxiv.org/abs/2506.10022)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'25](https://img.shields.io/badge/ACL'25-f1b800)
-- [2025/06] **[SoK: Evaluating Jailbreak Guardrails for Large Language Models](https://arxiv.org/abs/2506.10597)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[SoK: Evaluating Jailbreak Guardrails for Large Language Models](https://arxiv.org/abs/2506.10597)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2025/06] **[Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors](https://arxiv.org/abs/2506.10949)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Con Instruction: Universal Jailbreaking of Multimodal Large Language Models via Non-Textual Modalities](https://arxiv.org/abs/2506.00548)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Align is not Enough: Multimodal Universal Jailbreak Attack against Multimodal Large Language Models](https://arxiv.org/abs/2506.01307)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

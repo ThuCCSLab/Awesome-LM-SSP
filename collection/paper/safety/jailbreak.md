@@ -1,4 +1,8 @@
 # A1. Jailbreak
+- [2025/06] **[Advancing Jailbreak Strategies: A Hybrid Approach to Exploiting LLM Vulnerabilities and Bypassing Modern Defenses](https://arxiv.org/abs/2506.21972)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[MetaCipher: A General and Extensible Reinforcement Learning Framework for Obfuscation-Based Jailbreak Attacks on Black-Box LLMs](https://arxiv.org/abs/2506.22557)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[VERA: Variational Inference Framework for Jailbreaking Large Language Models](https://arxiv.org/abs/2506.22666)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Logit-Gap Steering: Efficient Short-Suffix Jailbreaks for Aligned Large Language Models](https://arxiv.org/abs/2506.24056)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[The Safety Reminder: A Soft Prompt to Reactivate Delayed Safety Awareness in Vision-Language Models](https://arxiv.org/abs/2506.15734)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/06] **[Efficient and Stealthy Jailbreak Attacks via Adversarial Prompt Distillation from LLMs to SLMs](https://arxiv.org/abs/2506.17231)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[LLM Jailbreak Oracle](https://arxiv.org/abs/2506.17299)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

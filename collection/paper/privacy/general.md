@@ -10,6 +10,7 @@
 - [2025/05] **[Automated Profile Inference with Language Model Agents](https://arxiv.org/abs/2505.12402)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[A Survey on Privacy Risks and Protection in Large Language Models](https://arxiv.org/abs/2505.01976)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model](https://arxiv.org/abs/2504.19373)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/03] **[AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents](https://arxiv.org/abs/2503.09780)** ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/02] **[The Canary's Echo: Auditing Privacy Risks of LLM-Generated Synthetic Text](https://arxiv.org/abs/2502.14921)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[A General Pseudonymization Framework for Cloud-Based LLMs: Replacing Privacy Information in Controlled Text Generation](https://arxiv.org/abs/2502.15233)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[Unveiling Privacy Risks in LLM Agent Memory](https://arxiv.org/abs/2502.13172)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,6 @@
 # C6. Privacy-Preserving Computation
+- [2025/07] **[FlashDP: Private Training Large Language Models with Efficient DP-SGD](https://arxiv.org/abs/2507.01154)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[PAE MobiLLM: Privacy-Aware and Efficient LLM Fine-Tuning on the Mobile Device via Additive Side-Tuning](https://arxiv.org/abs/2507.01216)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases](https://arxiv.org/abs/2506.17336)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Differential Privacy in Machine Learning: From Symbolic AI to LLMs](https://arxiv.org/abs/2506.11687)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model](https://arxiv.org/abs/2506.05640)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,9 @@
 # A1. Jailbreak
+- [2025/07] **[Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection](https://arxiv.org/abs/2507.02844)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/07] **[PII Jailbreaking in LLMs via Activation Steering Reveals Personal Information Leakage](https://arxiv.org/abs/2507.02332)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[AutoAdv: Automated Adversarial Prompting for Multi-Turn Jailbreaking of Large Language Models](https://arxiv.org/abs/2507.01020)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism](https://arxiv.org/abs/2507.01513)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/07] **[SafeMobile: Chain-level Jailbreak Detection and Automated Evaluation for Multimodal Mobile Agents](https://arxiv.org/abs/2507.00841)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/06] **[Advancing Jailbreak Strategies: A Hybrid Approach to Exploiting LLM Vulnerabilities and Bypassing Modern Defenses](https://arxiv.org/abs/2506.21972)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[MetaCipher: A General and Extensible Reinforcement Learning Framework for Obfuscation-Based Jailbreak Attacks on Black-Box LLMs](https://arxiv.org/abs/2506.22557)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[VERA: Variational Inference Framework for Jailbreaking Large Language Models](https://arxiv.org/abs/2506.22666)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

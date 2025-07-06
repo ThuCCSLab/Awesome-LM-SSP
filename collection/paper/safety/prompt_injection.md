@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2025/07] **[Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks](https://arxiv.org/abs/2507.02735)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Sentinel: SOTA model to protect against prompt injections](https://arxiv.org/abs/2506.05446)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[To Protect the LLM Agent Against the Prompt Injection Attack with Polymorphic Prompt](https://arxiv.org/abs/2506.05739)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge](https://arxiv.org/abs/2506.09956)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Dataset](https://img.shields.io/badge/Dataset-87b800)

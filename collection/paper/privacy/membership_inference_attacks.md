@@ -17,7 +17,7 @@
 - [2024/12] **[LUMIA: Linear probing for Unimodal and MultiModal Membership Inference Attacks leveraging internal LLM states](https://arxiv.org/abs/2411.19876)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[On the Privacy Risk of In-context Learning](https://arxiv.org/abs/2411.10512)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Membership Inference Attacks against Large Vision-Language Models](https://arxiv.org/abs/2411.02902)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![NeurIPS'24](https://img.shields.io/badge/NeurIPS'24-f1b800)
-- [2024/10] **[Scaling Up Membership Inference: When and How Attacks Succeed on Large Language Models](https://aclanthology.org/2025.findings-naacl.234/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NAACL'25 Findings](https://img.shields.io/badge/NAACL'25%20Findings-f1b800)
+- [2024/10] **[Scaling Up Membership Inference: When and How Attacks Succeed on Large Language Models](https://aclanthology.org/2025.findings-naacl.234)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NAACL'25_Findings](https://img.shields.io/badge/NAACL'25_Findings-f1b800)
 - [2024/10] **[Mask-based Membership Inference Attacks for Retrieval-Augmented Generation](https://arxiv.org/abs/2410.20142)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2024/10] **[PSY: Posterior Sampling Based Privacy Enhancer in Large Language Models](https://arxiv.org/abs/2410.18824)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[Identity-Focused Inference and Extraction Attacks on Diffusion Models](https://arxiv.org/abs/2410.10177)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

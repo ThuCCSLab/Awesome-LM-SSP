@@ -1,4 +1,5 @@
 # B2. Agent
+- [2025/07] **[Control at Stake: Evaluating the Security Landscape of LLM-Driven Email Agents](https://arxiv.org/abs/2507.02699)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows](https://arxiv.org/abs/2506.23260)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[A Large-Scale Evolvable Dataset for Model Context Protocol Ecosystem and Security Analysis](https://arxiv.org/abs/2506.23474)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[SHADE-Arena: Evaluating Sabotage and Monitoring in LLM Agents](https://arxiv.org/abs/2506.15740)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

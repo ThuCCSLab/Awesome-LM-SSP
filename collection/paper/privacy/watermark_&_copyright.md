@@ -1,4 +1,6 @@
-# C2. Copyright
+# C9. Watermark & Copyright
+- [2025/07] **[Mitigating Watermark Stealing Attacks in Generative Models via Multi-Key Watermarking](https://arxiv.org/abs/2507.07871)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[Invariant-based Robust Weights Watermark for Large Language Models](https://arxiv.org/abs/2507.08288)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Multi-use LLM Watermarking and the False Detection Problem](https://arxiv.org/abs/2506.15975)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[A Nested Watermark for Large Language Models](https://arxiv.org/abs/2506.17308)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Blameless Users in a Clean Room: Defining Copyright Protection for Generative Models](https://arxiv.org/abs/2506.19881)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

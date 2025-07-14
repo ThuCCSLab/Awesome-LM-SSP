@@ -1,4 +1,6 @@
 # A7. Prompt Injection
+- [2025/07] **[May I have your Attention? Breaking Fine-Tuning based Prompt Injection Defenses using Architecture-Aware Attacks](https://arxiv.org/abs/2507.07417)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[Defending Against Prompt Injection With a Few DefensiveTokens](https://arxiv.org/abs/2507.07974)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/07] **[Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks](https://arxiv.org/abs/2507.02735)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Sentinel: SOTA model to protect against prompt injections](https://arxiv.org/abs/2506.05446)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[To Protect the LLM Agent Against the Prompt Injection Attack with Polymorphic Prompt](https://arxiv.org/abs/2506.05739)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

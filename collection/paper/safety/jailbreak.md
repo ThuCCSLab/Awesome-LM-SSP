@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2025/07] **[GuardVal: Dynamic Large Language Model Jailbreak Evaluation for Comprehensive Safety Testing](https://arxiv.org/abs/2507.07735)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection](https://arxiv.org/abs/2507.02844)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/07] **[PII Jailbreaking in LLMs via Activation Steering Reveals Personal Information Leakage](https://arxiv.org/abs/2507.02332)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[AutoAdv: Automated Adversarial Prompting for Multi-Turn Jailbreaking of Large Language Models](https://arxiv.org/abs/2507.01020)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

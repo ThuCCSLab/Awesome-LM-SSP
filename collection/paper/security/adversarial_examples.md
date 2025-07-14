@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2025/07] **[Adaptive Diffusion Denoised Smoothing : Certified Robustness via Randomized Smoothing with Differentially Private Guided Denoising Diffusion](https://arxiv.org/abs/2507.08163)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/06] **[Semantic-Preserving Adversarial Attacks on LLMs: An Adaptive Greedy Binary Search Approach](https://arxiv.org/abs/2506.18756)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Robustness in Both Domains: CLIP Needs a Robust Text Encoder](https://arxiv.org/abs/2506.03355)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/06] **[DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models](https://arxiv.org/abs/2506.03933)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

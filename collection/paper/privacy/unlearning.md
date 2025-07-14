@@ -1,4 +1,4 @@
-# C9. Unlearning
+# C8. Unlearning
 - [2025/06] **[Step-by-Step Reasoning Attack: Revealing 'Erased' Knowledge in Large Language Models](https://arxiv.org/abs/2506.17279)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[UCD: Unlearning in LLMs via Contrastive Decoding](https://arxiv.org/abs/2506.12097)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[LLM Unlearning Should Be Form-Independent](https://arxiv.org/abs/2506.07795)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

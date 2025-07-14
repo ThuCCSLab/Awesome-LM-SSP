@@ -1,4 +1,8 @@
-# C9. Watermark & Copyright
+# C10. Watermark & Copyright
+- [2025/07] **[Intrinsic Fingerprint of LLMs: Continue Training is NOT All You Need to Steal A Model!](https://arxiv.org/abs/2507.03014)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[When There Is No Decoder: Removing Watermarks from Stable Diffusion Models in a No-box Setting](https://arxiv.org/abs/2507.03646)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/07] **[Disappearing Ink: Obfuscation Breaks N-gram Code Watermarks in Theory and Practice](https://arxiv.org/abs/2507.05512)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[Enhancing LLM Watermark Resilience Against Both Scrubbing and Spoofing Attacks](https://arxiv.org/abs/2507.06274)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Mitigating Watermark Stealing Attacks in Generative Models via Multi-Key Watermarking](https://arxiv.org/abs/2507.07871)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Invariant-based Robust Weights Watermark for Large Language Models](https://arxiv.org/abs/2507.08288)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Multi-use LLM Watermarking and the False Detection Problem](https://arxiv.org/abs/2506.15975)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

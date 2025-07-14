@@ -1,4 +1,7 @@
 # B2. Agent
+- [2025/07] **[Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties](https://arxiv.org/abs/2507.04227)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems](https://arxiv.org/abs/2507.06250)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover](https://arxiv.org/abs/2507.06850)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Agent Safety Alignment via Reinforcement Learning](https://arxiv.org/abs/2507.08270)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Control at Stake: Evaluating the Security Landscape of LLM-Driven Email Agents](https://arxiv.org/abs/2507.02699)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows](https://arxiv.org/abs/2506.23260)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

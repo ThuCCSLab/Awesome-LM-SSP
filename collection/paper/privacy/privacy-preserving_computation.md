@@ -1,4 +1,6 @@
-# C5. Privacy-Preserving Computation
+# C6. Privacy-Preserving Computation
+- [2025/07] **[InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy](https://arxiv.org/abs/2507.02974)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[Cascade: Token-Sharded Private LLM Inference](https://arxiv.org/abs/2507.05228)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[FlashDP: Private Training Large Language Models with Efficient DP-SGD](https://arxiv.org/abs/2507.01154)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[PAE MobiLLM: Privacy-Aware and Efficient LLM Fine-Tuning on the Mobile Device via Additive Side-Tuning](https://arxiv.org/abs/2507.01216)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases](https://arxiv.org/abs/2506.17336)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

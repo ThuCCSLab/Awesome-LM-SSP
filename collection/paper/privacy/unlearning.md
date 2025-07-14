@@ -1,4 +1,5 @@
-# C8. Unlearning
+# C9. Unlearning
+- [2025/07] **[Image Can Bring Your Memory Back: A Novel Multi-Modal Guided Attack against Image Generation Model Unlearning](https://arxiv.org/abs/2507.07139)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/06] **[Step-by-Step Reasoning Attack: Revealing 'Erased' Knowledge in Large Language Models](https://arxiv.org/abs/2506.17279)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[UCD: Unlearning in LLMs via Contrastive Decoding](https://arxiv.org/abs/2506.12097)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[LLM Unlearning Should Be Form-Independent](https://arxiv.org/abs/2506.07795)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

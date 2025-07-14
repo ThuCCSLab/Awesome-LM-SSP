@@ -1,4 +1,8 @@
 # A2. Alignment
+- [2025/07] **[TuneShield: Mitigating Toxicity in Conversational AI while Fine-tuning on Untrusted Data](https://arxiv.org/abs/2507.05660)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2025/07] **[Emergent misalignment as prompt sensitivity: A research note](https://arxiv.org/abs/2507.06253)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[LoRAShield: Data-Free Editing Alignment for Secure Personalized LoRA Sharing](https://arxiv.org/abs/2507.07056)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/07] **[On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment](https://arxiv.org/abs/2507.07341)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Probing the Robustness of Large Language Models Safety to Latent Perturbations](https://arxiv.org/abs/2506.16078)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Saffron-1: Towards an Inference Scaling Paradigm for LLM Safety Assurance](https://arxiv.org/abs/2506.06444)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt](https://arxiv.org/abs/2506.09353)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/zhangyitonggg/DAVSP) ![VLM](https://img.shields.io/badge/VLM-c7688b)

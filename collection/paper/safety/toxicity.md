@@ -1,4 +1,5 @@
 # A8. Toxicity
+- [2025/07] **[Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities](https://arxiv.org/abs/2507.11155)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)
 - [2025/06] **[PRISON: Unmasking the Criminal Potential of Large Language Models](https://arxiv.org/abs/2506.16150)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[GenBreak: Red Teaming Text-to-Image Generators Using Large Language Models](https://arxiv.org/abs/2506.10047)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/05] **[Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study](https://arxiv.org/abs/2505.15389)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

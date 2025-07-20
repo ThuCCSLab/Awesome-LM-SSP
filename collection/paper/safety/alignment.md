@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2025/07] **[ARMOR: Aligning Secure and Safe Large Language Models via Meticulous Reasoning](https://arxiv.org/abs/2507.11500)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[TuneShield: Mitigating Toxicity in Conversational AI while Fine-tuning on Untrusted Data](https://arxiv.org/abs/2507.05660)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/07] **[Emergent misalignment as prompt sensitivity: A research note](https://arxiv.org/abs/2507.06253)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[LoRAShield: Data-Free Editing Alignment for Secure Personalized LoRA Sharing](https://arxiv.org/abs/2507.07056)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

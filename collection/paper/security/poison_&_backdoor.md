@@ -1,4 +1,8 @@
 # B3. Poison & Backdoor
+- [2025/07] **[RAG Safety: Exploring Knowledge Poisoning Attacks to Retrieval-Augmented Generation](https://arxiv.org/abs/2507.08862)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2025/07] **[Multi-Trigger Poisoning Amplifies Backdoor Vulnerabilities in LLMs](https://arxiv.org/abs/2507.11112)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[When and Where do Data Poisons Attack Textual Inversion?](https://arxiv.org/abs/2507.10578)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/07] **[Thought Purity: Defense Paradigm For Chain-of-Thought Attack](https://arxiv.org/abs/2507.12314)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[ICLShield: Exploring and Mitigating In-Context Learning Backdoor Attacks](https://arxiv.org/abs/2507.01321)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICML'25](https://img.shields.io/badge/ICML'25-f1b800)
 - [2025/06] **[On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling](https://arxiv.org/abs/2506.21874)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/06] **[Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models ](https://arxiv.org/abs/2506.16447)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

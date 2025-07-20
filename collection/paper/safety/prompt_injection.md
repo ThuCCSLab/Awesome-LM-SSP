@@ -1,4 +1,6 @@
 # A7. Prompt Injection
+- [2025/07] **[MAD-Spear: A Conformity-Driven Prompt Injection Attack on Multi-Agent Debate Systems](https://arxiv.org/abs/2507.13038)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[Prompt Injection 2.0: Hybrid AI Threats](https://arxiv.org/abs/2507.13169)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[How Not to Detect Prompt Injections with an LLM](https://arxiv.org/abs/2507.05630)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[May I have your Attention? Breaking Fine-Tuning based Prompt Injection Defenses using Architecture-Aware Attacks](https://arxiv.org/abs/2507.07417)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Defending Against Prompt Injection With a Few DefensiveTokens](https://arxiv.org/abs/2507.07974)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)

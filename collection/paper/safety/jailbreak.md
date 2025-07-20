@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2025/07] **[Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility](https://arxiv.org/abs/2507.11630)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[Exploiting Jailbreaking Vulnerabilities in Generative AI to Bypass Ethical Safeguards for Facilitating Phishing Attacks ](https://arxiv.org/abs/2507.12185)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[A Representation Engineering Perspective on the Effectiveness of Multi-Turn Jailbreaks](https://arxiv.org/abs/2507.02956)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[On Jailbreaking Quantized Language Models Through Fault Injection Attacks](https://arxiv.org/abs/2507.03236)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Attention Slipping: A Mechanistic Understanding of Jailbreak Attacks and Defenses in LLMs](https://arxiv.org/abs/2507.04365)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

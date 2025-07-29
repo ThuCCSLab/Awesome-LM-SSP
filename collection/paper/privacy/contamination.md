@@ -1,4 +1,5 @@
 # C1. Contamination
+- [2025/05] **[How Can I Publish My LLM Benchmark Without Giving the True Answers Away?](https://arxiv.org/abs/2505.18102)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/06] **[LiveBench: A Challenging, Contamination-Free LLM Benchmark](https://arxiv.org/abs/2406.19314)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/06] **[VarBench: Robust Language Model Benchmarking Through Dynamic Variable Perturbation](https://arxiv.org/abs/2406.17681)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/06] **[Benchmark Data Contamination of Large Language Models: A Survey](https://arxiv.org/abs/2406.04244v1)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)

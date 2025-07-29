@@ -1,4 +1,6 @@
 # C6. Privacy-Preserving Computation
+- [2025/07] **[Threshold-Protected Searchable Sharing: Privacy Preserving Aggregated-ANN Search for Collaborative RAG](https://arxiv.org/abs/2507.17199)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[Distilled Large Language Model in Confidential Computing Environment for System-on-Chip Design](https://arxiv.org/abs/2507.16226)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy](https://arxiv.org/abs/2507.02974)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Cascade: Token-Sharded Private LLM Inference](https://arxiv.org/abs/2507.05228)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[FlashDP: Private Training Large Language Models with Efficient DP-SGD](https://arxiv.org/abs/2507.01154)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

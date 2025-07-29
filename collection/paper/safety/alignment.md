@@ -1,4 +1,6 @@
 # A2. Alignment
+- [2025/07] **[Text2VLM: Adapting Text-Only Datasets to Evaluate Alignment Training in Visual Language Models](https://arxiv.org/abs/2507.20704)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/07] **[Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment](https://arxiv.org/abs/2507.18631)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[ARMOR: Aligning Secure and Safe Large Language Models via Meticulous Reasoning](https://arxiv.org/abs/2507.11500)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[TuneShield: Mitigating Toxicity in Conversational AI while Fine-tuning on Untrusted Data](https://arxiv.org/abs/2507.05660)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/07] **[Emergent misalignment as prompt sensitivity: A research note](https://arxiv.org/abs/2507.06253)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

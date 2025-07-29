@@ -1,4 +1,6 @@
 # A3. Deepfake
+- [2025/07] **[AEDR: Training-Free AI-Generated Image Attribution via Autoencoder Double-Reconstruction](https://arxiv.org/abs/2507.18988)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/07] **[Towards Trustworthy AI: Secure Deepfake Detection using CNNs and Zero-Knowledge Proofs](https://arxiv.org/abs/2507.17010)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/07] **[LAID: Lightweight AI-Generated Image Detection in Spatial and Spectral Domains](https://arxiv.org/abs/2507.05162)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/06] **[Identity Deepfake Threats to Biometric Authentication Systems: Public and Expert Perspectives](https://arxiv.org/abs/2506.06825)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/06] **[GradEscape: A Gradient-Based Evader Against AI-Generated Text Detectors](https://arxiv.org/abs/2506.08188)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)

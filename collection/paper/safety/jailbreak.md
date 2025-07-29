@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2025/07] **[MOCHA: Are Code Language Models Robust Against Multi-Turn Malicious Coding Prompts?](https://arxiv.org/abs/2507.19598)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/abs/2507.16329)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/07] **[Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility](https://arxiv.org/abs/2507.11630)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Exploiting Jailbreaking Vulnerabilities in Generative AI to Bypass Ethical Safeguards for Facilitating Phishing Attacks ](https://arxiv.org/abs/2507.12185)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[A Representation Engineering Perspective on the Effectiveness of Multi-Turn Jailbreaks](https://arxiv.org/abs/2507.02956)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

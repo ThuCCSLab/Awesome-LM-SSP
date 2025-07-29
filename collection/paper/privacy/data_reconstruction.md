@@ -1,4 +1,5 @@
 # C2. Data Reconstruction
+- [2025/07] **[Model Inversion Attacks on Llama 3: Extracting PII from Large Language Models](https://arxiv.org/abs/2507.04478)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[System Prompt Extraction Attacks and Defenses in Large Language Models](https://arxiv.org/abs/2505.23817)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries](https://arxiv.org/abs/2505.15420)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/05] **[ProxyPrompt: Securing System Prompts against Prompt Extraction Attacks](https://arxiv.org/abs/2505.11459)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

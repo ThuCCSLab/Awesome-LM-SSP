@@ -1,4 +1,7 @@
 # C4. Membership Inference Attacks
+- [2025/07] **[LoRA-Leak: Membership Inference Attacks Against LoRA Fine-tuned Language Models](https://arxiv.org/abs/2507.18302)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[CompLeak: Deep Learning Model Compression Exacerbates Privacy Leakage](https://arxiv.org/abs/2507.16872)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[Tab-MIA: A Benchmark Dataset for Membership Inference Attacks on Tabular Data in LLMs](https://arxiv.org/abs/2507.17259)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[SoK: Can Synthetic Images Replace Real Data? A Survey of Utility and Privacy of Synthetic Image Generation](https://arxiv.org/abs/2506.19360)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)
 - [2025/06] **[Leaner Training, Lower Leakage: Revisiting Memorization in LLM Fine-Tuning with LoRA](https://arxiv.org/abs/2506.20856)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Image Corruption-Inspired Membership Inference Attacks against Large Vision-Language Models](https://arxiv.org/abs/2506.12340)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2025/07] **[SDD: Self-Degraded Defense against Malicious Fine-tuning](https://arxiv.org/abs/2507.21182)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Text2VLM: Adapting Text-Only Datasets to Evaluate Alignment Training in Visual Language Models](https://arxiv.org/abs/2507.20704)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/07] **[Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment](https://arxiv.org/abs/2507.18631)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[ARMOR: Aligning Secure and Safe Large Language Models via Meticulous Reasoning](https://arxiv.org/abs/2507.11500)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

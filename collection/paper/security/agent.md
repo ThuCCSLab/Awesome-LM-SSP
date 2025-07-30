@@ -1,4 +1,6 @@
 # B2. Agent
+- [2025/07] **[Privacy Artifact ConnecTor (PACT): Embedding Enterprise Artifacts for Compliance AI Agents](https://arxiv.org/abs/2507.21142)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[Towards Unifying Quantitative Security Benchmarking for Multi Agent Systems](https://arxiv.org/abs/2507.21146)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Trivial Trojans: How Minimal MCP Servers Enable Cross-Tool Exfiltration of Sensitive Data](https://arxiv.org/abs/2507.19880)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](https://arxiv.org/abs/2507.10610)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/07] **[Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties](https://arxiv.org/abs/2507.04227)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

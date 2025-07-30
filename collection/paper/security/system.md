@@ -1,4 +1,5 @@
 # B4. System
+- [2025/07] **[Security practices in AI development](https://arxiv.org/abs/2507.21061)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Understanding the Supply Chain and Risks of Large Language Model Applications](https://arxiv.org/abs/2507.18105)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[ExtendAttack: Attacking Servers of LRMs via Extending Reasoning](https://arxiv.org/abs/2506.13737)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[LingoLoop Attack: Trapping MLLMs via Linguistic Context and State Entrapment into Endless Loops](https://arxiv.org/abs/2506.14493)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

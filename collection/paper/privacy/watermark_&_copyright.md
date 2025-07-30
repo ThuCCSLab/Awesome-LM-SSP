@@ -1,4 +1,5 @@
 # C10. Watermark & Copyright
+- [2025/07] **[MaXsive: High-Capacity and Robust Training-Free Generative Image Watermarking in Diffusion Models ](https://arxiv.org/abs/2507.21195)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/07] **[Intrinsic Fingerprint of LLMs: Continue Training is NOT All You Need to Steal A Model!](https://arxiv.org/abs/2507.03014)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[When There Is No Decoder: Removing Watermarks from Stable Diffusion Models in a No-box Setting](https://arxiv.org/abs/2507.03646)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/07] **[Disappearing Ink: Obfuscation Breaks N-gram Code Watermarks in Theory and Practice](https://arxiv.org/abs/2507.05512)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2025/07] **[OneShield -- the Next Generation of LLM Guardrails](https://arxiv.org/abs/2507.21170)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[PRISM: Programmatic Reasoning with Image Sequence Manipulation for LVLM Jailbreaking](https://arxiv.org/abs/2507.21540)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/07] **[MOCHA: Are Code Language Models Robust Against Multi-Turn Malicious Coding Prompts?](https://arxiv.org/abs/2507.19598)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/abs/2507.16329)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/07] **[Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility](https://arxiv.org/abs/2507.11630)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

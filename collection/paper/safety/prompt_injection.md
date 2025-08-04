@@ -1,4 +1,7 @@
 # A7. Prompt Injection
+- [2025/08] **[LeakSealer: A Semisupervised Defense for LLMs Against Prompt Injection and Leakage Attack](https://arxiv.org/abs/2508.00602)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[Counterfactual Evaluation for Blind Attack Detection in LLM-based Evaluation Systems](https://arxiv.org/abs/2507.23453)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[Invisible Injections: Exploiting Vision-Language Models Through Steganographic Prompt Embedding](https://arxiv.org/abs/2507.22304)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/07] **[MAD-Spear: A Conformity-Driven Prompt Injection Attack on Multi-Agent Debate Systems](https://arxiv.org/abs/2507.13038)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Prompt Injection 2.0: Hybrid AI Threats](https://arxiv.org/abs/2507.13169)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[How Not to Detect Prompt Injections with an LLM](https://arxiv.org/abs/2507.05630)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

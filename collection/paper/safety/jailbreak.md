@@ -1,4 +1,7 @@
 # A1. Jailbreak
+- [2025/08] **[Activation-Guided Local Editing for Jailbreaking Attacks](https://arxiv.org/abs/2508.00555)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[Enhancing Jailbreak Attacks on LLMs via Persona Prompts](https://arxiv.org/abs/2507.22171)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/07] **[Strategic Deflection: Defending LLMs from Logit Manipulation](https://arxiv.org/abs/2507.22160)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[OneShield -- the Next Generation of LLM Guardrails](https://arxiv.org/abs/2507.21170)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[PRISM: Programmatic Reasoning with Image Sequence Manipulation for LVLM Jailbreaking](https://arxiv.org/abs/2507.21540)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/07] **[MOCHA: Are Code Language Models Robust Against Multi-Turn Malicious Coding Prompts?](https://arxiv.org/abs/2507.19598)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

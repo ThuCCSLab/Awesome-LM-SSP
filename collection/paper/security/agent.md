@@ -1,4 +1,5 @@
 # B2. Agent
+- [2025/07] **[From Cloud-Native to Trust-Native: A Protocol for Verifiable Multi-Agent Systems](https://arxiv.org/abs/2507.22077)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Privacy Artifact ConnecTor (PACT): Embedding Enterprise Artifacts for Compliance AI Agents](https://arxiv.org/abs/2507.21142)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Towards Unifying Quantitative Security Benchmarking for Multi Agent Systems](https://arxiv.org/abs/2507.21146)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Trivial Trojans: How Minimal MCP Servers Enable Cross-Tool Exfiltration of Sensitive Data](https://arxiv.org/abs/2507.19880)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

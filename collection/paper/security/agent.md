@@ -1,4 +1,8 @@
 # B2. Agent
+- [2025/08] **[Measuring Harmfulness of Computer-Using Agents](https://arxiv.org/abs/2508.00935)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection](https://arxiv.org/abs/2508.01249)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[BlockA2A: Towards Secure and Verifiable Agent-to-Agent Interoperability](https://arxiv.org/abs/2508.01332)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Whispering Agents: An event-driven covert communication protocol for the Internet of Agents ](https://arxiv.org/abs/2508.02188)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[From Cloud-Native to Trust-Native: A Protocol for Verifiable Multi-Agent Systems](https://arxiv.org/abs/2507.22077)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Privacy Artifact ConnecTor (PACT): Embedding Enterprise Artifacts for Compliance AI Agents](https://arxiv.org/abs/2507.21142)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Towards Unifying Quantitative Security Benchmarking for Multi Agent Systems](https://arxiv.org/abs/2507.21146)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

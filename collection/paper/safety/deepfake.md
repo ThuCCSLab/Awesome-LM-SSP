@@ -1,4 +1,5 @@
 # A3. Deepfake
+- [2025/08] **[Complete Evasion, Zero Modification: PDF Attacks on AI Text Detection](https://arxiv.org/abs/2508.01887)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Unmasking Synthetic Realities in Generative AI: A Comprehensive Review of Adversarially Robust Deepfake Detection Systems](https://arxiv.org/abs/2507.21157)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/07] **[AEDR: Training-Free AI-Generated Image Attribution via Autoencoder Double-Reconstruction](https://arxiv.org/abs/2507.18988)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/07] **[Towards Trustworthy AI: Secure Deepfake Detection using CNNs and Zero-Knowledge Proofs](https://arxiv.org/abs/2507.17010)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2025/08] **[PUZZLED: Jailbreaking LLMs through Word-Based Puzzles](https://arxiv.org/abs/2508.01306)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Activation-Guided Local Editing for Jailbreaking Attacks](https://arxiv.org/abs/2508.00555)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Enhancing Jailbreak Attacks on LLMs via Persona Prompts](https://arxiv.org/abs/2507.22171)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Strategic Deflection: Defending LLMs from Logit Manipulation](https://arxiv.org/abs/2507.22160)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

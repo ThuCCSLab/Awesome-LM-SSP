@@ -1,4 +1,9 @@
 # B3. Poison & Backdoor
+- [2025/08] **[Provably Secure Retrieval-Augmented Generation](https://arxiv.org/abs/2508.01084)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2025/08] **[ConfGuard: A Simple and Effective Backdoor Detection for Large Language Models](https://arxiv.org/abs/2508.01365)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Practical, Generalizable and Robust Backdoor Attacks on Text-to-Image Diffusion Models](https://arxiv.org/abs/2508.01605)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/08] **[DUP: Detection-guided Unlearning for Backdoor Purification in Language Models](https://arxiv.org/abs/2508.01647)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[A Survey on Data Security in Large Language Models](https://arxiv.org/abs/2508.02312)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[RAG Safety: Exploring Knowledge Poisoning Attacks to Retrieval-Augmented Generation](https://arxiv.org/abs/2507.08862)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/07] **[Multi-Trigger Poisoning Amplifies Backdoor Vulnerabilities in LLMs](https://arxiv.org/abs/2507.11112)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[When and Where do Data Poisons Attack Textual Inversion?](https://arxiv.org/abs/2507.10578)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

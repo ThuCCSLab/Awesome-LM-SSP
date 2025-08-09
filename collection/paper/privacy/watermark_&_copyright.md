@@ -1,4 +1,5 @@
 # C10. Watermark & Copyright
+- [2025/08] **[Majority Bit-Aware Watermarking For Large Language Models](https://arxiv.org/abs/2508.03829)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[RouteMark: A Fingerprint for Intellectual Property Attribution in Routing-based Model Merging](https://arxiv.org/abs/2508.01784)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[FPEdit: Robust LLM Fingerprinting through Localized Knowledge Editing](https://arxiv.org/abs/2508.02092)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[MaXsive: High-Capacity and Robust Training-Free Generative Image Watermarking in Diffusion Models ](https://arxiv.org/abs/2507.21195)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

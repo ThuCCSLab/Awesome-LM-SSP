@@ -1,4 +1,6 @@
 # B2. Agent
+- [2025/08] **[PentestJudge: Judging Agent Behavior Against Operational Requirements](https://arxiv.org/abs/2508.02921)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Agentic Privacy-Preserving Machine Learning](https://arxiv.org/abs/2508.02836)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Measuring Harmfulness of Computer-Using Agents](https://arxiv.org/abs/2508.00935)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection](https://arxiv.org/abs/2508.01249)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[BlockA2A: Towards Secure and Verifiable Agent-to-Agent Interoperability](https://arxiv.org/abs/2508.01332)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

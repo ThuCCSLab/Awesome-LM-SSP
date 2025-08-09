@@ -1,4 +1,5 @@
 # B3. Poison & Backdoor
+- [2025/08] **[BadBlocks: Low-Cost and Stealthy Backdoor Attacks Tailored for Text-to-Image Diffusion Models](https://arxiv.org/abs/2508.03221)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/08] **[Provably Secure Retrieval-Augmented Generation](https://arxiv.org/abs/2508.01084)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/08] **[ConfGuard: A Simple and Effective Backdoor Detection for Large Language Models](https://arxiv.org/abs/2508.01365)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Practical, Generalizable and Robust Backdoor Attacks on Text-to-Image Diffusion Models](https://arxiv.org/abs/2508.01605)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

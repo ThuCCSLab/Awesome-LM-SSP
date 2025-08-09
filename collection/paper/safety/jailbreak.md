@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2025/08] **[Large Reasoning Models Are Autonomous Jailbreak Agents](https://arxiv.org/abs/2508.04039)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[JPS: Jailbreak Multimodal Large Language Models with Collaborative Visual Perturbation and Textual Steering](https://arxiv.org/abs/2508.05087)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![MM'25](https://img.shields.io/badge/MM'25-f1b800)
 - [2025/08] **[PUZZLED: Jailbreaking LLMs through Word-Based Puzzles](https://arxiv.org/abs/2508.01306)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Activation-Guided Local Editing for Jailbreaking Attacks](https://arxiv.org/abs/2508.00555)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Enhancing Jailbreak Attacks on LLMs via Persona Prompts](https://arxiv.org/abs/2507.22171)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

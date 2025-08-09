@@ -1,4 +1,5 @@
 # A6. Hallucination
+- [2025/08] **[Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination](https://arxiv.org/abs/2508.05188)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[When Thinking LLMs Lie: Unveiling the Strategic Deception in Representations of Reasoning Models](https://arxiv.org/abs/2506.04909)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Diverging Towards Hallucination: Detection of Failures in Vision-Language Models via Multi-token Aggregation](https://arxiv.org/abs/2505.11741)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/11] **[I'm Spartacus, No, I'm Spartacus: Measuring and Understanding LLM Identity Confusion](https://arxiv.org/abs/2411.10683)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

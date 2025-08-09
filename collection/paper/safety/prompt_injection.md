@@ -1,4 +1,6 @@
 # A7. Prompt Injection
+- [2025/08] **[Prompt Injection Vulnerability of Consensus Generating Applications in Digital Democracy](https://arxiv.org/abs/2508.04281)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[PLA: Prompt Learning Attack against Text-to-Image Generative Models](https://arxiv.org/abs/2508.03696)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICCV'25](https://img.shields.io/badge/ICCV'25-f1b800)
 - [2025/08] **[LeakSealer: A Semisupervised Defense for LLMs Against Prompt Injection and Leakage Attack](https://arxiv.org/abs/2508.00602)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Counterfactual Evaluation for Blind Attack Detection in LLM-based Evaluation Systems](https://arxiv.org/abs/2507.23453)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Invisible Injections: Exploiting Vision-Language Models Through Steganographic Prompt Embedding](https://arxiv.org/abs/2507.22304)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

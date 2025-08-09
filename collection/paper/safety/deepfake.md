@@ -1,4 +1,6 @@
 # A3. Deepfake
+- [2025/08] **[Untraceable DeepFakes via Traceable Fingerprint Elimination](https://arxiv.org/abs/2508.03067)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/08] **[RAVID: Retrieval-Augmented Visual Detection: A Knowledge-Driven Approach for AI-Generated Image Identification](https://arxiv.org/abs/2508.03967)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/08] **[Complete Evasion, Zero Modification: PDF Attacks on AI Text Detection](https://arxiv.org/abs/2508.01887)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Unmasking Synthetic Realities in Generative AI: A Comprehensive Review of Adversarially Robust Deepfake Detection Systems](https://arxiv.org/abs/2507.21157)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/07] **[AEDR: Training-Free AI-Generated Image Attribution via Autoencoder Double-Reconstruction](https://arxiv.org/abs/2507.18988)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

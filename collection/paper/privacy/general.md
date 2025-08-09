@@ -1,4 +1,5 @@
 # C0. General
+- [2025/08] **[PRvL: Quantifying the Capabilities and Risks of Large Language Models for PII Redaction](https://arxiv.org/abs/2508.05545)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Fine-Grained Privacy Extraction from Retrieval-Augmented Generation Systems via Knowledge Asymmetry Exploitation](https://arxiv.org/abs/2507.23229)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/07] **[Tuning without Peeking: Provable Privacy and Generalization Bounds for LLM Post-Training](https://arxiv.org/abs/2507.01752)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[PrivacyXray: Detecting Privacy Breaches in LLMs through Semantic Consistency and Probability Certainty](https://arxiv.org/abs/2506.19563)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)

@@ -1,4 +1,6 @@
 # C8. Side-Channel
+- [2025/08] **[Selective KV-Cache Sharing to Mitigate Timing Side-Channels in LLM Inference](https://arxiv.org/abs/2508.08438)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference](https://arxiv.org/abs/2508.09442)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[I Know What You Said: Unveiling Hardware Cache Side-Channels in Local Large Language Model Inference](https://arxiv.org/abs/2505.06738)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Spill The Beans: Exploiting CPU Cache Side-Channels to Leak Tokens from Large Language Models](https://arxiv.org/abs/2505.00817)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/02] **[I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving](https://www.ndss-symposium.org/ndss-paper/i-know-what-you-asked-prompt-leakage-via-kv-cache-sharing-in-multi-tenant-llm-serving/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)

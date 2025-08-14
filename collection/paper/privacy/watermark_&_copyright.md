@@ -1,4 +1,8 @@
 # C10. Watermark & Copyright
+- [2025/08] **[AuthPrint: Fingerprinting Generative Models Against Malicious Model Providers](https://arxiv.org/abs/2508.05691)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/PSMLab/authprint) ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/08] **[Anti-Tamper Protection for Unauthorized Individual Image Generation](https://arxiv.org/abs/2508.06325)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/Seeyn/Anti-Tamper-Perturbation) ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICCV'25](https://img.shields.io/badge/ICCV'25-f1b800)
+- [2025/08] **[EditMF: Drawing an Invisible Fingerprint for Your Large Language Models](https://arxiv.org/abs/2508.08836)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Attacks and Defenses Against LLM Fingerprinting](https://arxiv.org/abs/2508.09021)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Majority Bit-Aware Watermarking For Large Language Models](https://arxiv.org/abs/2508.03829)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[RouteMark: A Fingerprint for Intellectual Property Attribution in Routing-based Model Merging](https://arxiv.org/abs/2508.01784)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[FPEdit: Robust LLM Fingerprinting through Localized Knowledge Editing](https://arxiv.org/abs/2508.02092)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

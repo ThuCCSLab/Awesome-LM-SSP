@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2025/08] **[PROPS: Progressively Private Self-alignment of Large Language Models](https://arxiv.org/abs/2508.06783)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Eliciting and Analyzing Emergent Misalignment in State-of-the-Art Large Language Models](https://arxiv.org/abs/2508.04196)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[SDD: Self-Degraded Defense against Malicious Fine-tuning](https://arxiv.org/abs/2507.21182)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Text2VLM: Adapting Text-Only Datasets to Evaluate Alignment Training in Visual Language Models](https://arxiv.org/abs/2507.20704)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

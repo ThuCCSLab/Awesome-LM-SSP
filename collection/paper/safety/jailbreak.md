@@ -1,5 +1,7 @@
 # A1. Jailbreak
-- [2025/08] **[Universally Unfiltered and Unseen:Input-Agnostic Multimodal Jailbreaks against Text-to-Image Model Safeguards](https://arxiv.org/abs/2508.05658)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/08] **[Latent Fusion Jailbreak: Blending Harmful and Harmless Representations to Elicit Unsafe LLM Outputs ](https://arxiv.org/abs/2508.10029)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Jailbreaking Commercial Black-Box LLMs with Explicitly Harmful Prompts](https://arxiv.org/abs/2508.10390)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Universally Unfiltered and Unseen:Input-Agnostic Multimodal Jailbreaks against Text-to-Image Model Safeguards](https://arxiv.org/abs/2508.05658)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![MM'25](https://img.shields.io/badge/MM'25-f1b800)
 - [2025/08] **[Learning to Detect Unknown Jailbreak Attacks in Large Vision-Language Models: A Unified and Accurate Approach](https://arxiv.org/abs/2508.09201)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/08] **[Large Reasoning Models Are Autonomous Jailbreak Agents](https://arxiv.org/abs/2508.04039)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[JPS: Jailbreak Multimodal Large Language Models with Collaborative Visual Perturbation and Textual Steering](https://arxiv.org/abs/2508.05087)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![MM'25](https://img.shields.io/badge/MM'25-f1b800)

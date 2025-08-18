@@ -1,4 +1,5 @@
 # C0. General
+- [2025/08] **[Searching for Privacy Risks in LLM Agents via Simulation](https://arxiv.org/abs/2508.10880)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/08] **[Adaptive Backtracking for Privacy Protection in Large Language Models](https://arxiv.org/abs/2508.06087)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[PRvL: Quantifying the Capabilities and Risks of Large Language Models for PII Redaction](https://arxiv.org/abs/2508.05545)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Fine-Grained Privacy Extraction from Retrieval-Augmented Generation Systems via Knowledge Asymmetry Exploitation](https://arxiv.org/abs/2507.23229)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

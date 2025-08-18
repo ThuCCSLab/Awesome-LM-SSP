@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2025/08] **[Context Misleads LLMs: The Role of Context Filtering in Maintaining Safe Alignment of LLMs](https://arxiv.org/abs/2508.10031)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[PROPS: Progressively Private Self-alignment of Large Language Models](https://arxiv.org/abs/2508.06783)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Eliciting and Analyzing Emergent Misalignment in State-of-the-Art Large Language Models](https://arxiv.org/abs/2508.04196)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[SDD: Self-Degraded Defense against Malicious Fine-tuning](https://arxiv.org/abs/2507.21182)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -43,6 +44,7 @@
 - [2025/02] **[The dark deep side of DeepSeek: Fine-tuning attacks against the safety alignment of CoT-enabled models](https://arxiv.org/abs/2502.01225)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Virus: Harmful Fine-tuning Attack for Large Language Models Bypassing Guardrail Moderation ](https://arxiv.org/abs/2501.17433)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models](https://arxiv.org/abs/2501.18533)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2024/12] **[Semantic Loss Guided Data Efficient Supervised Fine Tuning for Safe Responses in LLMs](https://arxiv.org/abs/2412.06843)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800)
 - [2024/12] **[On Evaluating the Durability of Safeguards for Open-Weight LLMs](https://arxiv.org/abs/2412.07097)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[ETA: Evaluating Then Aligning Safety of Vision Language Models at Inference Time](https://arxiv.org/pdf/2410.06625)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/DripNowhy/ETA) ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/10] **[Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attack](https://arxiv.org/abs/2410.18210)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

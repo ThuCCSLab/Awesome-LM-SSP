@@ -1,4 +1,6 @@
 # A7. Prompt Injection
+- [2025/08] **[Too Easily Fooled? Prompt Injection Breaks LLMs on Frustratingly Simple Multiple-Choice Questions](https://arxiv.org/abs/2508.13214)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[IPIGuard: A Novel Tool Dependency Graph-Based Defense Against Indirect Prompt Injection in LLM Agents](https://arxiv.org/abs/2508.15310)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800) ![EMNLP'25](https://img.shields.io/badge/EMNLP'25-f1b800)
 - [2025/08] **[Prompt Injection Vulnerability of Consensus Generating Applications in Digital Democracy](https://arxiv.org/abs/2508.04281)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[PLA: Prompt Learning Attack against Text-to-Image Generative Models](https://arxiv.org/abs/2508.03696)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICCV'25](https://img.shields.io/badge/ICCV'25-f1b800)
 - [2025/08] **[LeakSealer: A Semisupervised Defense for LLMs Against Prompt Injection and Leakage Attack](https://arxiv.org/abs/2508.00602)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

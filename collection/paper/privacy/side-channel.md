@@ -1,4 +1,5 @@
 # C8. Side-Channel
+- [2025/08] **[MoEcho: Exploiting Side-Channel Attacks to Compromise User Privacy in Mixture-of-Experts LLMs](https://arxiv.org/abs/2508.15036)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![CCS'25](https://img.shields.io/badge/CCS'25-f1b800)
 - [2025/08] **[Selective KV-Cache Sharing to Mitigate Timing Side-Channels in LLM Inference](https://arxiv.org/abs/2508.08438)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference](https://arxiv.org/abs/2508.09442)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[I Know What You Said: Unveiling Hardware Cache Side-Channels in Local Large Language Model Inference](https://arxiv.org/abs/2505.06738)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

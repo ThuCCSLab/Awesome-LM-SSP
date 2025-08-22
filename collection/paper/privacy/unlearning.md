@@ -1,4 +1,7 @@
 # C9. Unlearning
+- [2025/08] **[Unlearning at Scale: Implementing the Right to be Forgotten in Large Language Models](https://arxiv.org/abs/2508.12220)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[VideoEraser: Concept Erasure in Text-to-Video Diffusion Models](https://arxiv.org/abs/2508.15314)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800) ![EMNLP'25](https://img.shields.io/badge/EMNLP'25-f1b800)
+- [2025/08] **[Refusal Is Not an Option: Unlearning Safety Alignment of Large Language Models](https://www.usenix.org/system/files/usenixsecurity25-song-minkyoo.pdf)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)
 - [2025/07] **[Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning ](https://arxiv.org/abs/2507.16302)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/07] **[Image Can Bring Your Memory Back: A Novel Multi-Modal Guided Attack against Image Generation Model Unlearning](https://arxiv.org/abs/2507.07139)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/06] **[Step-by-Step Reasoning Attack: Revealing 'Erased' Knowledge in Large Language Models](https://arxiv.org/abs/2506.17279)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

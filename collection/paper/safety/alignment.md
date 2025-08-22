@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2025/08] **[Where to Start Alignment? Diffusion Large Language Model May Demand a Distinct Position](https://arxiv.org/abs/2508.12398)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Context Misleads LLMs: The Role of Context Filtering in Maintaining Safe Alignment of LLMs](https://arxiv.org/abs/2508.10031)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[PROPS: Progressively Private Self-alignment of Large Language Models](https://arxiv.org/abs/2508.06783)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Eliciting and Analyzing Emergent Misalignment in State-of-the-Art Large Language Models](https://arxiv.org/abs/2508.04196)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

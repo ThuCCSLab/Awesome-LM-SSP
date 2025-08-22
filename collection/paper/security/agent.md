@@ -1,4 +1,8 @@
 # B2. Agent
+- [2025/08] **[LumiMAS: A Comprehensive Framework for Real-Time Monitoring and Enhanced Observability in Multi-Agent Systems](https://arxiv.org/abs/2508.12412)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Systematic Analysis of MCP Security](https://arxiv.org/abs/2508.12538)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![MCP](https://img.shields.io/badge/MCP-87b800)
+- [2025/08] **[MCPSecBench: A Systematic Security Benchmark and Playground for Testing Model Context Protocols](https://arxiv.org/abs/2508.13220)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![MCP](https://img.shields.io/badge/MCP-87b800)
+- [2025/08] **[MCPTox: A Benchmark for Tool Poisoning Attack on Real-World MCP Servers](https://arxiv.org/abs/2508.14925)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![MCP](https://img.shields.io/badge/MCP-87b800)
 - [2025/08] **[MCP-Guard: A Defense Framework for Model Context Protocol Integrity in Large Language Model Applications](https://arxiv.org/abs/2508.10991)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Extending the OWASP Multi-Agentic System Threat Modeling Guide: Insights from Multi-Agent Security Research](https://arxiv.org/abs/2508.09815)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[PentestJudge: Judging Agent Behavior Against Operational Requirements](https://arxiv.org/abs/2508.02921)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

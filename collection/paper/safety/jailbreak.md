@@ -1,4 +1,8 @@
 # A1. Jailbreak
+- [2025/08] **[Mitigating Jailbreaks with Intent-Aware LLMs ](https://arxiv.org/abs/2508.12072)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[MAJIC: Markovian Adaptive Jailbreaking via Iterative Composition of Diverse Innovative Strategies](https://arxiv.org/abs/2508.13048)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Involuntary Jailbreak](https://arxiv.org/abs/2508.13246)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[CCFC: Core & Core-Full-Core Dual-Track Defense for LLM Jailbreak Protection](https://arxiv.org/abs/2508.14128)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Latent Fusion Jailbreak: Blending Harmful and Harmless Representations to Elicit Unsafe LLM Outputs ](https://arxiv.org/abs/2508.10029)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Jailbreaking Commercial Black-Box LLMs with Explicitly Harmful Prompts](https://arxiv.org/abs/2508.10390)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Universally Unfiltered and Unseen:Input-Agnostic Multimodal Jailbreaks against Text-to-Image Model Safeguards](https://arxiv.org/abs/2508.05658)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![MM'25](https://img.shields.io/badge/MM'25-f1b800)
@@ -73,6 +77,7 @@
 - [2025/05] **[AutoRAN: Weak-to-Strong Jailbreaking of Large Reasoning Models](https://arxiv.org/abs/2505.10846)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning ](https://arxiv.org/abs/2505.11049)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/05] **[LiteLMGuard: Seamless and Lightweight On-Device Prompt Filtering for Safeguarding Small Language Models against Quantization-induced Risks and Vulnerabilities ](https://arxiv.org/abs/2505.05619)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/04] **[SafeQuant: LLM Safety Analysis via Quantized Gradient Inspection](https://aclanthology.org/2025.naacl-long.127/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NAACL'25](https://img.shields.io/badge/NAACL'25-f1b800)
 - [2025/04] **[Prefill-Based Jailbreak: A Novel Approach of Bypassing LLM Safety Boundary](https://arxiv.org/abs/2504.21038)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs](https://arxiv.org/abs/2504.21700)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Graph of Attacks: Improved Black-Box and Interpretable Jailbreaks for LLMs](https://arxiv.org/abs/2504.19019)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,6 @@
 # C4. Membership Inference Attacks
+- [2025/08] **[Evaluating the Defense Potential of Machine Unlearning against Membership Inference Attacks](https://arxiv.org/abs/2508.16150)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Membership Inference Attacks on LLM-based Recommender Systems](https://arxiv.org/abs/2508.18665)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Win-k: Improved Membership Inference Attacks on Small Language Models](https://arxiv.org/abs/2508.01268)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[LoRA-Leak: Membership Inference Attacks Against LoRA Fine-tuned Language Models](https://arxiv.org/abs/2507.18302)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[CompLeak: Deep Learning Model Compression Exacerbates Privacy Leakage](https://arxiv.org/abs/2507.16872)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

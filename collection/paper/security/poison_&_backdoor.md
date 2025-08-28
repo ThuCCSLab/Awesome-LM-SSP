@@ -1,4 +1,7 @@
 # B3. Poison & Backdoor
+- [2025/08] **[UniC-RAG: Universal Knowledge Corruption Attacks to Retrieval-Augmented Generation](https://arxiv.org/abs/2508.18652)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2025/08] **[The Art of Hide and Seek: Making Pickle-Based Model Supply Chain Poisoning Stealthy Again](https://arxiv.org/abs/2508.19774)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[An Investigation on Group Query Hallucination Attacks](https://arxiv.org/abs/2508.19321)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[SLIP: Soft Label Mechanism and Key-Extraction-Guided CoT-based Defense Against Instruction Backdoor in APIs](https://arxiv.org/abs/2508.06153)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[IAG: Input-aware Backdoor Attack on VLMs for Visual Grounding](https://arxiv.org/abs/2508.09456)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/08] **[BadBlocks: Low-Cost and Stealthy Backdoor Attacks Tailored for Text-to-Image Diffusion Models](https://arxiv.org/abs/2508.03221)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

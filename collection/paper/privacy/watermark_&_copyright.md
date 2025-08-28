@@ -1,4 +1,5 @@
 # C10. Watermark & Copyright
+- [2025/08] **[SoK: Large Language Model Copyright Auditing via Fingerprinting](https://arxiv.org/abs/2508.19843)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Copyright Protection for Large Language Models: A Survey of Methods, Challenges, and Trends](https://arxiv.org/abs/2508.11548)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[AuthPrint: Fingerprinting Generative Models Against Malicious Model Providers](https://arxiv.org/abs/2508.05691)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/PSMLab/authprint) ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/08] **[Anti-Tamper Protection for Unauthorized Individual Image Generation](https://arxiv.org/abs/2508.06325)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/Seeyn/Anti-Tamper-Perturbation) ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICCV'25](https://img.shields.io/badge/ICCV'25-f1b800)

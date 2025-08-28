@@ -1,4 +1,6 @@
 # A2. Alignment
+- [2025/08] **[PRISM: Robust VLM Alignment with Principled Reasoning for Integrated Safety in Multimodality](https://arxiv.org/abs/2508.18649)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/08] **[Safety Alignment Should Be Made More Than Just A Few Attention Heads](https://arxiv.org/abs/2508.19697)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Where to Start Alignment? Diffusion Large Language Model May Demand a Distinct Position](https://arxiv.org/abs/2508.12398)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Context Misleads LLMs: The Role of Context Filtering in Maintaining Safe Alignment of LLMs](https://arxiv.org/abs/2508.10031)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[PROPS: Progressively Private Self-alignment of Large Language Models](https://arxiv.org/abs/2508.06783)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

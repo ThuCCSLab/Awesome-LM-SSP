@@ -1,4 +1,7 @@
 # A1. Jailbreak
+- [2025/08] **[Confusion is the Final Barrier: Rethinking Jailbreak Evaluation and Investigating the Real Misuse Threat of LLMs](https://arxiv.org/abs/2508.16347)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Retrieval-Augmented Defense: Adaptive and Controllable Jailbreak Prevention for Large Language Models](https://arxiv.org/abs/2508.16406)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Stand on The Shoulders of Giants: Building JailExpert from Previous Attack Experience](https://arxiv.org/abs/2508.19292)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EMNLP_2025](https://img.shields.io/badge/EMNLP_2025-f1b800)
 - [2025/08] **[Mitigating Jailbreaks with Intent-Aware LLMs ](https://arxiv.org/abs/2508.12072)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[MAJIC: Markovian Adaptive Jailbreaking via Iterative Composition of Diverse Innovative Strategies](https://arxiv.org/abs/2508.13048)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Involuntary Jailbreak](https://arxiv.org/abs/2508.13246)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

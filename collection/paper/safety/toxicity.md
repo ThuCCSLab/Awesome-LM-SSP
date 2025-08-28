@@ -1,4 +1,5 @@
 # A8. Toxicity
+- [2025/08] **[GRAID: Synthetic Data Generation with Geometric Constraints and Multi-Agentic Reflection for Harmful Content Detection](https://arxiv.org/abs/2508.17057)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Wukong Framework for Not Safe For Work Detection in Text-to-Image systems](https://arxiv.org/abs/2508.00591)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/07] **[Hate in Plain Sight: On the Risks of Moderating AI-Generated Hateful Illusions](https://arxiv.org/abs/2507.22617)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICCV'25](https://img.shields.io/badge/ICCV'25-f1b800)
 - [2025/07] **[Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities](https://arxiv.org/abs/2507.11155)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)

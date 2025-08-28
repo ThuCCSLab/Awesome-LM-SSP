@@ -1,4 +1,7 @@
 # B2. Agent
+- [2025/08] **[Reliable Weak-to-Strong Monitoring of LLM Agents](https://arxiv.org/abs/2508.19461)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[The Aegis Protocol: A Foundational Security Framework for Autonomous AI Agents](https://arxiv.org/abs/2508.19267)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents](https://arxiv.org/abs/2508.19493)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![GUI](https://img.shields.io/badge/GUI-87b800)
 - [2025/08] **[LumiMAS: A Comprehensive Framework for Real-Time Monitoring and Enhanced Observability in Multi-Agent Systems](https://arxiv.org/abs/2508.12412)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Systematic Analysis of MCP Security](https://arxiv.org/abs/2508.12538)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![MCP](https://img.shields.io/badge/MCP-87b800)
 - [2025/08] **[MCPSecBench: A Systematic Security Benchmark and Playground for Testing Model Context Protocols](https://arxiv.org/abs/2508.13220)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![MCP](https://img.shields.io/badge/MCP-87b800)

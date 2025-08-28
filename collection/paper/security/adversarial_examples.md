@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2025/08] **[Hidden Tail: Adversarial Image Causing Stealthy Resource Consumption in Vision-Language Models](https://arxiv.org/abs/2508.18805)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Adversarial Attacks and Defenses on Graph-aware Large Language Models (LLMs)](https://arxiv.org/abs/2508.04894)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Are All Prompt Components Value-Neutral? Understanding the Heterogeneous Adversarial Robustness of Dissected Prompt in Large Language Models](https://arxiv.org/abs/2508.01554)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Adaptive Diffusion Denoised Smoothing : Certified Robustness via Randomized Smoothing with Differentially Private Guided Denoising Diffusion](https://arxiv.org/abs/2507.08163)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

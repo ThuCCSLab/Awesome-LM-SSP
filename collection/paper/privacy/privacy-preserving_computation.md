@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2025/08] **[RL-Finetuned LLMs for Privacy-Preserving Synthetic Rewriting](https://arxiv.org/abs/2508.19286)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Oblivionis: A Lightweight Learning and Unlearning Framework for Federated Large Language Models](https://arxiv.org/abs/2508.08875)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[DP-DocLDM: Differentially Private Document Image Generation using Latent Diffusion Models](https://arxiv.org/abs/2508.04208)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/07] **[Threshold-Protected Searchable Sharing: Privacy Preserving Aggregated-ANN Search for Collaborative RAG](https://arxiv.org/abs/2507.17199)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

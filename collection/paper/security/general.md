@@ -1,6 +1,7 @@
 # B0. General
 - [2025/05] **[A Large-Scale Empirical Analysis of Custom GPTs' Vulnerabilities in the OpenAI Ecosystem](https://arxiv.org/abs/2505.08148)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[Breaking the Loop: Detecting and Mitigating Denial-of-Service Vulnerabilities in Large Language Models](https://arxiv.org/abs/2503.00416)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[RACONTEUR: A Knowledgeable, Insightful, and Portable LLM-Powered Shell Command Explainer](https://arxiv.org/abs/2409.02074)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)
 - [2025/02] **[Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks](https://arxiv.org/abs/2502.13175)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EmbodiedAI](https://img.shields.io/badge/EmbodiedAI-87b800)
 - [2025/02] **[SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain](https://arxiv.org/abs/2502.12497)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model](https://arxiv.org/abs/2501.18636)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

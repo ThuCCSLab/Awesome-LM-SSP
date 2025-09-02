@@ -1,4 +1,6 @@
 # C7. Property Inference Attacks
+- [2025/08] **[The Eye of Sherlock Holmes: Uncovering User Private Attribute Profiling via Vision-Language Model Agentic Framework](https://arxiv.org/abs/2505.19139)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![MM'25](https://img.shields.io/badge/MM'25-f1b800)
+- [2025/08] **[The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents](https://arxiv.org/abs/2507.10016)** ![ALM](https://img.shields.io/badge/ALM-c7688b) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Differentiation-Based Extraction of Proprietary Data from Fine-Tuned LLMs](https://arxiv.org/abs/2506.17353)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![CCS'25](https://img.shields.io/badge/CCS'25-f1b800)
 - [2025/06] **[Can We Infer Confidential Properties of Training Data from LLMs?](https://arxiv.org/abs/2506.10364)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[DePrompt: Desensitization and Evaluation of Personal Identifiable Information in Large Language Model Prompts](https://arxiv.org/abs/2408.08930)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

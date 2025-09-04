@@ -1,8 +1,8 @@
 # A0. General
-- [2025/06] **[AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models](https://arxiv.org/abs/2505.16211)** ![ALLM](https://img.shields.io/badge/ALLM-c7688b) ![benchmark](https://img.shields.io/badge/benchmark-87b800)
 - [2025/06] **[SAFEx: Analyzing Vulnerabilities of MoE-Based LLMs via Stable Safety-critical Expert Identification](https://arxiv.org/abs/2506.17368)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![MoE](https://img.shields.io/badge/MoE-87b800)
 - [2025/06] **[GuardSet-X: Massive Multi-Domain Safety Policy-Grounded Guardrail Dataset](https://arxiv.org/abs/2506.19054)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2025/06] **[The Scales of Justitia: A Comprehensive Survey on Safety Evaluation of LLMs](https://arxiv.org/abs/2506.11094)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models](https://arxiv.org/abs/2505.16211)** ![ALM](https://img.shields.io/badge/ALM-ee82ee) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2025/05] **[CircleGuardBench - A full-fledged benchmark for evaluating protection capabilities of AI models ](https://huggingface.co/blog/whitecircle-ai/circleguardbench)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2025/04] **[𝚂𝙰𝙶𝙴: A Generic Framework for LLM Safety Evaluation](https://arxiv.org/abs/2504.19674)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models](https://arxiv.org/abs/2503.14827)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![benchmark](https://img.shields.io/badge/benchmark-87b800) ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800)
@@ -27,4 +27,3 @@
 - [2024/04] **[Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://llm-safety-challenges.github.io/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2024/04] **[Online Safety Analysis for LLMs: a Benchmark, an Assessment, and a Path Forward](https://arxiv.org/abs/2404.08517)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[SafetyPrompts: a Systematic Review of Open Datasets for Evaluating and Improving Large Language Model Safety](https://arxiv.org/abs/2404.05399)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-

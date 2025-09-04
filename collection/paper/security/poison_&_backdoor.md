@@ -1,4 +1,5 @@
 # B3. Poison & Backdoor
+- [2025/08] **[Detecting Stealthy Data Poisoning Attacks in AI Code Generators](https://arxiv.org/abs/2508.21636)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[UniC-RAG: Universal Knowledge Corruption Attacks to Retrieval-Augmented Generation](https://arxiv.org/abs/2508.18652)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/08] **[The Art of Hide and Seek: Making Pickle-Based Model Supply Chain Poisoning Stealthy Again](https://arxiv.org/abs/2508.19774)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[An Investigation on Group Query Hallucination Attacks](https://arxiv.org/abs/2508.19321)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -140,7 +141,7 @@
 - [2024/01] **[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/anthropics/sleeper-agents-paper) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/12] **[Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers' Coding Practices with Insecure Suggestions from Poisoned AI Models](https://arxiv.org/abs/2312.06227)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2023/12] **[Stealthy and Persistent Unalignment on Large Language Models via Backdoor Injections](https://arxiv.org/abs/2312.00027)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2023/12] **[The Philosopher’s Stone: Trojaning Plugins of Large Language Models](https://arxiv.org/abs/2312.00374)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)
+- [2023/12] **[The Philosopher's Stone: Trojaning Plugins of Large Language Models](https://arxiv.org/abs/2312.00374)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)
 - [2023/11] **[Test-time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations](https://arxiv.org/abs/2311.09763)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2023/10] **[Leveraging Diffusion-Based Image Variations for Robust Training on Poisoned Data](https://arxiv.org/abs/2310.06372)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![NeurIPS'23_(Workshop)](https://img.shields.io/badge/NeurIPS'23_(Workshop)-f1b800)
 - [2023/10] **[Large Language Models Are Better Adversaries: Exploring Generative Clean-Label Backdoor Attacks Against Text Classifiers](https://arxiv.org/abs/2310.18603)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EMNLP'23_(Findings)](https://img.shields.io/badge/EMNLP'23_(Findings)-f1b800)

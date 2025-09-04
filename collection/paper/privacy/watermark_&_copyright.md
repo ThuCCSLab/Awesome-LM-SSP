@@ -1,4 +1,11 @@
 # C10. Watermark & Copyright
+- [2025/09] **[AMCR: A Framework for Assessing and Mitigating Copyright Risks in Generative Models ](https://arxiv.org/abs/2509.00641)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[PREE: Towards Harmless and Adaptive Fingerprint Editing in Large Language Models via Knowledge Prefix Enhancement](https://arxiv.org/abs/2509.00918)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[Clone What You Can't Steal: Black-Box LLM Replication via Logit Leakage and Distillation](https://arxiv.org/abs/2509.00973)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[EverTracer: Hunting Stolen Large Language Models via Stealthy and Robust Probabilistic Fingerprint ](https://arxiv.org/abs/2509.03058)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[PromptCOS: Towards System Prompt Copyright Auditing for LLMs via Content-level Output Similarity](https://arxiv.org/abs/2509.03117)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[OptMark: Robust Multi-bit Diffusion Watermarking via Inference Time Optimization](https://arxiv.org/abs/2508.21727)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/08] **[Robustness Assessment and Enhancement of Text Watermarking for Google's SynthID](https://arxiv.org/abs/2508.20228)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[SoK: Large Language Model Copyright Auditing via Fingerprinting](https://arxiv.org/abs/2508.19843)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Copyright Protection for Large Language Models: A Survey of Methods, Challenges, and Trends](https://arxiv.org/abs/2508.11548)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[AuthPrint: Fingerprinting Generative Models Against Malicious Model Providers](https://arxiv.org/abs/2508.05691)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/PSMLab/authprint) ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

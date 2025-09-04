@@ -1,4 +1,8 @@
 # A7. Prompt Injection
+- [2025/09] **[AEGIS : Automated Co-Evolutionary Framework for Guarding Prompt Injections Schema](https://arxiv.org/abs/2509.00088)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Cybersecurity AI: Hacking the AI Hackers via Prompt Injection](https://arxiv.org/abs/2508.21669)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Publish to Perish: Prompt Injection Attacks on LLM-Assisted Peer Review](https://arxiv.org/abs/2508.20863)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[PromptSleuth: Detecting Prompt Injection via Semantic Intent Invariance](https://arxiv.org/abs/2508.20890)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Prompt-in-Content Attacks: Exploiting Uploaded Inputs to Hijack LLM Behavior](https://arxiv.org/abs/2508.19287)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Too Easily Fooled? Prompt Injection Breaks LLMs on Frustratingly Simple Multiple-Choice Questions](https://arxiv.org/abs/2508.13214)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[IPIGuard: A Novel Tool Dependency Graph-Based Defense Against Indirect Prompt Injection in LLM Agents](https://arxiv.org/abs/2508.15310)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800) ![EMNLP'25](https://img.shields.io/badge/EMNLP'25-f1b800)
@@ -13,7 +17,7 @@
 - [2025/07] **[May I have your Attention? Breaking Fine-Tuning based Prompt Injection Defenses using Architecture-Aware Attacks](https://arxiv.org/abs/2507.07417)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Defending Against Prompt Injection With a Few DefensiveTokens](https://arxiv.org/abs/2507.07974)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/07] **[Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks](https://arxiv.org/abs/2507.02735)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2025/06] **[AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents](https://arxiv.org/abs/2506.00641)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
+- [2025/06] **[AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents](https://arxiv.org/abs/2506.00641)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Sentinel: SOTA model to protect against prompt injections](https://arxiv.org/abs/2506.05446)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[To Protect the LLM Agent Against the Prompt Injection Attack with Polymorphic Prompt](https://arxiv.org/abs/2506.05739)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge](https://arxiv.org/abs/2506.09956)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Dataset](https://img.shields.io/badge/Dataset-87b800)

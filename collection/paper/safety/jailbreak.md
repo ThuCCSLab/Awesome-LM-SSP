@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2025/09] **[NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models](https://arxiv.org/abs/2509.03985)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[The Resurgence of GCG Adversarial Attacks on Large Language Models](https://arxiv.org/abs/2509.00391)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[JADES: A Universal Framework for Jailbreak Assessment via Decompositional Scoring](https://arxiv.org/abs/2508.20848)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Confusion is the Final Barrier: Rethinking Jailbreak Evaluation and Investigating the Real Misuse Threat of LLMs](https://arxiv.org/abs/2508.16347)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

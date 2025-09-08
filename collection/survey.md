@@ -1,4 +1,5 @@
 # Survey
+- [2025/09] **[A Comprehensive Survey on Trustworthiness in Reasoning with Large Language Models](https://arxiv.org/abs/2509.03871)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Reasoning](https://img.shields.io/badge/Reasoning-87b800)
 - [2025/04] **[Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems](https://arxiv.org/abs/2504.01990)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](https://arxiv.org/abs/2504.15585)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/03] **[A Survey on Trustworthy LLM Agents: Threats and Countermeasures](https://arxiv.org/abs/2503.09648)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

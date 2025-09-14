@@ -1,4 +1,5 @@
 # C4. Membership Inference Attacks
+- [2025/09] **[DCMI: A Differential Calibration Membership Inference Attack Against Retrieval-Augmented Generation](https://arxiv.org/abs/2509.06026)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800) ![CCS'25](https://img.shields.io/badge/CCS'25-f1b800)
 - [2025/08] **[Evaluating the Defense Potential of Machine Unlearning against Membership Inference Attacks](https://arxiv.org/abs/2508.16150)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Membership Inference Attacks on LLM-based Recommender Systems](https://arxiv.org/abs/2508.18665)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Win-k: Improved Membership Inference Attacks on Small Language Models](https://arxiv.org/abs/2508.01268)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,5 @@
 # B3. Poison & Backdoor
+- [2025/09] **[ImportSnare: Directed "Code Manual" Hijacking in Retrieval-Augmented Code Generation](https://arxiv.org/abs/2509.07941)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800) ![CCS'25](https://img.shields.io/badge/CCS'25-f1b800)
 - [2025/08] **[Detecting Stealthy Data Poisoning Attacks in AI Code Generators](https://arxiv.org/abs/2508.21636)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[UniC-RAG: Universal Knowledge Corruption Attacks to Retrieval-Augmented Generation](https://arxiv.org/abs/2508.18652)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/08] **[The Art of Hide and Seek: Making Pickle-Based Model Supply Chain Poisoning Stealthy Again](https://arxiv.org/abs/2508.19774)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

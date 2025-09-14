@@ -1,4 +1,7 @@
 # C10. Watermark & Copyright
+- [2025/09] **[Factuality Beyond Coherence: Evaluating LLM Watermarking Methods for Medical Texts](https://arxiv.org/abs/2509.07755)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[Character-Level Perturbations Disrupt LLM Watermarks](https://arxiv.org/abs/2509.09112)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[Dataset Ownership in the Era of Large Language Models](https://arxiv.org/abs/2509.05921)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[AMCR: A Framework for Assessing and Mitigating Copyright Risks in Generative Models ](https://arxiv.org/abs/2509.00641)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[PREE: Towards Harmless and Adaptive Fingerprint Editing in Large Language Models via Knowledge Prefix Enhancement](https://arxiv.org/abs/2509.00918)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Clone What You Can't Steal: Black-Box LLM Replication via Logit Leakage and Distillation](https://arxiv.org/abs/2509.00973)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,8 @@
 # C6. Privacy-Preserving Computation
+- [2025/09] **[When FinTech Meets Privacy: Securing Financial LLMs with Differential Private Fine-Tuning](https://arxiv.org/abs/2509.08995)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[Towards Confidential and Efficient LLM Inference with Dual Privacy Protection](https://arxiv.org/abs/2509.09091)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[DP-FedLoRA: Privacy-Enhanced Federated Fine-Tuning for On-Device Large Language Models](https://arxiv.org/abs/2509.09097)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[ENSI: Efficient Non-Interactive Secure Inference for Large Language Models ](https://arxiv.org/abs/2509.09424)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Evaluating Differentially Private Generation of Domain-Specific Text](https://arxiv.org/abs/2508.20452)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[zkLoRA: Fine-Tuning Large Language Models with Verifiable Security via Zero-Knowledge Proofs](https://arxiv.org/abs/2508.21393)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[RL-Finetuned LLMs for Privacy-Preserving Synthetic Rewriting](https://arxiv.org/abs/2508.19286)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

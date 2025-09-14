@@ -1,4 +1,7 @@
 # B2. Agent
+- [2025/09] **[SafeToolBench: Pioneering a Prospective Benchmark to Evaluating Tool Utilization Safety in LLMs](https://arxiv.org/abs/2509.07315)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Tool](https://img.shields.io/badge/Tool-87b800)
+- [2025/09] **[Exploit Tool Invocation Prompt for Tool Behavior Hijacking in LLM-Based Agentic System](https://arxiv.org/abs/2509.05755)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[Mind Your Server: A Systematic Study of Parasitic Toolchain Attacks on the MCP Ecosystem](https://arxiv.org/abs/2509.06572)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Web Fraud Attacks Against LLM-Driven Multi-Agent Systems](https://arxiv.org/abs/2509.01211)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[MindGuard: Tracking, Detecting, and Attributing MCP Tool Poisoning Attack via Decision Dependence Graph](https://arxiv.org/abs/2508.20412)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Reliable Weak-to-Strong Monitoring of LLM Agents](https://arxiv.org/abs/2508.19461)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

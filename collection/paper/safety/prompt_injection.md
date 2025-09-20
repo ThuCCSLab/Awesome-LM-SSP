@@ -1,4 +1,7 @@
 # A7. Prompt Injection
+- [2025/09] **[EchoLeak: The First Real-World Zero-Click Prompt Injection Exploit in a Production LLM System](https://arxiv.org/abs/2509.10540)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[Early Approaches to Adversarial Fine-Tuning for Prompt Injection Defense: A 2022 Study of GPT-3 and Contemporary Models](https://arxiv.org/abs/2509.14271)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[A Multi-Agent LLM Defense Pipeline Against Prompt Injection Attacks](https://arxiv.org/abs/2509.14285)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[AEGIS : Automated Co-Evolutionary Framework for Guarding Prompt Injections Schema](https://arxiv.org/abs/2509.00088)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Cybersecurity AI: Hacking the AI Hackers via Prompt Injection](https://arxiv.org/abs/2508.21669)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Publish to Perish: Prompt Injection Attacks on LLM-Assisted Peer Review](https://arxiv.org/abs/2508.20863)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

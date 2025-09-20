@@ -1,4 +1,8 @@
 # A1. Jailbreak
+- [2025/09] **[NeuroStrike: Neuron-Level Attacks on Aligned LLMs](https://arxiv.org/abs/2509.11864)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[Jailbreaking Large Language Models Through Content Concretization](https://arxiv.org/abs/2509.12937)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[A Simple and Efficient Jailbreak Method Exploiting LLMs' Helpfulness](https://arxiv.org/abs/2509.14297)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[LLM Jailbreak Detection for (Almost) Free!](https://arxiv.org/abs/2509.14558)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Mask-GCG: Are All Tokens in Adversarial Suffixes Necessary for Jailbreak Attacks?](https://arxiv.org/abs/2509.06350)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Between a Rock and a Hard Place: Exploiting Ethical Reasoning to Jailbreak LLMs](https://arxiv.org/abs/2509.05367)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Behind the Mask: Benchmarking Camouflaged Jailbreaks in Large Language Models](https://arxiv.org/abs/2509.05471)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

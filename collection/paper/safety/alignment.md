@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2025/09] **[Beyond Surface Alignment: Rebuilding LLMs Safety Mechanism via Probabilistically Ablating Refusal Direction](https://arxiv.org/abs/2509.15202)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EMNLP'25_(Finding)](https://img.shields.io/badge/EMNLP'25_(Finding)-f1b800)
 - [2025/08] **[PRISM: Robust VLM Alignment with Principled Reasoning for Integrated Safety in Multimodality](https://arxiv.org/abs/2508.18649)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/08] **[Safety Alignment Should Be Made More Than Just A Few Attention Heads](https://arxiv.org/abs/2508.19697)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Where to Start Alignment? Diffusion Large Language Model May Demand a Distinct Position](https://arxiv.org/abs/2508.12398)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

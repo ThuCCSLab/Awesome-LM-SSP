@@ -1,4 +1,5 @@
 # Toolkit
+- [2025/09] **[MarkDiffusion: An Open-Source Toolkit for Generative Watermarking of Latent Diffusion Models](https://arxiv.org/abs/2509.10569)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[aiXamine: LLM Safety and Security Simplified](https://arxiv.org/abs/2504.14985)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[SafeMLRM: Demystifying Safety in Multi-modal Large Reasoning Models](https://arxiv.org/abs/2504.08813)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/11] **[GuardBench: A Large-Scale Benchmark for Guardrail Models]( https://aclanthology.org/2024.emnlp-main.1022.pdf)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/AmenRa/guardbench) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EMNLP_2024](https://img.shields.io/badge/EMNLP_2024-f1b800)

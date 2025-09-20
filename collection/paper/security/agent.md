@@ -1,4 +1,6 @@
 # B2. Agent
+- [2025/09] **[Agentic JWT: A Secure Delegation Protocol for Autonomous AI Agents](https://arxiv.org/abs/2509.13597)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[The Sum Leaks More Than Its Parts: Compositional Privacy Risks and Mitigations in Multi-Agent Collaboration](https://arxiv.org/abs/2509.14284)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[SafeToolBench: Pioneering a Prospective Benchmark to Evaluating Tool Utilization Safety in LLMs](https://arxiv.org/abs/2509.07315)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Tool](https://img.shields.io/badge/Tool-87b800)
 - [2025/09] **[Exploit Tool Invocation Prompt for Tool Behavior Hijacking in LLM-Based Agentic System](https://arxiv.org/abs/2509.05755)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Mind Your Server: A Systematic Study of Parasitic Toolchain Attacks on the MCP Ecosystem](https://arxiv.org/abs/2509.06572)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

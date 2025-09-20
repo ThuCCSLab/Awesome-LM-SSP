@@ -1,4 +1,5 @@
 # A8. Toxicity
+- [2025/09] **[Adversarial Distilled Retrieval-Augmented Guarding Model for Online Malicious Intent Detection](https://arxiv.org/abs/2509.14622)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Safe-Control: A Safety Patch for Mitigating Unsafe Content in Text-to-Image Generation Models](https://arxiv.org/abs/2508.21099)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/08] **[GRAID: Synthetic Data Generation with Geometric Constraints and Multi-Agentic Reflection for Harmful Content Detection](https://arxiv.org/abs/2508.17057)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Wukong Framework for Not Safe For Work Detection in Text-to-Image systems](https://arxiv.org/abs/2508.00591)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

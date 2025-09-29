@@ -1,4 +1,6 @@
 # B2. Agent
+- [2025/09] **[Automatic Red Teaming LLM-based Agents with Model Context Protocol Tools](https://arxiv.org/abs/2509.21011)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[Privacy in Action: Towards Realistic Privacy Mitigation and Evaluation for LLM-Powered Agents](https://arxiv.org/abs/2509.17488)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Agentic JWT: A Secure Delegation Protocol for Autonomous AI Agents](https://arxiv.org/abs/2509.13597)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[The Sum Leaks More Than Its Parts: Compositional Privacy Risks and Mitigations in Multi-Agent Collaboration](https://arxiv.org/abs/2509.14284)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[SafeToolBench: Pioneering a Prospective Benchmark to Evaluating Tool Utilization Safety in LLMs](https://arxiv.org/abs/2509.07315)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Tool](https://img.shields.io/badge/Tool-87b800)

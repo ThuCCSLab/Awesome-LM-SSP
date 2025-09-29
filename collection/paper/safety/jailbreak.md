@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2025/09] **[SafeSteer: Adaptive Subspace Steering for Efficient Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2509.21400)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/09] **[bi-GRPO: Bidirectional Optimization for Jailbreak Backdoor Injection on LLMs](https://arxiv.org/abs/2509.19775)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[NeuroStrike: Neuron-Level Attacks on Aligned LLMs](https://arxiv.org/abs/2509.11864)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Jailbreaking Large Language Models Through Content Concretization](https://arxiv.org/abs/2509.12937)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[A Simple and Efficient Jailbreak Method Exploiting LLMs' Helpfulness](https://arxiv.org/abs/2509.14297)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

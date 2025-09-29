@@ -1,4 +1,7 @@
 # C10. Watermark & Copyright
+- [2025/09] **[Guidance Watermarking for Diffusion Models](https://arxiv.org/abs/2509.22126)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/09] **[RLCracker: Exposing the Vulnerability of LLM Watermarks with Adaptive RL Attacks](https://arxiv.org/abs/2509.20924)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[PMark: Towards Robust and Distortion-free Semantic-level Watermarking with Channel Constraints](https://arxiv.org/abs/2509.21057)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[The Coding Limits of Robust Watermarking for Generative Models](https://arxiv.org/abs/2509.10577)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/09] **[A Content-dependent Watermark for Safeguarding Image Attribution](https://arxiv.org/abs/2509.10766)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/09] **[Removal Attack and Defense on AI-generated Content Latent-based Watermarking](https://arxiv.org/abs/2509.11745)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

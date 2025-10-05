@@ -1,4 +1,5 @@
 # C5. Model Extraction
+- [2025/09] **[StolenLoRA: Exploring LoRA Extraction Attacks via Synthetic Data](https://arxiv.org/abs/2509.23594)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICCV'25](https://img.shields.io/badge/ICCV'25-f1b800)
 - [2025/06] **[A Survey on Model Extraction Attacks and Defenses for Large Language Models ](https://arxiv.org/abs/2506.22521)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2025/02] **[Medical Multimodal Model Stealing Attacks via Adversarial Domain Alignment](https://arxiv.org/abs/2502.02438)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/01] **[Targeting Alignment: Extracting Safety Classifiers of Aligned LLMs](https://arxiv.org/abs/2501.16534)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

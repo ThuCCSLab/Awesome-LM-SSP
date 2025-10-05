@@ -1,4 +1,6 @@
 # C0. General
+- [2025/09] **[Sanitize Your Responses: Mitigating Privacy Leakage in Large Language Models](https://arxiv.org/abs/2509.24488)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[Defeating Cerberus: Concept-Guided Privacy-Leakage Mitigation in Multimodal Language Models](https://arxiv.org/abs/2509.25525)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/09] **[Beyond Data Privacy: New Privacy Risks for Large Language Models](https://arxiv.org/abs/2509.14278)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[User Privacy and Large Language Models: An Analysis of Frontier Developers' Privacy Policies](https://arxiv.org/abs/2509.05382)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Searching for Privacy Risks in LLM Agents via Simulation](https://arxiv.org/abs/2508.10880)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
@@ -12,7 +14,7 @@
 - [2025/06] **[Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers](https://arxiv.org/abs/2506.15674)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Private Memorization Editing: Turning Memorization into a Defense to Strengthen Data Privacy in Large Language Models](https://arxiv.org/abs/2506.10024)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'25](https://img.shields.io/badge/ACL'25-f1b800)
 - [2025/05] **[When GPT Spills the Tea: Comprehensive Assessment of Knowledge File Leakage in GPTs](https://arxiv.org/abs/2506.00197)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2025/05] **[TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent](https://arxiv.org/abs/2505.20118)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent](https://arxiv.org/abs/2505.20118)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EMNLP'25](https://img.shields.io/badge/EMNLP'25-f1b800)
 - [2025/05] **[Can Large Language Models Really Recognize Your Name?](https://arxiv.org/abs/2505.14549)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Automated Profile Inference with Language Model Agents](https://arxiv.org/abs/2505.12402)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[A Survey on Privacy Risks and Protection in Large Language Models](https://arxiv.org/abs/2505.01976)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

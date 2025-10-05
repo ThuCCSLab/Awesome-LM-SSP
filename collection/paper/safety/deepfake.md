@@ -1,4 +1,5 @@
 # A3. Deepfake
+- [2025/10] **[EditTrack: Detecting and Attributing AI-assisted Image Editing](https://arxiv.org/abs/2510.01173)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/08] **[Self-Disguise Attack: Induce the LLM to disguise itself for AIGT detection evasion](https://arxiv.org/abs/2508.15848)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Two Birds with One Stone: Multi-Task Detection and Attribution of LLM-Generated Text](https://arxiv.org/abs/2508.14190)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[MM-FusionNet: Context-Aware Dynamic Fusion for Multi-modal Fake News Detection with Large Vision-Language Models](https://arxiv.org/abs/2508.05684)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

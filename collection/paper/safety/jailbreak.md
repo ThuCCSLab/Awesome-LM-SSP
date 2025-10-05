@@ -1,4 +1,10 @@
 # A1. Jailbreak
+- [2025/10] **[Jailbreaking LLMs via Semantically Relevant Nested Scenarios with Targeted Toxic Knowledge ](https://arxiv.org/abs/2510.01223)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Fine-Tuning Jailbreaks under Highly Constrained Black-Box Settings: A Three-Pronged Approach](https://arxiv.org/abs/2510.01342)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Breaking the Code: Security Assessment of AI Code Agents Through Systematic Jailbreaking Attacks](https://arxiv.org/abs/2510.01359)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[Formalization Driven LLM Prompt Jailbreaking via Reinforcement Learning](https://arxiv.org/abs/2509.23558)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[Bidirectional Intention Inference Enhances LLMs' Defense Against Multi-Turn Jailbreak Attacks](https://arxiv.org/abs/2509.22732)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[STAC: When Innocent Tools Form Dangerous Chains to Jailbreak LLM Agents ](https://arxiv.org/abs/2509.25624)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[SafeSteer: Adaptive Subspace Steering for Efficient Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2509.21400)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/09] **[bi-GRPO: Bidirectional Optimization for Jailbreak Backdoor Injection on LLMs](https://arxiv.org/abs/2509.19775)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[NeuroStrike: Neuron-Level Attacks on Aligned LLMs](https://arxiv.org/abs/2509.11864)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,6 @@
 # A7. Prompt Injection
+- [2025/10] **[WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents ](https://arxiv.org/abs/2510.01354)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **["Your AI, My Shell": Demystifying Prompt Injection Attacks on Agentic AI Coding Editors](https://arxiv.org/abs/2509.22040)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[EchoLeak: The First Real-World Zero-Click Prompt Injection Exploit in a Production LLM System](https://arxiv.org/abs/2509.10540)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Early Approaches to Adversarial Fine-Tuning for Prompt Injection Defense: A 2022 Study of GPT-3 and Contemporary Models](https://arxiv.org/abs/2509.14271)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[A Multi-Agent LLM Defense Pipeline Against Prompt Injection Attacks](https://arxiv.org/abs/2509.14285)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

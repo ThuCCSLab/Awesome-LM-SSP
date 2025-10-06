@@ -1,4 +1,7 @@
 # B2. Agent
+- [2025/10] **[Agentic-AI Healthcare: Multilingual, Privacy-First Framework with MCP Agents](https://arxiv.org/abs/2510.02325)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory](https://arxiv.org/abs/2510.02373)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[ToolTweak: An Attack on Tool Selection in LLM-based Agents](https://arxiv.org/abs/2510.02554)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[When MCP Servers Attack: Taxonomy, Feasibility, and Mitigation](https://arxiv.org/abs/2509.24272)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Automatic Red Teaming LLM-based Agents with Model Context Protocol Tools](https://arxiv.org/abs/2509.21011)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Privacy in Action: Towards Realistic Privacy Mitigation and Evaluation for LLM-Powered Agents](https://arxiv.org/abs/2509.17488)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

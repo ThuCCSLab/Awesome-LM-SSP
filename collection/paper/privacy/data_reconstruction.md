@@ -1,4 +1,5 @@
 # C2. Data Reconstruction
+- [2025/10] **[External Data Extraction Attacks against Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2510.02964)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[You Can't Steal Nothing: Mitigating Prompt Leakages in LLMs via System Vectors](https://arxiv.org/abs/2509.21884)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![CCS'25](https://img.shields.io/badge/CCS'25-f1b800)
 - [2025/07] **[Model Inversion Attacks on Llama 3: Extracting PII from Large Language Models](https://arxiv.org/abs/2507.04478)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[System Prompt Extraction Attacks and Defenses in Large Language Models](https://arxiv.org/abs/2505.23817)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

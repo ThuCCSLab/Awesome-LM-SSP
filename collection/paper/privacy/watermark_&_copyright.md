@@ -1,4 +1,7 @@
 # C10. Watermark & Copyright
+- [2025/10] **[CATMark: A Context-Aware Thresholding Framework for Robust Cross-Task Watermarking in Large Language Models](https://arxiv.org/abs/2510.02342)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Secure and Robust Watermarking for AI-generated Images: A Comprehensive Survey](https://arxiv.org/abs/2510.02384)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/10] **[DMark: Order-Agnostic Watermarking for Diffusion Large Language Models](https://arxiv.org/abs/2510.02902)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Fast, Secure, and High-Capacity Image Watermarking with Autoencoded Text Vectors](https://arxiv.org/abs/2510.00799)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/10] **[ZK-WAGON: Imperceptible Watermark for Image Generation Models using ZK-SNARKs](https://arxiv.org/abs/2510.01967)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/09] **[Watermarking Diffusion Language Models ](https://arxiv.org/abs/2509.24368)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

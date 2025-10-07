@@ -1,4 +1,9 @@
 # A7. Prompt Injection
+- [2025/10] **[Backdoor-Powered Prompt Injection Attacks Nullify Defense Methods](https://arxiv.org/abs/2510.03705)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[AgentTypo: Adaptive Typographic Prompt Injection Attacks against Black-box Multimodal Agents](https://arxiv.org/abs/2510.04257)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[VortexPIA: Indirect Prompt Injection Attack against LLMs for Efficient Extraction of User Privacy ](https://arxiv.org/abs/2510.04261)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Unified Threat Detection and Mitigation Framework (UTDMF): Combating Prompt Injection, Deception, and Bias in Enterprise-Scale Transformers](https://arxiv.org/abs/2510.04528)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[RL Is a Hammer and LLMs Are Nails: A Simple Reinforcement Learning Recipe for Strong Prompt Injection](https://arxiv.org/abs/2510.04885)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents ](https://arxiv.org/abs/2510.01354)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **["Your AI, My Shell": Demystifying Prompt Injection Attacks on Agentic AI Coding Editors](https://arxiv.org/abs/2509.22040)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[EchoLeak: The First Real-World Zero-Click Prompt Injection Exploit in a Production LLM System](https://arxiv.org/abs/2509.10540)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,5 @@
 # C0. General
+- [2025/10] **[Autonomy Matters: A Study on Personalization-Privacy Dilemma in LLM Agents](https://arxiv.org/abs/2510.04465)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Sanitize Your Responses: Mitigating Privacy Leakage in Large Language Models](https://arxiv.org/abs/2509.24488)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Defeating Cerberus: Concept-Guided Privacy-Leakage Mitigation in Multimodal Language Models](https://arxiv.org/abs/2509.25525)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/09] **[Beyond Data Privacy: New Privacy Risks for Large Language Models](https://arxiv.org/abs/2509.14278)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

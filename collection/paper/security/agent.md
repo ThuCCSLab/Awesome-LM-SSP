@@ -1,4 +1,7 @@
 # B2. Agent
+- [2025/10] **[Quantifying Distributional Robustness of Agentic Tool-Selection](https://arxiv.org/abs/2510.03992)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[WAREX: Web Agent Reliability Evaluation on Existing Benchmarks](https://arxiv.org/abs/2510.03285)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Cross-Modal Content Optimization for Steering Web Agent Preferences](https://arxiv.org/abs/2510.03612)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Agentic-AI Healthcare: Multilingual, Privacy-First Framework with MCP Agents](https://arxiv.org/abs/2510.02325)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory](https://arxiv.org/abs/2510.02373)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[ToolTweak: An Attack on Tool Selection in LLM-based Agents](https://arxiv.org/abs/2510.02554)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

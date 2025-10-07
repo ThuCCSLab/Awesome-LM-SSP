@@ -1,4 +1,7 @@
 # A1. Jailbreak
+- [2025/10] **[Imperceptible Jailbreaking against Large Language Models](https://arxiv.org/abs/2510.05025)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[NEXUS: Network Exploration for eXploiting Unsafe Sequences in Multi-Turn LLM Jailbreaks](https://arxiv.org/abs/2510.03417)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Proactive defense against LLM Jailbreak](https://arxiv.org/abs/2510.05052)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Dynamic Target Attack](https://arxiv.org/abs/2510.02422)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Attack via Overfitting: 10-shot Benign Fine-tuning to Jailbreak LLMs](https://arxiv.org/abs/2510.02833)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Untargeted Jailbreak Attack](https://arxiv.org/abs/2510.02999)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,6 @@
 # A6. Hallucination
+- [2025/10] **[Machine Unlearning Meets Adversarial Robustness via Constrained Interventions on LLMs](https://arxiv.org/abs/2510.03567)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[SECA: Semantically Equivalent and Coherent Attacks for Eliciting LLM Hallucinations](https://arxiv.org/abs/2510.04398)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination](https://arxiv.org/abs/2508.05188)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[When Thinking LLMs Lie: Unveiling the Strategic Deception in Representations of Reasoning Models](https://arxiv.org/abs/2506.04909)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[Diverging Towards Hallucination: Detection of Failures in Vision-Language Models via Multi-token Aggregation](https://arxiv.org/abs/2505.11741)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

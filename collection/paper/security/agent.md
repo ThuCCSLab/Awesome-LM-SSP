@@ -42,6 +42,7 @@
 - [2025/07] **[The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover](https://arxiv.org/abs/2507.06850)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Agent Safety Alignment via Reinforcement Learning](https://arxiv.org/abs/2507.08270)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Control at Stake: Evaluating the Security Landscape of LLM-Driven Email Agents](https://arxiv.org/abs/2507.02699)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/06] **[Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games](https://arxiv.org/abs/2506.23276)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-
 - [2025/06] **[AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents](https://arxiv.org/abs/2506.00641)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows](https://arxiv.org/abs/2506.23260)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[A Large-Scale Evolvable Dataset for Model Context Protocol Ecosystem and Security Analysis](https://arxiv.org/abs/2506.23474)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -69,6 +69,7 @@
 - [2025/05] **[CoTGuard: Using Chain-of-Thought Triggering for Copyright Protection in Multi-Agent LLM Systems](https://arxiv.org/abs/2505.19405)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery](https://arxiv.org/abs/2505.21499)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment](https://arxiv.org/abs/2505.23634)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[When Ethics and Payoffs Diverge: LLM Agents in Morally Charged Social Dilemmas](https://arxiv.org/abs/2505.19212)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/05] **[Gaming Tool Preferences in Agentic LLMs](https://arxiv.org/abs/2505.18135)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems](https://arxiv.org/abs/2505.15216)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[IP Leakage Attacks Targeting LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2505.12442)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

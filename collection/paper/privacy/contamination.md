@@ -1,5 +1,6 @@
 # C1. Contamination
 - [2025/10] **[On The Fragility of Benchmark Contamination Detection in Reasoning Models](https://arxiv.org/abs/2510.02386)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/08] **[Beyond Memorization: Reasoning-Driven Synthesis as a Mitigation Strategy Against Benchmark Contamination](https://arxiv.org/abs/2509.00072) ![LLM](https://img.shields.io/badge/LLM-589cf4)**
 - [2025/07] **[How Much Do Large Language Model Cheat on Evaluation? Benchmarking Overestimation under the One-Time-Pad-Based Framework](https://arxiv.org/abs/2507.19219)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2025/05] **[How Can I Publish My LLM Benchmark Without Giving the True Answers Away?](https://arxiv.org/abs/2505.18102)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2024/06] **[LiveBench: A Challenging, Contamination-Free LLM Benchmark](https://arxiv.org/abs/2406.19314)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)

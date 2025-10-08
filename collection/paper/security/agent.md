@@ -42,7 +42,7 @@
 - [2025/07] **[The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover](https://arxiv.org/abs/2507.06850)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Agent Safety Alignment via Reinforcement Learning](https://arxiv.org/abs/2507.08270)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Control at Stake: Evaluating the Security Landscape of LLM-Driven Email Agents](https://arxiv.org/abs/2507.02699)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2025/06] **[Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games](https://arxiv.org/abs/2506.23276)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-
+- [2025/06] **[Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games](https://arxiv.org/abs/2506.23276)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/06] **[AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents](https://arxiv.org/abs/2506.00641)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows](https://arxiv.org/abs/2506.23260)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[A Large-Scale Evolvable Dataset for Model Context Protocol Ecosystem and Security Analysis](https://arxiv.org/abs/2506.23474)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -61,6 +61,7 @@
 - [2025/06] **[Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem](https://arxiv.org/abs/2506.02040)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[Attention Knows Whom to Trust: Attention-based Trust Management for LLM Multi-Agent Systems](https://arxiv.org/abs/2506.02546)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[ATAG: AI-Agent Application Threat Assessment with Attack Graphs](https://arxiv.org/abs/2506.02859)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/05] **[Revisiting Multi-Agent Debate as Test-Time Scaling: A Systematic Study of Conditional Effectiveness](https://arxiv.org/abs/2505.22960?)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/05] **[MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems](https://arxiv.org/abs/2505.20824)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/05] **[RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments](https://arxiv.org/abs/2505.21936)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2025/05] **[Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems](https://arxiv.org/abs/2505.23847)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

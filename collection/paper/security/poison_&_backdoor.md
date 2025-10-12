@@ -1,4 +1,5 @@
 # B3. Poison & Backdoor
+- [2025/10] **[Rethinking Reasoning: A Survey on Reasoning-based Backdoors in LLMs](https://arxiv.org/abs/2510.07697)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2025/10] **[P2P: A Poison-to-Poison Remedy for Reliable Backdoor Defense in LLMs](https://arxiv.org/abs/2510.04503)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](https://arxiv.org/abs/2510.00586)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/09] **[Your RAG is Unfair: Exposing Fairness Vulnerabilities in Retrieval-Augmented Generation via Backdoor Attacks ](https://arxiv.org/abs/2509.22486)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

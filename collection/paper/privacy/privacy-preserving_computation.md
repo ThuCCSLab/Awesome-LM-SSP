@@ -1,4 +1,5 @@
 # C6. Privacy-Preserving Computation
+- [2025/10] **[Differentially Private Synthetic Text Generation for Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2510.06719)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Confidential LLM Inference: Performance and Cost Across CPU and GPU TEEs](https://arxiv.org/abs/2509.18886)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Privacy-Aware In-Context Learning for Large Language Models](https://arxiv.org/abs/2509.13625)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[When FinTech Meets Privacy: Securing Financial LLMs with Differential Private Fine-Tuning](https://arxiv.org/abs/2509.08995)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

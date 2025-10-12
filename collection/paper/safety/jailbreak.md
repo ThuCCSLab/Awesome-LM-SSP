@@ -1,4 +1,7 @@
 # A1. Jailbreak
+- [2025/10] **[AutoDAN-Reasoning: Enhancing Strategies Exploration based Jailbreak Attacks with Test-Time Scaling](https://arxiv.org/abs/2510.05379)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[MetaDefense: Defending Finetuning-based Jailbreak Attack Before and During Generation](https://arxiv.org/abs/2510.07835)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Effective and Stealthy One-Shot Jailbreaks on Deployed Mobile Vision-Language Agents](https://arxiv.org/abs/2510.07809)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/10] **[Imperceptible Jailbreaking against Large Language Models](https://arxiv.org/abs/2510.05025)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[NEXUS: Network Exploration for eXploiting Unsafe Sequences in Multi-Turn LLM Jailbreaks](https://arxiv.org/abs/2510.03417)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Proactive defense against LLM Jailbreak](https://arxiv.org/abs/2510.05052)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

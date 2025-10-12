@@ -1,4 +1,5 @@
 # A0. General
+- [2025/10] **[From Defender to Devil? Unintended Risk Interactions Induced by LLM Defenses](https://arxiv.org/abs/2510.07968)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[SAFEx: Analyzing Vulnerabilities of MoE-Based LLMs via Stable Safety-critical Expert Identification](https://arxiv.org/abs/2506.17368)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![MoE](https://img.shields.io/badge/MoE-87b800)
 - [2025/06] **[GuardSet-X: Massive Multi-Domain Safety Policy-Grounded Guardrail Dataset](https://arxiv.org/abs/2506.19054)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2025/06] **[The Scales of Justitia: A Comprehensive Survey on Safety Evaluation of LLMs](https://arxiv.org/abs/2506.11094)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

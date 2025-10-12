@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2025/10] **[Indirect Prompt Injections: Are Firewalls All You Need, or Stronger Benchmarks?](https://arxiv.org/abs/2510.05244)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Backdoor-Powered Prompt Injection Attacks Nullify Defense Methods](https://arxiv.org/abs/2510.03705)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[AgentTypo: Adaptive Typographic Prompt Injection Attacks against Black-box Multimodal Agents](https://arxiv.org/abs/2510.04257)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[VortexPIA: Indirect Prompt Injection Attack against LLMs for Efficient Extraction of User Privacy ](https://arxiv.org/abs/2510.04261)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

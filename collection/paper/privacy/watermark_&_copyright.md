@@ -1,4 +1,5 @@
 # C10. Watermark & Copyright
+- [2025/10] **[Reading Between the Lines: Towards Reliable Black-box LLM Fingerprinting via Zeroth-order Gradient Estimation](https://arxiv.org/abs/2510.06605)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[CATMark: A Context-Aware Thresholding Framework for Robust Cross-Task Watermarking in Large Language Models](https://arxiv.org/abs/2510.02342)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Secure and Robust Watermarking for AI-generated Images: A Comprehensive Survey](https://arxiv.org/abs/2510.02384)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/10] **[DMark: Order-Agnostic Watermarking for Diffusion Large Language Models](https://arxiv.org/abs/2510.02902)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

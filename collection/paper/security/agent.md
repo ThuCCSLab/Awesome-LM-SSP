@@ -1,4 +1,5 @@
 # B2. Agent
+- [2025/10] **[Exploiting Web Search Tools of AI Agents for Data Exfiltration](https://arxiv.org/abs/2510.09093)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Code Agent can be an End-to-end System Hacker: Benchmarking Real-world Threats of Computer-use Agent](https://arxiv.org/abs/2510.06607)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Quantifying Distributional Robustness of Agentic Tool-Selection](https://arxiv.org/abs/2510.03992)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[WAREX: Web Agent Reliability Evaluation on Existing Benchmarks](https://arxiv.org/abs/2510.03285)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
